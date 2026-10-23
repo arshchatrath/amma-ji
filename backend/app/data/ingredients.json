@@ -1,16 +1,2678 @@
 [
-  {"id": "toor_dal", "names": {"en": "toor dal", "hi": "तूर दाल", "pa": "ਤੂਰ ਦਾਲ"}, "spellings": ["toor dal", "tur dal", "arhar dal", "arhar", "tuvar dal"]},
-  {"id": "water", "names": {"en": "water", "hi": "पानी", "pa": "ਪਾਣੀ"}, "spellings": ["water", "paani", "pani"]},
-  {"id": "turmeric", "names": {"en": "turmeric", "hi": "हल्दी", "pa": "ਹਲਦੀ"}, "spellings": ["turmeric", "haldi", "haldee"]},
-  {"id": "salt", "names": {"en": "salt", "hi": "नमक", "pa": "ਲੂਣ"}, "spellings": ["salt", "namak", "loon"]},
-  {"id": "ghee", "names": {"en": "ghee", "hi": "घी", "pa": "ਘਿਓ"}, "spellings": ["ghee", "ghi", "desi ghee"]},
-  {"id": "cumin", "names": {"en": "cumin", "hi": "जीरा", "pa": "ਜੀਰਾ"}, "spellings": ["cumin", "jeera", "zeera", "jira"]},
-  {"id": "onion", "names": {"en": "onion", "hi": "प्याज़", "pa": "ਪਿਆਜ਼"}, "spellings": ["onion", "pyaaz", "pyaz", "kanda"]},
-  {"id": "garlic", "names": {"en": "garlic", "hi": "लहसुन", "pa": "ਲਸਣ"}, "spellings": ["garlic", "lehsun", "lahsun", "lasun"]},
-  {"id": "tomato", "names": {"en": "tomato", "hi": "टमाटर", "pa": "ਟਮਾਟਰ"}, "spellings": ["tomato", "tamatar", "tamaatar"]},
-  {"id": "red_chilli_powder", "names": {"en": "red chilli powder", "hi": "लाल मिर्च", "pa": "ਲਾਲ ਮਿਰਚ"}, "spellings": ["red chilli powder", "laal mirch", "lal mirch", "mirchi powder"]},
-  {"id": "garam_masala", "names": {"en": "garam masala", "hi": "गरम मसाला", "pa": "ਗਰਮ ਮਸਾਲਾ"}, "spellings": ["garam masala"]},
-  {"id": "oil", "names": {"en": "oil", "hi": "तेल", "pa": "ਤੇਲ"}, "spellings": ["oil", "tel"]},
-  {"id": "butter", "names": {"en": "butter", "hi": "मक्खन", "pa": "ਮੱਖਣ"}, "spellings": ["butter", "makhan", "makkhan"]},
-  {"id": "kitchen_king", "names": {"en": "kitchen king masala", "hi": "किचन किंग मसाला", "pa": "ਕਿਚਨ ਕਿੰਗ ਮਸਾਲਾ"}, "spellings": ["kitchen king"]}
+ {
+  "id": "food_colour",
+  "names": {
+   "en": "food colour or essence",
+   "hi": "फ़ूड कलर",
+   "pa": "ਫੂਡ ਕਲਰ"
+  },
+  "spellings": [
+   "food colour",
+   "food color"
+  ],
+  "labels": [
+   "additive",
+   "group"
+  ]
+ },
+ {
+  "id": "rose",
+  "names": {
+   "en": "rose water",
+   "hi": "गुलाब जल",
+   "pa": "ਗੁਲਾਬ ਜਲ"
+  },
+  "spellings": [
+   "gulab jal",
+   "rose water",
+   "gulkand",
+   "kewra",
+   "rose petals"
+  ],
+  "labels": [
+   "additive",
+   "group"
+  ]
+ },
+ {
+  "id": "vanilla",
+  "names": {
+   "en": "vanilla essence",
+   "hi": "वनीला एसेंस",
+   "pa": "ਵਨੀਲਾ ਐਸੈਂਸ"
+  },
+  "spellings": [
+   "vanilla",
+   "vanilla essence"
+  ],
+  "labels": [
+   "additive"
+  ]
+ },
+ {
+  "id": "jam",
+  "names": {
+   "en": "jam",
+   "hi": "जैम",
+   "pa": "ਜੈਮ"
+  },
+  "spellings": [
+   "jam",
+   "marmalade",
+   "kissan jam"
+  ],
+  "labels": []
+ },
+ {
+  "id": "salt",
+  "names": {
+   "en": "salt",
+   "hi": "नमक",
+   "pa": "ਲੂਣ"
+  },
+  "spellings": [
+   "salt",
+   "namak",
+   "loon"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "black_salt",
+  "names": {
+   "en": "black salt",
+   "hi": "काला नमक",
+   "pa": "ਕਾਲਾ ਲੂਣ"
+  },
+  "spellings": [
+   "kala namak",
+   "black salt"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "water",
+  "names": {
+   "en": "water",
+   "hi": "पानी",
+   "pa": "ਪਾਣੀ"
+  },
+  "spellings": [
+   "water",
+   "paani",
+   "pani"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "sugar",
+  "names": {
+   "en": "sugar",
+   "hi": "चीनी",
+   "pa": "ਖੰਡ"
+  },
+  "spellings": [
+   "sugar",
+   "cheeni",
+   "chini",
+   "shakkar"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "jaggery",
+  "names": {
+   "en": "jaggery",
+   "hi": "गुड़",
+   "pa": "ਗੁੜ"
+  },
+  "spellings": [
+   "gud",
+   "gur",
+   "jaggery"
+  ],
+  "labels": []
+ },
+ {
+  "id": "honey",
+  "names": {
+   "en": "honey",
+   "hi": "शहद",
+   "pa": "ਸ਼ਹਿਦ"
+  },
+  "spellings": [
+   "honey",
+   "shahad",
+   "shehad"
+  ],
+  "labels": []
+ },
+ {
+  "id": "oil",
+  "names": {
+   "en": "oil",
+   "hi": "तेल",
+   "pa": "ਤੇਲ"
+  },
+  "spellings": [
+   "oil",
+   "tel",
+   "refined",
+   "sarson ka tel"
+  ],
+  "labels": [
+   "pantry",
+   "fat"
+  ]
+ },
+ {
+  "id": "ghee",
+  "names": {
+   "en": "ghee",
+   "hi": "घी",
+   "pa": "ਘਿਓ"
+  },
+  "spellings": [
+   "ghee",
+   "ghi",
+   "desi ghee"
+  ],
+  "labels": [
+   "fat",
+   "dairy"
+  ]
+ },
+ {
+  "id": "butter",
+  "names": {
+   "en": "butter",
+   "hi": "मक्खन",
+   "pa": "ਮੱਖਣ"
+  },
+  "spellings": [
+   "butter",
+   "makhan",
+   "makkhan",
+   "amul butter"
+  ],
+  "labels": [
+   "fat",
+   "dairy"
+  ]
+ },
+ {
+  "id": "turmeric",
+  "names": {
+   "en": "turmeric",
+   "hi": "हल्दी",
+   "pa": "ਹਲਦੀ"
+  },
+  "spellings": [
+   "haldi",
+   "haldee",
+   "turmeric"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "red_chilli_powder",
+  "names": {
+   "en": "red chilli powder",
+   "hi": "लाल मिर्च",
+   "pa": "ਲਾਲ ਮਿਰਚ"
+  },
+  "spellings": [
+   "laal mirch",
+   "lal mirch",
+   "mirchi powder",
+   "red chilli powder",
+   "chilli powder"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "dry_red_chilli",
+  "names": {
+   "en": "dry red chilli",
+   "hi": "सूखी लाल मिर्च",
+   "pa": "ਸੁੱਕੀ ਲਾਲ ਮਿਰਚ"
+  },
+  "spellings": [
+   "sukhi lal mirch",
+   "dry red chilli",
+   "sabut lal mirch"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "black_pepper",
+  "names": {
+   "en": "black pepper",
+   "hi": "काली मिर्च",
+   "pa": "ਕਾਲੀ ਮਿਰਚ"
+  },
+  "spellings": [
+   "kali mirch",
+   "black pepper"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "garam_masala",
+  "names": {
+   "en": "garam masala",
+   "hi": "गरम मसाला",
+   "pa": "ਗਰਮ ਮਸਾਲਾ"
+  },
+  "spellings": [
+   "garam masala"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "kitchen_king",
+  "names": {
+   "en": "kitchen king masala",
+   "hi": "किचन किंग मसाला",
+   "pa": "ਕਿਚਨ ਕਿੰਗ ਮਸਾਲਾ"
+  },
+  "spellings": [
+   "kitchen king"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "cumin",
+  "names": {
+   "en": "cumin",
+   "hi": "जीरा",
+   "pa": "ਜੀਰਾ"
+  },
+  "spellings": [
+   "jeera",
+   "zeera",
+   "jira",
+   "cumin"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "mustard_seeds",
+  "names": {
+   "en": "mustard seeds",
+   "hi": "राई",
+   "pa": "ਰਾਈ"
+  },
+  "spellings": [
+   "rai",
+   "sarson",
+   "mustard seeds"
+  ],
+  "labels": [
+   "pantry",
+   "mustard"
+  ]
+ },
+ {
+  "id": "coriander_seeds",
+  "names": {
+   "en": "coriander powder",
+   "hi": "धनिया पाउडर",
+   "pa": "ਧਨੀਆ ਪਾਊਡਰ"
+  },
+  "spellings": [
+   "dhaniya powder",
+   "dhania powder",
+   "coriander powder",
+   "sabut dhaniya"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "hing",
+  "names": {
+   "en": "asafoetida",
+   "hi": "हींग",
+   "pa": "ਹਿੰਗ"
+  },
+  "spellings": [
+   "hing",
+   "heeng",
+   "asafoetida"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "bay_leaf",
+  "names": {
+   "en": "bay leaf",
+   "hi": "तेज पत्ता",
+   "pa": "ਤੇਜ ਪੱਤਾ"
+  },
+  "spellings": [
+   "tej patta",
+   "tejpatta",
+   "bay leaf"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "cloves",
+  "names": {
+   "en": "cloves",
+   "hi": "लौंग",
+   "pa": "ਲੌਂਗ"
+  },
+  "spellings": [
+   "laung",
+   "lavang",
+   "cloves"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "cardamom",
+  "names": {
+   "en": "cardamom",
+   "hi": "इलायची",
+   "pa": "ਇਲਾਇਚੀ"
+  },
+  "spellings": [
+   "elaichi",
+   "ilaichi",
+   "cardamom"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "cinnamon",
+  "names": {
+   "en": "cinnamon",
+   "hi": "दालचीनी",
+   "pa": "ਦਾਲਚੀਨੀ"
+  },
+  "spellings": [
+   "dalchini",
+   "cinnamon"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "ajwain",
+  "names": {
+   "en": "carom seeds",
+   "hi": "अजवाइन",
+   "pa": "ਅਜਵਾਇਣ"
+  },
+  "spellings": [
+   "ajwain",
+   "ajwayan",
+   "carom"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "fennel",
+  "names": {
+   "en": "fennel seeds",
+   "hi": "सौंफ",
+   "pa": "ਸੌਂਫ"
+  },
+  "spellings": [
+   "saunf",
+   "sonf",
+   "fennel"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "star_anise",
+  "names": {
+   "en": "star anise",
+   "hi": "चक्र फूल",
+   "pa": "ਚੱਕਰ ਫੁੱਲ"
+  },
+  "spellings": [
+   "chakri phool",
+   "star anise"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "methi_seeds",
+  "names": {
+   "en": "fenugreek seeds",
+   "hi": "मेथी दाना",
+   "pa": "ਮੇਥੀ ਦਾਣਾ"
+  },
+  "spellings": [
+   "methi dana",
+   "methi seeds"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "amchur",
+  "names": {
+   "en": "dry mango powder",
+   "hi": "अमचूर",
+   "pa": "ਅਮਚੂਰ"
+  },
+  "spellings": [
+   "amchur",
+   "amchoor",
+   "aamchur"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "kalonji",
+  "names": {
+   "en": "nigella seeds",
+   "hi": "कलौंजी",
+   "pa": "ਕਲੌਂਜੀ"
+  },
+  "spellings": [
+   "kalonji",
+   "nigella"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "nutmeg",
+  "names": {
+   "en": "nutmeg",
+   "hi": "जायफल",
+   "pa": "ਜਾਇਫਲ"
+  },
+  "spellings": [
+   "jaiphal",
+   "javitri",
+   "nutmeg",
+   "mace"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "saffron",
+  "names": {
+   "en": "saffron",
+   "hi": "केसर",
+   "pa": "ਕੇਸਰ"
+  },
+  "spellings": [
+   "kesar",
+   "saffron"
+  ],
+  "labels": []
+ },
+ {
+  "id": "poppy_seeds",
+  "names": {
+   "en": "poppy seeds",
+   "hi": "खसखस",
+   "pa": "ਖਸਖਸ"
+  },
+  "spellings": [
+   "khus khus",
+   "khaskhas",
+   "posta",
+   "poppy seeds"
+  ],
+  "labels": []
+ },
+ {
+  "id": "sesame",
+  "names": {
+   "en": "sesame seeds",
+   "hi": "तिल",
+   "pa": "ਤਿਲ"
+  },
+  "spellings": [
+   "til",
+   "sesame"
+  ],
+  "labels": [
+   "sesame"
+  ]
+ },
+ {
+  "id": "herbs_dried",
+  "names": {
+   "en": "dried herbs",
+   "hi": "सूखी हर्ब्स",
+   "pa": "ਸੁੱਕੀਆਂ ਹਰਬਸ"
+  },
+  "spellings": [
+   "oregano",
+   "basil",
+   "thyme",
+   "rosemary",
+   "mixed herbs",
+   "lemongrass"
+  ],
+  "labels": [
+   "pantry",
+   "group"
+  ]
+ },
+ {
+  "id": "baking_powder",
+  "names": {
+   "en": "baking powder",
+   "hi": "बेकिंग पाउडर",
+   "pa": "ਬੇਕਿੰਗ ਪਾਊਡਰ"
+  },
+  "spellings": [
+   "baking powder"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "baking_soda",
+  "names": {
+   "en": "baking soda",
+   "hi": "मीठा सोडा",
+   "pa": "ਮਿੱਠਾ ਸੋਡਾ"
+  },
+  "spellings": [
+   "baking soda",
+   "meetha soda",
+   "khane ka soda"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "vinegar",
+  "names": {
+   "en": "vinegar",
+   "hi": "सिरका",
+   "pa": "ਸਿਰਕਾ"
+  },
+  "spellings": [
+   "sirka",
+   "vinegar"
+  ],
+  "labels": [
+   "pantry"
+  ]
+ },
+ {
+  "id": "lemon",
+  "names": {
+   "en": "lemon",
+   "hi": "नींबू",
+   "pa": "ਨਿੰਬੂ"
+  },
+  "spellings": [
+   "nimbu",
+   "neembu",
+   "lemon",
+   "lime"
+  ],
+  "labels": []
+ },
+ {
+  "id": "tamarind",
+  "names": {
+   "en": "tamarind",
+   "hi": "इमली",
+   "pa": "ਇਮਲੀ"
+  },
+  "spellings": [
+   "imli",
+   "tamarind"
+  ],
+  "labels": []
+ },
+ {
+  "id": "ginger",
+  "names": {
+   "en": "ginger",
+   "hi": "अदरक",
+   "pa": "ਅਦਰਕ"
+  },
+  "spellings": [
+   "adrak",
+   "ginger",
+   "saunth"
+  ],
+  "labels": []
+ },
+ {
+  "id": "garlic",
+  "names": {
+   "en": "garlic",
+   "hi": "लहसुन",
+   "pa": "ਲਸਣ"
+  },
+  "spellings": [
+   "lehsun",
+   "lahsun",
+   "lasun",
+   "garlic"
+  ],
+  "labels": []
+ },
+ {
+  "id": "onion",
+  "names": {
+   "en": "onion",
+   "hi": "प्याज़",
+   "pa": "ਪਿਆਜ਼"
+  },
+  "spellings": [
+   "pyaaz",
+   "pyaz",
+   "piyaz",
+   "kanda",
+   "onion"
+  ],
+  "labels": []
+ },
+ {
+  "id": "spring_onion",
+  "names": {
+   "en": "spring onion",
+   "hi": "हरा प्याज़",
+   "pa": "ਹਰਾ ਪਿਆਜ਼"
+  },
+  "spellings": [
+   "hara pyaaz",
+   "spring onion",
+   "green onion"
+  ],
+  "labels": []
+ },
+ {
+  "id": "tomato",
+  "names": {
+   "en": "tomato",
+   "hi": "टमाटर",
+   "pa": "ਟਮਾਟਰ"
+  },
+  "spellings": [
+   "tamatar",
+   "tamaatar",
+   "tomato"
+  ],
+  "labels": []
+ },
+ {
+  "id": "potato",
+  "names": {
+   "en": "potato",
+   "hi": "आलू",
+   "pa": "ਆਲੂ"
+  },
+  "spellings": [
+   "aloo",
+   "alu",
+   "aalu",
+   "potato",
+   "batata"
+  ],
+  "labels": []
+ },
+ {
+  "id": "sweet_potato",
+  "names": {
+   "en": "sweet potato",
+   "hi": "शकरकंद",
+   "pa": "ਸ਼ਕਰਕੰਦੀ"
+  },
+  "spellings": [
+   "shakarkandi",
+   "sweet potato"
+  ],
+  "labels": []
+ },
+ {
+  "id": "green_chilli",
+  "names": {
+   "en": "green chilli",
+   "hi": "हरी मिर्च",
+   "pa": "ਹਰੀ ਮਿਰਚ"
+  },
+  "spellings": [
+   "hari mirch",
+   "green chilli",
+   "green chillies"
+  ],
+  "labels": []
+ },
+ {
+  "id": "coriander_leaves",
+  "names": {
+   "en": "coriander leaves",
+   "hi": "हरा धनिया",
+   "pa": "ਹਰਾ ਧਨੀਆ"
+  },
+  "spellings": [
+   "hara dhaniya",
+   "dhaniya patta",
+   "dhania",
+   "coriander",
+   "cilantro"
+  ],
+  "labels": [
+   "garnish"
+  ]
+ },
+ {
+  "id": "mint",
+  "names": {
+   "en": "mint",
+   "hi": "पुदीना",
+   "pa": "ਪੁਦੀਨਾ"
+  },
+  "spellings": [
+   "pudina",
+   "podina",
+   "mint"
+  ],
+  "labels": [
+   "garnish"
+  ]
+ },
+ {
+  "id": "curry_leaves",
+  "names": {
+   "en": "curry leaves",
+   "hi": "कड़ी पत्ता",
+   "pa": "ਕੜੀ ਪੱਤਾ"
+  },
+  "spellings": [
+   "kadi patta",
+   "curry patta",
+   "curry leaves",
+   "meetha neem"
+  ],
+  "labels": [
+   "garnish"
+  ]
+ },
+ {
+  "id": "methi_leaves",
+  "names": {
+   "en": "fenugreek leaves",
+   "hi": "मेथी",
+   "pa": "ਮੇਥੀ"
+  },
+  "spellings": [
+   "methi",
+   "fenugreek leaves",
+   "kasuri methi"
+  ],
+  "labels": []
+ },
+ {
+  "id": "spinach",
+  "names": {
+   "en": "spinach",
+   "hi": "पालक",
+   "pa": "ਪਾਲਕ"
+  },
+  "spellings": [
+   "palak",
+   "spinach"
+  ],
+  "labels": []
+ },
+ {
+  "id": "mustard_greens",
+  "names": {
+   "en": "mustard greens",
+   "hi": "सरसों का साग",
+   "pa": "ਸਰ੍ਹੋਂ ਦਾ ਸਾਗ"
+  },
+  "spellings": [
+   "sarson",
+   "sarson ka saag",
+   "mustard leaves"
+  ],
+  "labels": []
+ },
+ {
+  "id": "bathua",
+  "names": {
+   "en": "bathua",
+   "hi": "बथुआ",
+   "pa": "ਬਥੂਆ"
+  },
+  "spellings": [
+   "bathua"
+  ],
+  "labels": []
+ },
+ {
+  "id": "chaulai",
+  "names": {
+   "en": "amaranth leaves",
+   "hi": "चौलाई",
+   "pa": "ਚੌਲਾਈ"
+  },
+  "spellings": [
+   "chaulai",
+   "amaranth leaves"
+  ],
+  "labels": []
+ },
+ {
+  "id": "cabbage",
+  "names": {
+   "en": "cabbage",
+   "hi": "पत्ता गोभी",
+   "pa": "ਬੰਦ ਗੋਭੀ"
+  },
+  "spellings": [
+   "patta gobhi",
+   "band gobhi",
+   "bandgobhi",
+   "cabbage"
+  ],
+  "labels": []
+ },
+ {
+  "id": "cauliflower",
+  "names": {
+   "en": "cauliflower",
+   "hi": "फूल गोभी",
+   "pa": "ਫੁੱਲ ਗੋਭੀ"
+  },
+  "spellings": [
+   "gobhi",
+   "gobi",
+   "phool gobhi",
+   "cauliflower"
+  ],
+  "labels": []
+ },
+ {
+  "id": "broccoli",
+  "names": {
+   "en": "broccoli",
+   "hi": "ब्रोकली",
+   "pa": "ਬ੍ਰੋਕਲੀ"
+  },
+  "spellings": [
+   "broccoli"
+  ],
+  "labels": []
+ },
+ {
+  "id": "carrot",
+  "names": {
+   "en": "carrot",
+   "hi": "गाजर",
+   "pa": "ਗਾਜਰ"
+  },
+  "spellings": [
+   "gajar",
+   "carrot"
+  ],
+  "labels": []
+ },
+ {
+  "id": "peas",
+  "names": {
+   "en": "peas",
+   "hi": "मटर",
+   "pa": "ਮਟਰ"
+  },
+  "spellings": [
+   "matar",
+   "mattar",
+   "peas"
+  ],
+  "labels": []
+ },
+ {
+  "id": "beans",
+  "names": {
+   "en": "french beans",
+   "hi": "बीन्स",
+   "pa": "ਫਲੀਆਂ"
+  },
+  "spellings": [
+   "beans",
+   "french beans",
+   "phali",
+   "faliyan"
+  ],
+  "labels": []
+ },
+ {
+  "id": "capsicum",
+  "names": {
+   "en": "capsicum",
+   "hi": "शिमला मिर्च",
+   "pa": "ਸ਼ਿਮਲਾ ਮਿਰਚ"
+  },
+  "spellings": [
+   "shimla mirch",
+   "capsicum",
+   "bell pepper"
+  ],
+  "labels": []
+ },
+ {
+  "id": "okra",
+  "names": {
+   "en": "okra",
+   "hi": "भिंडी",
+   "pa": "ਭਿੰਡੀ"
+  },
+  "spellings": [
+   "bhindi",
+   "okra",
+   "ladyfinger",
+   "lady finger"
+  ],
+  "labels": []
+ },
+ {
+  "id": "brinjal",
+  "names": {
+   "en": "brinjal",
+   "hi": "बैंगन",
+   "pa": "ਬੈਂਗਣ"
+  },
+  "spellings": [
+   "baingan",
+   "bengan",
+   "brinjal",
+   "eggplant"
+  ],
+  "labels": []
+ },
+ {
+  "id": "bottle_gourd",
+  "names": {
+   "en": "bottle gourd",
+   "hi": "लौकी",
+   "pa": "ਘੀਆ"
+  },
+  "spellings": [
+   "lauki",
+   "ghiya",
+   "ghia",
+   "doodhi",
+   "bottle gourd"
+  ],
+  "labels": []
+ },
+ {
+  "id": "bitter_gourd",
+  "names": {
+   "en": "bitter gourd",
+   "hi": "करेला",
+   "pa": "ਕਰੇਲਾ"
+  },
+  "spellings": [
+   "karela",
+   "bitter gourd"
+  ],
+  "labels": []
+ },
+ {
+  "id": "pumpkin",
+  "names": {
+   "en": "pumpkin",
+   "hi": "कद्दू",
+   "pa": "ਕੱਦੂ"
+  },
+  "spellings": [
+   "kaddu",
+   "sitaphal",
+   "pumpkin"
+  ],
+  "labels": []
+ },
+ {
+  "id": "radish",
+  "names": {
+   "en": "radish",
+   "hi": "मूली",
+   "pa": "ਮੂਲੀ"
+  },
+  "spellings": [
+   "mooli",
+   "muli",
+   "radish"
+  ],
+  "labels": []
+ },
+ {
+  "id": "turnip",
+  "names": {
+   "en": "turnip",
+   "hi": "शलगम",
+   "pa": "ਸ਼ਲਗਮ"
+  },
+  "spellings": [
+   "shalgam",
+   "turnip"
+  ],
+  "labels": []
+ },
+ {
+  "id": "beetroot",
+  "names": {
+   "en": "beetroot",
+   "hi": "चुकंदर",
+   "pa": "ਚੁਕੰਦਰ"
+  },
+  "spellings": [
+   "chukandar",
+   "beetroot"
+  ],
+  "labels": []
+ },
+ {
+  "id": "cucumber",
+  "names": {
+   "en": "cucumber",
+   "hi": "खीरा",
+   "pa": "ਖੀਰਾ"
+  },
+  "spellings": [
+   "kheera",
+   "khira",
+   "cucumber"
+  ],
+  "labels": []
+ },
+ {
+  "id": "mushroom",
+  "names": {
+   "en": "mushroom",
+   "hi": "मशरूम",
+   "pa": "ਮਸ਼ਰੂਮ"
+  },
+  "spellings": [
+   "mushroom",
+   "khumbi"
+  ],
+  "labels": []
+ },
+ {
+  "id": "corn",
+  "names": {
+   "en": "corn",
+   "hi": "मक्का",
+   "pa": "ਮੱਕੀ"
+  },
+  "spellings": [
+   "makka",
+   "makki",
+   "bhutta",
+   "corn",
+   "sweet corn"
+  ],
+  "labels": []
+ },
+ {
+  "id": "corn_flour",
+  "names": {
+   "en": "cornflour",
+   "hi": "कॉर्नफ्लोर",
+   "pa": "ਕੌਰਨਫਲੋਰ"
+  },
+  "spellings": [
+   "cornflour",
+   "corn flour",
+   "cornstarch"
+  ],
+  "labels": []
+ },
+ {
+  "id": "drumstick",
+  "names": {
+   "en": "drumstick",
+   "hi": "सहजन",
+   "pa": "ਸਹਿਜਨ"
+  },
+  "spellings": [
+   "drumstick",
+   "sahjan",
+   "saijan"
+  ],
+  "labels": []
+ },
+ {
+  "id": "arbi",
+  "names": {
+   "en": "colocasia",
+   "hi": "अरबी",
+   "pa": "ਅਰਬੀ"
+  },
+  "spellings": [
+   "arbi",
+   "arvi",
+   "colocasia"
+  ],
+  "labels": []
+ },
+ {
+  "id": "yam",
+  "names": {
+   "en": "yam",
+   "hi": "जिमीकंद",
+   "pa": "ਜਿਮੀਕੰਦ"
+  },
+  "spellings": [
+   "suran",
+   "jimikand",
+   "yam"
+  ],
+  "labels": []
+ },
+ {
+  "id": "lotus_stem",
+  "names": {
+   "en": "lotus stem",
+   "hi": "कमल ककड़ी",
+   "pa": "ਕਮਲ ਕੱਕੜੀ"
+  },
+  "spellings": [
+   "kamal kakdi",
+   "bhein",
+   "lotus stem"
+  ],
+  "labels": []
+ },
+ {
+  "id": "tinda",
+  "names": {
+   "en": "tinda",
+   "hi": "टिंडा",
+   "pa": "ਟਿੰਡਾ"
+  },
+  "spellings": [
+   "tinda"
+  ],
+  "labels": []
+ },
+ {
+  "id": "raw_mango",
+  "names": {
+   "en": "raw mango",
+   "hi": "कच्चा आम",
+   "pa": "ਕੱਚਾ ਅੰਬ"
+  },
+  "spellings": [
+   "kaccha aam",
+   "kachcha aam",
+   "keri",
+   "raw mango"
+  ],
+  "labels": []
+ },
+ {
+  "id": "salad_greens",
+  "names": {
+   "en": "salad greens",
+   "hi": "सलाद पत्ता",
+   "pa": "ਸਲਾਦ ਪੱਤਾ"
+  },
+  "spellings": [
+   "lettuce",
+   "kale",
+   "watercress",
+   "salad leaves"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "celery",
+  "names": {
+   "en": "celery",
+   "hi": "सेलरी",
+   "pa": "ਸੈਲਰੀ"
+  },
+  "spellings": [
+   "celery",
+   "parsley"
+  ],
+  "labels": [
+   "garnish",
+   "group"
+  ]
+ },
+ {
+  "id": "pickled_veg",
+  "names": {
+   "en": "olives or gherkins",
+   "hi": "ऑलिव",
+   "pa": "ਔਲਿਵ"
+  },
+  "spellings": [
+   "olives",
+   "gherkins",
+   "capers",
+   "pickle",
+   "achar"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "bamboo_shoot",
+  "names": {
+   "en": "bamboo shoot",
+   "hi": "बांस",
+   "pa": "ਬਾਂਸ"
+  },
+  "spellings": [
+   "bamboo shoot"
+  ],
+  "labels": []
+ },
+ {
+  "id": "milk",
+  "names": {
+   "en": "milk",
+   "hi": "दूध",
+   "pa": "ਦੁੱਧ"
+  },
+  "spellings": [
+   "doodh",
+   "dudh",
+   "milk"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "condensed_milk",
+  "names": {
+   "en": "condensed milk",
+   "hi": "कंडेंस्ड मिल्क",
+   "pa": "ਕੰਡੈਂਸਡ ਮਿਲਕ"
+  },
+  "spellings": [
+   "condensed milk",
+   "milkmaid"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "curd",
+  "names": {
+   "en": "curd",
+   "hi": "दही",
+   "pa": "ਦਹੀਂ"
+  },
+  "spellings": [
+   "dahi",
+   "curd",
+   "yogurt",
+   "yoghurt"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "buttermilk",
+  "names": {
+   "en": "buttermilk",
+   "hi": "छाछ",
+   "pa": "ਲੱਸੀ"
+  },
+  "spellings": [
+   "chaas",
+   "chhach",
+   "chaach",
+   "buttermilk",
+   "lassi"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "paneer",
+  "names": {
+   "en": "paneer",
+   "hi": "पनीर",
+   "pa": "ਪਨੀਰ"
+  },
+  "spellings": [
+   "paneer",
+   "panir",
+   "cottage cheese"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "cheese",
+  "names": {
+   "en": "cheese",
+   "hi": "चीज़",
+   "pa": "ਚੀਜ਼"
+  },
+  "spellings": [
+   "cheese",
+   "cheese slice",
+   "mozzarella"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "cream",
+  "names": {
+   "en": "cream",
+   "hi": "मलाई",
+   "pa": "ਮਲਾਈ"
+  },
+  "spellings": [
+   "cream",
+   "malai",
+   "fresh cream"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "khoya",
+  "names": {
+   "en": "khoya",
+   "hi": "खोया",
+   "pa": "ਖੋਆ"
+  },
+  "spellings": [
+   "khoya",
+   "khoa",
+   "mawa"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "ice_cream",
+  "names": {
+   "en": "ice cream",
+   "hi": "आइसक्रीम",
+   "pa": "ਆਈਸਕ੍ਰੀਮ"
+  },
+  "spellings": [
+   "ice cream",
+   "icecream"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "maida",
+  "names": {
+   "en": "maida",
+   "hi": "मैदा",
+   "pa": "ਮੈਦਾ"
+  },
+  "spellings": [
+   "maida",
+   "all purpose flour",
+   "refined flour"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "atta",
+  "names": {
+   "en": "atta",
+   "hi": "आटा",
+   "pa": "ਆਟਾ"
+  },
+  "spellings": [
+   "atta",
+   "aata",
+   "wheat flour",
+   "gehun ka atta"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "dalia",
+  "names": {
+   "en": "broken wheat",
+   "hi": "दलिया",
+   "pa": "ਦਲੀਆ"
+  },
+  "spellings": [
+   "dalia",
+   "daliya",
+   "broken wheat"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "suji",
+  "names": {
+   "en": "suji",
+   "hi": "सूजी",
+   "pa": "ਸੂਜੀ"
+  },
+  "spellings": [
+   "suji",
+   "sooji",
+   "rava",
+   "rawa",
+   "semolina"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "besan",
+  "names": {
+   "en": "besan",
+   "hi": "बेसन",
+   "pa": "ਵੇਸਣ"
+  },
+  "spellings": [
+   "besan",
+   "gram flour",
+   "chickpea flour"
+  ],
+  "labels": []
+ },
+ {
+  "id": "rice",
+  "names": {
+   "en": "rice",
+   "hi": "चावल",
+   "pa": "ਚੌਲ"
+  },
+  "spellings": [
+   "chawal",
+   "chaawal",
+   "rice",
+   "basmati"
+  ],
+  "labels": []
+ },
+ {
+  "id": "poha",
+  "names": {
+   "en": "poha",
+   "hi": "पोहा",
+   "pa": "ਪੋਹਾ"
+  },
+  "spellings": [
+   "poha",
+   "chivda",
+   "flattened rice"
+  ],
+  "labels": []
+ },
+ {
+  "id": "murmura",
+  "names": {
+   "en": "puffed rice",
+   "hi": "मुरमुरे",
+   "pa": "ਮੁਰਮੁਰੇ"
+  },
+  "spellings": [
+   "murmura",
+   "kurmura",
+   "puffed rice",
+   "mamra"
+  ],
+  "labels": []
+ },
+ {
+  "id": "rice_flour",
+  "names": {
+   "en": "rice flour",
+   "hi": "चावल का आटा",
+   "pa": "ਚੌਲਾਂ ਦਾ ਆਟਾ"
+  },
+  "spellings": [
+   "rice flour",
+   "chawal ka atta"
+  ],
+  "labels": []
+ },
+ {
+  "id": "vermicelli",
+  "names": {
+   "en": "vermicelli",
+   "hi": "सेवइयाँ",
+   "pa": "ਸੇਵੀਆਂ"
+  },
+  "spellings": [
+   "sevai",
+   "seviyan",
+   "semiya",
+   "vermicelli"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "pasta",
+  "names": {
+   "en": "pasta",
+   "hi": "पास्ता",
+   "pa": "ਪਾਸਤਾ"
+  },
+  "spellings": [
+   "pasta",
+   "macaroni",
+   "penne",
+   "spaghetti"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "bread",
+  "names": {
+   "en": "bread",
+   "hi": "ब्रेड",
+   "pa": "ਬ੍ਰੈੱਡ"
+  },
+  "spellings": [
+   "bread",
+   "double roti",
+   "pav",
+   "bun"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "oats",
+  "names": {
+   "en": "oats",
+   "hi": "ओट्स",
+   "pa": "ਓਟਸ"
+  },
+  "spellings": [
+   "oats",
+   "oatmeal"
+  ],
+  "labels": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "millet",
+  "names": {
+   "en": "millet",
+   "hi": "बाजरा",
+   "pa": "ਬਾਜਰਾ"
+  },
+  "spellings": [
+   "bajra",
+   "jowar",
+   "ragi",
+   "nachni",
+   "millet"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "sabudana",
+  "names": {
+   "en": "sago",
+   "hi": "साबूदाना",
+   "pa": "ਸਾਬੂਦਾਣਾ"
+  },
+  "spellings": [
+   "sabudana",
+   "sago"
+  ],
+  "labels": []
+ },
+ {
+  "id": "other_grain",
+  "names": {
+   "en": "quinoa or buckwheat",
+   "hi": "कुट्टू",
+   "pa": "ਕੁੱਟੂ"
+  },
+  "spellings": [
+   "quinoa",
+   "kuttu",
+   "buckwheat",
+   "rajgira",
+   "amaranth seeds"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "toor_dal",
+  "names": {
+   "en": "toor dal",
+   "hi": "तूर दाल",
+   "pa": "ਤੂਰ ਦਾਲ"
+  },
+  "spellings": [
+   "toor dal",
+   "tur dal",
+   "tuvar dal",
+   "arhar dal",
+   "arhar"
+  ],
+  "labels": []
+ },
+ {
+  "id": "urad_dal",
+  "names": {
+   "en": "urad dal",
+   "hi": "उड़द दाल",
+   "pa": "ਮਾਂਹ ਦੀ ਦਾਲ"
+  },
+  "spellings": [
+   "urad dal",
+   "urad",
+   "dhuli urad"
+  ],
+  "labels": []
+ },
+ {
+  "id": "whole_urad",
+  "names": {
+   "en": "whole urad",
+   "hi": "साबुत उड़द",
+   "pa": "ਸਾਬਤ ਮਾਂਹ"
+  },
+  "spellings": [
+   "sabut urad",
+   "kali dal",
+   "maa ki dal",
+   "whole urad"
+  ],
+  "labels": []
+ },
+ {
+  "id": "chana_dal",
+  "names": {
+   "en": "chana dal",
+   "hi": "चना दाल",
+   "pa": "ਛੋਲਿਆਂ ਦੀ ਦਾਲ"
+  },
+  "spellings": [
+   "chana dal",
+   "chane ki dal"
+  ],
+  "labels": []
+ },
+ {
+  "id": "kala_chana",
+  "names": {
+   "en": "kala chana",
+   "hi": "काला चना",
+   "pa": "ਕਾਲੇ ਛੋਲੇ"
+  },
+  "spellings": [
+   "kala chana",
+   "black chana"
+  ],
+  "labels": []
+ },
+ {
+  "id": "moong_dal",
+  "names": {
+   "en": "moong dal",
+   "hi": "मूंग दाल",
+   "pa": "ਮੂੰਗੀ ਦੀ ਦਾਲ"
+  },
+  "spellings": [
+   "moong dal",
+   "mung dal",
+   "moong"
+  ],
+  "labels": []
+ },
+ {
+  "id": "whole_moong",
+  "names": {
+   "en": "whole moong",
+   "hi": "साबुत मूंग",
+   "pa": "ਸਾਬਤ ਮੂੰਗੀ"
+  },
+  "spellings": [
+   "sabut moong",
+   "whole moong",
+   "sprouts",
+   "moong sprouts"
+  ],
+  "labels": []
+ },
+ {
+  "id": "masoor_dal",
+  "names": {
+   "en": "masoor dal",
+   "hi": "मसूर दाल",
+   "pa": "ਮਸਰ ਦੀ ਦਾਲ"
+  },
+  "spellings": [
+   "masoor",
+   "masur",
+   "masoor dal",
+   "lentils"
+  ],
+  "labels": []
+ },
+ {
+  "id": "rajma",
+  "names": {
+   "en": "rajma",
+   "hi": "राजमा",
+   "pa": "ਰਾਜਮਾਂਹ"
+  },
+  "spellings": [
+   "rajma",
+   "rajmah",
+   "kidney beans"
+  ],
+  "labels": []
+ },
+ {
+  "id": "chole",
+  "names": {
+   "en": "chole",
+   "hi": "छोले",
+   "pa": "ਛੋਲੇ"
+  },
+  "spellings": [
+   "chole",
+   "chhole",
+   "kabuli chana",
+   "chickpeas",
+   "safed chana"
+  ],
+  "labels": []
+ },
+ {
+  "id": "lobia",
+  "names": {
+   "en": "lobia",
+   "hi": "लोबिया",
+   "pa": "ਲੋਬੀਆ"
+  },
+  "spellings": [
+   "lobia",
+   "lobiya",
+   "cowpea",
+   "rongi"
+  ],
+  "labels": []
+ },
+ {
+  "id": "moth",
+  "names": {
+   "en": "moth beans",
+   "hi": "मोठ",
+   "pa": "ਮੋਠ"
+  },
+  "spellings": [
+   "moth",
+   "matki",
+   "kulthi",
+   "horse gram"
+  ],
+  "labels": []
+ },
+ {
+  "id": "soya",
+  "names": {
+   "en": "soya",
+   "hi": "सोया",
+   "pa": "ਸੋਇਆ"
+  },
+  "spellings": [
+   "soya",
+   "soybean",
+   "soya chunks",
+   "nutrela"
+  ],
+  "labels": [
+   "soy"
+  ]
+ },
+ {
+  "id": "tofu",
+  "names": {
+   "en": "tofu",
+   "hi": "टोफू",
+   "pa": "ਟੋਫੂ"
+  },
+  "spellings": [
+   "tofu"
+  ],
+  "labels": [
+   "soy"
+  ]
+ },
+ {
+  "id": "peanuts",
+  "names": {
+   "en": "peanuts",
+   "hi": "मूंगफली",
+   "pa": "ਮੂੰਗਫਲੀ"
+  },
+  "spellings": [
+   "moongphali",
+   "mungfali",
+   "peanuts",
+   "groundnut"
+  ],
+  "labels": [
+   "peanut"
+  ]
+ },
+ {
+  "id": "almonds",
+  "names": {
+   "en": "almonds",
+   "hi": "बादाम",
+   "pa": "ਬਦਾਮ"
+  },
+  "spellings": [
+   "badam",
+   "almond"
+  ],
+  "labels": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "cashews",
+  "names": {
+   "en": "cashews",
+   "hi": "काजू",
+   "pa": "ਕਾਜੂ"
+  },
+  "spellings": [
+   "kaju",
+   "cashew"
+  ],
+  "labels": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "pistachios",
+  "names": {
+   "en": "pistachios",
+   "hi": "पिस्ता",
+   "pa": "ਪਿਸਤਾ"
+  },
+  "spellings": [
+   "pista",
+   "pistachio"
+  ],
+  "labels": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "walnuts",
+  "names": {
+   "en": "walnuts",
+   "hi": "अखरोट",
+   "pa": "ਅਖਰੋਟ"
+  },
+  "spellings": [
+   "akhrot",
+   "walnut"
+  ],
+  "labels": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "mixed_nuts",
+  "names": {
+   "en": "mixed nuts",
+   "hi": "मेवे",
+   "pa": "ਮੇਵੇ"
+  },
+  "spellings": [
+   "dry fruits",
+   "mewa",
+   "mixed nuts",
+   "hazelnuts",
+   "pine nuts",
+   "chilgoza"
+  ],
+  "labels": [
+   "nuts",
+   "group"
+  ]
+ },
+ {
+  "id": "raisins",
+  "names": {
+   "en": "raisins",
+   "hi": "किशमिश",
+   "pa": "ਸੌਗੀ"
+  },
+  "spellings": [
+   "kishmish",
+   "raisins",
+   "sultanas",
+   "currants"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "dates",
+  "names": {
+   "en": "dates",
+   "hi": "खजूर",
+   "pa": "ਖਜੂਰ"
+  },
+  "spellings": [
+   "khajur",
+   "khajoor",
+   "dates"
+  ],
+  "labels": []
+ },
+ {
+  "id": "coconut",
+  "names": {
+   "en": "coconut",
+   "hi": "नारियल",
+   "pa": "ਨਾਰੀਅਲ"
+  },
+  "spellings": [
+   "nariyal",
+   "coconut",
+   "copra",
+   "nariyal pani"
+  ],
+  "labels": []
+ },
+ {
+  "id": "makhana",
+  "names": {
+   "en": "makhana",
+   "hi": "मखाना",
+   "pa": "ਮਖਾਣਾ"
+  },
+  "spellings": [
+   "makhana",
+   "phool makhana",
+   "lotus seeds"
+  ],
+  "labels": []
+ },
+ {
+  "id": "seeds",
+  "names": {
+   "en": "seeds",
+   "hi": "बीज",
+   "pa": "ਬੀਜ"
+  },
+  "spellings": [
+   "melon seeds",
+   "magaz",
+   "chia",
+   "sunflower seeds",
+   "pumpkin seeds"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "apple",
+  "names": {
+   "en": "apple",
+   "hi": "सेब",
+   "pa": "ਸੇਬ"
+  },
+  "spellings": [
+   "seb",
+   "apple"
+  ],
+  "labels": []
+ },
+ {
+  "id": "banana",
+  "names": {
+   "en": "banana",
+   "hi": "केला",
+   "pa": "ਕੇਲਾ"
+  },
+  "spellings": [
+   "kela",
+   "banana"
+  ],
+  "labels": []
+ },
+ {
+  "id": "mango",
+  "names": {
+   "en": "mango",
+   "hi": "आम",
+   "pa": "ਅੰਬ"
+  },
+  "spellings": [
+   "aam",
+   "mango"
+  ],
+  "labels": []
+ },
+ {
+  "id": "orange",
+  "names": {
+   "en": "orange",
+   "hi": "संतरा",
+   "pa": "ਸੰਤਰਾ"
+  },
+  "spellings": [
+   "santra",
+   "orange",
+   "mosambi",
+   "sweet lime"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "pineapple",
+  "names": {
+   "en": "pineapple",
+   "hi": "अनानास",
+   "pa": "ਅਨਾਨਾਸ"
+  },
+  "spellings": [
+   "ananas",
+   "pineapple"
+  ],
+  "labels": []
+ },
+ {
+  "id": "pomegranate",
+  "names": {
+   "en": "pomegranate",
+   "hi": "अनार",
+   "pa": "ਅਨਾਰ"
+  },
+  "spellings": [
+   "anar",
+   "pomegranate"
+  ],
+  "labels": []
+ },
+ {
+  "id": "grapes",
+  "names": {
+   "en": "grapes",
+   "hi": "अंगूर",
+   "pa": "ਅੰਗੂਰ"
+  },
+  "spellings": [
+   "angoor",
+   "grapes"
+  ],
+  "labels": []
+ },
+ {
+  "id": "papaya",
+  "names": {
+   "en": "papaya",
+   "hi": "पपीता",
+   "pa": "ਪਪੀਤਾ"
+  },
+  "spellings": [
+   "papita",
+   "papaya"
+  ],
+  "labels": []
+ },
+ {
+  "id": "guava",
+  "names": {
+   "en": "guava",
+   "hi": "अमरूद",
+   "pa": "ਅਮਰੂਦ"
+  },
+  "spellings": [
+   "amrood",
+   "amrud",
+   "guava"
+  ],
+  "labels": []
+ },
+ {
+  "id": "amla",
+  "names": {
+   "en": "amla",
+   "hi": "आंवला",
+   "pa": "ਔਲਾ"
+  },
+  "spellings": [
+   "amla",
+   "awla",
+   "gooseberry"
+  ],
+  "labels": []
+ },
+ {
+  "id": "jackfruit",
+  "names": {
+   "en": "jackfruit",
+   "hi": "कटहल",
+   "pa": "ਕਟਹਲ"
+  },
+  "spellings": [
+   "kathal",
+   "jackfruit"
+  ],
+  "labels": []
+ },
+ {
+  "id": "berries",
+  "names": {
+   "en": "berries",
+   "hi": "बेरी",
+   "pa": "ਬੇਰੀ"
+  },
+  "spellings": [
+   "strawberry",
+   "blueberry",
+   "raspberry",
+   "cranberry",
+   "cherries",
+   "berries"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "other_fruit",
+  "names": {
+   "en": "fruit",
+   "hi": "फल",
+   "pa": "ਫਲ"
+  },
+  "spellings": [
+   "plum",
+   "aloo bukhara",
+   "pear",
+   "nashpati",
+   "peach",
+   "apricot",
+   "kiwi",
+   "litchi",
+   "lychee",
+   "bel",
+   "star fruit"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "egg",
+  "names": {
+   "en": "egg",
+   "hi": "अंडा",
+   "pa": "ਆਂਡਾ"
+  },
+  "spellings": [
+   "anda",
+   "ande",
+   "egg",
+   "eggs"
+  ],
+  "labels": [
+   "egg"
+  ]
+ },
+ {
+  "id": "chicken",
+  "names": {
+   "en": "chicken",
+   "hi": "चिकन",
+   "pa": "ਚਿਕਨ"
+  },
+  "spellings": [
+   "chicken",
+   "murga",
+   "murgh"
+  ],
+  "labels": [
+   "meat"
+  ]
+ },
+ {
+  "id": "mutton",
+  "names": {
+   "en": "mutton",
+   "hi": "मटन",
+   "pa": "ਮਟਨ"
+  },
+  "spellings": [
+   "mutton",
+   "gosht",
+   "lamb",
+   "keema"
+  ],
+  "labels": [
+   "meat"
+  ]
+ },
+ {
+  "id": "pork",
+  "names": {
+   "en": "ham or bacon",
+   "hi": "हैम",
+   "pa": "ਹੈਮ"
+  },
+  "spellings": [
+   "ham",
+   "bacon",
+   "salami",
+   "sausage"
+  ],
+  "labels": [
+   "meat",
+   "group"
+  ]
+ },
+ {
+  "id": "fish",
+  "names": {
+   "en": "fish",
+   "hi": "मछली",
+   "pa": "ਮੱਛੀ"
+  },
+  "spellings": [
+   "machhli",
+   "machli",
+   "fish",
+   "pomfret",
+   "rohu",
+   "surmai",
+   "bangda",
+   "mackerel"
+  ],
+  "labels": [
+   "fish"
+  ]
+ },
+ {
+  "id": "prawns",
+  "names": {
+   "en": "prawns",
+   "hi": "झींगा",
+   "pa": "ਝੀਂਗਾ"
+  },
+  "spellings": [
+   "jhinga",
+   "prawns",
+   "shrimp"
+  ],
+  "labels": [
+   "fish",
+   "shellfish"
+  ]
+ },
+ {
+  "id": "tomato_ketchup",
+  "names": {
+   "en": "tomato ketchup",
+   "hi": "टमाटर सॉस",
+   "pa": "ਟਮਾਟਰ ਸੌਸ"
+  },
+  "spellings": [
+   "ketchup",
+   "tomato sauce"
+  ],
+  "labels": []
+ },
+ {
+  "id": "soy_sauce",
+  "names": {
+   "en": "soy sauce",
+   "hi": "सोया सॉस",
+   "pa": "ਸੋਇਆ ਸੌਸ"
+  },
+  "spellings": [
+   "soy sauce",
+   "soya sauce"
+  ],
+  "labels": [
+   "soy"
+  ]
+ },
+ {
+  "id": "chilli_sauce",
+  "names": {
+   "en": "chilli sauce",
+   "hi": "चिली सॉस",
+   "pa": "ਚਿੱਲੀ ਸੌਸ"
+  },
+  "spellings": [
+   "chilli sauce",
+   "red chilli sauce",
+   "green chilli sauce"
+  ],
+  "labels": []
+ },
+ {
+  "id": "mayonnaise",
+  "names": {
+   "en": "mayonnaise",
+   "hi": "मेयोनेज़",
+   "pa": "ਮੇਯੋਨੇਜ਼"
+  },
+  "spellings": [
+   "mayonnaise",
+   "mayo"
+  ],
+  "labels": [
+   "egg"
+  ]
+ },
+ {
+  "id": "worcestershire",
+  "names": {
+   "en": "worcestershire sauce",
+   "hi": "वॉर्सेस्टरशायर सॉस",
+   "pa": "ਵੌਰਸੈਸਟਰਸ਼ਾਇਰ ਸੌਸ"
+  },
+  "spellings": [
+   "worcestershire sauce"
+  ],
+  "labels": [
+   "fish"
+  ]
+ },
+ {
+  "id": "white_sauce",
+  "names": {
+   "en": "white sauce",
+   "hi": "व्हाइट सॉस",
+   "pa": "ਵ੍ਹਾਈਟ ਸੌਸ"
+  },
+  "spellings": [
+   "white sauce",
+   "bechamel"
+  ],
+  "labels": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "other_sauce",
+  "names": {
+   "en": "sauce",
+   "hi": "सॉस",
+   "pa": "ਸੌਸ"
+  },
+  "spellings": [
+   "mustard sauce",
+   "dressing",
+   "pasta sauce",
+   "mint sauce"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "other_beans",
+  "names": {
+   "en": "beans",
+   "hi": "बीन्स",
+   "pa": "ਬੀਨਜ਼"
+  },
+  "spellings": [
+   "black beans",
+   "broad beans",
+   "fava beans"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "stock_cube",
+  "names": {
+   "en": "stock cube",
+   "hi": "स्टॉक क्यूब",
+   "pa": "ਸਟਾਕ ਕਿਊਬ"
+  },
+  "spellings": [
+   "stock cube",
+   "maggi cube"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "cocoa",
+  "names": {
+   "en": "cocoa",
+   "hi": "कोको",
+   "pa": "ਕੋਕੋ"
+  },
+  "spellings": [
+   "cocoa",
+   "chocolate",
+   "drinking chocolate",
+   "bournvita"
+  ],
+  "labels": [
+   "dairy",
+   "group"
+  ]
+ },
+ {
+  "id": "coffee",
+  "names": {
+   "en": "coffee",
+   "hi": "कॉफ़ी",
+   "pa": "ਕੌਫ਼ੀ"
+  },
+  "spellings": [
+   "coffee",
+   "nescafe"
+  ],
+  "labels": []
+ },
+ {
+  "id": "tea",
+  "names": {
+   "en": "tea",
+   "hi": "चाय पत्ती",
+   "pa": "ਚਾਹ ਪੱਤੀ"
+  },
+  "spellings": [
+   "chai patti",
+   "tea leaves",
+   "tea patti"
+  ],
+  "labels": []
+ },
+ {
+  "id": "custard_powder",
+  "names": {
+   "en": "custard powder",
+   "hi": "कस्टर्ड पाउडर",
+   "pa": "ਕਸਟਰਡ ਪਾਊਡਰ"
+  },
+  "spellings": [
+   "custard powder"
+  ],
+  "labels": []
+ },
+ {
+  "id": "gelatine",
+  "names": {
+   "en": "gelatine",
+   "hi": "जिलेटिन",
+   "pa": "ਜਿਲੇਟਿਨ"
+  },
+  "spellings": [
+   "gelatine",
+   "gelatin"
+  ],
+  "labels": [
+   "gelatine"
+  ]
+ },
+ {
+  "id": "agar",
+  "names": {
+   "en": "agar agar",
+   "hi": "अगर अगर",
+   "pa": "ਅਗਰ ਅਗਰ"
+  },
+  "spellings": [
+   "agar",
+   "china grass"
+  ],
+  "labels": []
+ },
+ {
+  "id": "sweets_misc",
+  "names": {
+   "en": "biscuits or wafers",
+   "hi": "बिस्कुट",
+   "pa": "ਬਿਸਕੁਟ"
+  },
+  "spellings": [
+   "biscuit",
+   "biscuits",
+   "wafers",
+   "candy",
+   "tutti frutti",
+   "glace cherries"
+  ],
+  "labels": [
+   "gluten",
+   "group"
+  ]
+ },
+ {
+  "id": "juice",
+  "names": {
+   "en": "fruit juice",
+   "hi": "जूस",
+   "pa": "ਜੂਸ"
+  },
+  "spellings": [
+   "juice",
+   "squash",
+   "cola",
+   "soft drink",
+   "orange drink"
+  ],
+  "labels": [
+   "group"
+  ]
+ },
+ {
+  "id": "alcohol",
+  "names": {
+   "en": "spirits",
+   "hi": "शराब",
+   "pa": "ਸ਼ਰਾਬ"
+  },
+  "spellings": [
+   "rum",
+   "brandy",
+   "wine",
+   "spirits"
+  ],
+  "labels": [
+   "alcohol"
+  ]
+ }
 ]

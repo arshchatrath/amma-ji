@@ -5,3 +5,5 @@ backend/day1/out/
 backend/day1/recordings/
 node_modules/
 frontend/dist/
+backend/scripts/.indb/
+backend/scripts/.mendeley/

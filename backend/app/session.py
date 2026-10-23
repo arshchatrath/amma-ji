@@ -57,8 +57,10 @@ def ingredient_name(ingredient_id, language):
     return names.get("hi" if language == "hi-en" else language) or names.get("en") or ingredient_id
 
 
-# Every known spelling, longest first, so "desi ghee" wins over "ghee"
-SPELLINGS = sorted(((sp, i["id"]) for i in INGREDIENTS.values() for sp in i["spellings"]),
+# Every known spelling, longest first, so "desi ghee" wins over "ghee". Families (fruit, sauces) and
+# additives are left out, so "pear" never turns into "फल".
+SPELLINGS = sorted(((sp, i["id"]) for i in INGREDIENTS.values() for sp in i["spellings"]
+                    if not {"group", "additive"} & set(i.get("labels", []))),
                    key=lambda pair: -len(pair[0]))
 
 
