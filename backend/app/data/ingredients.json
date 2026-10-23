@@ -1,0 +1,16 @@
+[
+  {"id": "toor_dal", "names": {"en": "toor dal", "hi": "तूर दाल", "pa": "ਤੂਰ ਦਾਲ"}, "spellings": ["toor dal", "tur dal", "arhar dal", "arhar", "tuvar dal"]},
+  {"id": "water", "names": {"en": "water", "hi": "पानी", "pa": "ਪਾਣੀ"}, "spellings": ["water", "paani", "pani"]},
+  {"id": "turmeric", "names": {"en": "turmeric", "hi": "हल्दी", "pa": "ਹਲਦੀ"}, "spellings": ["turmeric", "haldi", "haldee"]},
+  {"id": "salt", "names": {"en": "salt", "hi": "नमक", "pa": "ਲੂਣ"}, "spellings": ["salt", "namak", "loon"]},
+  {"id": "ghee", "names": {"en": "ghee", "hi": "घी", "pa": "ਘਿਓ"}, "spellings": ["ghee", "ghi", "desi ghee"]},
+  {"id": "cumin", "names": {"en": "cumin", "hi": "जीरा", "pa": "ਜੀਰਾ"}, "spellings": ["cumin", "jeera", "zeera", "jira"]},
+  {"id": "onion", "names": {"en": "onion", "hi": "प्याज़", "pa": "ਪਿਆਜ਼"}, "spellings": ["onion", "pyaaz", "pyaz", "kanda"]},
+  {"id": "garlic", "names": {"en": "garlic", "hi": "लहसुन", "pa": "ਲਸਣ"}, "spellings": ["garlic", "lehsun", "lahsun", "lasun"]},
+  {"id": "tomato", "names": {"en": "tomato", "hi": "टमाटर", "pa": "ਟਮਾਟਰ"}, "spellings": ["tomato", "tamatar", "tamaatar"]},
+  {"id": "red_chilli_powder", "names": {"en": "red chilli powder", "hi": "लाल मिर्च", "pa": "ਲਾਲ ਮਿਰਚ"}, "spellings": ["red chilli powder", "laal mirch", "lal mirch", "mirchi powder"]},
+  {"id": "garam_masala", "names": {"en": "garam masala", "hi": "गरम मसाला", "pa": "ਗਰਮ ਮਸਾਲਾ"}, "spellings": ["garam masala"]},
+  {"id": "oil", "names": {"en": "oil", "hi": "तेल", "pa": "ਤੇਲ"}, "spellings": ["oil", "tel"]},
+  {"id": "butter", "names": {"en": "butter", "hi": "मक्खन", "pa": "ਮੱਖਣ"}, "spellings": ["butter", "makhan", "makkhan"]},
+  {"id": "kitchen_king", "names": {"en": "kitchen king masala", "hi": "किचन किंग मसाला", "pa": "ਕਿਚਨ ਕਿੰਗ ਮਸਾਲਾ"}, "spellings": ["kitchen king"]}
+]
