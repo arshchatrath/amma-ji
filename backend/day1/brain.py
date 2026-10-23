@@ -164,7 +164,8 @@ def ask_groq(user_text, model, language="hi-en", teasing=True):
     """One Groq call. Returns a dict with tool, args, reply, ms, usage and rate limit headers.
 
     If Groq says "too many requests" (429), wait as long as it asks and try again (up to 3 times).
-    The wait is reported separately and not counted in ms.
+    The wait is reported separately and not counted in ms. If the model answers without calling a
+    tool (Groq returns 400 tool_use_failed), ask once more; ms then counts both tries.
     """
     body = {
         "model": model,
@@ -178,17 +179,23 @@ def ask_groq(user_text, model, language="hi-en", teasing=True):
     }
     if model.startswith("openai/gpt-oss"):
         body["reasoning_effort"] = "low"  # docs: low, medium (default) or high. Low is fastest.
-    waited = 0.0
-    for _ in range(4):
+    waited, ms, retried = 0.0, 0.0, False
+    for _ in range(5):
         start = time.perf_counter()
         r = HTTP.post(URL, headers={"Authorization": f"Bearer {API_KEY}"}, json=body, timeout=60)
-        ms = (time.perf_counter() - start) * 1000
-        if r.status_code != 429:
-            break
-        pause = float(r.headers.get("retry-after", 10))
-        print(f"    (rate limited, waiting {pause:.0f} s)")
-        time.sleep(pause)
-        waited += pause
+        took = (time.perf_counter() - start) * 1000
+        if r.status_code == 429:
+            pause = float(r.headers.get("retry-after", 10))
+            print(f"    (rate limited, waiting {pause:.0f} s)")
+            time.sleep(pause)
+            waited += pause
+            continue
+        ms += took
+        if r.status_code == 400 and "tool_use_failed" in r.text and not retried:
+            print("    (model answered without a tool, asking again)")
+            retried = True
+            continue
+        break
     limits = {k: v for k, v in r.headers.items() if k.lower().startswith("x-ratelimit")}
     if r.status_code != 200:
         return {"error": f"{r.status_code}: {r.text[:300]}", "ms": ms, "waited_s": waited, "limits": limits}
@@ -209,6 +216,8 @@ def ask_groq(user_text, model, language="hi-en", teasing=True):
 
 
 TAG = re.compile(r"<\s*/?\s*([a-z_]+)\s*>")
+# Amma ji speaking about herself in the masculine: रहा हूँ, गया हूँ, करता हूँ...
+MASCULINE = re.compile(r"(रहा|गया|सकता|करता|देता|लेता|बताता|लगाता|चाहता)\s*(हूँ|हूं)")
 KNOWN_TAGS = {"sigh", "laugh", "pauses", "slow", "whispers", "excited", "giggle"}
 
 
@@ -230,6 +239,8 @@ def check_reply(reply, language):
     latin = len(re.findall(r"[A-Za-z]", text))
     if language in ("hi", "hi-en") and devanagari < latin:
         problems.append("mostly English letters (romanized Hindi?)")
+    if MASCULINE.search(text):
+        problems.append("masculine verb form for Amma ji")
     if language == "pa" and gurmukhi < latin + devanagari:
         problems.append("not Gurmukhi")
     if language == "en" and latin < devanagari + gurmukhi:
