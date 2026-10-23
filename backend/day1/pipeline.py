@@ -13,7 +13,7 @@ import json
 from pathlib import Path
 
 from brain import ask_groq, check_reply
-from gnani import stt, to_wav16k, tts
+from gnani import stt, to_wav16k, tts_stream
 from quantities import quantities
 
 parser = argparse.ArgumentParser()
@@ -21,10 +21,11 @@ parser.add_argument("--stt", default="en-IN", help="Prisma language code: en-IN 
 parser.add_argument("--model", default="openai/gpt-oss-120b", help="Groq model id")
 parser.add_argument("--voice", default="Kalpana", help="Timbre v3.0 voice")
 parser.add_argument("--language", default="hi-en", help="Session language: hi-en, hi, pa or en")
+parser.add_argument("--recordings", help="Folder of recordings (default day1/recordings)")
 args = parser.parse_args()
 
 DAY1 = Path(__file__).resolve().parent
-RECORDINGS = DAY1 / "recordings"
+RECORDINGS = Path(args.recordings) if args.recordings else DAY1 / "recordings"
 OUT = DAY1 / "out"
 AUDIO = {".m4a", ".mp3", ".ogg", ".wav", ".aac", ".flac", ".opus", ".webm"}
 files = sorted(p for p in RECORDINGS.glob("*") if p.suffix.lower() in AUDIO) if RECORDINGS.exists() else []
@@ -45,7 +46,8 @@ for path in files:
         brain = ask_groq(transcript, args.model, args.language)
         if "error" in brain:
             raise RuntimeError(f"Groq {brain['error']}")
-        audio, tts_ms = tts(brain["reply"], args.voice, args.language)
+        # Streaming: Amma ji can start speaking as soon as the first piece arrives, so that is what we time.
+        audio, tts_ms, tts_done_ms = tts_stream(brain["reply"], args.voice, args.language)
     except Exception as e:
         print(f"  FAILED {e}")
         rows.append({**row, "error": str(e)})
@@ -64,7 +66,7 @@ for path in files:
     print(f"  tool       : {brain['tool']} {json.dumps(brain['args'], ensure_ascii=False)}")
     print(f"  reply      : {brain['reply']}" + (f"   problems: {', '.join(problems)}" if problems else ""))
     print(f"  ms         : convert {convert_ms:.0f} + STT {stt_ms:.0f} + Groq {brain['ms']:.0f} "
-          f"+ TTS {tts_ms:.0f} = {total:.0f} to first audio")
+          f"+ TTS first sound {tts_ms:.0f} = {total:.0f} to first audio")
     rows.append({**row, "transcript": transcript, "tool": brain["tool"], "args": brain["args"],
                  "reply": brain["reply"], "problems": problems, "convert_ms": round(convert_ms),
                  "stt_ms": round(stt_ms), "groq_ms": round(brain["ms"]), "tts_ms": round(tts_ms),

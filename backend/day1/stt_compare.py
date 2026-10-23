@@ -5,17 +5,18 @@ Optional: add backend/day1/recordings/expected.json with what you actually said,
     {"q01.m4a": "Amma ji, do chammach namak daal doon?"}
 so the script can score how many quantity words each code caught.
 
-Run from the backend folder:  python day1/stt_compare.py
+Run from the backend folder:  python day1/stt_compare.py   (or add a folder: python day1/stt_compare.py some/folder)
 Prints both transcripts per recording and saves everything to day1/out/stt_results.json.
 """
 import json
+import sys
 from pathlib import Path
 
 from gnani import stt, to_wav16k, wav_seconds
 from quantities import quantities
 
 DAY1 = Path(__file__).resolve().parent
-RECORDINGS = DAY1 / "recordings"
+RECORDINGS = Path(sys.argv[1]) if len(sys.argv) > 1 else DAY1 / "recordings"
 OUT = DAY1 / "out"
 CODES = ["hi-IN", "en-IN"]
 AUDIO = {".m4a", ".mp3", ".ogg", ".wav", ".aac", ".flac", ".opus", ".webm"}

@@ -19,6 +19,7 @@ if not API_KEY:
     sys.exit("GROQ_API_KEY missing. Copy backend/.env.example to backend/.env and fill it in.")
 
 URL = "https://api.groq.com/openai/v1/chat/completions"
+HTTP = requests.Session()  # keeps the connection to Groq open between calls
 
 # A small hand-written recipe, in our own words. Real recipe files come in Days 3-5.
 RECIPE = {
@@ -91,20 +92,22 @@ LANGUAGE_RULES = {
     "hi-en": "Reply in Hinglish: Hindi words in Devanagari, common English words (cooker, timer, ok) may "
              "stay in English letters. Never write Hindi words in English letters.",
     "pa": "Reply in Punjabi written in Gurmukhi.",
-    "en": "Reply in simple Indian English.",
+    "en": "Reply in simple Indian English, in English letters. Only the word बेटा stays in Devanagari.",
 }
 
 SYSTEM_PROMPT = """You are Amma ji, a warm Indian mother helping the user cook, by voice.
+You are a woman: always use feminine verb forms for yourself (रही हूँ, गई थी, बताती हूँ), never masculine (रहा हूँ).
 Rules for every reply:
 - 1-2 short sentences. The user is cooking, not reading.
 - {language_rule}
-- Warm and caring. Call the user "beta". {tease_rule}
+- Warm and caring. Call the user "बेटा", written in Devanagari. {tease_rule}
 - At most one audio tag per reply, only where it fits: <sigh> for mistakes, <laugh> for jokes. Most replies need none.
 - Tease only about cooking. Never about weight, looks, eating habits, money or anything personal.
 - Cooking instructions always beat jokes. Be supportive when the user makes a mistake.
 - For mistakes, use the recipe's common_mistakes fix first.
 - Substitutes only from the recipe's substitutes list. Otherwise say you have not tried it and suggest the safe option.
-- For salt, chilli, water or oil quantities, repeat the amount back to confirm it.
+- Before telling the user to add something, check ingredients_added and completed_steps. If it is already in, say so and do not add it twice.
+- For salt, chilli, water or oil quantities, repeat the recipe amount back. If the user's amount differs from the recipe, say no and give the recipe amount.
 - Never invent outcomes. If unsure, say so and suggest the safe option.
 - Always call exactly one tool. Put what you say out loud in its "reply" argument.
 
@@ -128,8 +131,8 @@ def tool(name, when, **params):
 
 TOOLS = [
     tool("next_step", "User is ready for the next step. Reply reads out the next step."),
-    tool("previous_step", "User wants to go back to the previous step."),
-    tool("repeat_step", "User wants the current step again.",
+    tool("previous_step", "User asks about or wants to go back to the step before the current one."),
+    tool("repeat_step", "User wants the current step said again.",
          slow={"type": "boolean", "description": "True if the user asked to say it slowly"}),
     tool("mark_added", "User says they added an ingredient.",
          ingredient={"type": "string", "description": "Ingredient id from the recipe, e.g. turmeric"}),
@@ -178,7 +181,7 @@ def ask_groq(user_text, model, language="hi-en", teasing=True):
     waited = 0.0
     for _ in range(4):
         start = time.perf_counter()
-        r = requests.post(URL, headers={"Authorization": f"Bearer {API_KEY}"}, json=body, timeout=60)
+        r = HTTP.post(URL, headers={"Authorization": f"Bearer {API_KEY}"}, json=body, timeout=60)
         ms = (time.perf_counter() - start) * 1000
         if r.status_code != 429:
             break
