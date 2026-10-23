@@ -118,3 +118,15 @@ def test_normalise_writes_ingredients_in_the_reply_script():
     assert normalise("Desi Ghee aur jeera", "pa") == "ਘਿਓ aur ਜੀਰਾ"
     assert normalise("haldi daal di", "en") == "haldi daal di"
     assert normalise("teliya", "hi") == "teliya"  # only whole words
+
+
+def test_hinglish_steps_are_spoken_in_devanagari():
+    p = public(fresh(language="hi-en"))
+    assert p["step"]["text"].startswith("Toor dal")
+    assert p["step"]["speak"].startswith("तूर दाल")
+
+
+def test_timer_labels_read_like_words():
+    s = fresh()
+    apply_tool(s, "start_timer", {"minutes": 5, "label": "dal_tadka_step3"})
+    assert live_timers(s)[0]["label"] == "dal tadka step3"

@@ -1,10 +1,10 @@
 import { useRef, useState } from "react";
 import Kadhai from "../components/Kadhai.jsx";
-import { GREETINGS, LANGUAGES } from "../data/dalTadka.js";
+import { GREETINGS, LANGUAGES } from "../data/copy.js";
 import "./Start.css";
 
 // Flow A: pick a language and start. The "Start cooking" tap also unlocks browser audio later.
-export default function Start({ language, setLanguage, lessTeasing, setLessTeasing, onStart }) {
+export default function Start({ language, setLanguage, lessTeasing, setLessTeasing, onStart, starting, notice }) {
   const [mood, setMood] = useState("intro");
   const [greeting, setGreeting] = useState(0);
   const timer = useRef(null);
@@ -61,9 +61,15 @@ export default function Start({ language, setLanguage, lessTeasing, setLessTeasi
           <span>Less teasing, just the cooking</span>
         </label>
 
-        <button className="start__go" onClick={onStart}>
-          Start cooking
+        <button className="start__go" onClick={onStart} disabled={starting}>
+          {starting ? "Getting the kadhai ready" : "Start cooking"}
         </button>
+
+        {notice && (
+          <p className="start__notice" role="alert">
+            {notice}
+          </p>
+        )}
 
         <p className="start__privacy">
           Amma ji listens for her name on your device. Only what you say after "Amma ji" is sent to

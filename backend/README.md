@@ -10,7 +10,8 @@ python3 -m venv .venv
 .venv/bin/uvicorn app.main:app --reload
 ```
 
-Keys come from environment variables, or from `backend/.env` (copy `.env.example`). Then open
+Keys come from environment variables, or from `backend/.env` (copy `.env.example`): `GNANI_API_KEY`,
+`GROQ_API_KEY`, and optionally `GROQ_MODEL`, `TTS_VOICE` (default Chetana), `FRONTEND_ORIGINS`. Then open
 http://localhost:8000/docs to try every endpoint in the browser.
 
 ## Endpoints
@@ -22,7 +23,13 @@ http://localhost:8000/docs to try every endpoint in the browser.
 | POST | `/api/sessions` | Start cooking: `{recipe_id, language, teasing, allergies}` |
 | GET | `/api/sessions/{id}` | Current state, live timers, current step |
 | POST | `/api/sessions/{id}/step` | Back and Next buttons: `{action: "next" or "previous"}`, no AI |
-| POST | `/api/sessions/{id}/say` | One turn: `{text}`. Groq picks a tool and writes the reply, code carries it out |
+| POST | `/api/sessions/{id}/timer` | Start a timer from a tap: `{minutes, label}`, no AI |
+| POST | `/api/sessions/{id}/say` | One typed turn: `{text}`. Groq picks a tool and writes the reply, code carries it out |
+| POST | `/api/sessions/{id}/listen` | One spoken turn: the body is a WAV (mono, 16 kHz). Prisma STT, then the same turn as `/say` |
+| POST | `/api/speak` | Amma ji's voice: `{text, language, speed}`. Streams raw 16-bit PCM at 24 kHz as Timbre makes it |
+
+Gnani allows one voice (TTS) request at a time per account, so a new `/speak` cuts off the one
+still playing. Two people using the app at the same moment will cut each other off.
 
 ## How a turn works
 

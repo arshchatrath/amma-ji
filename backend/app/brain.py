@@ -117,11 +117,22 @@ TOOLS = [
          to={"type": "string", "enum": SUBSTITUTES, "description": "the one listed substitute you suggest"}),
     tool("fix_mistake", "Made a mistake.", description={"type": "string"}),
     tool("adjust_spice", "Wants it more or less spicy.", direction={"type": "string", "enum": ["more", "less"]}),
-    tool("start_timer", "Wants a timer.", minutes={"type": "number"}, label={"type": "string"}),
+    tool("start_timer", "Wants a timer.", minutes={"type": "number"},
+         label={"type": "string", "description": "2-3 words the cook will recognise, like dal simmer"}),
     tool("check_timer", "Asks how much time is left."),
     tool("shorten_time", "Has less time than the recipe needs.", minutes_available={"type": "number"}),
     tool("answer_question", "Any other question about the recipe or step.", text={"type": "string"}),
 ]
+
+
+def warm():
+    """Open the Groq connection early (at session start), so the first question is not slowed by it."""
+    key = os.getenv("GROQ_API_KEY")
+    if key:
+        try:
+            HTTP.get("https://api.groq.com/openai/v1/models", headers={"Authorization": f"Bearer {key}"}, timeout=5)
+        except requests.RequestException:
+            pass
 
 
 class BrainError(Exception):

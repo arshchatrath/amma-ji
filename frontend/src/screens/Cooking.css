@@ -253,3 +253,89 @@
   color: var(--jamun-soft);
   margin-top: calc(var(--space-m) * -1);
 }
+
+/* Privacy: always obvious when the mic is recording */
+.cook__mic-on {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: var(--r-pill);
+  background: var(--matka);
+  color: var(--steel-shine);
+  font-weight: 700;
+}
+
+.cook__mic-on::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--steel-shine);
+  animation: mic-blink 1s steps(2, start) infinite;
+}
+
+@keyframes mic-blink {
+  to { visibility: hidden; }
+}
+
+.cook__timer-start {
+  min-height: var(--tap);
+  border-radius: var(--r-plate);
+  border: 2.5px dashed var(--jamun);
+  background: transparent;
+  font-weight: 700;
+  font-size: var(--text-m);
+}
+
+.cook__error {
+  padding: 12px 16px;
+  border-radius: var(--r-small);
+  border-left: 6px solid var(--matka);
+  background: var(--steel-shine);
+  font-weight: 500;
+}
+
+.cook__type {
+  display: flex;
+  gap: var(--space-s);
+}
+
+.cook__type input {
+  flex: 1;
+  min-width: 0;
+  min-height: 50px;
+  padding: 0 18px;
+  border-radius: var(--r-pill);
+  border: 2px solid var(--steel-mid);
+  background: var(--steel-shine);
+  font: inherit;
+  color: var(--jamun);
+}
+
+.cook__type input::placeholder {
+  color: var(--jamun-soft);
+}
+
+.cook__type button {
+  min-height: 50px;
+  padding: 0 20px;
+  border-radius: var(--r-pill);
+  border: 0;
+  background: var(--jamun);
+  color: var(--haldi);
+  font-weight: 700;
+}
+
+.cook__type button:disabled {
+  background: var(--steel-mid);
+  color: var(--steel-shine);
+  cursor: default;
+}
+
+.cook__dev {
+  font-size: var(--text-s);
+  font-variant-numeric: tabular-nums;
+  color: var(--jamun-soft);
+}

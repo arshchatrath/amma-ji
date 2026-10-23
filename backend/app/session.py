@@ -101,6 +101,8 @@ def public(state):
         "total_steps": len(recipe["steps"]),
         "recipe_name": recipe["name"].get(state["language"]) or recipe["name"]["en"],
         "step": {"n": n, "text": step_text(recipe, n, state["language"]),
+                 # what Timbre reads aloud: Devanagari for Hinglish, since romanized Hindi is misread
+                 "speak": step_text(recipe, n, "hi" if state["language"] == "hi-en" else state["language"]),
                  "safety": step.get("safety"), "timer_min": step.get("timer_min")},
     }
 
@@ -152,9 +154,9 @@ def apply_tool(state, tool, args):
         except (TypeError, ValueError):
             minutes = 0
         if 0 < minutes <= 180:
-            label = str(args.get("label") or "timer")[:40]
+            label = str(args.get("label") or "timer").replace("_", " ").strip()[:40] or "timer"
             ends = now() + timedelta(minutes=minutes)
-            state["timers"].append({"label": label, "ends_at": ends.isoformat()})
+            state["timers"].append({"label": label, "minutes": minutes, "ends_at": ends.isoformat()})
             effect["timer_started"] = {"label": label, "minutes": minutes}
     return effect
 

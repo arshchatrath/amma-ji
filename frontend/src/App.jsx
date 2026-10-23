@@ -1,50 +1,78 @@
 import { useEffect, useState } from "react";
+import { api } from "./api.js";
+import { unlockAudio } from "./audio/context.js";
 import Cooking from "./screens/Cooking.jsx";
 import Start from "./screens/Start.jsx";
 
-// Remembered on this device only, for convenience. Works fine if storage is blocked.
-function remembered(key, fallback) {
+// Small helpers for browser storage. The app still works if storage is blocked.
+function read(store, key, fallback) {
   try {
-    const v = localStorage.getItem(key);
+    const v = store.getItem(key);
     return v === null ? fallback : JSON.parse(v);
   } catch {
     return fallback;
   }
 }
 
-function remember(key, value) {
+function write(store, key, value) {
   try {
-    localStorage.setItem(key, JSON.stringify(value));
+    if (value === null) store.removeItem(key);
+    else store.setItem(key, JSON.stringify(value));
   } catch {
     // storage blocked: nothing to do
   }
 }
 
-// Which screen to show comes from the address bar: #cooking or the start screen
-function screenFromHash() {
-  return window.location.hash === "#cooking" ? "cooking" : "start";
-}
+const onCookingPage = () => window.location.hash === "#cooking";
 
 export default function App() {
-  const [screen, setScreen] = useState(screenFromHash);
-  const [language, setLanguage] = useState(() => remembered("language", "hi-en"));
-  const [lessTeasing, setLessTeasing] = useState(() => remembered("lessTeasing", false));
+  const [language, setLanguage] = useState(() => read(localStorage, "language", "hi-en"));
+  const [lessTeasing, setLessTeasing] = useState(() => read(localStorage, "lessTeasing", false));
+  const [session, setSession] = useState(null);
+  const [starting, setStarting] = useState(false);
+  const [notice, setNotice] = useState("");
 
-  useEffect(() => {
-    const onHash = () => setScreen(screenFromHash());
-    window.addEventListener("hashchange", onHash);
-    return () => window.removeEventListener("hashchange", onHash);
-  }, []);
-
-  useEffect(() => remember("language", language), [language]);
-  useEffect(() => remember("lessTeasing", lessTeasing), [lessTeasing]);
-
+  useEffect(() => write(localStorage, "language", language), [language]);
+  useEffect(() => write(localStorage, "lessTeasing", lessTeasing), [lessTeasing]);
   useEffect(() => {
     document.documentElement.lang = language === "hi-en" ? "hi-Latn" : language;
   }, [language]);
 
-  if (screen === "cooking") {
-    return <Cooking language={language} onExit={() => (window.location.hash = "")} />;
+  function backToStart(message = "") {
+    write(sessionStorage, "session", null);
+    setSession(null);
+    setNotice(message);
+    if (onCookingPage()) window.location.hash = "";
+  }
+
+  // Coming back to #cooking after a refresh: pick the session up again if the server still has it
+  useEffect(() => {
+    const id = read(sessionStorage, "session", null);
+    if (!onCookingPage() || !id) return backToStart();
+    api.get(id).then(setSession, () => backToStart("That cooking session ended. Start a new one."));
+    const onHash = () => !onCookingPage() && setSession(null);
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  async function start() {
+    unlockAudio(); // this tap is what lets the browser play Amma ji's voice
+    setStarting(true);
+    setNotice("");
+    try {
+      const fresh = await api.start({ recipe_id: "dal_tadka", language, teasing: !lessTeasing });
+      write(sessionStorage, "session", fresh.session_id);
+      setSession(fresh);
+      window.location.hash = "cooking";
+    } catch (e) {
+      setNotice(e.message);
+    } finally {
+      setStarting(false);
+    }
+  }
+
+  if (session && onCookingPage()) {
+    return <Cooking key={session.session_id} session={session} onExit={() => backToStart()} onEnded={backToStart} />;
   }
   return (
     <Start
@@ -52,7 +80,9 @@ export default function App() {
       setLanguage={setLanguage}
       lessTeasing={lessTeasing}
       setLessTeasing={setLessTeasing}
-      onStart={() => (window.location.hash = "cooking")}
+      onStart={start}
+      starting={starting}
+      notice={notice}
     />
   );
 }
