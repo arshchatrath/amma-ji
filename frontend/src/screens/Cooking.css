@@ -1,0 +1,255 @@
+.cook {
+  min-height: 100dvh;
+  background: var(--steel);
+  padding: var(--space-m) var(--gutter) 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-l);
+  max-width: var(--column);
+  margin: 0 auto;
+}
+
+.cook__top {
+  display: flex;
+  align-items: center;
+  gap: var(--space-m);
+}
+
+.cook__back {
+  flex: none;
+  width: var(--tap);
+  height: var(--tap);
+  border-radius: 50%;
+  border: 2.5px solid var(--jamun);
+  background: transparent;
+  display: grid;
+  place-items: center;
+}
+
+.cook__back svg {
+  width: 26px;
+  height: 26px;
+  fill: none;
+  stroke: var(--jamun);
+  stroke-width: 2.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.cook__title h1 {
+  font-size: var(--text-xl);
+  font-weight: 800;
+  font-stretch: 112.5%;
+  line-height: 1;
+}
+
+.cook__title p {
+  color: var(--jamun-soft);
+  font-weight: 500;
+}
+
+/* Seven pieces, like seven katoris on a thali */
+.cook__progress {
+  list-style: none;
+  margin: -12px 0 0;
+  padding: 0;
+  display: grid;
+  grid-auto-flow: column;
+  gap: 6px;
+}
+
+.cook__progress li {
+  height: 10px;
+  border-radius: var(--r-pill);
+  border: 2px solid var(--steel-mid);
+}
+
+.cook__progress .is-done {
+  background: var(--jamun);
+  border-color: var(--jamun);
+}
+
+.cook__progress .is-now {
+  background: var(--haldi);
+  border-color: var(--jamun);
+}
+
+/* The step is the biggest thing on screen: readable from the stove */
+.cook__step-text {
+  font-size: var(--text-step);
+  font-weight: 650;
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  animation: step-in 320ms cubic-bezier(0.2, 0.9, 0.3, 1.2);
+}
+
+@keyframes step-in {
+  from { opacity: 0; transform: translateX(24px); }
+  to { opacity: 1; transform: none; }
+}
+
+.cook__safety {
+  margin-top: var(--space-m);
+  padding: 12px 16px;
+  border-left: 6px solid var(--matka);
+  background: var(--steel-shine);
+  border-radius: 0 var(--r-small) var(--r-small) 0;
+  font-weight: 500;
+}
+
+.cook__safety strong {
+  color: var(--matka);
+}
+
+/* Timer: a haldi slab that drains as time runs out */
+.cook__timer {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-m);
+  padding: 16px 22px;
+  border-radius: var(--r-plate);
+  background: var(--haldi);
+  border: 2.5px solid var(--jamun);
+  overflow: hidden;
+}
+
+.cook__timer-label {
+  font-weight: 600;
+  font-size: var(--text-m);
+}
+
+.cook__timer-time {
+  font-size: var(--text-xl);
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-stretch: 112.5%;
+}
+
+.cook__timer-bar {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 8px;
+  width: 100%;
+  background: var(--jamun);
+  transform-origin: left;
+  transform: scaleX(var(--left));
+  transition: transform 1s linear;
+}
+
+.cook__timer.is-done {
+  background: var(--dhaniya);
+  color: var(--steel-shine);
+  border-color: var(--dhaniya);
+}
+
+/* The last exchange: what you said, small; what she said, in her bubble */
+.cook__chat {
+  display: grid;
+  gap: var(--space-s);
+}
+
+.cook__you {
+  justify-self: end;
+  max-width: 85%;
+  padding: 10px 16px;
+  border-radius: 20px 20px 4px 20px;
+  border: 2px solid var(--steel-mid);
+  color: var(--jamun-soft);
+  font-weight: 500;
+}
+
+.cook__amma {
+  max-width: 92%;
+  padding: 14px 18px;
+  border-radius: 20px 20px 20px 4px;
+  background: var(--haldi-soft);
+  font-size: var(--text-l);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+/* The dock stays at the bottom, within thumb reach */
+.cook__dock {
+  position: sticky;
+  bottom: 0;
+  margin: auto calc(var(--gutter) * -1) 0;
+  padding: 12px var(--gutter) calc(14px + env(safe-area-inset-bottom));
+  background: var(--steel-shine);
+  border-radius: var(--r-plate) var(--r-plate) 0 0;
+  border: 2.5px solid var(--jamun);
+  border-bottom: 0;
+  display: grid;
+  gap: var(--space-s);
+  justify-items: center;
+}
+
+.cook__status {
+  font-weight: 600;
+  min-height: 1.5em;
+  text-align: center;
+}
+
+.cook__row {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: var(--space-m);
+}
+
+.cook__row--small {
+  grid-template-columns: 1fr 1fr;
+}
+
+.cook__row--small .cook__pill {
+  min-height: 50px;
+}
+
+.cook__nav,
+.cook__pill {
+  min-height: var(--tap);
+  border-radius: var(--r-pill);
+  border: 2.5px solid var(--jamun);
+  background: transparent;
+  font-weight: 700;
+  font-size: var(--text-m);
+  padding: 0 18px;
+}
+
+.cook__nav:disabled {
+  border-color: var(--steel-mid);
+  color: var(--jamun-soft);
+  cursor: default;
+}
+
+.cook__pill.is-on {
+  background: var(--jamun);
+  color: var(--steel-shine);
+}
+
+.cook__pill--stop {
+  background: var(--matka);
+  border-color: var(--matka);
+  color: var(--steel-shine);
+}
+
+.cook__mic {
+  border: 0;
+  padding: 4px;
+  background: none;
+  border-radius: 50%;
+  transition: transform 160ms ease;
+}
+
+.cook__mic:active {
+  transform: scale(0.94);
+}
+
+.cook__note {
+  font-size: var(--text-s);
+  color: var(--jamun-soft);
+  margin-top: calc(var(--space-m) * -1);
+}

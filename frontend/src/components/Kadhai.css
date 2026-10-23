@@ -1,0 +1,98 @@
+.kadhai {
+  display: block;
+  overflow: visible;
+}
+
+.kadhai__handle {
+  fill: var(--jamun);
+}
+
+.kadhai__rim {
+  stroke: var(--jamun);
+  stroke-width: 3;
+}
+
+.kadhai__oil {
+  fill: var(--haldi);
+  stroke: var(--jamun);
+  stroke-width: 2;
+  transition: fill 300ms ease;
+}
+
+.kadhai__seed {
+  fill: var(--jamun);
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+.kadhai__seed--jeera {
+  fill: var(--jeera);
+}
+
+.kadhai__seeds {
+  transform-box: view-box;
+  transform-origin: 100px 100px;
+}
+
+.kadhai__ripple {
+  fill: none;
+  stroke: var(--haldi-soft);
+  stroke-width: 3;
+  opacity: 0;
+  transform-box: view-box;
+  transform-origin: 100px 100px;
+}
+
+/* Listening: mustard seeds splutter in hot oil */
+.kadhai--listening .kadhai__seed {
+  animation: splutter 520ms ease-in-out infinite alternate;
+  animation-delay: calc(var(--i) * -97ms);
+}
+
+@keyframes splutter {
+  from { transform: translateY(0) scale(1); }
+  to { transform: translateY(-7px) scale(1.25); }
+}
+
+/* Thinking: someone is stirring */
+.kadhai--thinking .kadhai__seeds {
+  animation: stir 2.2s linear infinite;
+}
+
+@keyframes stir {
+  to { transform: rotate(360deg); }
+}
+
+/* Speaking: the oil ripples out from the middle */
+.kadhai--speaking .kadhai__ripple {
+  animation: ripple 1.6s ease-out infinite;
+}
+
+.kadhai--speaking .kadhai__ripple--late {
+  animation-delay: 0.8s;
+}
+
+@keyframes ripple {
+  from { opacity: 0.9; transform: scale(0.3); }
+  to { opacity: 0; transform: scale(1.65); }
+}
+
+/* Muted: flame off */
+.kadhai--muted .kadhai__oil {
+  fill: var(--steel);
+}
+
+.kadhai--muted .kadhai__seed {
+  fill: var(--steel-mid);
+}
+
+/* Start screen: the tadka goes in, one seed at a time */
+.kadhai--intro .kadhai__seed {
+  animation: drop 560ms cubic-bezier(0.3, 1.5, 0.5, 1) both;
+  animation-delay: calc(300ms + var(--i) * 55ms);
+}
+
+@keyframes drop {
+  from { opacity: 0; transform: translateY(-90px) scale(0.4); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}

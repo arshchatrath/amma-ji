@@ -1,0 +1,22 @@
+{
+  "name": "amma-ji-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/anek-devanagari": "^5.3.0",
+    "@fontsource-variable/anek-gurmukhi": "^5.3.0",
+    "@fontsource-variable/anek-latin": "^5.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  }
+}

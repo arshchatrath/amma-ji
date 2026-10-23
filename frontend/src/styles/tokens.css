@@ -1,0 +1,41 @@
+/* Every colour, font and size for Amma ji lives here. Change it here and it changes everywhere. */
+:root {
+  /* Kitchen palette. Contrast checked: every text pair below passes WCAG AA. */
+  --haldi: #f6b70e;        /* turmeric: Amma ji's colour, anything active */
+  --haldi-soft: #fce7a6;   /* turmeric milk: her speech bubble */
+  --jamun: #2a1533;        /* jamun: all main text, the kadhai's rim */
+  --jamun-soft: #5b4766;   /* secondary text (6.9:1 on steel, 4.6:1 on haldi) */
+  --steel: #e8ebed;        /* steel thali: cooking mode background */
+  --steel-mid: #6e7780;    /* borders and outlines only, never text */
+  --steel-shine: #ffffff;  /* light catching the steel */
+  --matka: #b23a22;        /* clay pot: Stop and safety notes */
+  --dhaniya: #2e6b45;      /* coriander: done, safe to go */
+  --jeera: #8a5a2b;        /* cumin seeds in the kadhai */
+
+  /* One family for Latin, Devanagari and Gurmukhi, so Hinglish, Hindi and Punjabi look related */
+  --font: "Anek Latin Variable", "Anek Devanagari Variable", "Anek Gurmukhi Variable", system-ui, sans-serif;
+
+  /* Type scale, big on purpose: it has to be read from across the kitchen */
+  --text-s: 1rem;
+  --text-m: 1.1875rem;
+  --text-l: 1.5rem;
+  --text-xl: 2rem;
+  --text-step: clamp(2rem, 8.4vw, 3.4rem);
+  --text-brand: clamp(4rem, 22vw, 9rem);
+
+  /* Shapes: round things are touchable, plates hold content */
+  --r-pill: 999px;
+  --r-plate: 28px;
+  --r-small: 14px;
+
+  /* Spacing */
+  --gutter: 16px;
+  --space-s: 8px;
+  --space-m: 16px;
+  --space-l: 28px;
+  --space-xl: 44px;
+
+  /* Touch: messy hands need big targets */
+  --tap: 56px;
+  --column: 36rem;
+}

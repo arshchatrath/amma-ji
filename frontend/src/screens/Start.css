@@ -1,0 +1,205 @@
+.start {
+  min-height: 100dvh;
+  background: var(--haldi);
+  padding: var(--space-l) var(--gutter) var(--space-xl);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-l);
+  align-content: start;
+}
+
+.start__hero,
+.start__form {
+  display: grid;
+  gap: var(--space-l);
+  min-width: 0;
+}
+
+/* The wordmark is the loudest thing on the page: wide, heavy, edge to edge */
+.start__brand {
+  font-size: var(--text-brand);
+  font-weight: 800;
+  font-stretch: 125%;
+  line-height: 0.82;
+  letter-spacing: -0.02em;
+  margin-left: -0.04em;
+}
+
+.start__hello {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: var(--space-m);
+}
+
+.start__kadhai {
+  border: 0;
+  padding: 0;
+  background: none;
+  border-radius: 50%;
+  margin-left: -10px;
+  transition: transform 160ms ease;
+}
+
+.start__kadhai:active {
+  transform: scale(0.96) rotate(-4deg);
+}
+
+.start__greeting {
+  font-size: var(--text-l);
+  font-weight: 600;
+  font-stretch: 87.5%;
+  line-height: 1.15;
+  max-width: 12em;
+}
+
+.start__languages {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.start__languages legend {
+  font-size: var(--text-m);
+  font-weight: 600;
+  padding: 0;
+  margin-bottom: var(--space-s);
+}
+
+.start__options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-s);
+}
+
+.start__option {
+  position: relative;
+  display: grid;
+  gap: 2px;
+  min-height: 84px;
+  padding: 14px 16px;
+  border: 2.5px solid var(--jamun);
+  border-radius: var(--r-plate);
+  cursor: pointer;
+  transition: background 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.start__option input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.start__option:has(input:focus-visible) {
+  outline: 3px solid var(--jamun);
+  outline-offset: 3px;
+}
+
+.start__option:has(input:checked) {
+  background: var(--jamun);
+  color: var(--haldi);
+  transform: rotate(-1.5deg);
+}
+
+.start__option-name {
+  font-size: var(--text-l);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.start__option-hint {
+  font-size: var(--text-s);
+  line-height: 1.25;
+}
+
+.start__teasing {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: var(--tap);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.start__teasing input {
+  position: absolute;
+  opacity: 0;
+}
+
+.start__switch {
+  flex: none;
+  width: 54px;
+  height: 32px;
+  border-radius: var(--r-pill);
+  border: 2.5px solid var(--jamun);
+  position: relative;
+}
+
+.start__switch::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 21px;
+  height: 21px;
+  border-radius: 50%;
+  background: var(--jamun);
+  transition: transform 160ms ease;
+}
+
+.start__teasing input:checked + .start__switch {
+  background: var(--jamun);
+}
+
+.start__teasing input:checked + .start__switch::after {
+  background: var(--haldi);
+  transform: translateX(22px);
+}
+
+.start__teasing input:focus-visible + .start__switch {
+  outline: 3px solid var(--jamun);
+  outline-offset: 3px;
+}
+
+.start__go {
+  min-height: 68px;
+  border: 0;
+  border-radius: var(--r-pill);
+  background: var(--jamun);
+  color: var(--haldi);
+  font-size: var(--text-xl);
+  font-weight: 700;
+  font-stretch: 112.5%;
+  box-shadow: 0 6px 0 0 color-mix(in srgb, var(--jamun) 55%, var(--haldi));
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+
+.start__go:active {
+  transform: translateY(5px);
+  box-shadow: 0 1px 0 0 color-mix(in srgb, var(--jamun) 55%, var(--haldi));
+}
+
+.start__privacy {
+  font-size: var(--text-s);
+  color: var(--jamun-soft);
+  max-width: 34em;
+}
+
+/* Wider screens: the wordmark and kadhai on the left, choices on the right */
+@media (min-width: 900px) {
+  .start {
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    column-gap: 6vw;
+    padding: var(--space-xl) 6vw;
+    align-content: center;
+    align-items: center;
+  }
+
+  .start__brand {
+    font-size: clamp(6rem, 12vw, 11rem);
+  }
+
+  .start__form {
+    gap: var(--space-m);
+  }
+}

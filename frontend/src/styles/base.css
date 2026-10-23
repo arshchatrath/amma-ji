@@ -1,0 +1,61 @@
+@import "@fontsource-variable/anek-latin/standard.css";
+@import "@fontsource-variable/anek-devanagari/standard.css";
+@import "@fontsource-variable/anek-gurmukhi/standard.css";
+@import "./tokens.css";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  font-size: var(--text-m);
+  line-height: 1.45;
+  color: var(--jamun);
+  background: var(--steel);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+/* A thick, obvious focus ring for keyboard users */
+:focus-visible {
+  outline: 3px solid var(--jamun);
+  outline-offset: 3px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
