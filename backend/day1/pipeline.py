@@ -5,7 +5,7 @@ with quantities heard correctly? Go/no-go line is ~4 seconds.
 
 Uses the same recordings (and optional expected.json) as step 2, in backend/day1/recordings/.
 Run from the backend folder:
-    python day1/pipeline.py --stt en-IN --model openai/gpt-oss-120b --voice Kalpana
+    python day1/pipeline.py --stt en-IN --model openai/gpt-oss-120b --voice Chetana
 Saves Amma ji's spoken replies to day1/out/pipeline/ and the timings to day1/out/pipeline_results.json.
 """
 import argparse
@@ -19,7 +19,7 @@ from quantities import quantities
 parser = argparse.ArgumentParser()
 parser.add_argument("--stt", default="en-IN", help="Prisma language code: en-IN or hi-IN")
 parser.add_argument("--model", default="openai/gpt-oss-120b", help="Groq model id")
-parser.add_argument("--voice", default="Kalpana", help="Timbre v3.0 voice")
+parser.add_argument("--voice", default="Chetana", help="Timbre v3.0 voice (Chetana is Amma ji)")
 parser.add_argument("--language", default="hi-en", help="Session language: hi-en, hi, pa or en")
 parser.add_argument("--recordings", help="Folder of recordings (default day1/recordings)")
 args = parser.parse_args()

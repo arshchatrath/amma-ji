@@ -1,6 +1,6 @@
 """Day 1, step 4 helper: how soon does Amma ji start speaking? Full file (REST) vs streaming (SSE).
 
-Run from the backend folder:  python day1/tts_stream_test.py Kalpana
+Run from the backend folder:  python day1/tts_stream_test.py Chetana
 Speaks the two test lines 3 times each both ways and prints the time to the first sound.
 Saves the streamed audio to day1/out/stream/ so you can check it sounds the same.
 """
@@ -9,7 +9,7 @@ from pathlib import Path
 
 from gnani import tts, tts_stream
 
-VOICE = sys.argv[1] if len(sys.argv) > 1 else "Kalpana"
+VOICE = sys.argv[1] if len(sys.argv) > 1 else "Chetana"
 LINES = {
     "sigh_fix": "<sigh> कोई बात नहीं बेटा। ढक्कन हटा के पाँच मिनट तेज़ आँच पे पकने दो, पानी सूख जाएगा।",
     "laugh_tease": "इतना कुछ घर पे है और तू बाहर से मंगवाने वाला था? <laugh> चल, टमाटर और मसाले हैं ना?",
