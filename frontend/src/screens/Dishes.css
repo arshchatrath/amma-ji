@@ -1,0 +1,95 @@
+.dishes__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--space-m);
+}
+
+/* Each suggestion is a plate: rank number, honest label, name, reason */
+.dish-card {
+  position: relative;
+  width: 100%;
+  display: grid;
+  gap: 6px;
+  justify-items: start;
+  text-align: left;
+  padding: 18px 20px 18px 64px;
+  border-radius: var(--r-plate);
+  border: 2.5px solid var(--jamun);
+  background: var(--steel-shine);
+  font: inherit;
+  color: var(--jamun);
+  transition: transform 140ms ease;
+}
+
+.dish-card:active {
+  transform: scale(0.98);
+}
+
+.dish-card__rank {
+  position: absolute;
+  left: 14px;
+  top: 16px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: var(--jamun);
+  color: var(--haldi);
+  font-weight: 800;
+  font-size: var(--text-m);
+}
+
+.dish-card__label {
+  padding: 3px 12px;
+  border-radius: var(--r-pill);
+  font-weight: 700;
+  font-size: var(--text-s);
+}
+
+.label--can_make_now {
+  background: var(--dhaniya);
+  color: var(--steel-shine);
+}
+
+.label--needs_one_optional,
+.label--needs_optional {
+  background: var(--haldi);
+  color: var(--jamun);
+}
+
+.label--missing_essential {
+  border: 2px solid var(--matka);
+  color: var(--matka);
+}
+
+.dish-card__name {
+  font-size: var(--text-l);
+  font-weight: 800;
+  font-stretch: 106%;
+  line-height: 1.1;
+}
+
+.dish-card__why {
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.dish-card__facts {
+  font-size: var(--text-s);
+  color: var(--jamun-soft);
+}
+
+.dishes__none {
+  font-weight: 600;
+}
+
+.dishes__more {
+  min-height: var(--tap);
+  border-radius: var(--r-pill);
+  border: 2.5px solid var(--jamun);
+  background: transparent;
+  font-weight: 700;
+}

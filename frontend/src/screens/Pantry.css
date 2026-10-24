@@ -1,0 +1,250 @@
+.pantry,
+.dishes,
+.dish {
+  min-height: 100dvh;
+  background: var(--steel);
+  padding: var(--space-m) var(--gutter) var(--space-xl);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-l);
+  max-width: var(--column);
+  margin: 0 auto;
+}
+
+.pantry h1,
+.dishes h1 {
+  font-size: var(--text-xl);
+  font-weight: 800;
+  font-stretch: 112.5%;
+  line-height: 1.05;
+}
+
+.pantry h2,
+.dish h2 {
+  font-size: var(--text-m);
+  font-weight: 700;
+  margin-bottom: var(--space-s);
+}
+
+.pantry__top,
+.dishes__top {
+  display: flex;
+  align-items: center;
+  gap: var(--space-m);
+}
+
+/* Shared round back button (cooking mode has its own) */
+.round-button {
+  flex: none;
+  width: var(--tap);
+  height: var(--tap);
+  border-radius: 50%;
+  border: 2.5px solid var(--jamun);
+  background: transparent;
+  display: grid;
+  place-items: center;
+}
+
+.round-button svg {
+  width: 26px;
+  height: 26px;
+  fill: none;
+  stroke: var(--jamun);
+  stroke-width: 2.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.pantry__voice {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: var(--space-m);
+  padding: var(--space-m);
+  border-radius: var(--r-plate);
+  background: var(--haldi);
+  border: 2.5px solid var(--jamun);
+}
+
+.pantry__mic {
+  border: 0;
+  padding: 0;
+  background: none;
+  border-radius: 50%;
+  transition: transform 160ms ease;
+}
+
+.pantry__mic:active {
+  transform: scale(0.94);
+}
+
+.pantry__status {
+  font-weight: 700;
+  font-size: var(--text-m);
+  line-height: 1.2;
+}
+
+.pantry__example {
+  margin-top: 6px;
+  font-size: var(--text-s);
+  color: var(--jamun-soft);
+}
+
+.pantry__mic-on {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 12px;
+  border-radius: var(--r-pill);
+  background: var(--matka);
+  color: var(--steel-shine);
+  font-weight: 700;
+}
+
+.pantry__type,
+.pantry__add {
+  display: flex;
+  gap: var(--space-s);
+}
+
+.pantry__type input,
+.pantry__add input {
+  flex: 1;
+  min-width: 0;
+  min-height: 52px;
+  padding: 0 18px;
+  border-radius: var(--r-pill);
+  border: 2px solid var(--steel-mid);
+  background: var(--steel-shine);
+  font: inherit;
+  color: var(--jamun);
+}
+
+.pantry__type input::placeholder,
+.pantry__add input::placeholder {
+  color: var(--jamun-soft);
+}
+
+.pantry__type button,
+.pantry__add button {
+  min-height: 52px;
+  padding: 0 20px;
+  border-radius: var(--r-pill);
+  border: 0;
+  background: var(--jamun);
+  color: var(--haldi);
+  font-weight: 700;
+}
+
+.pantry__type button:disabled,
+.pantry__add button:disabled {
+  background: var(--steel-mid);
+  color: var(--steel-shine);
+  cursor: default;
+}
+
+.pantry__add {
+  margin-top: var(--space-m);
+}
+
+.pantry__heard,
+.pantry__empty,
+.pantry__missing {
+  color: var(--jamun-soft);
+  font-size: var(--text-s);
+}
+
+.pantry__error {
+  padding: 12px 16px;
+  border-left: 6px solid var(--matka);
+  border-radius: 0 var(--r-small) var(--r-small) 0;
+  background: var(--steel-shine);
+  font-weight: 500;
+}
+
+.chips {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+}
+
+/* An ingredient chip looks like a sticker: tap it to take it out */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 0 16px;
+  border-radius: var(--r-pill);
+  border: 2.5px solid var(--jamun);
+  background: var(--haldi-soft);
+  font-weight: 700;
+  font-size: var(--text-m);
+}
+
+.chip span {
+  font-size: 1.3em;
+  line-height: 1;
+}
+
+.chips li:nth-child(3n + 1) .chip {
+  transform: rotate(-1.5deg);
+}
+
+.chips li:nth-child(3n + 2) .chip {
+  transform: rotate(1deg);
+}
+
+.choice-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+}
+
+.choice {
+  min-height: 48px;
+  padding: 0 18px;
+  border-radius: var(--r-pill);
+  border: 2px solid var(--steel-mid);
+  background: var(--steel-shine);
+  font-weight: 600;
+}
+
+.choice.is-on {
+  border-color: var(--jamun);
+  background: var(--jamun);
+  color: var(--haldi);
+}
+
+.choice--allergy.is-on {
+  border-color: var(--matka);
+  background: var(--matka);
+  color: var(--steel-shine);
+}
+
+.big-button {
+  min-height: 64px;
+  border: 0;
+  border-radius: var(--r-pill);
+  background: var(--jamun);
+  color: var(--haldi);
+  font-size: var(--text-l);
+  font-weight: 700;
+  font-stretch: 112.5%;
+  box-shadow: 0 6px 0 0 color-mix(in srgb, var(--jamun) 55%, var(--steel));
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+
+.big-button:active {
+  transform: translateY(5px);
+  box-shadow: 0 1px 0 0 color-mix(in srgb, var(--jamun) 55%, var(--steel));
+}
+
+.big-button:disabled {
+  background: var(--steel-mid);
+  color: var(--steel-shine);
+  box-shadow: none;
+  cursor: default;
+}

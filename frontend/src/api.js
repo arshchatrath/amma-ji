@@ -42,4 +42,13 @@ export const api = {
       (r) => r.json(),
     ),
   speak: (text, language, speed = 1, signal) => call("/api/speak", { ...post({ text, language, speed }), signal }),
+  hear: (wav, language) =>
+    call(`/api/hear?language=${language}`, { method: "POST", headers: { "Content-Type": "audio/wav" }, body: wav }).then(
+      (r) => r.json(),
+    ),
+  pantry: (text, language) => call("/api/pantry", post({ text, language })).then((r) => r.json()),
+  suggest: (options) => call("/api/suggest", post(options)).then((r) => r.json()),
+  recipe: (id, language) => call(`/api/recipes/${id}?language=${language}`).then((r) => r.json()),
+  recipes: (language) => call(`/api/recipes?language=${language}`).then((r) => r.json()),
+  ingredients: (language) => call(`/api/ingredients?language=${language}`).then((r) => r.json()),
 };

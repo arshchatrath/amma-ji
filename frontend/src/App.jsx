@@ -2,6 +2,9 @@ import { useEffect, useState } from "react";
 import { api } from "./api.js";
 import { unlockAudio } from "./audio/context.js";
 import Cooking from "./screens/Cooking.jsx";
+import Dish from "./screens/Dish.jsx";
+import Dishes from "./screens/Dishes.jsx";
+import Pantry from "./screens/Pantry.jsx";
 import Start from "./screens/Start.jsx";
 
 // Small helpers for browser storage. The app still works if storage is blocked.
@@ -23,47 +26,71 @@ function write(store, key, value) {
   }
 }
 
-const onCookingPage = () => window.location.hash === "#cooking";
+const EMPTY_PANTRY = { have: [], notHave: [], minutes: null, veg: false, allergies: [] };
+
+// Which screen to show comes from the address: #pantry, #dishes, #dish/ID, #cooking, or the start screen
+function route() {
+  const [screen, id] = window.location.hash.replace(/^#/, "").split("/");
+  return { screen: screen || "start", id };
+}
+
+function go(hash) {
+  window.location.hash = hash;
+}
 
 export default function App() {
+  const [where, setWhere] = useState(route);
   const [language, setLanguage] = useState(() => read(localStorage, "language", "hi-en"));
   const [lessTeasing, setLessTeasing] = useState(() => read(localStorage, "lessTeasing", false));
+  const [pantry, setPantry] = useState(() => read(sessionStorage, "pantry", EMPTY_PANTRY));
   const [session, setSession] = useState(null);
   const [starting, setStarting] = useState(false);
   const [notice, setNotice] = useState("");
 
   useEffect(() => write(localStorage, "language", language), [language]);
   useEffect(() => write(localStorage, "lessTeasing", lessTeasing), [lessTeasing]);
+  useEffect(() => write(sessionStorage, "pantry", pantry), [pantry]);
   useEffect(() => {
     document.documentElement.lang = language === "hi-en" ? "hi-Latn" : language;
   }, [language]);
 
-  function backToStart(message = "") {
-    write(sessionStorage, "session", null);
-    setSession(null);
-    setNotice(message);
-    if (onCookingPage()) window.location.hash = "";
-  }
+  useEffect(() => {
+    const onHash = () => setWhere(route());
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []);
 
   // Coming back to #cooking after a refresh: pick the session up again if the server still has it
   useEffect(() => {
+    if (where.screen !== "cooking" || session) return;
     const id = read(sessionStorage, "session", null);
-    if (!onCookingPage() || !id) return backToStart();
-    api.get(id).then(setSession, () => backToStart("That cooking session ended. Start a new one."));
-    const onHash = () => !onCookingPage() && setSession(null);
-    window.addEventListener("hashchange", onHash);
-    return () => window.removeEventListener("hashchange", onHash);
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+    if (!id) return go("");
+    api.get(id).then(setSession, () => {
+      setNotice("That cooking session ended. Start a new one.");
+      go("");
+    });
+  }, [where.screen]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  async function start() {
+  function ended(message = "") {
+    write(sessionStorage, "session", null);
+    setSession(null);
+    setNotice(message);
+    go("dishes");
+  }
+
+  async function cook(recipeId) {
     unlockAudio(); // this tap is what lets the browser play Amma ji's voice
     setStarting(true);
-    setNotice("");
     try {
-      const fresh = await api.start({ recipe_id: "dal_tadka", language, teasing: !lessTeasing });
+      const fresh = await api.start({
+        recipe_id: recipeId,
+        language,
+        teasing: !lessTeasing,
+        allergies: pantry.allergies,
+      });
       write(sessionStorage, "session", fresh.session_id);
       setSession(fresh);
-      window.location.hash = "cooking";
+      go("cooking");
     } catch (e) {
       setNotice(e.message);
     } finally {
@@ -71,8 +98,21 @@ export default function App() {
     }
   }
 
-  if (session && onCookingPage()) {
-    return <Cooking key={session.session_id} session={session} onExit={() => backToStart()} onEnded={backToStart} />;
+  if (where.screen === "cooking" && session) {
+    return <Cooking key={session.session_id} session={session} onExit={() => ended()} onEnded={ended} />;
+  }
+  if (where.screen === "pantry") {
+    return (
+      <Pantry language={language} pantry={pantry} setPantry={setPantry} onFind={() => go("dishes")} onBack={() => go("")} />
+    );
+  }
+  if (where.screen === "dishes") {
+    return <Dishes language={language} pantry={pantry} onOpen={(id) => go(`dish/${id}`)} onBack={() => go("pantry")} />;
+  }
+  if (where.screen === "dish" && where.id) {
+    return (
+      <Dish id={where.id} language={language} onCook={cook} onBack={() => go("dishes")} starting={starting} />
+    );
   }
   return (
     <Start
@@ -80,8 +120,12 @@ export default function App() {
       setLanguage={setLanguage}
       lessTeasing={lessTeasing}
       setLessTeasing={setLessTeasing}
-      onStart={start}
-      starting={starting}
+      onStart={() => {
+        unlockAudio();
+        setNotice("");
+        go("pantry");
+      }}
+      starting={false}
       notice={notice}
     />
   );
