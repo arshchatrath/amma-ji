@@ -38,6 +38,9 @@ ASC147,sticks to the tawa,The tawa was not hot enough. Heat it well and grease i
 ASC155,chana dal still hard,Chana dal takes longest. Add half a cup of water and give it 2 more whistles.,चना दाल सबसे देर में पकती है। आधा कप पानी डालकर 2 सीटी और लगाओ।
 ASC155,too much water,Boil it uncovered on high heat for 5 minutes.,बिना ढके तेज़ आँच पर 5 मिनट उबालो।
 ASC155,too salty,"Add hot water and a squeeze of lemon, and boil for 2 minutes.",गरम पानी और थोड़ा नींबू डालकर 2 मिनट उबालो।
+ASC174,too bitter,Methi is a little bitter. Add a pinch of sugar or a few more carrots next time.,"मेथी थोड़ी कड़वी होती है। चुटकी भर चीनी डालो, या अगली बार गाजर थोड़ी ज़्यादा।"
+ASC174,gritty to eat,The methi had soil in it. Wash the leaves in 2 or 3 changes of water next time.,मेथी में मिट्टी थी। अगली बार पत्ते 2-3 बार पानी बदलकर धोना।
+ASC174,carrot still hard,Cover and cook on low heat for 3 more minutes with a spoon of water.,एक चम्मच पानी डालकर ढककर धीमी आँच पर 3 मिनट और पकाओ।
 ASC175,tastes bitter,Methi is a little bitter by nature. Add a pinch of sugar or a squeeze of lemon and mix.,मेथी थोड़ी कड़वी होती है। चुटकी भर चीनी या नींबू निचोड़कर मिला दो।
 ASC175,potato sticking to the pan,"Sprinkle 2 tablespoons of water, scrape gently and cover for 2 minutes.","2 चम्मच पानी छिड़को, हल्का खुरचो और 2 मिनट ढक दो।"
 ASC175,methi is gritty,It was not washed well. Wash methi in a big bowl of water 2 or 3 times next time.,मेथी अच्छे से नहीं धुली। अगली बार बड़े बर्तन में 2-3 बार पानी बदलकर धोना।
@@ -53,12 +56,39 @@ ASC192,too spicy,Stir in a spoon of cream or curd off the heat.,गैस बं
 ASC193,peas are wrinkly and hard,"They cooked uncovered too long. Add a little water, cover and cook for 3 minutes.","मटर बिना ढके ज़्यादा पके। थोड़ा पानी डालो, ढककर 3 मिनट पकाओ।"
 ASC193,too watery,Cook uncovered on high heat for 3 to 4 minutes.,बिना ढके तेज़ आँच पर 3-4 मिनट पकाओ।
 ASC193,too salty,Add half a cup of water and a boiled potato and simmer for 5 minutes.,आधा कप पानी और एक उबला आलू डालकर 5 मिनट पकाओ।
+ASC195,paneer turned rubbery,It cooked too long. Add paneer at the end and simmer only for 2 to 3 minutes.,पनीर ज़्यादा पक गया। पनीर आखिर में डालो और बस 2-3 मिनट पकाओ।
+ASC195,gravy is too sour,Add a pinch of sugar and cook for a minute more.,चुटकी भर चीनी डालो और एक मिनट और पकाओ।
+ASC195,gravy is too thin,"Simmer uncovered for 3 to 4 minutes, or mash a few paneer pieces into it.","बिना ढके 3-4 मिनट पकाओ, या पनीर के कुछ टुकड़े मसलकर मिला दो।"
+ASC199,koftas break in the oil,"The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.","मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+ASC199,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC199,koftas went soggy,Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.,कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।
+ASC200,koftas break in the oil,"The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.","मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+ASC200,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC200,koftas cracked while shaping,"Knead the paneer longer with your palm until it feels smooth, then shape again.","पनीर को हथेली से और देर मसलो जब तक चिकना न लगे, फिर गोले बनाओ।"
+ASC202,koftas break in the oil,"The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.","मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+ASC202,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC202,koftas went soggy,Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.,कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।
+ASC203,koftas break in the oil,"The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.","मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+ASC203,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC203,koftas went soggy,Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.,कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।
+ASC205,koftas break in the oil,"The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.","मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+ASC205,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC205,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+ASC206,koftas break in the oil,"The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.","मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+ASC206,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC206,koftas went soggy,Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.,कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।
 ASC214,curd split in the gravy,"Turn the heat off, beat a spoon of fresh curd with a pinch of besan and stir it in. Next time add curd on low heat.","गैस बंद करो, एक चम्मच ताज़ा दही में चुटकी भर बेसन फेंटकर मिला दो। अगली बार दही धीमी आँच पर डालना।"
 ASC214,potatoes taste plain inside,"Prick them more and leave them in the gravy, covered, for 10 more minutes.",आलू में और छेद करो और ढककर 10 मिनट और ग्रेवी में रहने दो।
 ASC214,too spicy,Stir in another spoon of curd or a spoon of cream on low heat.,धीमी आँच पर एक चम्मच और दही या मलाई मिला दो।
 ASC215,palak turned dark or brown,The spinach cooked too long. It is still fine to eat. Next time boil it for only 2 minutes and cook the puree briefly.,पालक ज़्यादा पक गया। खाने में ठीक है। अगली बार सिर्फ़ 2 मिनट उबालना और प्यूरी कम पकाना।
 ASC215,tastes bitter,Stir in a spoon of cream or a pinch of sugar.,एक चम्मच मलाई या चुटकी भर चीनी मिला दो।
 ASC215,too thick,Add 2 to 3 tablespoons of hot water and stir.,2-3 चम्मच गरम पानी डालकर मिलाओ।
+ASC218,hands and knife got sticky,Rub more oil on them. Wipe the sap off the knife with an oily cloth.,हाथ और चाकू पर और तेल लगाओ। चाकू का दूध तेल वाले कपड़े से पोंछ लो।
+ASC218,jackfruit is still hard,"Add a few spoons of water, cover and cook for 5 more minutes.","कुछ चम्मच पानी डालो, ढककर 5 मिनट और पकाओ।"
+ASC218,too oily,"Fry the jackfruit less, or boil it in salted water for 10 minutes instead of frying.","कटहल कम तलो, या तलने की जगह नमक वाले पानी में 10 मिनट उबाल लो।"
+ASC224,paneer went soggy,It sat in the sauce too long. Toss it in only at the end and eat it straight away.,पनीर सॉस में देर तक पड़ा रहा। आखिर में डालो और तुरंत खाओ।
+ASC224,too salty,"Soya sauce is salty. Add a squeeze of lemon and a pinch of sugar, and skip the extra salt.","सोया सॉस नमकीन होता है। थोड़ा नींबू और चुटकी भर चीनी डालो, ऊपर से नमक मत डालो।"
+ASC224,coating fell off,The batter was too thin. Add a spoon more cornflour and coat the paneer again.,घोल पतला था। एक चम्मच कॉर्नफ्लोर और मिलाओ और पनीर फिर से लपेटो।
 ASC240,chicken is hard or chewy,"Add half a cup of water, cover and simmer on low heat for 10 more minutes.","आधा कप पानी डालो, ढककर धीमी आँच पर 10 मिनट और पकाओ।"
 ASC240,too spicy,Turn off the heat and stir in 2 spoons of beaten curd or cream.,गैस बंद करके 2 चम्मच फेंटा हुआ दही या मलाई मिला दो।
 ASC240,gravy too thin,"Cook uncovered on high heat for 5 minutes, stirring.",बिना ढके तेज़ आँच पर 5 मिनट चलाते हुए पकाओ।
@@ -95,12 +125,21 @@ BFP239,too salty,Add half a cup of water and one more boiled potato.,आधा �
 BFP240,yolk turned green,The egg boiled too long. It is safe to eat. Next time boil it for 10 minutes and cool it in cold water straight away.,अंडा ज़्यादा उबल गया। खाने में ठीक है। अगली बार 10 मिनट उबालकर तुरंत ठंडे पानी में डालना।
 BFP240,gravy too thin,Cook uncovered on high heat for 4 to 5 minutes until it thickens.,बिना ढके तेज़ आँच पर 4-5 मिनट पकाओ जब तक गाढ़ी न हो जाए।
 BFP240,egg tastes plain,Make the cuts a little deeper and simmer it in the gravy for 3 more minutes.,चीरे थोड़े गहरे करो और ग्रेवी में 3 मिनट और पकाओ।
+BFP272,beans turned dull and mushy,They cooked too long. Stop when they are just tender and still bright green.,बीन्स ज़्यादा पक गईं। जब नरम और हरी चमकीली हों तभी बंद कर दो।
+BFP272,beans still hard,"Add another spoon of water, cover and cook for 2 more minutes.","एक चम्मच पानी और डालो, ढककर 2 मिनट और पकाओ।"
+BFP272,coconut tastes raw,"Cook it for a minute after adding, and use fresh coconut if you can.","नारियल डालकर एक मिनट पकाओ, और हो सके तो ताज़ा नारियल लो।"
+BFP277,vegetables went soft and soggy,The heat was low or they cooked too long. Keep the heat high and stop while they still have a bite.,आँच धीमी थी या ज़्यादा पक गईं। आँच तेज़ रखो और थोड़ी कुरकुरी रहते ही बंद कर दो।
+BFP277,potato still hard,"Cut it thinner. For now, cover and cook for 2 more minutes with a spoon of water.",आलू पतला काटो। अभी एक चम्मच पानी डालकर ढककर 2 मिनट और पकाओ।
+BFP277,too sour,Too much vinegar. Add a pinch of sugar and toss.,सिरका ज़्यादा हो गया। चुटकी भर चीनी डालकर मिला दो।
 BFP556,too dry,Stir in half a cup of hot water and simmer for 2 minutes.,आधा कप गरम पानी मिलाकर 2 मिनट पकाओ।
 BFP556,too mushy,"That is how khichdi often is. If you want it looser, it is fine; if too wet, cook uncovered for 3 minutes.",खिचड़ी अक्सर ऐसी ही होती है। ज़्यादा गीली लगे तो बिना ढके 3 मिनट पकाओ।
 BFP556,tastes plain,"Make a quick tadka of ghee, cumin and a pinch of hing and pour it on top.","घी, जीरा और चुटकी भर हींग का झटपट तड़का बनाकर ऊपर डाल दो।"
 BFP579,idlis are dense,"Add the soda only right before steaming, and do not overmix after adding it.","सोडा भाप से ठीक पहले डालो, और उसके बाद ज़्यादा मत चलाओ।"
 BFP579,idlis are dry,Add 2 tablespoons more curd to the batter.,घोल में 2 चम्मच और दही मिला दो।
 BFP579,sticky inside,"Steam for 3 more minutes, until a knife comes out clean.","3 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+OSR077,gravy is too sour,Add a pinch of sugar or a spoon of cream and simmer for a minute.,चुटकी भर चीनी या एक चम्मच मलाई डालो और एक मिनट पकाओ।
+OSR077,gravy is grainy,"The cashews were not ground fine. Blend the gravy smooth, or strain the cashew paste next time.","काजू बारीक नहीं पिसे। ग्रेवी को मिक्सी में चिकना कर लो, या अगली बार काजू पेस्ट छान लेना।"
+OSR077,paneer is hard,Soak the cubes in warm water for 10 minutes before adding them.,डालने से पहले पनीर के टुकड़े 10 मिनट गुनगुने पानी में रखो।
 OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
 OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
 OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।

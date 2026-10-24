@@ -1,0 +1,924 @@
+{
+ "ASC195": {
+  "names": {
+   "hi-en": "Paneer curry",
+   "hi": "पनीर करी",
+   "pa": "ਪਨੀਰ ਕਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Cut the paneer into cubes and soak them in warm water. Chop the onion and tomato fine.",
+    "hi-en": "Paneer ke tukde karke gungune paani mein daal do. Pyaaz aur tamatar barik kaato.",
+    "hi": "पनीर के टुकड़े करके गुनगुने पानी में डाल दो। प्याज़ और टमाटर बारीक काटो।",
+    "pa": "ਪਨੀਰ ਦੇ ਟੁਕੜੇ ਕਰਕੇ ਕੋਸੇ ਪਾਣੀ ਵਿੱਚ ਪਾ ਦਿਓ। ਪਿਆਜ਼ ਅਤੇ ਟਮਾਟਰ ਬਾਰੀਕ ਕੱਟੋ।"
+   },
+   {
+    "en": "Heat the oil and cook the onion with the ginger, garlic and green chilli until golden, about 6 minutes.",
+    "hi-en": "Tel garam karke pyaaz, adrak, lehsun aur hari mirch sunehre hone tak bhuno, lagbhag 6 minute.",
+    "hi": "तेल गरम करके प्याज़, अदरक, लहसुन और हरी मिर्च सुनहरे होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਪਿਆਜ਼, ਅਦਰਕ, ਲਸਣ ਅਤੇ ਹਰੀ ਮਿਰਚ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6
+   },
+   {
+    "en": "Add the tomato, turmeric, red chilli powder and salt. Cook until soft and the oil shows at the sides, about 5 minutes.",
+    "hi-en": "Tamatar, haldi, laal mirch aur namak daalo. Naram hone aur kinaaron pe tel dikhne tak pakao, lagbhag 5 minute.",
+    "hi": "टमाटर, हल्दी, लाल मिर्च और नमक डालो। नरम होने और किनारों पर तेल दिखने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾਓ। ਨਰਮ ਹੋਣ ਅਤੇ ਕਿਨਾਰਿਆਂ ਤੇ ਤੇਲ ਦਿਸਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Add half a cup of water and bring it to a boil. Add the paneer and simmer for 3 minutes.",
+    "hi-en": "Aadha cup paani daal ke ubaal aane do. Paneer daal ke 3 minute dheeme pakao.",
+    "hi": "आधा कप पानी डालकर उबाल आने दो। पनीर डालकर 3 मिनट धीमी आँच पर पकाओ।",
+    "pa": "ਅੱਧਾ ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ ਉਬਾਲ ਆਉਣ ਦਿਓ। ਪਨੀਰ ਪਾ ਕੇ 3 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ।",
+    "timer": 3
+   },
+   {
+    "en": "Stir in the garam masala, add coriander and serve with roti or rice.",
+    "hi-en": "Garam masala milao, hara dhaniya daalo aur roti ya chawal ke saath khao.",
+    "hi": "गरम मसाला मिलाओ, हरा धनिया डालो और रोटी या चावल के साथ खाओ।",
+    "pa": "ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ, ਹਰਾ ਧਨੀਆ ਪਾਓ ਅਤੇ ਰੋਟੀ ਜਾਂ ਚੌਲਾਂ ਨਾਲ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "paneer turned rubbery",
+    "en": "It cooked too long. Add paneer at the end and simmer only for 2 to 3 minutes.",
+    "hi": "पनीर ज़्यादा पक गया। पनीर आखिर में डालो और बस 2-3 मिनट पकाओ।"
+   },
+   {
+    "mistake": "gravy is too sour",
+    "en": "Add a pinch of sugar and cook for a minute more.",
+    "hi": "चुटकी भर चीनी डालो और एक मिनट और पकाओ।"
+   },
+   {
+    "mistake": "gravy is too thin",
+    "en": "Simmer uncovered for 3 to 4 minutes, or mash a few paneer pieces into it.",
+    "hi": "बिना ढके 3-4 मिनट पकाओ, या पनीर के कुछ टुकड़े मसलकर मिला दो।"
+   }
+  ],
+  "swaps": {
+   "paneer": [
+    "tofu"
+   ]
+  }
+ },
+ "OSR077": {
+  "names": {
+   "hi-en": "Paneer lababdar",
+   "hi": "पनीर लबाबदार",
+   "pa": "ਪਨੀਰ ਲਬਾਬਦਾਰ"
+  },
+  "steps": [
+   {
+    "en": "Soak the cashews in hot water for 10 minutes and grind them to a smooth paste. Grind the tomatoes to a puree.",
+    "hi-en": "Kaju garam paani mein 10 minute bhigo ke smooth paste bana lo. Tamatar ki puree bana lo.",
+    "hi": "काजू गरम पानी में 10 मिनट भिगोकर चिकना पेस्ट बना लो। टमाटर की प्यूरी बना लो।",
+    "pa": "ਕਾਜੂ ਗਰਮ ਪਾਣੀ ਵਿੱਚ 10 ਮਿੰਟ ਭਿਓਂ ਕੇ ਮੁਲਾਇਮ ਪੇਸਟ ਬਣਾ ਲਓ। ਟਮਾਟਰਾਂ ਦੀ ਪਿਊਰੀ ਬਣਾ ਲਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Heat the oil or butter. Add the bay leaf, cardamom and cinnamon, then the chopped onion, ginger, garlic and green chilli. Cook until the onion is golden.",
+    "hi-en": "Tel ya makhan garam karo. Tej patta, elaichi aur dalchini daalo, phir kata pyaaz, adrak, lehsun aur hari mirch. Pyaaz sunehra hone tak bhuno.",
+    "hi": "तेल या मक्खन गरम करो। तेज पत्ता, इलायची और दालचीनी डालो, फिर कटा प्याज़, अदरक, लहसुन और हरी मिर्च। प्याज़ सुनहरा होने तक भूनो।",
+    "pa": "ਤੇਲ ਜਾਂ ਮੱਖਣ ਗਰਮ ਕਰੋ। ਤੇਜ ਪੱਤਾ, ਇਲਾਇਚੀ ਅਤੇ ਦਾਲਚੀਨੀ ਪਾਓ, ਫਿਰ ਕੱਟਿਆ ਪਿਆਜ਼, ਅਦਰਕ, ਲਸਣ ਅਤੇ ਹਰੀ ਮਿਰਚ। ਪਿਆਜ਼ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ।"
+   },
+   {
+    "en": "Add the tomato puree, turmeric, red chilli powder, coriander powder and salt. Cook until thick and the oil separates, about 8 minutes.",
+    "hi-en": "Tamatar puree, haldi, laal mirch, dhaniya powder aur namak daalo. Gaadha hone aur tel alag hone tak pakao, lagbhag 8 minute.",
+    "hi": "टमाटर प्यूरी, हल्दी, लाल मिर्च, धनिया पाउडर और नमक डालो। गाढ़ा होने और तेल अलग होने तक पकाओ, लगभग 8 मिनट।",
+    "pa": "ਟਮਾਟਰ ਪਿਊਰੀ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ, ਧਨੀਆ ਪਾਊਡਰ ਅਤੇ ਲੂਣ ਪਾਓ। ਗਾੜ੍ਹਾ ਹੋਣ ਅਤੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8,
+    "safety": "splutter"
+   },
+   {
+    "en": "Stir in the cashew paste and three-quarters of a cup of water. Simmer for 4 minutes.",
+    "hi-en": "Kaju paste aur paun cup paani milao. 4 minute dheeme pakao.",
+    "hi": "काजू पेस्ट और पौना कप पानी मिलाओ। 4 मिनट धीमी आँच पर पकाओ।",
+    "pa": "ਕਾਜੂ ਪੇਸਟ ਅਤੇ ਪੌਣਾ ਕੱਪ ਪਾਣੀ ਮਿਲਾਓ। 4 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ।",
+    "timer": 4
+   },
+   {
+    "en": "Add the paneer cubes, the garam masala and the kasuri methi crushed between your palms. Simmer for 3 minutes, add coriander and serve with naan or roti.",
+    "hi-en": "Paneer ke tukde, garam masala aur hatheli pe masli kasuri methi daalo. 3 minute pakao, hara dhaniya daalo aur naan ya roti ke saath khao.",
+    "hi": "पनीर के टुकड़े, गरम मसाला और हथेली पर मसली कसूरी मेथी डालो। 3 मिनट पकाओ, हरा धनिया डालो और नान या रोटी के साथ खाओ।",
+    "pa": "ਪਨੀਰ ਦੇ ਟੁਕੜੇ, ਗਰਮ ਮਸਾਲਾ ਅਤੇ ਹਥੇਲੀ ਤੇ ਮਸਲੀ ਕਸੂਰੀ ਮੇਥੀ ਪਾਓ। 3 ਮਿੰਟ ਪਕਾਓ, ਹਰਾ ਧਨੀਆ ਪਾਓ ਅਤੇ ਨਾਨ ਜਾਂ ਰੋਟੀ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "gravy is too sour",
+    "en": "Add a pinch of sugar or a spoon of cream and simmer for a minute.",
+    "hi": "चुटकी भर चीनी या एक चम्मच मलाई डालो और एक मिनट पकाओ।"
+   },
+   {
+    "mistake": "gravy is grainy",
+    "en": "The cashews were not ground fine. Blend the gravy smooth, or strain the cashew paste next time.",
+    "hi": "काजू बारीक नहीं पिसे। ग्रेवी को मिक्सी में चिकना कर लो, या अगली बार काजू पेस्ट छान लेना।"
+   },
+   {
+    "mistake": "paneer is hard",
+    "en": "Soak the cubes in warm water for 10 minutes before adding them.",
+    "hi": "डालने से पहले पनीर के टुकड़े 10 मिनट गुनगुने पानी में रखो।"
+   }
+  ],
+  "swaps": {
+   "cashews": [
+    "skip"
+   ],
+   "paneer": [
+    "tofu"
+   ]
+  }
+ },
+ "ASC224": {
+  "names": {
+   "hi-en": "Chilli paneer",
+   "hi": "चिली पनीर",
+   "pa": "ਚਿੱਲੀ ਪਨੀਰ"
+  },
+  "steps": [
+   {
+    "en": "Cut the paneer into cubes. Mix the maida, cornflour, pepper, a pinch of salt and a little water into a thick batter and coat the paneer.",
+    "hi-en": "Paneer ke tukde karo. Maida, cornflour, kali mirch, chutki namak aur thoda paani mila ke gaadha ghol banao aur paneer lapet lo.",
+    "hi": "पनीर के टुकड़े करो। मैदा, कॉर्नफ्लोर, काली मिर्च, चुटकी भर नमक और थोड़ा पानी मिलाकर गाढ़ा घोल बनाओ और पनीर लपेट लो।",
+    "pa": "ਪਨੀਰ ਦੇ ਟੁਕੜੇ ਕਰੋ। ਮੈਦਾ, ਕੌਰਨਫਲੋਰ, ਕਾਲੀ ਮਿਰਚ, ਚੁਟਕੀ ਲੂਣ ਅਤੇ ਥੋੜ੍ਹਾ ਪਾਣੀ ਮਿਲਾ ਕੇ ਗਾੜ੍ਹਾ ਘੋਲ ਬਣਾਓ ਅਤੇ ਪਨੀਰ ਲਪੇਟ ਲਓ।"
+   },
+   {
+    "en": "Deep fry the paneer in hot oil until light golden and crisp, about 3 minutes. Drain on paper.",
+    "hi-en": "Paneer garam tel mein halka sunehra aur crispy hone tak talo, lagbhag 3 minute. Kaagaz pe nikaalo.",
+    "hi": "पनीर गरम तेल में हल्का सुनहरा और कुरकुरा होने तक तलो, लगभग 3 मिनट। कागज़ पर निकालो।",
+    "pa": "ਪਨੀਰ ਗਰਮ ਤੇਲ ਵਿੱਚ ਹਲਕਾ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰਾ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 3 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 3,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "In a pan, heat 2 teaspoons of oil on high. Fry the crushed garlic, green chilli, whole red chillies and cashews for 1 minute.",
+    "hi-en": "Pan mein 2 chhote chammach tel tez aanch pe garam karo. Kuta lehsun, hari mirch, sabut laal mirch aur kaju 1 minute bhuno.",
+    "hi": "पैन में 2 छोटे चम्मच तेल तेज़ आँच पर गरम करो। कुटा लहसुन, हरी मिर्च, साबुत लाल मिर्च और काजू 1 मिनट भूनो।",
+    "pa": "ਪੈਨ ਵਿੱਚ 2 ਛੋਟੇ ਚਮਚ ਤੇਲ ਤੇਜ਼ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਕੁੱਟਿਆ ਲਸਣ, ਹਰੀ ਮਿਰਚ, ਸਾਬਤ ਲਾਲ ਮਿਰਚ ਅਤੇ ਕਾਜੂ 1 ਮਿੰਟ ਭੁੰਨੋ।",
+    "timer": 1,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the soya sauce, chilli sauce, tomato sauce, sugar, a pinch of salt and the ajinomoto if you use it, with 2 tablespoons of water. Stir for a minute.",
+    "hi-en": "Soya sauce, chilli sauce, tomato sauce, cheeni, chutki namak aur ajinomoto agar daalte ho, 2 chammach paani ke saath daalo. Ek minute chalao.",
+    "hi": "सोया सॉस, चिली सॉस, टोमैटो सॉस, चीनी, चुटकी भर नमक और अजीनोमोटो अगर डालते हो, 2 चम्मच पानी के साथ डालो। एक मिनट चलाओ।",
+    "pa": "ਸੋਇਆ ਸੌਸ, ਚਿੱਲੀ ਸੌਸ, ਟਮਾਟਰ ਸੌਸ, ਖੰਡ, ਚੁਟਕੀ ਲੂਣ ਅਤੇ ਅਜੀਨੋਮੋਟੋ ਜੇ ਪਾਉਂਦੇ ਹੋ, 2 ਚਮਚ ਪਾਣੀ ਨਾਲ ਪਾਓ। ਇੱਕ ਮਿੰਟ ਹਿਲਾਓ।",
+    "timer": 1
+   },
+   {
+    "en": "Toss in the fried paneer on high heat for 1 minute until coated. Serve straight away.",
+    "hi-en": "Tala paneer daal ke tez aanch pe 1 minute uchhaalo jab tak sauce lipat jaaye. Turant khao.",
+    "hi": "तला पनीर डालकर तेज़ आँच पर 1 मिनट उछालो जब तक सॉस लिपट जाए। तुरंत खाओ।",
+    "pa": "ਤਲਿਆ ਪਨੀਰ ਪਾ ਕੇ ਤੇਜ਼ ਅੱਗ ਤੇ 1 ਮਿੰਟ ਉਛਾਲੋ ਜਦੋਂ ਤੱਕ ਸੌਸ ਲਿਪਟ ਜਾਵੇ। ਤੁਰੰਤ ਖਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "paneer went soggy",
+    "en": "It sat in the sauce too long. Toss it in only at the end and eat it straight away.",
+    "hi": "पनीर सॉस में देर तक पड़ा रहा। आखिर में डालो और तुरंत खाओ।"
+   },
+   {
+    "mistake": "too salty",
+    "en": "Soya sauce is salty. Add a squeeze of lemon and a pinch of sugar, and skip the extra salt.",
+    "hi": "सोया सॉस नमकीन होता है। थोड़ा नींबू और चुटकी भर चीनी डालो, ऊपर से नमक मत डालो।"
+   },
+   {
+    "mistake": "coating fell off",
+    "en": "The batter was too thin. Add a spoon more cornflour and coat the paneer again.",
+    "hi": "घोल पतला था। एक चम्मच कॉर्नफ्लोर और मिलाओ और पनीर फिर से लपेटो।"
+   }
+  ],
+  "swaps": {
+   "stock_cube": [
+    "skip"
+   ],
+   "cashews": [
+    "skip"
+   ],
+   "maida": [
+    "corn_flour"
+   ],
+   "paneer": [
+    "tofu"
+   ]
+  }
+ },
+ "ASC200": {
+  "names": {
+   "hi-en": "Paneer kofta curry",
+   "hi": "पनीर कोफ़्ता करी",
+   "pa": "ਪਨੀਰ ਕੋਫ਼ਤਾ ਕਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Grate the paneer and knead it with the cornflour, a pinch of salt and a pinch of red chilli powder until smooth. Make small balls.",
+    "hi-en": "Paneer kaddukas karke cornflour, chutki namak aur chutki laal mirch ke saath smooth hone tak masal lo. Chhote gole bana lo.",
+    "hi": "पनीर कद्दूकस करके कॉर्नफ्लोर, चुटकी भर नमक और चुटकी भर लाल मिर्च के साथ चिकना होने तक मसल लो। छोटे गोले बना लो।",
+    "pa": "ਪਨੀਰ ਕੱਦੂਕਸ ਕਰਕੇ ਕੌਰਨਫਲੋਰ, ਚੁਟਕੀ ਲੂਣ ਅਤੇ ਚੁਟਕੀ ਲਾਲ ਮਿਰਚ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਮਸਲ ਲਓ। ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying on medium. Fry the koftas a few at a time, turning, until golden brown, about 4 minutes. Drain on paper.",
+    "hi-en": "Talne ke liye tel medium aanch pe garam karo. Thode thode kofte daal ke palat palat ke sunehre bhoore hone tak talo, lagbhag 4 minute. Kaagaz pe nikaalo.",
+    "hi": "तलने के लिए तेल मध्यम आँच पर गरम करो। थोड़े-थोड़े कोफ़्ते डालकर पलट-पलटकर सुनहरे भूरे होने तक तलो, लगभग 4 मिनट। कागज़ पर निकालो।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਕੋਫ਼ਤੇ ਪਾ ਕੇ ਪਲਟ-ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "For the gravy, grind the onion, ginger and garlic to a paste. Heat 1 tablespoon oil and cook the paste until golden, about 6 minutes.",
+    "hi-en": "Gravy ke liye pyaaz, adrak aur lehsun ka paste bana lo. 1 bada chammach tel garam karke paste sunehra hone tak bhuno, lagbhag 6 minute.",
+    "hi": "ग्रेवी के लिए प्याज़, अदरक और लहसुन का पेस्ट बना लो। 1 बड़ा चम्मच तेल गरम करके पेस्ट सुनहरा होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਗ੍ਰੇਵੀ ਲਈ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ ਬਣਾ ਲਓ। 1 ਵੱਡਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the chopped tomato, turmeric, red chilli powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Kata tamatar, haldi, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "कटा टमाटर, हल्दी, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਕੱਟਿਆ ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Turn the heat low and stir in the whisked curd. Add 1 cup water and simmer for 5 minutes. Stir in the garam masala.",
+    "hi-en": "Aanch dheemi karke phenta hua dahi milao. 1 cup paani daal ke 5 minute dheeme pakao. Garam masala milao.",
+    "hi": "आँच धीमी करके फेंटा हुआ दही मिलाओ। 1 कप पानी डालकर 5 मिनट धीमी आँच पर पकाओ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ। 1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Just before eating, put the koftas in the hot gravy, simmer for 1 minute and add coriander.",
+    "hi-en": "Khaane se theek pehle kofte garam gravy mein daalo, 1 minute pakao aur hara dhaniya daalo.",
+    "hi": "खाने से ठीक पहले कोफ़्ते गरम ग्रेवी में डालो, 1 मिनट पकाओ और हरा धनिया डालो।",
+    "pa": "ਖਾਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਕੋਫ਼ਤੇ ਗਰਮ ਗ੍ਰੇਵੀ ਵਿੱਚ ਪਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas break in the oil",
+    "en": "The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.",
+    "hi": "मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "koftas cracked while shaping",
+    "en": "Knead the paneer longer with your palm until it feels smooth, then shape again.",
+    "hi": "पनीर को हथेली से और देर मसलो जब तक चिकना न लगे, फिर गोले बनाओ।"
+   }
+  ],
+  "swaps": {
+   "corn_flour": [
+    "maida"
+   ]
+  }
+ },
+ "ASC206": {
+  "names": {
+   "hi-en": "Palak paneer kofta",
+   "hi": "पालक पनीर कोफ़्ता",
+   "pa": "ਪਾਲਕ ਪਨੀਰ ਕੋਫ਼ਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Put the spinach in boiling water for 1 minute, then squeeze out all the water and chop it fine.",
+    "hi-en": "Palak ko ubalte paani mein 1 minute daal ke nikaalo, saara paani nichod ke barik kaat lo.",
+    "hi": "पालक को उबलते पानी में 1 मिनट डालकर निकालो, सारा पानी निचोड़कर बारीक काट लो।",
+    "pa": "ਪਾਲਕ ਨੂੰ ਉਬਲਦੇ ਪਾਣੀ ਵਿੱਚ 1 ਮਿੰਟ ਪਾ ਕੇ ਕੱਢੋ, ਸਾਰਾ ਪਾਣੀ ਨਿਚੋੜ ਕੇ ਬਾਰੀਕ ਕੱਟ ਲਓ।",
+    "timer": 1,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Soak the bread slice in water and squeeze it dry. Mix it with the spinach, grated paneer, bread crumbs and a pinch of salt. Make small balls.",
+    "hi-en": "Bread slice paani mein bhigo ke nichod lo. Palak, kaddukas paneer, bread crumbs aur chutki namak ke saath mila ke chhote gole bana lo.",
+    "hi": "ब्रेड स्लाइस पानी में भिगोकर निचोड़ लो। पालक, कद्दूकस पनीर, ब्रेड क्रम्ब्स और चुटकी भर नमक के साथ मिलाकर छोटे गोले बना लो।",
+    "pa": "ਬ੍ਰੈੱਡ ਸਲਾਈਸ ਪਾਣੀ ਵਿੱਚ ਭਿਓਂ ਕੇ ਨਿਚੋੜ ਲਓ। ਪਾਲਕ, ਕੱਦੂਕਸ ਪਨੀਰ, ਬ੍ਰੈੱਡ ਕਰੰਬਜ਼ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਨਾਲ ਮਿਲਾ ਕੇ ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying on medium. Fry the koftas a few at a time, turning, until golden brown, about 4 minutes. Drain on paper.",
+    "hi-en": "Talne ke liye tel medium aanch pe garam karo. Thode thode kofte daal ke palat palat ke sunehre bhoore hone tak talo, lagbhag 4 minute. Kaagaz pe nikaalo.",
+    "hi": "तलने के लिए तेल मध्यम आँच पर गरम करो। थोड़े-थोड़े कोफ़्ते डालकर पलट-पलटकर सुनहरे भूरे होने तक तलो, लगभग 4 मिनट। कागज़ पर निकालो।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਕੋਫ਼ਤੇ ਪਾ ਕੇ ਪਲਟ-ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "For the gravy, grind the onion, ginger and garlic to a paste. Heat 1 tablespoon oil and cook the paste until golden, about 6 minutes.",
+    "hi-en": "Gravy ke liye pyaaz, adrak aur lehsun ka paste bana lo. 1 bada chammach tel garam karke paste sunehra hone tak bhuno, lagbhag 6 minute.",
+    "hi": "ग्रेवी के लिए प्याज़, अदरक और लहसुन का पेस्ट बना लो। 1 बड़ा चम्मच तेल गरम करके पेस्ट सुनहरा होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਗ੍ਰੇਵੀ ਲਈ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ ਬਣਾ ਲਓ। 1 ਵੱਡਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the chopped tomato, turmeric, red chilli powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Kata tamatar, haldi, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "कटा टमाटर, हल्दी, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਕੱਟਿਆ ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Turn the heat low and stir in the whisked curd. Add 1 cup water and simmer for 5 minutes. Stir in the garam masala.",
+    "hi-en": "Aanch dheemi karke phenta hua dahi milao. 1 cup paani daal ke 5 minute dheeme pakao. Garam masala milao.",
+    "hi": "आँच धीमी करके फेंटा हुआ दही मिलाओ। 1 कप पानी डालकर 5 मिनट धीमी आँच पर पकाओ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ। 1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Just before eating, put the koftas in the hot gravy, simmer for 1 minute and add coriander.",
+    "hi-en": "Khaane se theek pehle kofte garam gravy mein daalo, 1 minute pakao aur hara dhaniya daalo.",
+    "hi": "खाने से ठीक पहले कोफ़्ते गरम ग्रेवी में डालो, 1 मिनट पकाओ और हरा धनिया डालो।",
+    "pa": "ਖਾਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਕੋਫ਼ਤੇ ਗਰਮ ਗ੍ਰੇਵੀ ਵਿੱਚ ਪਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas break in the oil",
+    "en": "The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.",
+    "hi": "मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "koftas went soggy",
+    "en": "Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.",
+    "hi": "कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।"
+   }
+  ],
+  "swaps": {
+   "bread": [
+    "besan"
+   ]
+  }
+ },
+ "ASC199": {
+  "names": {
+   "hi-en": "Palak kofta curry",
+   "hi": "पालक कोफ़्ता करी",
+   "pa": "ਪਾਲਕ ਕੋਫ਼ਤਾ ਕਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Put the spinach in boiling water for 1 minute, then squeeze out all the water and chop it fine.",
+    "hi-en": "Palak ko ubalte paani mein 1 minute daal ke nikaalo, saara paani nichod ke barik kaat lo.",
+    "hi": "पालक को उबलते पानी में 1 मिनट डालकर निकालो, सारा पानी निचोड़कर बारीक काट लो।",
+    "pa": "ਪਾਲਕ ਨੂੰ ਉਬਲਦੇ ਪਾਣੀ ਵਿੱਚ 1 ਮਿੰਟ ਪਾ ਕੇ ਕੱਢੋ, ਸਾਰਾ ਪਾਣੀ ਨਿਚੋੜ ਕੇ ਬਾਰੀਕ ਕੱਟ ਲਓ।",
+    "timer": 1,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Soak the bread slices in water and squeeze them dry. Mix with the spinach, chopped green chilli, bread crumbs and a pinch of salt. Make small balls.",
+    "hi-en": "Bread slice paani mein bhigo ke nichod lo. Palak, kati hari mirch, bread crumbs aur chutki namak ke saath mila ke chhote gole bana lo.",
+    "hi": "ब्रेड स्लाइस पानी में भिगोकर निचोड़ लो। पालक, कटी हरी मिर्च, ब्रेड क्रम्ब्स और चुटकी भर नमक के साथ मिलाकर छोटे गोले बना लो।",
+    "pa": "ਬ੍ਰੈੱਡ ਸਲਾਈਸ ਪਾਣੀ ਵਿੱਚ ਭਿਓਂ ਕੇ ਨਿਚੋੜ ਲਓ। ਪਾਲਕ, ਕੱਟੀ ਹਰੀ ਮਿਰਚ, ਬ੍ਰੈੱਡ ਕਰੰਬਜ਼ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਨਾਲ ਮਿਲਾ ਕੇ ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying on medium. Fry the koftas a few at a time, turning, until golden brown, about 4 minutes. Drain on paper.",
+    "hi-en": "Talne ke liye tel medium aanch pe garam karo. Thode thode kofte daal ke palat palat ke sunehre bhoore hone tak talo, lagbhag 4 minute. Kaagaz pe nikaalo.",
+    "hi": "तलने के लिए तेल मध्यम आँच पर गरम करो। थोड़े-थोड़े कोफ़्ते डालकर पलट-पलटकर सुनहरे भूरे होने तक तलो, लगभग 4 मिनट। कागज़ पर निकालो।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਕੋਫ਼ਤੇ ਪਾ ਕੇ ਪਲਟ-ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "For the gravy, grind the onion, ginger and garlic to a paste. Heat 1 tablespoon oil and cook the paste until golden, about 6 minutes.",
+    "hi-en": "Gravy ke liye pyaaz, adrak aur lehsun ka paste bana lo. 1 bada chammach tel garam karke paste sunehra hone tak bhuno, lagbhag 6 minute.",
+    "hi": "ग्रेवी के लिए प्याज़, अदरक और लहसुन का पेस्ट बना लो। 1 बड़ा चम्मच तेल गरम करके पेस्ट सुनहरा होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਗ੍ਰੇਵੀ ਲਈ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ ਬਣਾ ਲਓ। 1 ਵੱਡਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the chopped tomato, turmeric, red chilli powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Kata tamatar, haldi, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "कटा टमाटर, हल्दी, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਕੱਟਿਆ ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Turn the heat low and stir in the whisked curd. Add 1 cup water and simmer for 5 minutes. Stir in the garam masala.",
+    "hi-en": "Aanch dheemi karke phenta hua dahi milao. 1 cup paani daal ke 5 minute dheeme pakao. Garam masala milao.",
+    "hi": "आँच धीमी करके फेंटा हुआ दही मिलाओ। 1 कप पानी डालकर 5 मिनट धीमी आँच पर पकाओ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ। 1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Just before eating, put the koftas in the hot gravy, simmer for 1 minute and add coriander.",
+    "hi-en": "Khaane se theek pehle kofte garam gravy mein daalo, 1 minute pakao aur hara dhaniya daalo.",
+    "hi": "खाने से ठीक पहले कोफ़्ते गरम ग्रेवी में डालो, 1 मिनट पकाओ और हरा धनिया डालो।",
+    "pa": "ਖਾਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਕੋਫ਼ਤੇ ਗਰਮ ਗ੍ਰੇਵੀ ਵਿੱਚ ਪਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas break in the oil",
+    "en": "The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.",
+    "hi": "मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "koftas went soggy",
+    "en": "Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.",
+    "hi": "कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।"
+   }
+  ],
+  "swaps": {
+   "bread": [
+    "besan"
+   ]
+  }
+ },
+ "ASC203": {
+  "names": {
+   "hi-en": "Gobhi kofta curry",
+   "hi": "गोभी कोफ़्ता करी",
+   "pa": "ਗੋਭੀ ਕੋਫ਼ਤਾ ਕਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Grate the cauliflower. Mix it with the besan, chopped green chilli and a pinch of salt. Add a few drops of water only if it will not hold. Make small balls.",
+    "hi-en": "Gobhi kaddukas karo. Besan, kati hari mirch aur chutki namak ke saath milao. Na bandhe tabhi kuch boondein paani daalo. Chhote gole bana lo.",
+    "hi": "गोभी कद्दूकस करो। बेसन, कटी हरी मिर्च और चुटकी भर नमक के साथ मिलाओ। न बँधे तभी कुछ बूँदें पानी डालो। छोटे गोले बना लो।",
+    "pa": "ਗੋਭੀ ਕੱਦੂਕਸ ਕਰੋ। ਵੇਸਣ, ਕੱਟੀ ਹਰੀ ਮਿਰਚ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਨਾਲ ਮਿਲਾਓ। ਨਾ ਬੱਝੇ ਤਾਂ ਹੀ ਕੁਝ ਬੂੰਦਾਂ ਪਾਣੀ ਪਾਓ। ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying on medium. Fry the koftas a few at a time, turning, until golden brown, about 4 minutes. Drain on paper.",
+    "hi-en": "Talne ke liye tel medium aanch pe garam karo. Thode thode kofte daal ke palat palat ke sunehre bhoore hone tak talo, lagbhag 4 minute. Kaagaz pe nikaalo.",
+    "hi": "तलने के लिए तेल मध्यम आँच पर गरम करो। थोड़े-थोड़े कोफ़्ते डालकर पलट-पलटकर सुनहरे भूरे होने तक तलो, लगभग 4 मिनट। कागज़ पर निकालो।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਕੋਫ਼ਤੇ ਪਾ ਕੇ ਪਲਟ-ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "For the gravy, grind the onion, ginger and garlic to a paste. Heat 1 tablespoon oil and cook the paste until golden, about 6 minutes.",
+    "hi-en": "Gravy ke liye pyaaz, adrak aur lehsun ka paste bana lo. 1 bada chammach tel garam karke paste sunehra hone tak bhuno, lagbhag 6 minute.",
+    "hi": "ग्रेवी के लिए प्याज़, अदरक और लहसुन का पेस्ट बना लो। 1 बड़ा चम्मच तेल गरम करके पेस्ट सुनहरा होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਗ੍ਰੇਵੀ ਲਈ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ ਬਣਾ ਲਓ। 1 ਵੱਡਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the chopped tomato, turmeric, red chilli powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Kata tamatar, haldi, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "कटा टमाटर, हल्दी, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਕੱਟਿਆ ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Turn the heat low and stir in the whisked curd. Add 1 cup water and simmer for 5 minutes. Stir in the garam masala.",
+    "hi-en": "Aanch dheemi karke phenta hua dahi milao. 1 cup paani daal ke 5 minute dheeme pakao. Garam masala milao.",
+    "hi": "आँच धीमी करके फेंटा हुआ दही मिलाओ। 1 कप पानी डालकर 5 मिनट धीमी आँच पर पकाओ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ। 1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Just before eating, put the koftas in the hot gravy, simmer for 1 minute and add coriander.",
+    "hi-en": "Khaane se theek pehle kofte garam gravy mein daalo, 1 minute pakao aur hara dhaniya daalo.",
+    "hi": "खाने से ठीक पहले कोफ़्ते गरम ग्रेवी में डालो, 1 मिनट पकाओ और हरा धनिया डालो।",
+    "pa": "ਖਾਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਕੋਫ਼ਤੇ ਗਰਮ ਗ੍ਰੇਵੀ ਵਿੱਚ ਪਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas break in the oil",
+    "en": "The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.",
+    "hi": "मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "koftas went soggy",
+    "en": "Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.",
+    "hi": "कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC205": {
+  "names": {
+   "hi-en": "Lauki kofta curry",
+   "hi": "लौकी कोफ़्ता करी",
+   "pa": "ਘੀਆ ਕੋਫ਼ਤਾ ਕਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Peel and grate the lauki and squeeze out the water. Keep that water for the gravy. Mix the lauki with the besan, bread crumbs, chopped green chilli and a pinch of salt. Make small balls.",
+    "hi-en": "Lauki chheel ke kaddukas karo aur paani nichod lo. Woh paani gravy ke liye rakh lo. Lauki mein besan, bread crumbs, kati hari mirch aur chutki namak mila ke chhote gole bana lo.",
+    "hi": "लौकी छीलकर कद्दूकस करो और पानी निचोड़ लो। वह पानी ग्रेवी के लिए रख लो। लौकी में बेसन, ब्रेड क्रम्ब्स, कटी हरी मिर्च और चुटकी भर नमक मिलाकर छोटे गोले बना लो।",
+    "pa": "ਘੀਆ ਛਿੱਲ ਕੇ ਕੱਦੂਕਸ ਕਰੋ ਅਤੇ ਪਾਣੀ ਨਿਚੋੜ ਲਓ। ਉਹ ਪਾਣੀ ਗ੍ਰੇਵੀ ਲਈ ਰੱਖ ਲਓ। ਘੀਏ ਵਿੱਚ ਵੇਸਣ, ਬ੍ਰੈੱਡ ਕਰੰਬਜ਼, ਕੱਟੀ ਹਰੀ ਮਿਰਚ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾ ਕੇ ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying on medium. Fry the koftas a few at a time, turning, until golden brown, about 4 minutes. Drain on paper.",
+    "hi-en": "Talne ke liye tel medium aanch pe garam karo. Thode thode kofte daal ke palat palat ke sunehre bhoore hone tak talo, lagbhag 4 minute. Kaagaz pe nikaalo.",
+    "hi": "तलने के लिए तेल मध्यम आँच पर गरम करो। थोड़े-थोड़े कोफ़्ते डालकर पलट-पलटकर सुनहरे भूरे होने तक तलो, लगभग 4 मिनट। कागज़ पर निकालो।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਕੋਫ਼ਤੇ ਪਾ ਕੇ ਪਲਟ-ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "For the gravy, grind the onion, ginger and garlic to a paste. Heat 1 tablespoon oil and cook the paste until golden, about 6 minutes.",
+    "hi-en": "Gravy ke liye pyaaz, adrak aur lehsun ka paste bana lo. 1 bada chammach tel garam karke paste sunehra hone tak bhuno, lagbhag 6 minute.",
+    "hi": "ग्रेवी के लिए प्याज़, अदरक और लहसुन का पेस्ट बना लो। 1 बड़ा चम्मच तेल गरम करके पेस्ट सुनहरा होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਗ੍ਰੇਵੀ ਲਈ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ ਬਣਾ ਲਓ। 1 ਵੱਡਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the chopped tomato, turmeric, red chilli powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Kata tamatar, haldi, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "कटा टमाटर, हल्दी, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਕੱਟਿਆ ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Turn the heat low and stir in the whisked curd. Add 1 cup water and simmer for 5 minutes. Stir in the garam masala.",
+    "hi-en": "Aanch dheemi karke phenta hua dahi milao. 1 cup paani daal ke 5 minute dheeme pakao. Garam masala milao.",
+    "hi": "आँच धीमी करके फेंटा हुआ दही मिलाओ। 1 कप पानी डालकर 5 मिनट धीमी आँच पर पकाओ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ। 1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Just before eating, put the koftas in the hot gravy, simmer for 1 minute and add coriander.",
+    "hi-en": "Khaane se theek pehle kofte garam gravy mein daalo, 1 minute pakao aur hara dhaniya daalo.",
+    "hi": "खाने से ठीक पहले कोफ़्ते गरम ग्रेवी में डालो, 1 मिनट पकाओ और हरा धनिया डालो।",
+    "pa": "ਖਾਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਕੋਫ਼ਤੇ ਗਰਮ ਗ੍ਰੇਵੀ ਵਿੱਚ ਪਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas break in the oil",
+    "en": "The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.",
+    "hi": "मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "lauki tastes bitter",
+    "en": "Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.",
+    "hi": "पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+   }
+  ],
+  "swaps": {
+   "bread": [
+    "skip"
+   ]
+  }
+ },
+ "ASC202": {
+  "names": {
+   "hi-en": "Kachche kele ke kofte",
+   "hi": "कच्चे केले के कोफ़्ते",
+   "pa": "ਕੱਚੇ ਕੇਲੇ ਦੇ ਕੋਫ਼ਤੇ"
+  },
+  "steps": [
+   {
+    "en": "Boil the raw bananas with the skin on until soft, about 10 minutes, or 1 whistle in a cooker. Peel and mash them.",
+    "hi-en": "Kachche kele chhilke samet naram hone tak ubaalo, lagbhag 10 minute, ya cooker mein 1 seeti. Chheel ke mash kar lo.",
+    "hi": "कच्चे केले छिलके समेत नरम होने तक उबालो, लगभग 10 मिनट, या कुकर में 1 सीटी। छीलकर मैश कर लो।",
+    "pa": "ਕੱਚੇ ਕੇਲੇ ਛਿਲਕੇ ਸਮੇਤ ਨਰਮ ਹੋਣ ਤੱਕ ਉਬਾਲੋ, ਲਗਭਗ 10 ਮਿੰਟ, ਜਾਂ ਕੁੱਕਰ ਵਿੱਚ 1 ਸੀਟੀ। ਛਿੱਲ ਕੇ ਮੈਸ਼ ਕਰ ਲਓ।",
+    "timer": 10,
+    "safety": "cooker"
+   },
+   {
+    "en": "Mix the mashed banana with the besan, chopped green chilli and a pinch of salt. Make small balls.",
+    "hi-en": "Mash kiye kele mein besan, kati hari mirch aur chutki namak mila ke chhote gole bana lo.",
+    "hi": "मैश किए केले में बेसन, कटी हरी मिर्च और चुटकी भर नमक मिलाकर छोटे गोले बना लो।",
+    "pa": "ਮੈਸ਼ ਕੀਤੇ ਕੇਲੇ ਵਿੱਚ ਵੇਸਣ, ਕੱਟੀ ਹਰੀ ਮਿਰਚ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾ ਕੇ ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying on medium. Fry the koftas a few at a time, turning, until golden brown, about 4 minutes. Drain on paper.",
+    "hi-en": "Talne ke liye tel medium aanch pe garam karo. Thode thode kofte daal ke palat palat ke sunehre bhoore hone tak talo, lagbhag 4 minute. Kaagaz pe nikaalo.",
+    "hi": "तलने के लिए तेल मध्यम आँच पर गरम करो। थोड़े-थोड़े कोफ़्ते डालकर पलट-पलटकर सुनहरे भूरे होने तक तलो, लगभग 4 मिनट। कागज़ पर निकालो।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਕੋਫ਼ਤੇ ਪਾ ਕੇ ਪਲਟ-ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "For the gravy, grind the onion, ginger and garlic to a paste. Heat 1 tablespoon oil and cook the paste until golden, about 6 minutes.",
+    "hi-en": "Gravy ke liye pyaaz, adrak aur lehsun ka paste bana lo. 1 bada chammach tel garam karke paste sunehra hone tak bhuno, lagbhag 6 minute.",
+    "hi": "ग्रेवी के लिए प्याज़, अदरक और लहसुन का पेस्ट बना लो। 1 बड़ा चम्मच तेल गरम करके पेस्ट सुनहरा होने तक भूनो, लगभग 6 मिनट।",
+    "pa": "ਗ੍ਰੇਵੀ ਲਈ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ ਬਣਾ ਲਓ। 1 ਵੱਡਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the chopped tomato, turmeric, red chilli powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Kata tamatar, haldi, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "कटा टमाटर, हल्दी, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਕੱਟਿਆ ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Turn the heat low and stir in the whisked curd. Add 1 cup water and simmer for 5 minutes. Stir in the garam masala.",
+    "hi-en": "Aanch dheemi karke phenta hua dahi milao. 1 cup paani daal ke 5 minute dheeme pakao. Garam masala milao.",
+    "hi": "आँच धीमी करके फेंटा हुआ दही मिलाओ। 1 कप पानी डालकर 5 मिनट धीमी आँच पर पकाओ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ। 1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Just before eating, put the koftas in the hot gravy, simmer for 1 minute and add coriander.",
+    "hi-en": "Khaane se theek pehle kofte garam gravy mein daalo, 1 minute pakao aur hara dhaniya daalo.",
+    "hi": "खाने से ठीक पहले कोफ़्ते गरम ग्रेवी में डालो, 1 मिनट पकाओ और हरा धनिया डालो।",
+    "pa": "ਖਾਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਕੋਫ਼ਤੇ ਗਰਮ ਗ੍ਰੇਵੀ ਵਿੱਚ ਪਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas break in the oil",
+    "en": "The mix is too wet or the oil is not hot enough. Add a spoon of besan or bread crumbs, and test one kofta first.",
+    "hi": "मिश्रण बहुत गीला है या तेल कम गरम है। एक चम्मच बेसन या ब्रेड क्रम्ब्स मिलाओ, और पहले एक कोफ़्ता तलकर देखो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "koftas went soggy",
+    "en": "Put them in the gravy only just before eating. Keep the extra gravy and koftas apart.",
+    "hi": "कोफ़्ते खाने से ठीक पहले ही ग्रेवी में डालो। बचे हुए कोफ़्ते और ग्रेवी अलग रखो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "BFP277": {
+  "names": {
+   "hi-en": "Veg jalfrezi",
+   "hi": "वेज जालफ्रेज़ी",
+   "pa": "ਵੈਜ ਜਾਲਫ੍ਰੇਜ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Cut the potato, carrot, French beans, cabbage, capsicum and onion into thin strips. Chop the tomato.",
+    "hi-en": "Aloo, gajar, French beans, patta gobhi, shimla mirch aur pyaaz patli lambi kaato. Tamatar kaat lo.",
+    "hi": "आलू, गाजर, फ्रेंच बीन्स, पत्ता गोभी, शिमला मिर्च और प्याज़ पतले लंबे काटो। टमाटर काट लो।",
+    "pa": "ਆਲੂ, ਗਾਜਰ, ਫਰੈਂਚ ਬੀਨਜ਼, ਬੰਦ ਗੋਭੀ, ਸ਼ਿਮਲਾ ਮਿਰਚ ਅਤੇ ਪਿਆਜ਼ ਪਤਲੇ ਲੰਮੇ ਕੱਟੋ। ਟਮਾਟਰ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Heat the oil. Add the cumin, the whole red chilli and the ginger, then the onion. Cook for 2 minutes.",
+    "hi-en": "Tel garam karo. Jeera, sabut laal mirch aur adrak daalo, phir pyaaz. 2 minute bhuno.",
+    "hi": "तेल गरम करो। जीरा, साबुत लाल मिर्च और अदरक डालो, फिर प्याज़। 2 मिनट भूनो।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰੋ। ਜੀਰਾ, ਸਾਬਤ ਲਾਲ ਮਿਰਚ ਅਤੇ ਅਦਰਕ ਪਾਓ, ਫਿਰ ਪਿਆਜ਼। 2 ਮਿੰਟ ਭੁੰਨੋ।",
+    "timer": 2,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the potato, carrot and beans with 2 teaspoons of water. Cover and cook for 5 minutes.",
+    "hi-en": "Aloo, gajar aur beans 2 chhote chammach paani ke saath daalo. Dhak ke 5 minute pakao.",
+    "hi": "आलू, गाजर और बीन्स 2 छोटे चम्मच पानी के साथ डालो। ढककर 5 मिनट पकाओ।",
+    "pa": "ਆਲੂ, ਗਾਜਰ ਅਤੇ ਬੀਨਜ਼ 2 ਛੋਟੇ ਚਮਚ ਪਾਣੀ ਨਾਲ ਪਾਓ। ਢੱਕ ਕੇ 5 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Add the cabbage and capsicum and stir fry on high heat for 3 minutes, so they stay a little crunchy.",
+    "hi-en": "Patta gobhi aur shimla mirch daal ke tez aanch pe 3 minute chalao, taaki thodi crunchy rahein.",
+    "hi": "पत्ता गोभी और शिमला मिर्च डालकर तेज़ आँच पर 3 मिनट चलाओ, ताकि थोड़ी कुरकुरी रहें।",
+    "pa": "ਬੰਦ ਗੋਭੀ ਅਤੇ ਸ਼ਿਮਲਾ ਮਿਰਚ ਪਾ ਕੇ ਤੇਜ਼ ਅੱਗ ਤੇ 3 ਮਿੰਟ ਹਿਲਾਓ, ਤਾਂ ਜੋ ਥੋੜ੍ਹੀਆਂ ਕਰਾਰੀਆਂ ਰਹਿਣ।",
+    "timer": 3
+   },
+   {
+    "en": "Add the tomato, pepper, salt and vinegar. Toss for 2 minutes, add coriander and serve.",
+    "hi-en": "Tamatar, kali mirch, namak aur sirka daalo. 2 minute uchhaalo, hara dhaniya daalo aur khao.",
+    "hi": "टमाटर, काली मिर्च, नमक और सिरका डालो। 2 मिनट उछालो, हरा धनिया डालो और खाओ।",
+    "pa": "ਟਮਾਟਰ, ਕਾਲੀ ਮਿਰਚ, ਲੂਣ ਅਤੇ ਸਿਰਕਾ ਪਾਓ। 2 ਮਿੰਟ ਉਛਾਲੋ, ਹਰਾ ਧਨੀਆ ਪਾਓ ਅਤੇ ਖਾਓ।",
+    "timer": 2
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "vegetables went soft and soggy",
+    "en": "The heat was low or they cooked too long. Keep the heat high and stop while they still have a bite.",
+    "hi": "आँच धीमी थी या ज़्यादा पक गईं। आँच तेज़ रखो और थोड़ी कुरकुरी रहते ही बंद कर दो।"
+   },
+   {
+    "mistake": "potato still hard",
+    "en": "Cut it thinner. For now, cover and cook for 2 more minutes with a spoon of water.",
+    "hi": "आलू पतला काटो। अभी एक चम्मच पानी डालकर ढककर 2 मिनट और पकाओ।"
+   },
+   {
+    "mistake": "too sour",
+    "en": "Too much vinegar. Add a pinch of sugar and toss.",
+    "hi": "सिरका ज़्यादा हो गया। चुटकी भर चीनी डालकर मिला दो।"
+   }
+  ],
+  "swaps": {
+   "vinegar": [
+    "lemon"
+   ],
+   "beans": [
+    "peas",
+    "skip"
+   ],
+   "cabbage": [
+    "skip"
+   ]
+  }
+ },
+ "ASC218": {
+  "names": {
+   "hi-en": "Kathal ki sabzi",
+   "hi": "कटहल की सब्ज़ी",
+   "pa": "ਕਟਹਲ ਦੀ ਸਬਜ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Rub oil on your hands and the knife, because raw jackfruit is very sticky. Peel it, cut it into small pieces and keep them in water.",
+    "hi-en": "Haath aur chaaku pe tel laga lo, kachcha kathal bahut chipakta hai. Chheel ke chhote tukde karo aur paani mein rakho.",
+    "hi": "हाथ और चाकू पर तेल लगा लो, कच्चा कटहल बहुत चिपकता है। छीलकर छोटे टुकड़े करो और पानी में रखो।",
+    "pa": "ਹੱਥਾਂ ਅਤੇ ਚਾਕੂ ਤੇ ਤੇਲ ਲਗਾ ਲਓ, ਕੱਚਾ ਕਟਹਲ ਬਹੁਤ ਚਿਪਕਦਾ ਹੈ। ਛਿੱਲ ਕੇ ਛੋਟੇ ਟੁਕੜੇ ਕਰੋ ਅਤੇ ਪਾਣੀ ਵਿੱਚ ਰੱਖੋ।"
+   },
+   {
+    "en": "Drain and pat the pieces dry. Deep fry them in hot oil until golden, about 6 minutes, and drain on paper.",
+    "hi-en": "Paani nikaal ke tukde kapde se sukha lo. Garam tel mein sunehre hone tak talo, lagbhag 6 minute, aur kaagaz pe nikaalo.",
+    "hi": "पानी निकालकर टुकड़े कपड़े से सुखा लो। गरम तेल में सुनहरे होने तक तलो, लगभग 6 मिनट, और कागज़ पर निकालो।",
+    "pa": "ਪਾਣੀ ਕੱਢ ਕੇ ਟੁਕੜੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਗਰਮ ਤੇਲ ਵਿੱਚ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 6 ਮਿੰਟ, ਅਤੇ ਕਾਗਜ਼ ਤੇ ਕੱਢੋ।",
+    "timer": 6,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "In 2 teaspoons of oil, cook the chopped onion, ginger, garlic and green chilli until golden, about 5 minutes.",
+    "hi-en": "2 chhote chammach tel mein kata pyaaz, adrak, lehsun aur hari mirch sunehre hone tak bhuno, lagbhag 5 minute.",
+    "hi": "2 छोटे चम्मच तेल में कटा प्याज़, अदरक, लहसुन और हरी मिर्च सुनहरे होने तक भूनो, लगभग 5 मिनट।",
+    "pa": "2 ਛੋਟੇ ਚਮਚ ਤੇਲ ਵਿੱਚ ਕੱਟਿਆ ਪਿਆਜ਼, ਅਦਰਕ, ਲਸਣ ਅਤੇ ਹਰੀ ਮਿਰਚ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Add the tomato, turmeric, red chilli powder, coriander powder and salt and cook until the oil separates, about 5 minutes.",
+    "hi-en": "Tamatar, haldi, laal mirch, dhaniya powder aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute.",
+    "hi": "टमाटर, हल्दी, लाल मिर्च, धनिया पाउडर और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਟਮਾਟਰ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ, ਧਨੀਆ ਪਾਊਡਰ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Add the fried jackfruit and a quarter cup of water. Cover and cook on low heat for 8 minutes. Add garam masala and coriander.",
+    "hi-en": "Tala kathal aur chauthai cup paani daalo. Dhak ke dheemi aanch pe 8 minute pakao. Garam masala aur hara dhaniya daalo.",
+    "hi": "तला कटहल और चौथाई कप पानी डालो। ढककर धीमी आँच पर 8 मिनट पकाओ। गरम मसाला और हरा धनिया डालो।",
+    "pa": "ਤਲਿਆ ਕਟਹਲ ਅਤੇ ਚੌਥਾਈ ਕੱਪ ਪਾਣੀ ਪਾਓ। ਢੱਕ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ 8 ਮਿੰਟ ਪਕਾਓ। ਗਰਮ ਮਸਾਲਾ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 8
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "hands and knife got sticky",
+    "en": "Rub more oil on them. Wipe the sap off the knife with an oily cloth.",
+    "hi": "हाथ और चाकू पर और तेल लगाओ। चाकू का दूध तेल वाले कपड़े से पोंछ लो।"
+   },
+   {
+    "mistake": "jackfruit is still hard",
+    "en": "Add a few spoons of water, cover and cook for 5 more minutes.",
+    "hi": "कुछ चम्मच पानी डालो, ढककर 5 मिनट और पकाओ।"
+   },
+   {
+    "mistake": "too oily",
+    "en": "Fry the jackfruit less, or boil it in salted water for 10 minutes instead of frying.",
+    "hi": "कटहल कम तलो, या तलने की जगह नमक वाले पानी में 10 मिनट उबाल लो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC174": {
+  "names": {
+   "hi-en": "Gajar methi",
+   "hi": "गाजर मेथी",
+   "pa": "ਗਾਜਰ ਮੇਥੀ"
+  },
+  "steps": [
+   {
+    "en": "Pick the methi leaves, wash them well in plenty of water and chop them. Dice the carrot small.",
+    "hi-en": "Methi ke patte tod ke khoob paani mein achhe se dho lo aur kaat lo. Gajar chhoti kaato.",
+    "hi": "मेथी के पत्ते तोड़कर खूब पानी में अच्छे से धो लो और काट लो। गाजर छोटी काटो।",
+    "pa": "ਮੇਥੀ ਦੇ ਪੱਤੇ ਤੋੜ ਕੇ ਬਹੁਤੇ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਧੋ ਲਓ ਅਤੇ ਕੱਟ ਲਓ। ਗਾਜਰ ਛੋਟੀ ਕੱਟੋ।"
+   },
+   {
+    "en": "Heat the oil and add the ginger and green chilli. Add the carrot and a pinch of salt, cover and cook for 5 minutes.",
+    "hi-en": "Tel garam karke adrak aur hari mirch daalo. Gajar aur chutki namak daal ke dhak do aur 5 minute pakao.",
+    "hi": "तेल गरम करके अदरक और हरी मिर्च डालो। गाजर और चुटकी भर नमक डालकर ढक दो और 5 मिनट पकाओ।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਅਦਰਕ ਅਤੇ ਹਰੀ ਮਿਰਚ ਪਾਓ। ਗਾਜਰ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਪਾ ਕੇ ਢੱਕ ਦਿਓ ਅਤੇ 5 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Add the methi, red chilli powder and the rest of the salt. Cook without a lid until the methi wilts and the water dries, about 5 minutes.",
+    "hi-en": "Methi, laal mirch aur baaki namak daalo. Bina dhakkan methi murjhaane aur paani sookhne tak pakao, lagbhag 5 minute.",
+    "hi": "मेथी, लाल मिर्च और बाकी नमक डालो। बिना ढक्कन मेथी मुरझाने और पानी सूखने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਮੇਥੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਬਾਕੀ ਲੂਣ ਪਾਓ। ਬਿਨਾਂ ਢੱਕਣ ਮੇਥੀ ਮੁਰਝਾਉਣ ਅਤੇ ਪਾਣੀ ਸੁੱਕਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Stir in the garam masala and serve with roti.",
+    "hi-en": "Garam masala milao aur roti ke saath khao.",
+    "hi": "गरम मसाला मिलाओ और रोटी के साथ खाओ।",
+    "pa": "ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ ਅਤੇ ਰੋਟੀ ਨਾਲ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too bitter",
+    "en": "Methi is a little bitter. Add a pinch of sugar or a few more carrots next time.",
+    "hi": "मेथी थोड़ी कड़वी होती है। चुटकी भर चीनी डालो, या अगली बार गाजर थोड़ी ज़्यादा।"
+   },
+   {
+    "mistake": "gritty to eat",
+    "en": "The methi had soil in it. Wash the leaves in 2 or 3 changes of water next time.",
+    "hi": "मेथी में मिट्टी थी। अगली बार पत्ते 2-3 बार पानी बदलकर धोना।"
+   },
+   {
+    "mistake": "carrot still hard",
+    "en": "Cover and cook on low heat for 3 more minutes with a spoon of water.",
+    "hi": "एक चम्मच पानी डालकर ढककर धीमी आँच पर 3 मिनट और पकाओ।"
+   }
+  ],
+  "swaps": {
+   "methi_leaves": [
+    "spinach"
+   ]
+  }
+ },
+ "BFP272": {
+  "names": {
+   "hi-en": "Beans foogath",
+   "hi": "बीन्स फुगाथ",
+   "pa": "ਬੀਨਜ਼ ਫੁਗਾਥ"
+  },
+  "steps": [
+   {
+    "en": "Wash the French beans, pull off the strings and chop them into small pieces. Chop the onion.",
+    "hi-en": "French beans dho ke dhaage nikaalo aur chhote tukde kaato. Pyaaz kaat lo.",
+    "hi": "फ्रेंच बीन्स धोकर धागे निकालो और छोटे टुकड़े काटो। प्याज़ काट लो।",
+    "pa": "ਫਰੈਂਚ ਬੀਨਜ਼ ਧੋ ਕੇ ਧਾਗੇ ਕੱਢੋ ਅਤੇ ਛੋਟੇ ਟੁਕੜੇ ਕੱਟੋ। ਪਿਆਜ਼ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Heat the oil and add the mustard seeds. When they crackle, add the curry leaves and green chilli, then the onion. Cook until soft.",
+    "hi-en": "Tel garam karke rai daalo. Chatakne lage to kadi patta aur hari mirch daalo, phir pyaaz. Naram hone tak pakao.",
+    "hi": "तेल गरम करके राई डालो। चटकने लगे तो कड़ी पत्ता और हरी मिर्च डालो, फिर प्याज़। नरम होने तक पकाओ।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਰਾਈ ਪਾਓ। ਤਿੜਕਣ ਲੱਗੇ ਤਾਂ ਕੜੀ ਪੱਤਾ ਅਤੇ ਹਰੀ ਮਿਰਚ ਪਾਓ, ਫਿਰ ਪਿਆਜ਼। ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ।",
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the beans, salt and 1 tablespoon of water. Cover and cook on low heat until tender, about 6 minutes.",
+    "hi-en": "Beans, namak aur 1 bada chammach paani daalo. Dhak ke dheemi aanch pe naram hone tak pakao, lagbhag 6 minute.",
+    "hi": "बीन्स, नमक और 1 बड़ा चम्मच पानी डालो। ढककर धीमी आँच पर नरम होने तक पकाओ, लगभग 6 मिनट।",
+    "pa": "ਬੀਨਜ਼, ਲੂਣ ਅਤੇ 1 ਵੱਡਾ ਚਮਚ ਪਾਣੀ ਪਾਓ। ਢੱਕ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6
+   },
+   {
+    "en": "Stir in the grated coconut, cook for 1 minute and serve with rice and dal.",
+    "hi-en": "Kaddukas nariyal milao, 1 minute pakao aur chawal dal ke saath khao.",
+    "hi": "कद्दूकस नारियल मिलाओ, 1 मिनट पकाओ और चावल-दाल के साथ खाओ।",
+    "pa": "ਕੱਦੂਕਸ ਨਾਰੀਅਲ ਮਿਲਾਓ, 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਚੌਲ-ਦਾਲ ਨਾਲ ਖਾਓ।",
+    "timer": 1
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "beans turned dull and mushy",
+    "en": "They cooked too long. Stop when they are just tender and still bright green.",
+    "hi": "बीन्स ज़्यादा पक गईं। जब नरम और हरी चमकीली हों तभी बंद कर दो।"
+   },
+   {
+    "mistake": "beans still hard",
+    "en": "Add another spoon of water, cover and cook for 2 more minutes.",
+    "hi": "एक चम्मच पानी और डालो, ढककर 2 मिनट और पकाओ।"
+   },
+   {
+    "mistake": "coconut tastes raw",
+    "en": "Cook it for a minute after adding, and use fresh coconut if you can.",
+    "hi": "नारियल डालकर एक मिनट पकाओ, और हो सके तो ताज़ा नारियल लो।"
+   }
+  ],
+  "swaps": {
+   "coconut": [
+    "skip"
+   ],
+   "onion": [
+    "skip"
+   ]
+  }
+ }
+}

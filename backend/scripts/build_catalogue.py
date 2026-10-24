@@ -26,6 +26,7 @@ DATA = BACKEND / "app" / "data"
 STEPS = BACKEND / "scripts" / "steps"
 SHEET = BACKEND.parent / "data"
 LANGS = ("en", "hi-en", "hi", "pa")
+PREP_ONLY = re.compile(r"(wash|rinse|cut|chop|slice|dice|soak|grate|peel|pick|rub|pat|pull|shell|crush|grind)\b(?!.*\b(knead|mix))")
 CREDIT = ("Ingredients and nutrition: Indian Nutrient Databank (INDB), Vijayakumar A, Dubasi HB, Awasthi A, "
           "Jaacks LM, Curr Dev Nutr 2024;8(7):103790. Nutrition values are estimates. Method adapted from "
           "Archana's Kitchen (archanaskitchen.com) via the 6000+ Indian Food Recipes Dataset, Kanishka Jain, "
@@ -37,8 +38,11 @@ def load(path):
 
 
 def uses(step_text, ingredients, catalogue):
-    """Which ingredients a step mentions, so finishing the step can mark them as added."""
+    """Which ingredients a step mentions, so finishing the step can mark them as added.
+    A step that only gets things ready ("Chop the onion. Soak the rice.") adds nothing to the pan yet."""
     text = step_text.lower()
+    if all(PREP_ONLY.match(s) for s in re.split(r"(?<=[.!?])\s+", text) if s):
+        return []
     found = []
     for i in ingredients:
         known = catalogue.get(i["id"], {})
