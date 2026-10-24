@@ -1,5 +1,8 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { api } from "../api.js";
+import { unlockAudio } from "../audio/context.js";
+import { startRecording } from "../audio/recorder.js";
+import Kadhai from "../components/Kadhai.jsx";
 import "./Dishes.css";
 
 const LABELS = {
@@ -9,11 +12,47 @@ const LABELS = {
   missing_essential: "Missing an essential",
 };
 
+const STATUS = {
+  idle: "Tap and say which one, like \"doosra wala\"",
+  listening: "Listening. Tap again when you finish",
+  thinking: "Amma ji is looking",
+};
+
 // Flow C: the best dishes for what you have, ranked by code (not AI), with honest labels.
+// Pick one by tapping it, or by voice: "doosra wala", "number 3", "aloo paratha wala".
 export default function Dishes({ language, pantry, onOpen, onBack }) {
   const [dishes, setDishes] = useState(null);
   const [limit, setLimit] = useState(3);
   const [error, setError] = useState("");
+  const [mood, setMood] = useState("idle");
+  const [heard, setHeard] = useState("");
+  const recording = useRef(null);
+
+  async function listen() {
+    const context = unlockAudio();
+    if (mood === "listening") return recording.current?.stop();
+    if (mood !== "idle") return;
+    setError("");
+    try {
+      setMood("listening");
+      recording.current = await startRecording(context);
+      const wav = await recording.current.result;
+      recording.current = null;
+      if (!wav) return setError("Amma ji did not hear anything. Tap and speak a little closer.");
+      setMood("thinking");
+      const { text } = await api.hear(wav, language);
+      setHeard(text);
+      const { id } = await api.pick(text, dishes.map((d) => d.id));
+      if (id) return onOpen(id);
+      setError("Amma ji could not tell which one. Say its number, like \"pehla wala\", or tap it.");
+    } catch (e) {
+      setError(e.name === "NotAllowedError" ? "Amma ji needs the microphone. Allow it, or tap a dish." : e.message);
+    } finally {
+      setMood("idle");
+    }
+  }
+
+  useEffect(() => () => recording.current?.stop(), []);
 
   useEffect(() => {
     setError("");
@@ -45,6 +84,20 @@ export default function Dishes({ language, pantry, onOpen, onBack }) {
         <p className="pantry__error" role="alert">
           {error}
         </p>
+      )}
+      {dishes?.length > 0 && (
+        <section className="pantry__voice dishes__voice">
+          <button className={`pantry__mic pantry__mic--${mood}`} onClick={listen} aria-label="Say which dish">
+            <Kadhai mood={mood} size={76} />
+          </button>
+          <div>
+            <p className="pantry__status" aria-live="polite">
+              {STATUS[mood]}
+            </p>
+            {mood === "listening" && <span className="pantry__mic-on">Mic on</span>}
+            {heard && mood === "idle" && <p className="pantry__example">Heard: "{heard}"</p>}
+          </div>
+        </section>
       )}
       {dishes && !dishes.length && (
         <p className="dishes__none">

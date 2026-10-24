@@ -93,3 +93,8 @@
   background: transparent;
   font-weight: 700;
 }
+
+/* Saying which dish: the same haldi bar as the pantry screen, a little smaller */
+.dishes__voice {
+  padding: 12px var(--space-m);
+}

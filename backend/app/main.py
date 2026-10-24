@@ -69,6 +69,11 @@ class Suggest(BaseModel):
     limit: int = Field(default=3, ge=1, le=10)
 
 
+class Pick(BaseModel):
+    text: str = Field(min_length=1, max_length=300)
+    options: list[str] = Field(min_length=1, max_length=10)
+
+
 class Feedback(BaseModel):
     rating: Literal["loved", "okay", "bad"]
 
@@ -182,6 +187,12 @@ def suggest(body: Suggest):
     """Flow C: the best dishes for what the cook has, ranked in code with honest labels."""
     return pantry.suggest(body.have, body.not_have, body.minutes, body.diet, body.allergies, body.kinds,
                           body.language, body.limit)
+
+
+@app.post("/api/pick")
+def pick(body: Pick):
+    """Flow C by voice: "doosra wala" or "aloo paratha wala" picks one of the dishes on screen. No AI."""
+    return pantry.pick(body.text, body.options)
 
 
 @app.post("/api/sessions")

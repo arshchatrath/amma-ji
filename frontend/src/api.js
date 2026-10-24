@@ -49,6 +49,7 @@ export const api = {
       (r) => r.json(),
     ),
   pantry: (text, language) => call("/api/pantry", post({ text, language })).then((r) => r.json()),
+  pick: (text, options) => call("/api/pick", post({ text, options })).then((r) => r.json()),
   suggest: (options) => call("/api/suggest", post(options)).then((r) => r.json()),
   recipe: (id, language) => call(`/api/recipes/${id}?language=${language}`).then((r) => r.json()),
   recipes: (language) => call(`/api/recipes?language=${language}`).then((r) => r.json()),

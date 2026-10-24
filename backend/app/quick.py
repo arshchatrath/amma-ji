@@ -1,4 +1,4 @@
-"""Simple commands answered in code, with no Groq call: next, back, repeat, slower, how much time left.
+"""Simple commands answered in code, with no Groq call: next, back, repeat, slower, wait, time left.
 
 Only a whole sentence that is just the command counts. "Ho gaya" moves on, but "namak zyada ho
 gaya" is a mistake, so it still goes to Groq. Saves Groq's daily limit and about a second a turn.
@@ -46,6 +46,12 @@ COMMANDS = {
         "धीरे", "धीरे बोलो", "धीरे से बोलो", "आराम से बोलो", "धीरे धीरे बोलो",
         "ਹੌਲੀ", "ਹੌਲੀ ਬੋਲੋ", "ਹੌਲੀ ਹੌਲੀ ਬੋਲੋ", "ਆਰਾਮ ਨਾਲ ਬੋਲੋ",
     ],
+    "wait": [
+        "wait", "hold on", "one minute", "one second", "stop", "pause",
+        "ruko", "ruk jao", "ruko zara", "ek minute", "ek second", "ek min", "bas", "thehro",
+        "रुको", "रुक जाओ", "एक मिनट", "एक सेकंड", "बस", "ठहरो",
+        "ਰੁਕੋ", "ਰੁਕ ਜਾਓ", "ਇੱਕ ਮਿੰਟ", "ਬੱਸ", "ਠਹਿਰੋ",
+    ],
     "timer": [
         "timer", "how much time left", "how long left", "time left", "how much time", "how long",
         "timer kitna bacha", "kitna time bacha", "kitna time", "kitni der", "kitni der aur", "kitna bacha",
@@ -80,6 +86,8 @@ SAY = {
     "repeat": {"hi-en": "सुनो बेटा।", "hi": "सुनो बेटा।", "pa": "ਸੁਣੋ ਬੇਟਾ।", "en": "Listen, बेटा."},
     "slow": {"hi-en": "ठीक है, धीरे बोलती हूँ।", "hi": "ठीक है, धीरे बोलती हूँ।", "pa": "ਠੀਕ ਹੈ, ਹੌਲੀ ਬੋਲਦੀ ਹਾਂ।",
              "en": "Okay, I'll say it slowly."},
+    "wait": {"hi-en": "ठीक है बेटा, मैं रुकती हूँ। जब तैयार हो, बताना।", "hi": "ठीक है बेटा, मैं रुकती हूँ। जब तैयार हो, बताना।",
+             "pa": "ਠੀਕ ਹੈ ਬੇਟਾ, ਮੈਂ ਰੁਕਦੀ ਹਾਂ। ਜਦੋਂ ਤਿਆਰ ਹੋਵੋ, ਦੱਸਣਾ।", "en": "Okay, बेटा, I'll wait. Tell me when you're ready."},
     "finished": {"hi-en": "बस बेटा, हो गया!", "hi": "बस बेटा, हो गया!", "pa": "ਬੱਸ ਬੇਟਾ, ਹੋ ਗਿਆ!",
                  "en": "That's it, बेटा, all done!"},
 }
@@ -101,6 +109,9 @@ def answer(state, intent):
     if intent == "timer":
         said = timer_reply(state)
         return TOOL[intent], args, {}, said, said
+    if intent == "wait":  # nothing to do: she just stops and waits for the cook
+        said = SAY["wait"][lang]
+        return "wait", args, {}, said, said
     was = state["current_step"]
     effect = apply_tool(state, TOOL[intent], args)
     if effect.get("finished"):

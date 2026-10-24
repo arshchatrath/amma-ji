@@ -125,3 +125,21 @@ def test_ho_gaya_on_the_last_step_finishes_but_a_mistake_still_goes_to_groq(monk
     assert r["effect"] == {"finished": True} and r["reply"] == "बस बेटा, हो गया!"
     client.post(f"/api/sessions/{sid}/say", json={"text": "namak zyada ho gaya"})
     assert asked == ["namak zyada ho gaya"]
+
+
+def test_pick_a_dish_by_voice():
+    shown = ["ASC098", "ASC097", "ASC099"]  # aloo, sada and mooli paratha
+    pick = lambda text: client.post("/api/pick", json={"text": text, "options": shown}).json()
+    assert pick("doosra wala") == {"id": "ASC097", "how": "number"}
+    assert pick("दूसरा वाला बनाओ") == {"id": "ASC097", "how": "number"}
+    assert pick("the third one")["id"] == "ASC099"
+    assert pick("aakhri wala")["id"] == "ASC099"
+    assert pick("ਮੂਲੀ ਵਾਲਾ")["id"] == "ASC099"
+    assert pick("आलू पराठा")["id"] == "ASC098"
+    assert pick("paratha wala") == {"id": None, "how": None}  # all three are parathas: ask, don't guess
+
+
+def test_ruko_makes_her_wait_without_groq(monkeypatch):
+    monkeypatch.setattr(brain, "ask", lambda state, text: (_ for _ in ()).throw(AssertionError(text)))
+    r = client.post(f"/api/sessions/{session('pa')}/say", json={"text": "ਰੁਕੋ ਜ਼ਰਾ"}).json()
+    assert r["tool"] == "wait" and r["state"]["step"]["n"] == 1 and r["reply"].startswith("ਠੀਕ ਹੈ ਬੇਟਾ")

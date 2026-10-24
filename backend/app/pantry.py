@@ -275,3 +275,55 @@ def ingredient_list(language):
     """Every ingredient people might have, for adding a chip by hand."""
     return sorted(({"id": i["id"], "name": display_name(i["id"], language)} for i in INGREDIENTS.values()
                    if not {"additive", "pantry"} & set(i.get("labels", []))), key=lambda x: x["name"])
+
+
+# Flow C by voice: "doosra wala", "number 2", "aloo paratha wala". Positions people say, in each language.
+ORDINALS = {
+    1: {"pehla", "pehle", "pehli", "pahla", "pahle", "first", "ek", "1", "पहला", "पहले", "पहली", "एक", "ਪਹਿਲਾ", "ਪਹਿਲੀ", "ਇੱਕ"},
+    2: {"doosra", "dusra", "doosri", "dusri", "second", "two", "2", "दूसरा", "दूसरी", "दूसरे", "ਦੂਜਾ", "ਦੂਜੀ", "ਦੋ"},
+    3: {"teesra", "tisra", "teesri", "tisri", "third", "teen", "three", "3", "तीसरा", "तीसरी", "तीन", "ਤੀਜਾ", "ਤੀਜੀ", "ਤਿੰਨ"},
+    4: {"chautha", "chauthi", "fourth", "char", "chaar", "four", "4", "चौथा", "चौथी", "चार", "ਚੌਥਾ", "ਚੌਥੀ", "ਚਾਰ"},
+    5: {"paanchva", "panchva", "paanchvi", "fifth", "paanch", "five", "5", "पाँचवाँ", "पांचवा", "पाँचवीं", "पाँच", "पांच",
+        "ਪੰਜਵਾਂ", "ਪੰਜਵੀਂ", "ਪੰਜ"},
+    6: {"6", "six", "sixth", "chhe", "छह", "छठा", "ਛੇ"}, 7: {"7", "seven", "seventh", "saat", "सात", "ਸੱਤ"},
+    8: {"8", "eight", "eighth", "aath", "आठ", "ਅੱਠ"}, 9: {"9", "nine", "ninth", "nau", "नौ", "ਨੌਂ"},
+    10: {"10", "ten", "tenth", "das", "दस", "ਦਸ"},
+}
+LAST = {"last", "aakhri", "akhri", "aakhiri", "आखिरी", "आख़िरी", "अंतिम", "ਆਖਰੀ", "ਆਖ਼ਰੀ"}
+# "do" (two) is left out of the numbers: in Hinglish it is far more often "give". "one" is left out
+# too, so "the second one" means the second.
+NOT_A_NAME = {"wala", "wali", "wale", "number", "banao", "bana", "banate", "karo", "dish", "recipe", "the", "one", "please",
+              "वाला", "वाली", "वाले", "नंबर", "बनाओ", "बना", "ਵਾਲਾ", "ਵਾਲੀ", "ਨੰਬਰ", "ਬਣਾਓ", "amma", "ji", "अम्मा", "जी"}
+
+
+MARKS = re.compile("[\u0901\u0902\u093c\u0a01\u0a02\u0a3c\u0a70\u0a71]")  # nasal marks, nukta, addak
+
+
+# The same marks dropped from the position words, so they compare with what was said
+ORDINALS = {n: {MARKS.sub("", w) for w in words} for n, words in ORDINALS.items()}
+LAST = {MARKS.sub("", w) for w in LAST}
+
+
+def _words(text):
+    """Words to compare, with nasal marks and nukta dropped: परांठा and पराठा are the same word."""
+    text = MARKS.sub("", re.sub(r"[^\w\s\u0900-\u097F\u0A00-\u0A7F]|[।॥]", " ", text.lower()))
+    return {w for w in re.split(r"[\s/()]+", text) if w and w not in NOT_A_NAME}
+
+
+def pick(text, options):
+    """Which of the shown dishes the cook means. A dish's name wins over a position."""
+    said = _words(text)
+    shown = [(n, d, RECIPES[d]) for n, d in enumerate(options) if d in RECIPES]
+    names = {d: {w for name in (r["name"].values() if isinstance(r["name"], dict) else [r["name"]])
+                 for w in _words(name) if len(w) > 2} for _, d, r in shown}
+    # Only words that tell the shown dishes apart count: "paratha" says nothing when all three are parathas
+    common = set.intersection(*names.values()) if len(names) > 1 else set()
+    scores = sorted(((len((said & names[d]) - common), -n, d) for n, d, _ in shown), reverse=True)
+    if scores and scores[0][0] and (len(scores) == 1 or scores[0][0] > scores[1][0]):
+        return {"id": scores[0][2], "how": "name"}
+    if said & LAST and options:
+        return {"id": options[-1], "how": "number"}
+    for n, words_for_n in ORDINALS.items():
+        if said & words_for_n and n <= len(options):
+            return {"id": options[n - 1], "how": "number"}
+    return {"id": None, "how": None}
