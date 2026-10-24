@@ -25,11 +25,34 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173, pick a language and tap "Start cooking". Tap the kadhai and talk.
-Add `?dev` to the address to see how long each part of a turn takes.
+Open http://localhost:5173, pick a language and tap "Start cooking". Tell Amma ji what you have,
+pick a dish, then tap the kadhai and talk. Add `?dev` to the address to see how long each part of a
+turn takes.
+
+## The recipe sheet
+
+185 dishes that are in both the Indian Nutrient Databank and the Mendeley "6000+ Indian Food
+Recipes" dataset. INDB gives the ingredients and nutrition; the method is adapted from Archana's
+Kitchen via Mendeley and rewritten for Amma ji, with steps, timers, safety notes and common
+mistakes in English, Hinglish, Hindi and Punjabi. Finding dishes from what you have runs in code,
+with no AI calls.
+
+- `data/amma_ji_recipes.xlsx` and `data/csv/`: the sheet as tables
+- `backend/app/data/catalogue.json`: the same sheet as the server reads it
+- `backend/scripts/steps/batch_*.json`: the written steps; edit these, then rebuild:
+
+```
+cd backend
+.venv/bin/python scripts/build_catalogue.py
+```
+
+To put the sheet in Supabase: run `backend/supabase/schema.sql` once in the SQL editor, set
+`SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` in the environment, then run
+`.venv/bin/python scripts/push_supabase.py` from `backend/`. Run it again after any rebuild.
 
 ## Folders
 
-- `backend/app/`: the server (session state, Groq brain, Gnani ears and voice)
+- `backend/app/`: the server (session state, Groq brain, Gnani ears and voice, pantry matching)
+- `backend/scripts/`: builds the recipe sheet from INDB and Mendeley
 - `backend/day1/`: the Day 1 feasibility tests
 - `frontend/`: the React app (design notes in `frontend/DESIGN.md`)
