@@ -28,11 +28,19 @@ def now():
     return datetime.now(timezone.utc)
 
 
+def blocked_by(allergies):
+    """Every ingredient an allergy rules out. The screen sends groups like "nuts" or "dairy",
+    so "nuts" has to block cashews and almonds, not just an ingredient called "nuts"."""
+    wanted = set(allergies)
+    return sorted(i for i, v in INGREDIENTS.items() if i in wanted or wanted & set(v.get("labels", [])))
+
+
 def new_session(recipe_id, language="hi-en", teasing=True, allergies=()):
     if recipe_id not in RECIPES:
         raise KeyError(recipe_id)
     if language not in LANGUAGES:
         raise ValueError(language)
+    allergies = [a.strip().lower() for a in allergies if a.strip()]
     state = {
         "session_id": uuid.uuid4().hex[:12],
         "language": language,
@@ -44,7 +52,8 @@ def new_session(recipe_id, language="hi-en", teasing=True, allergies=()):
         "ingredients_added": [],
         "substitutions": [],
         "quantity_changes": [],
-        "allergies": [a.strip().lower() for a in allergies if a.strip()],
+        "allergies": allergies,
+        "blocked": blocked_by(allergies),
         "timers": [],
         "open_questions": [],
         "history": [],  # last 3 exchanges only, never the full transcript
@@ -154,7 +163,7 @@ def apply_tool(state, tool, args):
         missing = str(args.get("ingredient", "")).strip().lower()
         choice = str(args.get("to", "")).strip().lower()
         listed = next((i.get("substitutes", []) for i in recipe["ingredients"] if i["id"] == missing), [])
-        if choice in listed and choice not in state["allergies"]:
+        if choice in listed and choice not in state["blocked"]:
             state["substitutions"] = [x for x in state["substitutions"] if x["from"] != missing]
             state["substitutions"].append({"from": missing, "to": choice})
     elif tool == "adjust_spice" and args.get("direction") in ("more", "less"):

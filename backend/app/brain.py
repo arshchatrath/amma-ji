@@ -53,7 +53,7 @@ def note(state):
     lang, n, total = state["language"], state["current_step"], len(recipe["steps"])
     # Hinglish shows English letters on screen, but Amma ji reads Devanagari so she replies in it
     read = "hi" if lang == "hi-en" else lang
-    allergies = set(state["allergies"])
+    allergies, blocked = state["allergies"], set(state["blocked"])
     def name(ingredient_id):
         # The spoken name first, so she says घी, and the id in brackets for the tools
         spoken = ingredient_name(ingredient_id, lang)
@@ -62,7 +62,7 @@ def note(state):
     ingredients = []
     for i in recipe["ingredients"]:
         part = f"{name(i['id'])} {i['qty']:g} {i['unit']}"
-        safe = [s for s in i.get("substitutes", []) if s not in allergies]
+        safe = [s for s in i.get("substitutes", []) if s not in blocked]
         if safe:
             part += f" (or {', '.join(name(s) for s in safe)})"
         ingredients.append(part)
@@ -89,6 +89,10 @@ def note(state):
             f"{t['label']}: {t['seconds_left'] // 60} min {t['seconds_left'] % 60} s left" for t in timers))
     if allergies:
         lines.append("Allergies (never suggest these): " + ", ".join(sorted(allergies)))
+        in_dish = sorted({i["id"] for i in recipe["ingredients"]} & blocked)
+        if in_dish:
+            lines.append("This dish uses something they are allergic to, warn them gently: "
+                         + ", ".join(name(i) for i in in_dish))
     for h in state["history"]:
         lines.append(f"Earlier, user: {h['you']} / you: {h['amma']}")
     return "\n".join(lines)

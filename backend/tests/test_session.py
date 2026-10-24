@@ -68,6 +68,16 @@ def test_note_hides_substitutes_the_user_is_allergic_to():
     assert "Allergies (never suggest these): butter" in text
 
 
+def test_allergy_groups_from_the_screen_block_every_ingredient_in_them():
+    s = fresh(allergies=["dairy"])  # the screen sends groups, not ingredient ids
+    assert {"butter", "ghee", "milk", "paneer"} <= set(s["blocked"])
+    text = note(s)
+    assert "(or तेल [oil])" in text and "मक्खन [butter])" not in text
+    assert "warn them gently: घी [ghee]" in text
+    apply_tool(s, "substitute", {"ingredient": "ghee", "to": "butter"})
+    assert s["substitutions"] == []
+
+
 def test_note_shows_only_steps_around_the_current_one():
     s = fresh(language="hi")
     s["current_step"] = 4
