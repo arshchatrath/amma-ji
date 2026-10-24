@@ -15,7 +15,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 
-from . import brain, finish, pantry, voice
+from . import brain, finish, pantry, quick, voice
 from .session import RECIPES, SESSIONS, apply_tool, go_to_step, new_session, public, remember_turn
 
 app = FastAPI(title="Amma ji")
@@ -87,8 +87,21 @@ def get_session(session_id):
 
 
 def run_turn(state, text):
-    """One turn, whether it was typed or spoken: Groq picks a tool, code carries it out."""
+    """One turn, whether it was typed or spoken: Groq picks a tool, code carries it out.
+    Plain commands like "agla step" are answered in code and never reach Groq."""
     start = time.perf_counter()
+    intent = quick.match(text)
+    if intent:
+        tool, args, effect, said, spoken = quick.answer(state, intent)
+        remember_turn(state, text, said)
+        return {
+            "heard": text, "tool": tool, "args": args,
+            "reply": spoken,  # her short answer, then the step, for Timbre
+            "reply_text": said,  # only the short answer on screen: the step is already shown big
+            "effect": effect, "warnings": [], "state": public(state), "answered_by": "code",
+            "timing_ms": {"groq": 0, "total": round((time.perf_counter() - start) * 1000)},
+            "tokens": {"total": 0, "prompt": 0},
+        }
     try:
         turn = brain.ask(state, text)
     except brain.BrainError as e:
@@ -108,6 +121,7 @@ def run_turn(state, text):
         "state": public(state),
         "timing_ms": {"groq": turn["ms"], "total": round((time.perf_counter() - start) * 1000)},
         "tokens": {"total": turn["tokens"], "prompt": turn["prompt_tokens"]},
+        "answered_by": "groq",
     }
 
 

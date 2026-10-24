@@ -91,7 +91,7 @@ export default function Cooking({ session, onExit, onEnded, onFinish }) {
       id,
       onStart: () => {
         timings.first_audio = Math.round(performance.now() - spokeAt);
-        setTiming({ ...timings, warnings: result.warnings });
+        setTiming({ ...timings, warnings: result.warnings, by: result.answered_by });
       },
     });
     // "Ho gaya" on the last step: once she has answered, show what was made
@@ -299,7 +299,8 @@ export default function Cooking({ session, onExit, onEnded, onFinish }) {
 
       {DEV && timing && (
         <p className="cook__dev">
-          STT {timing.stt ?? "-"} ms, Groq {timing.groq} ms, first sound {timing.first_audio} ms after you stopped
+          STT {timing.stt ?? "-"} ms, {timing.by === "code" ? "answered in code" : `Groq ${timing.groq} ms`}, first
+          sound {timing.first_audio} ms after you stopped
           {timing.warnings?.length ? `. Check: ${timing.warnings.join(", ")}` : ""}
         </p>
       )}

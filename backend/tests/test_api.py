@@ -100,3 +100,28 @@ def test_finish_sums_up_the_dish_and_how_was_it_gives_tips():
     bad = client.post(f"/api/sessions/{sid}/feedback", json={"rating": "bad"}).json()
     assert bad["tips"] and bad["tips"][0]["problem"] and bad["reply"]["text"].startswith("Koi baat nahi")
     assert client.post(f"/api/sessions/{sid}/feedback", json={"rating": "great"}).status_code == 422
+
+
+def test_simple_commands_are_answered_in_code_without_groq(monkeypatch):
+    def no_groq(state, text):
+        raise AssertionError(f"Groq was called for {text!r}")
+    monkeypatch.setattr(brain, "ask", no_groq)
+    sid = session("hi")
+    r = client.post(f"/api/sessions/{sid}/say", json={"text": "अम्मा जी, अगला स्टेप बताओ।"}).json()
+    assert r["answered_by"] == "code" and r["state"]["step"]["n"] == 2
+    assert r["reply_text"] == "ठीक है बेटा।" and r["reply"].startswith("ठीक है बेटा। ") and len(r["reply"]) > 20
+    r = client.post(f"/api/sessions/{sid}/say", json={"text": "zara dheere bolo"}).json()
+    assert r["state"]["step"]["n"] == 2 and r["effect"] == {"tts_speed": 0.85}
+    r = client.post(f"/api/sessions/{sid}/say", json={"text": "timer kitna bacha?"}).json()
+    assert r["reply"] == "बेटा, अभी कोई टाइमर नहीं चल रहा।"
+
+
+def test_ho_gaya_on_the_last_step_finishes_but_a_mistake_still_goes_to_groq(monkeypatch):
+    asked = []
+    monkeypatch.setattr(brain, "ask", lambda state, text: asked.append(text) or fake_ask(state, text))
+    sid = session()
+    main.SESSIONS[sid]["current_step"] = len(main.RECIPES["dal_tadka"]["steps"])
+    r = client.post(f"/api/sessions/{sid}/say", json={"text": "ho gaya"}).json()
+    assert r["effect"] == {"finished": True} and r["reply"] == "बस बेटा, हो गया!"
+    client.post(f"/api/sessions/{sid}/say", json={"text": "namak zyada ho gaya"})
+    assert asked == ["namak zyada ho gaya"]
