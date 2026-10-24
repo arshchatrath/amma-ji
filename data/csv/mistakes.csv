@@ -2,36 +2,111 @@ dish_id,mistake,fix_en,fix_hi
 ASC001,tea is bitter,The leaves boiled too long. Add a little more milk. Next time boil the leaves for only 2 minutes.,पत्ती ज़्यादा उबल गई। थोड़ा और दूध डाल दो। अगली बार पत्ती सिर्फ़ 2 मिनट उबालना।
 ASC001,tea is weak,"Simmer it for 2 more minutes, or add a pinch more tea leaves.","2 मिनट और हल्की आँच पर पकाओ, या चुटकी भर और पत्ती डाल दो।"
 ASC001,milk boiled over,Lower the heat straight away and wipe the stove once it cools. Stay close when the milk is about to boil.,तुरंत आँच धीमी करो और ठंडा होने पर चूल्हा पोंछ लो। दूध उबलने वाला हो तो पास ही रहना।
+ASC047,too thick,Stir in a little warm milk until it is how you like it.,थोड़ा गरम दूध मिलाओ जब तक मनपसंद न हो जाए।
+ASC047,daliya still hard,"Add a few spoons of water, cover and cook for 5 more minutes before adding more milk.","कुछ चम्मच पानी डालो, ढककर 5 मिनट और पकाओ, फिर दूध डालो।"
+ASC047,milk stuck at the bottom,Move it to a clean pan without scraping and keep stirring on low heat.,नीचे से खुरचे बिना साफ़ बर्तन में डालो और धीमी आँच पर चलाते रहो।
+ASC050,too thick or gluey,Stir in a little warm milk or water.,थोड़ा गरम दूध या पानी मिला दो।
+ASC050,too runny,Simmer for 2 more minutes; it thickens more as it cools.,2 मिनट और पकाओ; ठंडा होने पर और गाढ़ा होता है।
+ASC050,milk boiled over,Lower the heat and keep stirring. Use a bigger pan next time.,आँच धीमी करो और चलाते रहो। अगली बार बड़ा बर्तन लेना।
 ASC059,egg is rubbery or dry,It cooked too long or too hot. Next time cook on low heat and take it off while still soft.,ज़्यादा देर या तेज़ आँच पर पका। अगली बार धीमी आँच पर पकाना और थोड़ा नरम रहते ही उतार लेना।
 ASC059,egg is watery,"Cook it 30 seconds more on low heat, stirring.",धीमी आँच पर 30 सेकंड और चलाते हुए पकाओ।
 ASC059,too salty,Beat one more egg without salt and mix it in.,एक और अंडा बिना नमक के फेंटकर मिला दो।
 ASC098,stuffing comes out or paratha tears,"Use a little less stuffing, seal the edges well and roll with light hands. Cover a torn patch with a pinch of dry atta.","मसाला थोड़ा कम भरो, किनारे अच्छे से बंद करो और हल्के हाथ से बेलो। फटी जगह पर थोड़ा सूखा आटा लगा दो।"
 ASC098,paratha is hard,The dough was stiff or the heat too low. Knead a softer dough and cook on medium heat with a little more ghee.,आटा सख़्त था या आँच धीमी थी। नरम आटा गूँधो और मध्यम आँच पर थोड़ा ज़्यादा घी लगाकर सेको।
 ASC098,stuffing is wet and sticky,"The potatoes were too wet. Let them cool fully before mashing, and mix a spoon of dry atta into the stuffing.",आलू गीले थे। मैश करने से पहले पूरा ठंडा होने दो और मसाले में एक चम्मच सूखा आटा मिला दो।
+ASC115,rice is mushy,Too much water. Open the lid on low heat for 2 minutes to let steam out. Use a little less water next time.,पानी ज़्यादा था। धीमी आँच पर ढक्कन खोलकर 2 मिनट भाप निकलने दो। अगली बार पानी थोड़ा कम।
+ASC115,rice is still hard,"Sprinkle 3 tablespoons of hot water, cover and cook on low heat for 5 minutes.","3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"
+ASC115,bottom got burnt,Do not stir. Spoon the top rice into another pan and leave the burnt layer.,"चलाओ मत। ऊपर के चावल दूसरे बर्तन में निकाल लो, जली परत छोड़ दो।"
+ASC117,sprouts still crunchy,"That is fine and healthy. For softer sprouts, steam them for 5 minutes before adding next time.",यह ठीक और सेहतमंद है। नरम चाहिए तो अगली बार डालने से पहले 5 मिनट भाप में पका लेना।
+ASC117,rice is mushy,Open the lid on low heat for 2 minutes to let steam out.,धीमी आँच पर 2 मिनट ढक्कन खोलकर भाप निकलने दो।
+ASC117,tastes plain,Squeeze in some lemon and add a pinch more salt and garam masala.,थोड़ा नींबू निचोड़ो और चुटकी भर नमक और गरम मसाला डालो।
+ASC118,rice is mushy,Too much water. Open the lid on low heat for 2 minutes. Use a little less water next time.,पानी ज़्यादा था। धीमी आँच पर 2 मिनट ढक्कन खोल दो। अगली बार पानी थोड़ा कम।
+ASC118,paneer is hard,Soak the pieces in warm water for 10 minutes before mixing them in.,मिलाने से पहले पनीर के टुकड़े 10 मिनट गुनगुने पानी में रखो।
+ASC118,rice is still hard,"Sprinkle 3 tablespoons of hot water, cover and cook on low heat for 5 minutes.","3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"
+ASC123,rice broke and turned mushy,It boiled too long before layering. Stop at three-quarters done next time; it finishes on dum.,"परत लगाने से पहले चावल ज़्यादा उबल गए। अगली बार तीन-चौथाई पर रोकना, बाकी दम पर पकते हैं।"
+ASC123,bottom is burning,Put a flat tawa under the pot and keep the heat at the lowest for the dum.,बर्तन के नीचे चपटा तवा रख दो और दम के लिए आँच सबसे धीमी रखो।
+ASC123,rice on top is hard,"Sprinkle 3 tablespoons of hot water or milk, cover tightly and cook on low heat for 5 more minutes.","3 चम्मच गरम पानी या दूध छिड़को, कसकर ढककर धीमी आँच पर 5 मिनट और पकाओ।"
+ASC144,idlis are hard and flat,"The batter did not ferment enough. Leave it longer in a warm spot, or add a pinch of baking soda just before steaming.","घोल ठीक से नहीं उठा। गरम जगह और देर रखो, या भाप से ठीक पहले चुटकी भर मीठा सोडा मिला दो।"
+ASC144,idlis stick to the mould,Grease the moulds well and let the idlis rest for 2 minutes before taking them out.,साँचों में अच्छे से तेल लगाओ और निकालने से पहले 2 मिनट रुको।
+ASC144,sticky inside,"Steam for 3 to 4 more minutes, until a knife comes out clean.","3-4 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+ASC146,dosa sticks and tears,"The tawa was not hot or seasoned. Heat it well, rub it with a cut onion dipped in oil, and try again.","तवा कम गरम या चिकना नहीं था। अच्छे से गरम करो, तेल में डुबोया कटा प्याज़ रगड़ो और फिर कोशिश करो।"
+ASC146,dosa is thick and soft,Thin the batter with a little water and spread it faster in wide circles.,घोल में थोड़ा पानी मिलाओ और बड़े गोल घेरे में जल्दी फैलाओ।
+ASC146,batter did not ferment,"Keep it in a warm place, like inside the oven with the light on, for a few more hours.","कुछ घंटे और गरम जगह रखो, जैसे ओवन के अंदर बत्ती जलाकर।"
+ASC147,dosa breaks when lifting,"Cook it a minute longer until fully crisp, and lift from the edges with a thin spatula.","एक मिनट और पूरा कुरकुरा होने तक सेको, और पतली पलटनी से किनारों से उठाओ।"
+ASC147,"dosa is thick, not lacy",The batter is too thick. Add water until it is like buttermilk and pour from higher up.,घोल गाढ़ा है। छाछ जैसा पतला होने तक पानी मिलाओ और ऊपर से डालो।
+ASC147,sticks to the tawa,The tawa was not hot enough. Heat it well and grease it before each dosa.,तवा कम गरम था। अच्छे से गरम करो और हर डोसे से पहले चिकना करो।
+ASC155,chana dal still hard,Chana dal takes longest. Add half a cup of water and give it 2 more whistles.,चना दाल सबसे देर में पकती है। आधा कप पानी डालकर 2 सीटी और लगाओ।
+ASC155,too much water,Boil it uncovered on high heat for 5 minutes.,बिना ढके तेज़ आँच पर 5 मिनट उबालो।
+ASC155,too salty,"Add hot water and a squeeze of lemon, and boil for 2 minutes.",गरम पानी और थोड़ा नींबू डालकर 2 मिनट उबालो।
+ASC175,tastes bitter,Methi is a little bitter by nature. Add a pinch of sugar or a squeeze of lemon and mix.,मेथी थोड़ी कड़वी होती है। चुटकी भर चीनी या नींबू निचोड़कर मिला दो।
+ASC175,potato sticking to the pan,"Sprinkle 2 tablespoons of water, scrape gently and cover for 2 minutes.","2 चम्मच पानी छिड़को, हल्का खुरचो और 2 मिनट ढक दो।"
+ASC175,methi is gritty,It was not washed well. Wash methi in a big bowl of water 2 or 3 times next time.,मेथी अच्छे से नहीं धुली। अगली बार बड़े बर्तन में 2-3 बार पानी बदलकर धोना।
 ASC190,too watery,"Cook uncovered on high heat for 5 minutes, and mash a few potato pieces into the gravy.",बिना ढके तेज़ आँच पर 5 मिनट पकाओ और आलू के कुछ टुकड़े ग्रेवी में मैश कर दो।
 ASC190,too salty,"Add half a cup of water and a boiled potato, and cook for 5 minutes.",आधा कप पानी और एक उबला आलू डालकर 5 मिनट पकाओ।
 ASC190,masala stuck and burnt,"Move it to a clean pan without scraping the bottom, and add a little water.",नीचे से खुरचे बिना इसे साफ़ पैन में डाल दो और थोड़ा पानी मिला दो।
 ASC191,paneer is hard or rubbery,"It cooked too long. Soak the pieces in warm water for 10 minutes, and add them only at the end next time.","पनीर ज़्यादा पक गया। टुकड़ों को 10 मिनट गुनगुने पानी में रखो, और अगली बार आखिर में डालना।"
 ASC191,too spicy,Turn off the heat and stir in a spoon of cream or beaten curd.,गैस बंद करके एक चम्मच मलाई या फेंटा हुआ दही मिला दो।
 ASC191,too watery,"Cook uncovered on high heat for 4 to 5 minutes, stirring.",बिना ढके तेज़ आँच पर 4-5 मिनट चलाते हुए पकाओ।
+ASC192,too watery,Mushrooms let out water. Cook uncovered on high heat for 3 to 4 minutes.,मशरूम पानी छोड़ते हैं। बिना ढके तेज़ आँच पर 3-4 मिनट पकाओ।
+ASC192,mushrooms are rubbery,They cooked too long. Add them only in the last 5 minutes next time.,मशरूम ज़्यादा पक गए। अगली बार आखिरी 5 मिनट में डालना।
+ASC192,too spicy,Stir in a spoon of cream or curd off the heat.,गैस बंद करके एक चम्मच मलाई या दही मिला दो।
+ASC193,peas are wrinkly and hard,"They cooked uncovered too long. Add a little water, cover and cook for 3 minutes.","मटर बिना ढके ज़्यादा पके। थोड़ा पानी डालो, ढककर 3 मिनट पकाओ।"
+ASC193,too watery,Cook uncovered on high heat for 3 to 4 minutes.,बिना ढके तेज़ आँच पर 3-4 मिनट पकाओ।
+ASC193,too salty,Add half a cup of water and a boiled potato and simmer for 5 minutes.,आधा कप पानी और एक उबला आलू डालकर 5 मिनट पकाओ।
+ASC214,curd split in the gravy,"Turn the heat off, beat a spoon of fresh curd with a pinch of besan and stir it in. Next time add curd on low heat.","गैस बंद करो, एक चम्मच ताज़ा दही में चुटकी भर बेसन फेंटकर मिला दो। अगली बार दही धीमी आँच पर डालना।"
+ASC214,potatoes taste plain inside,"Prick them more and leave them in the gravy, covered, for 10 more minutes.",आलू में और छेद करो और ढककर 10 मिनट और ग्रेवी में रहने दो।
+ASC214,too spicy,Stir in another spoon of curd or a spoon of cream on low heat.,धीमी आँच पर एक चम्मच और दही या मलाई मिला दो।
 ASC215,palak turned dark or brown,The spinach cooked too long. It is still fine to eat. Next time boil it for only 2 minutes and cook the puree briefly.,पालक ज़्यादा पक गया। खाने में ठीक है। अगली बार सिर्फ़ 2 मिनट उबालना और प्यूरी कम पकाना।
 ASC215,tastes bitter,Stir in a spoon of cream or a pinch of sugar.,एक चम्मच मलाई या चुटकी भर चीनी मिला दो।
 ASC215,too thick,Add 2 to 3 tablespoons of hot water and stir.,2-3 चम्मच गरम पानी डालकर मिलाओ।
 ASC240,chicken is hard or chewy,"Add half a cup of water, cover and simmer on low heat for 10 more minutes.","आधा कप पानी डालो, ढककर धीमी आँच पर 10 मिनट और पकाओ।"
 ASC240,too spicy,Turn off the heat and stir in 2 spoons of beaten curd or cream.,गैस बंद करके 2 चम्मच फेंटा हुआ दही या मलाई मिला दो।
 ASC240,gravy too thin,"Cook uncovered on high heat for 5 minutes, stirring.",बिना ढके तेज़ आँच पर 5 मिनट चलाते हुए पकाओ।
+ASC485,curd is too sour,Mix in a spoon of milk or a pinch of sugar.,एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+ASC485,too thick,Beat in 2 tablespoons of cold water.,2 चम्मच ठंडा पानी मिलाकर फेंटो।
+ASC485,potato breaks into mush,It was overboiled. It still tastes good; next time stop at 2 whistles.,आलू ज़्यादा उबल गया। स्वाद फिर भी अच्छा है; अगली बार 2 सीटी पर रुकना।
 BFP039,lumps in upma,Break them with the back of the spoon while stirring. Next time add the suji slowly into the boiling water.,चलाते हुए चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो। अगली बार सूजी धीरे-धीरे डालना।
 BFP039,upma too thick or dry,"Add 2 to 3 tablespoons of hot water, stir and cover for a minute.","2-3 चम्मच गरम पानी डालो, मिलाओ और एक मिनट ढक दो।"
 BFP039,upma is sticky,The suji was not roasted enough. Next time roast it until it smells nutty.,सूजी कम भुनी थी। अगली बार खुशबू आने तक अच्छे से भूनना।
+BFP040,semiya turned sticky and mushy,Too much water or it was not roasted. Spread it in the pan on medium heat for 2 minutes to dry a little.,पानी ज़्यादा था या सेवइयाँ कम भुनी थीं। मध्यम आँच पर 2 मिनट फैलाकर थोड़ा सुखा लो।
+BFP040,semiya still hard,"Sprinkle 2 tablespoons of hot water, cover and cook for 2 minutes.","2 चम्मच गरम पानी छिड़को, ढककर 2 मिनट पकाओ।"
+BFP040,too salty,Squeeze in more lemon and mix in a handful of roasted peanuts or vegetables.,थोड़ा और नींबू निचोड़ो और मुट्ठी भर भुनी मूंगफली या सब्ज़ी मिला दो।
+BFP041,still grainy and hard,"Add 3 tablespoons of hot water, cover and cook for 4 more minutes.","3 चम्मच गरम पानी डालो, ढककर 4 मिनट और पकाओ।"
+BFP041,lumps formed,Break them with the back of the spoon while stirring.,चलाते हुए चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो।
+BFP041,stuck to the pan,Add a teaspoon of oil around the edges and scrape gently.,किनारों पर एक चम्मच तेल डालो और हल्का खुरचो।
+BFP043,lumps in upma,Break them with the back of the spoon. Next time add the suji slowly into the boiling water.,चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो। अगली बार सूजी धीरे-धीरे डालना।
+BFP043,too dry,"Add 2 to 3 tablespoons of hot water, stir and cover for a minute.","2-3 चम्मच गरम पानी डालो, मिलाओ और एक मिनट ढक दो।"
+BFP043,vegetables still hard,"Cut them smaller next time. For now, cover and cook on low heat for 3 more minutes.",अगली बार सब्ज़ियाँ छोटी काटना। अभी ढककर धीमी आँच पर 3 मिनट और पकाओ।
 BFP044,poha is mushy,It soaked too long. Spread it in the pan on high heat for a minute to dry a little. Next time just rinse and drain.,पोहा ज़्यादा देर भीगा। तेज़ आँच पर एक मिनट फैलाकर थोड़ा सुखा लो। अगली बार बस धोकर पानी निकाल देना।
 BFP044,poha is dry and hard,"Sprinkle 2 tablespoons of water, cover and steam on low heat for 2 minutes.","2 चम्मच पानी छिड़को, ढककर धीमी आँच पर 2 मिनट भाप में पकाओ।"
 BFP044,too salty,"Mix in a little more rinsed poha, or squeeze in more lemon.","थोड़ा और धुला पोहा मिला दो, या थोड़ा और नींबू निचोड़ दो।"
 BFP136,rice is mushy,There was too much water. Open the lid and let the steam escape on low heat for 2 minutes. Use a little less water next time.,पानी ज़्यादा हो गया। ढक्कन हटाकर धीमी आँच पर 2 मिनट भाप निकलने दो। अगली बार पानी थोड़ा कम डालना।
 BFP136,rice is still hard,"Sprinkle 2 to 3 tablespoons of hot water, cover and cook on low heat for 5 more minutes.","2-3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट और पकाओ।"
 BFP136,bottom got burnt,Do not stir. Spoon the top rice into another pan and leave the burnt layer behind.,"चलाओ मत। ऊपर के चावल चम्मच से दूसरे बर्तन में निकाल लो, जली परत वहीं छोड़ दो।"
+BFP147,idlis did not rise,"The Eno went in too early or was old. Add Eno only right before steaming, and steam straight away.",ईनो बहुत पहले डाला या पुराना था। ईनो भाप से ठीक पहले डालो और तुरंत भाप में रखो।
+BFP147,idlis are dry,The batter was too thick. Add 2 tablespoons of curd or water next time.,घोल बहुत गाढ़ा था। अगली बार 2 चम्मच दही या पानी और डालना।
+BFP147,sticky inside,"Steam for 3 more minutes, until a knife comes out clean.","3 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+BFP166,too much water,Boil it uncovered on high heat for 5 minutes and the extra water will dry up.,"बिना ढके तेज़ आँच पर 5 मिनट उबालो, ज़्यादा पानी सूख जाएगा।"
+BFP166,too thick,Add half a cup of hot water and boil for 2 minutes.,आधा कप गरम पानी डालकर 2 मिनट उबालो।
+BFP166,tadka burnt,Throw it away and make a fresh one. Burnt garlic or cumin makes the dal bitter.,जला तड़का फेंक दो और नया बनाओ। जला लहसुन या जीरा दाल को कड़वा कर देता है।
+BFP239,too watery,Mash 3 or 4 potato pieces into the gravy and cook uncovered for 3 minutes.,आलू के 3-4 टुकड़े ग्रेवी में मैश करो और बिना ढके 3 मिनट पकाओ।
+BFP239,potato still hard,"Add a little water, cover and cook for 5 more minutes.","थोड़ा पानी डालो, ढककर 5 मिनट और पकाओ।"
+BFP239,too salty,Add half a cup of water and one more boiled potato.,आधा कप पानी और एक उबला आलू और डाल दो।
 BFP240,yolk turned green,The egg boiled too long. It is safe to eat. Next time boil it for 10 minutes and cool it in cold water straight away.,अंडा ज़्यादा उबल गया। खाने में ठीक है। अगली बार 10 मिनट उबालकर तुरंत ठंडे पानी में डालना।
 BFP240,gravy too thin,Cook uncovered on high heat for 4 to 5 minutes until it thickens.,बिना ढके तेज़ आँच पर 4-5 मिनट पकाओ जब तक गाढ़ी न हो जाए।
 BFP240,egg tastes plain,Make the cuts a little deeper and simmer it in the gravy for 3 more minutes.,चीरे थोड़े गहरे करो और ग्रेवी में 3 मिनट और पकाओ।
+BFP556,too dry,Stir in half a cup of hot water and simmer for 2 minutes.,आधा कप गरम पानी मिलाकर 2 मिनट पकाओ।
+BFP556,too mushy,"That is how khichdi often is. If you want it looser, it is fine; if too wet, cook uncovered for 3 minutes.",खिचड़ी अक्सर ऐसी ही होती है। ज़्यादा गीली लगे तो बिना ढके 3 मिनट पकाओ।
+BFP556,tastes plain,"Make a quick tadka of ghee, cumin and a pinch of hing and pour it on top.","घी, जीरा और चुटकी भर हींग का झटपट तड़का बनाकर ऊपर डाल दो।"
+BFP579,idlis are dense,"Add the soda only right before steaming, and do not overmix after adding it.","सोडा भाप से ठीक पहले डालो, और उसके बाद ज़्यादा मत चलाओ।"
+BFP579,idlis are dry,Add 2 tablespoons more curd to the batter.,घोल में 2 चम्मच और दही मिला दो।
+BFP579,sticky inside,"Steam for 3 more minutes, until a knife comes out clean.","3 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
 OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
 OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
 OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।
+OSR139,dal still hard,Add a cup of hot water and pressure cook for 3 to 4 more whistles. Soak overnight next time.,एक कप गरम पानी डालकर कुकर में 3-4 सीटी और लगाओ। अगली बार रात भर भिगोना।
+OSR139,too thick,"Add hot water, half a cup at a time, and simmer for 2 minutes.",आधा-आधा कप गरम पानी डालो और 2 मिनट पकाओ।
+OSR139,sticking at the bottom,"Move it to a clean pot without scraping, add water and keep stirring.","नीचे से खुरचे बिना साफ़ बर्तन में डालो, पानी मिलाओ और चलाते रहो।"
+OSR144,some dal still hard,Chana and urad cook slowest. Add half a cup of water and 2 more whistles.,चना और उड़द सबसे देर में पकते हैं। आधा कप पानी डालकर 2 सीटी और लगाओ।
+OSR144,too thick,Add hot water a little at a time and simmer for 2 minutes.,थोड़ा-थोड़ा गरम पानी डालो और 2 मिनट पकाओ।
+OSR144,too spicy,"Add a spoon of ghee and some more hot water, and serve with curd.","एक चम्मच घी और थोड़ा गरम पानी मिलाओ, और दही के साथ खाओ।"
