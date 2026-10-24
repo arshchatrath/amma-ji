@@ -1,0 +1,876 @@
+{
+ "ASC057": {
+  "names": {
+   "hi-en": "Anda fry",
+   "hi": "अंडा फ्राई",
+   "pa": "ਆਂਡਾ ਫਰਾਈ"
+  },
+  "steps": [
+   {
+    "en": "Heat the butter in a pan on medium-low heat.",
+    "hi-en": "Pan mein makhan medium-dheemi aanch pe garam karo.",
+    "hi": "पैन में मक्खन मध्यम-धीमी आँच पर गरम करो।",
+    "pa": "ਪੈਨ ਵਿੱਚ ਮੱਖਣ ਦਰਮਿਆਨੀ-ਹੌਲੀ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ।"
+   },
+   {
+    "en": "Crack the egg into the pan. Cook until the white is fully set, about 3 minutes. Cover for a minute to set the top. Flip it if you like the yolk firm.",
+    "hi-en": "Anda pan mein tod ke daalo. Safedi poori jamne tak pakao, lagbhag 3 minute. Upar jamaane ke liye ek minute dhak do. Zardi pakki chahiye to palat do.",
+    "hi": "अंडा पैन में तोड़कर डालो। सफ़ेदी पूरी जमने तक पकाओ, लगभग 3 मिनट। ऊपर जमाने के लिए एक मिनट ढक दो। ज़र्दी पक्की चाहिए तो पलट दो।",
+    "pa": "ਆਂਡਾ ਪੈਨ ਵਿੱਚ ਤੋੜ ਕੇ ਪਾਓ। ਸਫ਼ੈਦੀ ਪੂਰੀ ਜੰਮਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 3 ਮਿੰਟ। ਉੱਤੇ ਜਮਾਉਣ ਲਈ ਇੱਕ ਮਿੰਟ ਢੱਕ ਦਿਓ। ਜ਼ਰਦੀ ਪੱਕੀ ਚਾਹੀਦੀ ਹੋਵੇ ਤਾਂ ਪਲਟ ਦਿਓ।",
+    "timer": 3,
+    "safety": "egg"
+   },
+   {
+    "en": "Sprinkle with salt and black pepper and serve hot with toast or roti.",
+    "hi-en": "Upar namak aur kali mirch chhidko aur toast ya roti ke saath garam garam khao.",
+    "hi": "ऊपर नमक और काली मिर्च छिड़को और टोस्ट या रोटी के साथ गरमागरम खाओ।",
+    "pa": "ਉੱਤੇ ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਛਿੜਕੋ ਅਤੇ ਟੋਸਟ ਜਾਂ ਰੋਟੀ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "edges burnt and crispy",
+    "en": "The pan was too hot. Keep it on medium-low.",
+    "hi": "पैन बहुत गरम था। आँच मध्यम-धीमी रखो।"
+   },
+   {
+    "mistake": "yolk broke",
+    "en": "Crack the egg into a small bowl first, then slide it into the pan.",
+    "hi": "पहले अंडा छोटी कटोरी में तोड़ो, फिर धीरे से पैन में सरकाओ।"
+   },
+   {
+    "mistake": "egg stuck to the pan",
+    "en": "Use a little more butter and let the pan heat before adding the egg.",
+    "hi": "थोड़ा ज़्यादा मक्खन लो और अंडा डालने से पहले पैन गरम होने दो।"
+   }
+  ],
+  "swaps": {
+   "oil": [
+    "ghee"
+   ]
+  }
+ },
+ "ASC122": {
+  "names": {
+   "hi-en": "Mutton biryani",
+   "hi": "मटन बिरयानी",
+   "pa": "ਮਟਨ ਬਿਰਯਾਨੀ"
+  },
+  "steps": [
+   {
+    "en": "Mix the mutton with the curd, ginger and garlic paste, turmeric, red chilli powder and salt. Leave it for at least 30 minutes. Soak the rice for 30 minutes.",
+    "hi-en": "Mutton ko dahi, adrak lehsun paste, haldi, laal mirch aur namak ke saath milao. Kam se kam 30 minute rakho. Chawal 30 minute bhigo do.",
+    "hi": "मटन को दही, अदरक-लहसुन पेस्ट, हल्दी, लाल मिर्च और नमक के साथ मिलाओ। कम से कम 30 मिनट रखो। चावल 30 मिनट भिगो दो।",
+    "pa": "ਮਟਨ ਨੂੰ ਦਹੀਂ, ਅਦਰਕ-ਲਸਣ ਪੇਸਟ, ਹਲਦੀ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਨਾਲ ਮਿਲਾਓ। ਘੱਟੋ-ਘੱਟ 30 ਮਿੰਟ ਰੱਖੋ। ਚੌਲ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Fry the sliced onion in the fat until deep brown. Keep half aside for the top.",
+    "hi-en": "Lamba kata pyaaz ghee ya tel mein gehra bhoora hone tak talo. Aadha upar ke liye alag rakho.",
+    "hi": "लंबा कटा प्याज़ घी या तेल में गहरा भूरा होने तक तलो। आधा ऊपर के लिए अलग रखो।",
+    "pa": "ਲੰਮਾ ਕੱਟਿਆ ਪਿਆਜ਼ ਘਿਓ ਜਾਂ ਤੇਲ ਵਿੱਚ ਗੂੜ੍ਹਾ ਭੂਰਾ ਹੋਣ ਤੱਕ ਤਲੋ। ਅੱਧਾ ਉੱਤੇ ਲਈ ਵੱਖਰਾ ਰੱਖੋ।"
+   },
+   {
+    "en": "Add the bay leaf, cloves, black cardamom, cinnamon, zeera and peppercorns to the rest of the onion. Add the mutton, chopped tomato and the ground khuskhas, and fry for 8 minutes.",
+    "hi-en": "Baaki pyaaz mein tej patta, laung, badi elaichi, dalchini, zeera aur kali mirch daalo. Mutton, kata tamatar aur pisi khuskhas daal ke 8 minute bhuno.",
+    "hi": "बाकी प्याज़ में तेज पत्ता, लौंग, बड़ी इलायची, दालचीनी, ज़ीरा और काली मिर्च डालो। मटन, कटा टमाटर और पिसी खसखस डालकर 8 मिनट भूनो।",
+    "pa": "ਬਾਕੀ ਪਿਆਜ਼ ਵਿੱਚ ਤੇਜ ਪੱਤਾ, ਲੌਂਗ, ਵੱਡੀ ਇਲਾਇਚੀ, ਦਾਲਚੀਨੀ, ਜ਼ੀਰਾ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਪਾਓ। ਮਟਨ, ਕੱਟਿਆ ਟਮਾਟਰ ਅਤੇ ਪੀਸੀ ਖਸਖਸ ਪਾ ਕੇ 8 ਮਿੰਟ ਭੁੰਨੋ।",
+    "timer": 8,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add 1 cup of water and pressure cook until the mutton is soft, about 5 whistles. The gravy should be thick.",
+    "hi-en": "1 cup paani daal ke cooker mein mutton naram hone tak pakao, lagbhag 5 seeti. Gravy gaadhi honi chahiye.",
+    "hi": "1 कप पानी डालकर कुकर में मटन नरम होने तक पकाओ, लगभग 5 सीटी। ग्रेवी गाढ़ी होनी चाहिए।",
+    "pa": "1 ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ ਕੁੱਕਰ ਵਿੱਚ ਮਟਨ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਸੀਟੀਆਂ। ਗ੍ਰੇਵੀ ਗਾੜ੍ਹੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+    "safety": "cooker"
+   },
+   {
+    "en": "Boil plenty of salted water, add the rice and cook until three-quarters done, about 6 minutes. Drain. Soak the saffron in the warm milk.",
+    "hi-en": "Khoob namak wale paani mein chawal daal ke teen-chauthai pakne tak ubaalo, lagbhag 6 minute. Paani nitaar do. Kesar garam doodh mein bhigo do.",
+    "hi": "खूब नमक वाले पानी में चावल डालकर तीन-चौथाई पकने तक उबालो, लगभग 6 मिनट। पानी निथार दो। केसर गरम दूध में भिगो दो।",
+    "pa": "ਬਹੁਤੇ ਲੂਣ ਵਾਲੇ ਪਾਣੀ ਵਿੱਚ ਚੌਲ ਪਾ ਕੇ ਤਿੰਨ-ਚੌਥਾਈ ਪੱਕਣ ਤੱਕ ਉਬਾਲੋ, ਲਗਭਗ 6 ਮਿੰਟ। ਪਾਣੀ ਨਿਤਾਰ ਦਿਓ। ਕੇਸਰ ਗਰਮ ਦੁੱਧ ਵਿੱਚ ਭਿਓਂ ਦਿਓ।",
+    "timer": 6,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Spread the rice over the mutton. Pour the saffron milk on top, add the fried onion, cover tightly and cook on the lowest heat for 15 minutes. Rest 5 minutes before serving.",
+    "hi-en": "Mutton ke upar chawal faila do. Upar kesar wala doodh aur tala pyaaz daalo, kas ke dhak do aur sabse dheemi aanch pe 15 minute dum do. Khaane se pehle 5 minute rukho.",
+    "hi": "मटन के ऊपर चावल फैला दो। ऊपर केसर वाला दूध और तला प्याज़ डालो, कसकर ढक दो और सबसे धीमी आँच पर 15 मिनट दम दो। खाने से पहले 5 मिनट रुको।",
+    "pa": "ਮਟਨ ਉੱਤੇ ਚੌਲ ਫੈਲਾ ਦਿਓ। ਉੱਤੇ ਕੇਸਰ ਵਾਲਾ ਦੁੱਧ ਅਤੇ ਤਲਿਆ ਪਿਆਜ਼ ਪਾਓ, ਘੁੱਟ ਕੇ ਢੱਕ ਦਿਓ ਅਤੇ ਸਭ ਤੋਂ ਹੌਲੀ ਅੱਗ ਤੇ 15 ਮਿੰਟ ਦਮ ਦਿਓ। ਖਾਣ ਤੋਂ ਪਹਿਲਾਂ 5 ਮਿੰਟ ਰੁਕੋ।",
+    "timer": 15,
+    "safety": "meat_done"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mutton is still tough",
+    "en": "It needs more time. Add half a cup of hot water and pressure cook for 2 more whistles.",
+    "hi": "मटन को और समय चाहिए। आधा कप गरम पानी डालकर 2 सीटी और लगाओ।"
+   },
+   {
+    "mistake": "rice broke and turned mushy",
+    "en": "It boiled too long. Stop at three-quarters done; it finishes on dum.",
+    "hi": "चावल ज़्यादा उबल गए। तीन-चौथाई पर रोको, बाकी दम पर पकते हैं।"
+   },
+   {
+    "mistake": "bottom is burning",
+    "en": "Put a flat tawa under the pot and keep the heat at the lowest.",
+    "hi": "बर्तन के नीचे चपटा तवा रख दो और आँच सबसे धीमी रखो।"
+   }
+  ],
+  "swaps": {
+   "saffron": [
+    "skip"
+   ],
+   "poppy_seeds": [
+    "skip"
+   ]
+  }
+ },
+ "ASC135": {
+  "names": {
+   "hi-en": "Chicken chowmein",
+   "hi": "चिकन चाउमीन",
+   "pa": "ਚਿਕਨ ਚਾਉਮੀਨ"
+  },
+  "steps": [
+   {
+    "en": "Boil the noodles until just done, about 4 minutes. Drain, rinse in cold water and toss with a teaspoon of oil.",
+    "hi-en": "Noodles bas pakne tak ubaalo, lagbhag 4 minute. Paani nikaal ke thande paani se dho lo aur ek chhota chammach tel mila do.",
+    "hi": "नूडल्स बस पकने तक उबालो, लगभग 4 मिनट। पानी निकालकर ठंडे पानी से धो लो और एक छोटा चम्मच तेल मिला दो।",
+    "pa": "ਨੂਡਲਜ਼ ਬੱਸ ਪੱਕਣ ਤੱਕ ਉਬਾਲੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਪਾਣੀ ਕੱਢ ਕੇ ਠੰਡੇ ਪਾਣੀ ਨਾਲ ਧੋ ਲਓ ਅਤੇ ਇੱਕ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾ ਦਿਓ।",
+    "timer": 4,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Wash the chicken and pat it dry. Cut it into thin strips. Cut the cabbage, capsicum, carrots, beans and spring onion into thin strips too.",
+    "hi-en": "Chicken dho ke kapde se sukha lo. Patli lambi patti mein kaato. Patta gobhi, shimla mirch, gajar, beans aur hara pyaaz bhi patla lamba kaato.",
+    "hi": "चिकन धोकर कपड़े से सुखा लो। पतली लंबी पट्टियों में काटो। पत्ता गोभी, शिमला मिर्च, गाजर, बीन्स और हरा प्याज़ भी पतला लंबा काटो।",
+    "pa": "ਚਿਕਨ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਪਤਲੀਆਂ ਲੰਮੀਆਂ ਪੱਟੀਆਂ ਵਿੱਚ ਕੱਟੋ। ਬੰਦ ਗੋਭੀ, ਸ਼ਿਮਲਾ ਮਿਰਚ, ਗਾਜਰ, ਬੀਨਜ਼ ਅਤੇ ਹਰਾ ਪਿਆਜ਼ ਵੀ ਪਤਲਾ ਲੰਮਾ ਕੱਟੋ।",
+    "safety": "raw_chicken"
+   },
+   {
+    "en": "Heat a teaspoon of oil and cook the chicken with a pinch of salt and black pepper until white all through, about 5 minutes. Take it out.",
+    "hi-en": "Ek chhota chammach tel garam karke chicken chutki namak aur kali mirch ke saath poora safed hone tak pakao, lagbhag 5 minute. Nikaal lo.",
+    "hi": "एक छोटा चम्मच तेल गरम करके चिकन चुटकी भर नमक और काली मिर्च के साथ पूरा सफ़ेद होने तक पकाओ, लगभग 5 मिनट। निकाल लो।",
+    "pa": "ਇੱਕ ਛੋਟਾ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰਕੇ ਚਿਕਨ ਚੁਟਕੀ ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਨਾਲ ਪੂਰਾ ਚਿੱਟਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ। ਕੱਢ ਲਓ।",
+    "timer": 5,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "Heat a tablespoon of oil on high. Add the garlic and green chilli, then the cabbage, capsicum, beans and carrots. Stir fry for 3 minutes so they stay crunchy.",
+    "hi-en": "Ek bada chammach tel tez aanch pe garam karo. Lehsun aur hari mirch daalo, phir patta gobhi, shimla mirch, beans aur gajar. 3 minute tez chalao taaki crunchy rahein.",
+    "hi": "एक बड़ा चम्मच तेल तेज़ आँच पर गरम करो। लहसुन और हरी मिर्च डालो, फिर पत्ता गोभी, शिमला मिर्च, बीन्स और गाजर। 3 मिनट तेज़ चलाओ ताकि कुरकुरी रहें।",
+    "pa": "ਇੱਕ ਵੱਡਾ ਚਮਚ ਤੇਲ ਤੇਜ਼ ਅੱਗ ਤੇ ਗਰਮ ਕਰੋ। ਲਸਣ ਅਤੇ ਹਰੀ ਮਿਰਚ ਪਾਓ, ਫਿਰ ਬੰਦ ਗੋਭੀ, ਸ਼ਿਮਲਾ ਮਿਰਚ, ਬੀਨਜ਼ ਅਤੇ ਗਾਜਰ। 3 ਮਿੰਟ ਤੇਜ਼ ਹਿਲਾਓ ਤਾਂ ਜੋ ਕਰਾਰੀਆਂ ਰਹਿਣ।",
+    "timer": 3
+   },
+   {
+    "en": "Add the chicken, noodles, soya sauce, chilli sauce, vinegar, white pepper and salt. Toss on high heat for 2 minutes, add the spring onion and serve.",
+    "hi-en": "Chicken, noodles, soya sauce, chilli sauce, sirka, safed mirch aur namak daalo. Tez aanch pe 2 minute uchhaalo, hara pyaaz daal ke khao.",
+    "hi": "चिकन, नूडल्स, सोया सॉस, चिली सॉस, सिरका, सफ़ेद मिर्च और नमक डालो। तेज़ आँच पर 2 मिनट उछालो, हरा प्याज़ डालकर खाओ।",
+    "pa": "ਚਿਕਨ, ਨੂਡਲਜ਼, ਸੋਇਆ ਸੌਸ, ਚਿੱਲੀ ਸੌਸ, ਸਿਰਕਾ, ਚਿੱਟੀ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾਓ। ਤੇਜ਼ ਅੱਗ ਤੇ 2 ਮਿੰਟ ਉਛਾਲੋ, ਹਰਾ ਪਿਆਜ਼ ਪਾ ਕੇ ਖਾਓ।",
+    "timer": 2
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "noodles are sticky and clumped",
+    "en": "They were overcooked or not rinsed. Rinse in cold water and toss with oil straight away.",
+    "hi": "नूडल्स ज़्यादा उबले या धोए नहीं। ठंडे पानी से धोकर तुरंत तेल मिलाओ।"
+   },
+   {
+    "mistake": "too salty",
+    "en": "Soya sauce is salty. Add a few more vegetables or plain noodles and skip extra salt.",
+    "hi": "सोया सॉस नमकीन होता है। थोड़ी और सब्ज़ी या सादे नूडल्स मिलाओ, ऊपर से नमक मत डालो।"
+   },
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Cover and cook for 5 more minutes, then cut the thickest piece to check again.",
+    "hi": "ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+   }
+  ],
+  "swaps": {
+   "beans": [
+    "skip"
+   ],
+   "chicken": [
+    "paneer",
+    "egg"
+   ]
+  }
+ },
+ "ASC231": {
+  "names": {
+   "hi-en": "Gushtaba",
+   "hi": "गुश्तबा",
+   "pa": "ਗੁਸ਼ਤਾਬਾ"
+  },
+  "steps": [
+   {
+    "en": "Pound or grind the keema with the ghee, a pinch of salt and the ground cardamom until it is a smooth, sticky paste. Shape it into smooth balls with wet hands.",
+    "hi-en": "Keeme ko ghee, chutki namak aur pisi elaichi ke saath kootke ya pees ke chikna chipchipa paste bana lo. Geele haathon se chikne gole bana lo.",
+    "hi": "कीमे को घी, चुटकी भर नमक और पिसी इलायची के साथ कूटकर या पीसकर चिकना चिपचिपा पेस्ट बना लो। गीले हाथों से चिकने गोले बना लो।",
+    "pa": "ਕੀਮੇ ਨੂੰ ਘਿਓ, ਚੁਟਕੀ ਲੂਣ ਅਤੇ ਪੀਸੀ ਇਲਾਇਚੀ ਨਾਲ ਕੁੱਟ ਕੇ ਜਾਂ ਪੀਸ ਕੇ ਮੁਲਾਇਮ ਚਿਪਚਿਪਾ ਪੇਸਟ ਬਣਾ ਲਓ। ਗਿੱਲੇ ਹੱਥਾਂ ਨਾਲ ਮੁਲਾਇਮ ਗੋਲੇ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat the oil and add the bay leaf, black cardamom, cloves, cinnamon and jeera. Add the onion paste and cook for 3 minutes without browning.",
+    "hi-en": "Tel garam karke tej patta, badi elaichi, laung, dalchini aur jeera daalo. Pyaaz ka paste daal ke 3 minute pakao, bhoora nahi karna.",
+    "hi": "तेल गरम करके तेज पत्ता, बड़ी इलायची, लौंग, दालचीनी और जीरा डालो। प्याज़ का पेस्ट डालकर 3 मिनट पकाओ, भूरा नहीं करना।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਤੇਜ ਪੱਤਾ, ਵੱਡੀ ਇਲਾਇਚੀ, ਲੌਂਗ, ਦਾਲਚੀਨੀ ਅਤੇ ਜੀਰਾ ਪਾਓ। ਪਿਆਜ਼ ਦਾ ਪੇਸਟ ਪਾ ਕੇ 3 ਮਿੰਟ ਪਕਾਓ, ਭੂਰਾ ਨਹੀਂ ਕਰਨਾ।",
+    "timer": 3
+   },
+   {
+    "en": "Whisk the curd with the saunf powder, saunth and a pinch of salt. Turn the heat low, add it and stir all the time until it comes to a boil, about 5 minutes.",
+    "hi-en": "Dahi ko saunf powder, saunth aur chutki namak ke saath phento. Aanch dheemi karke daalo aur ubaal aane tak lagaataar chalao, lagbhag 5 minute.",
+    "hi": "दही को सौंफ पाउडर, सोंठ और चुटकी भर नमक के साथ फेंटो। आँच धीमी करके डालो और उबाल आने तक लगातार चलाओ, लगभग 5 मिनट।",
+    "pa": "ਦਹੀਂ ਨੂੰ ਸੌਂਫ ਪਾਊਡਰ, ਸੁੰਢ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਨਾਲ ਫੈਂਟੋ। ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਪਾਓ ਅਤੇ ਉਬਾਲ ਆਉਣ ਤੱਕ ਲਗਾਤਾਰ ਹਿਲਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5
+   },
+   {
+    "en": "Add half a cup of water and the koftas. Cover and simmer gently for 20 minutes, until cooked through. Stir in the garam masala.",
+    "hi-en": "Aadha cup paani aur kofte daalo. Dhak ke dheeme 20 minute pakao, jab tak andar tak pak jaayein. Garam masala milao.",
+    "hi": "आधा कप पानी और कोफ़्ते डालो। ढककर धीमी आँच पर 20 मिनट पकाओ, जब तक अंदर तक पक जाएँ। गरम मसाला मिलाओ।",
+    "pa": "ਅੱਧਾ ਕੱਪ ਪਾਣੀ ਅਤੇ ਕੋਫ਼ਤੇ ਪਾਓ। ਢੱਕ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ 20 ਮਿੰਟ ਪਕਾਓ, ਜਦੋਂ ਤੱਕ ਅੰਦਰ ਤੱਕ ਪੱਕ ਜਾਣ। ਗਰਮ ਮਸਾਲਾ ਮਿਲਾਓ।",
+    "timer": 20,
+    "safety": "meat_done"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "koftas broke apart",
+    "en": "The keema was not ground fine enough. Pound it longer until sticky, and simmer gently, never boil hard.",
+    "hi": "कीमा बारीक नहीं पिसा। चिपचिपा होने तक और कूटो, और धीमी आँच पर पकाओ, तेज़ उबाल नहीं।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "gravy is too thin",
+    "en": "Simmer uncovered for 5 minutes after the koftas are cooked.",
+    "hi": "कोफ़्ते पकने के बाद बिना ढके 5 मिनट पकाओ।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC232": {
+  "names": {
+   "hi-en": "Mutton yakhni",
+   "hi": "मटन यख़नी",
+   "pa": "ਮਟਨ ਯਖ਼ਨੀ"
+  },
+  "steps": [
+   {
+    "en": "Pressure cook the mutton with half a cup of water, salt, the bay leaf, black cardamom, cinnamon and cloves until soft, about 6 whistles.",
+    "hi-en": "Mutton aadhe cup paani, namak, tej patta, badi elaichi, dalchini aur laung ke saath cooker mein naram hone tak pakao, lagbhag 6 seeti.",
+    "hi": "मटन आधे कप पानी, नमक, तेज पत्ता, बड़ी इलायची, दालचीनी और लौंग के साथ कुकर में नरम होने तक पकाओ, लगभग 6 सीटी।",
+    "pa": "ਮਟਨ ਅੱਧੇ ਕੱਪ ਪਾਣੀ, ਲੂਣ, ਤੇਜ ਪੱਤਾ, ਵੱਡੀ ਇਲਾਇਚੀ, ਦਾਲਚੀਨੀ ਅਤੇ ਲੌਂਗ ਨਾਲ ਕੁੱਕਰ ਵਿੱਚ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 6 ਸੀਟੀਆਂ।",
+    "safety": "cooker"
+   },
+   {
+    "en": "Heat the mustard oil until it smokes lightly, then let it cool for a minute. Add the hing, cumin seeds and green cardamom.",
+    "hi-en": "Sarson ka tel halka dhuaan aane tak garam karo, phir ek minute thanda hone do. Hing, jeera aur hari elaichi daalo.",
+    "hi": "सरसों का तेल हल्का धुआँ आने तक गरम करो, फिर एक मिनट ठंडा होने दो। हींग, जीरा और हरी इलायची डालो।",
+    "pa": "ਸਰ੍ਹੋਂ ਦਾ ਤੇਲ ਹਲਕਾ ਧੂੰਆਂ ਆਉਣ ਤੱਕ ਗਰਮ ਕਰੋ, ਫਿਰ ਇੱਕ ਮਿੰਟ ਠੰਡਾ ਹੋਣ ਦਿਓ। ਹਿੰਗ, ਜੀਰਾ ਅਤੇ ਹਰੀ ਇਲਾਇਚੀ ਪਾਓ।",
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the mutton with its stock, the fennel powder and the saunth. Simmer for 10 minutes so the flavours soak in.",
+    "hi-en": "Mutton uske paani ke saath, saunf powder aur saunth daalo. 10 minute dheeme pakao taaki swaad andar tak jaaye.",
+    "hi": "मटन उसके पानी के साथ, सौंफ पाउडर और सोंठ डालो। 10 मिनट धीमी आँच पर पकाओ ताकि स्वाद अंदर तक जाए।",
+    "pa": "ਮਟਨ ਉਸਦੇ ਪਾਣੀ ਸਮੇਤ, ਸੌਂਫ ਪਾਊਡਰ ਅਤੇ ਸੁੰਢ ਪਾਓ। 10 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ ਤਾਂ ਜੋ ਸੁਆਦ ਅੰਦਰ ਤੱਕ ਜਾਵੇ।",
+    "timer": 10,
+    "safety": "meat_done"
+   },
+   {
+    "en": "Taste for salt and serve hot with plain rice.",
+    "hi-en": "Namak chakh lo aur saade chawal ke saath garam garam khao.",
+    "hi": "नमक चख लो और सादे चावल के साथ गरमागरम खाओ।",
+    "pa": "ਲੂਣ ਚੱਖ ਲਓ ਅਤੇ ਸਾਦੇ ਚੌਲਾਂ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mutton is still tough",
+    "en": "It needs more time. Add half a cup of hot water and pressure cook for 2 more whistles.",
+    "hi": "मटन को और समय चाहिए। आधा कप गरम पानी डालकर 2 सीटी और लगाओ।"
+   },
+   {
+    "mistake": "raw smell of mustard oil",
+    "en": "Heat the oil until it smokes lightly before adding spices.",
+    "hi": "मसाले डालने से पहले तेल हल्का धुआँ आने तक गरम करो।"
+   },
+   {
+    "mistake": "gravy too thin",
+    "en": "Simmer uncovered for 5 more minutes.",
+    "hi": "बिना ढके 5 मिनट और पकाओ।"
+   }
+  ],
+  "swaps": {
+   "hing": [
+    "skip"
+   ]
+  }
+ },
+ "ASC234": {
+  "names": {
+   "hi-en": "Mutton do pyaza",
+   "hi": "मटन दो प्याज़ा",
+   "pa": "ਮਟਨ ਦੋ ਪਿਆਜ਼ਾ"
+  },
+  "steps": [
+   {
+    "en": "Slice half the onion thin and cut the other half into big chunks. Whisk the curd.",
+    "hi-en": "Aadha pyaaz patla lamba kaato aur aadha bade tukdon mein. Dahi phent lo.",
+    "hi": "आधा प्याज़ पतला लंबा काटो और आधा बड़े टुकड़ों में। दही फेंट लो।",
+    "pa": "ਅੱਧਾ ਪਿਆਜ਼ ਪਤਲਾ ਲੰਮਾ ਕੱਟੋ ਅਤੇ ਅੱਧਾ ਵੱਡੇ ਟੁਕੜਿਆਂ ਵਿੱਚ। ਦਹੀਂ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Heat the ghee and add the cloves, cardamom, cinnamon and cumin seeds. Fry the sliced onion until golden, then add the ginger and garlic.",
+    "hi-en": "Ghee garam karke laung, elaichi, dalchini aur jeera daalo. Patla kata pyaaz sunehra hone tak bhuno, phir adrak aur lehsun daalo.",
+    "hi": "घी गरम करके लौंग, इलायची, दालचीनी और जीरा डालो। पतला कटा प्याज़ सुनहरा होने तक भूनो, फिर अदरक और लहसुन डालो।",
+    "pa": "ਘਿਓ ਗਰਮ ਕਰਕੇ ਲੌਂਗ, ਇਲਾਇਚੀ, ਦਾਲਚੀਨੀ ਅਤੇ ਜੀਰਾ ਪਾਓ। ਪਤਲਾ ਕੱਟਿਆ ਪਿਆਜ਼ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਫਿਰ ਅਦਰਕ ਅਤੇ ਲਸਣ ਪਾਓ।"
+   },
+   {
+    "en": "Add the mutton, coriander powder, red chilli powder and salt and fry for 10 minutes. Turn the heat low and stir in the curd.",
+    "hi-en": "Mutton, dhaniya powder, laal mirch aur namak daal ke 10 minute bhuno. Aanch dheemi karke dahi milao.",
+    "hi": "मटन, धनिया पाउडर, लाल मिर्च और नमक डालकर 10 मिनट भूनो। आँच धीमी करके दही मिलाओ।",
+    "pa": "ਮਟਨ, ਧਨੀਆ ਪਾਊਡਰ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ 10 ਮਿੰਟ ਭੁੰਨੋ। ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਦਹੀਂ ਮਿਲਾਓ।",
+    "timer": 10,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add half a cup of water and pressure cook until the mutton is soft, about 5 whistles.",
+    "hi-en": "Aadha cup paani daal ke cooker mein mutton naram hone tak pakao, lagbhag 5 seeti.",
+    "hi": "आधा कप पानी डालकर कुकर में मटन नरम होने तक पकाओ, लगभग 5 सीटी।",
+    "pa": "ਅੱਧਾ ਕੱਪ ਪਾਣੀ ਪਾ ਕੇ ਕੁੱਕਰ ਵਿੱਚ ਮਟਨ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਸੀਟੀਆਂ।",
+    "safety": "cooker"
+   },
+   {
+    "en": "Open the cooker, add the onion chunks and cook uncovered for 5 minutes until they soften a little. Add the halved boiled egg and coriander.",
+    "hi-en": "Cooker khol ke pyaaz ke bade tukde daalo aur bina dhakke 5 minute pakao jab tak thode naram ho jaayein. Ubla anda aadha kaat ke aur hara dhaniya daalo.",
+    "hi": "कुकर खोलकर प्याज़ के बड़े टुकड़े डालो और बिना ढके 5 मिनट पकाओ जब तक थोड़े नरम हो जाएँ। उबला अंडा आधा काटकर और हरा धनिया डालो।",
+    "pa": "ਕੁੱਕਰ ਖੋਲ੍ਹ ਕੇ ਪਿਆਜ਼ ਦੇ ਵੱਡੇ ਟੁਕੜੇ ਪਾਓ ਅਤੇ ਬਿਨਾਂ ਢੱਕੇ 5 ਮਿੰਟ ਪਕਾਓ ਜਦੋਂ ਤੱਕ ਥੋੜ੍ਹੇ ਨਰਮ ਹੋ ਜਾਣ। ਉਬਲਿਆ ਆਂਡਾ ਅੱਧਾ ਕੱਟ ਕੇ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ।",
+    "timer": 5,
+    "safety": "meat_done"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mutton is still tough",
+    "en": "It needs more time. Add half a cup of hot water and pressure cook for 2 more whistles.",
+    "hi": "मटन को और समय चाहिए। आधा कप गरम पानी डालकर 2 सीटी और लगाओ।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   },
+   {
+    "mistake": "onion chunks went mushy",
+    "en": "Add them only at the end; they should keep a little bite.",
+    "hi": "प्याज़ के टुकड़े आखिर में ही डालो; थोड़े कुरकुरे रहने चाहिए।"
+   }
+  ],
+  "swaps": {
+   "egg": [
+    "skip"
+   ]
+  }
+ },
+ "ASC242": {
+  "names": {
+   "hi-en": "Butter chicken",
+   "hi": "बटर चिकन",
+   "pa": "ਬਟਰ ਚਿਕਨ"
+  },
+  "steps": [
+   {
+    "en": "Wash the chicken and pat it dry. Rub it with salt, the black pepper and half the garam masala and leave it for 15 minutes.",
+    "hi-en": "Chicken dho ke kapde se sukha lo. Namak, kali mirch aur aadha garam masala laga ke 15 minute rakho.",
+    "hi": "चिकन धोकर कपड़े से सुखा लो। नमक, काली मिर्च और आधा गरम मसाला लगाकर 15 मिनट रखो।",
+    "pa": "ਚਿਕਨ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਲੂਣ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਅੱਧਾ ਗਰਮ ਮਸਾਲਾ ਲਗਾ ਕੇ 15 ਮਿੰਟ ਰੱਖੋ।",
+    "safety": "raw_chicken"
+   },
+   {
+    "en": "Cook the chicken in half the butter, turning, until browned and white all through, about 10 minutes. Take it out.",
+    "hi-en": "Aadhe makhan mein chicken palat palat ke bhoora aur andar tak safed hone tak pakao, lagbhag 10 minute. Nikaal lo.",
+    "hi": "आधे मक्खन में चिकन पलट-पलटकर भूरा और अंदर तक सफ़ेद होने तक पकाओ, लगभग 10 मिनट। निकाल लो।",
+    "pa": "ਅੱਧੇ ਮੱਖਣ ਵਿੱਚ ਚਿਕਨ ਪਲਟ-ਪਲਟ ਕੇ ਭੂਰਾ ਅਤੇ ਅੰਦਰ ਤੱਕ ਚਿੱਟਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 10 ਮਿੰਟ। ਕੱਢ ਲਓ।",
+    "timer": 10,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "In the rest of the butter, add the cardamom, chopped onion, ginger and green chilli and cook until soft. Add the chopped tomato and tomato puree and cook until mushy, about 8 minutes.",
+    "hi-en": "Baaki makhan mein elaichi, kata pyaaz, adrak aur hari mirch daal ke naram hone tak pakao. Kata tamatar aur tomato puree daal ke ghulne tak pakao, lagbhag 8 minute.",
+    "hi": "बाकी मक्खन में इलायची, कटा प्याज़, अदरक और हरी मिर्च डालकर नरम होने तक पकाओ। कटा टमाटर और टोमैटो प्यूरी डालकर घुलने तक पकाओ, लगभग 8 मिनट।",
+    "pa": "ਬਾਕੀ ਮੱਖਣ ਵਿੱਚ ਇਲਾਇਚੀ, ਕੱਟਿਆ ਪਿਆਜ਼, ਅਦਰਕ ਅਤੇ ਹਰੀ ਮਿਰਚ ਪਾ ਕੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ। ਕੱਟਿਆ ਟਮਾਟਰ ਅਤੇ ਟਮਾਟਰ ਪਿਊਰੀ ਪਾ ਕੇ ਘੁਲਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8
+   },
+   {
+    "en": "Let it cool a little and blend it smooth. Pour it back, add the chicken and a quarter cup of water, and simmer for 5 minutes.",
+    "hi-en": "Thoda thanda karke smooth pees lo. Wapas daal ke chicken aur chauthai cup paani daalo, aur 5 minute dheeme pakao.",
+    "hi": "थोड़ा ठंडा करके चिकना पीस लो। वापस डालकर चिकन और चौथाई कप पानी डालो, और 5 मिनट धीमी आँच पर पकाओ।",
+    "pa": "ਥੋੜ੍ਹਾ ਠੰਡਾ ਕਰਕੇ ਮੁਲਾਇਮ ਪੀਸ ਲਓ। ਵਾਪਸ ਪਾ ਕੇ ਚਿਕਨ ਅਤੇ ਚੌਥਾਈ ਕੱਪ ਪਾਣੀ ਪਾਓ, ਅਤੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ।",
+    "timer": 5,
+    "safety": "hot_grind"
+   },
+   {
+    "en": "Stir in the sugar, the rest of the garam masala and the cream. Top with the ginger juliennes and coriander and serve with naan.",
+    "hi-en": "Cheeni, baaki garam masala aur cream milao. Upar adrak ke lambe tukde aur hara dhaniya daal ke naan ke saath khao.",
+    "hi": "चीनी, बाकी गरम मसाला और क्रीम मिलाओ। ऊपर अदरक के लंबे टुकड़े और हरा धनिया डालकर नान के साथ खाओ।",
+    "pa": "ਖੰਡ, ਬਾਕੀ ਗਰਮ ਮਸਾਲਾ ਅਤੇ ਕਰੀਮ ਮਿਲਾਓ। ਉੱਤੇ ਅਦਰਕ ਦੇ ਲੰਮੇ ਟੁਕੜੇ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾ ਕੇ ਨਾਨ ਨਾਲ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Cover and cook for 5 more minutes, then cut the thickest piece to check again.",
+    "hi": "ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+   },
+   {
+    "mistake": "gravy is too sour",
+    "en": "Add a pinch more sugar and a spoon of cream, and simmer for a minute.",
+    "hi": "चुटकी भर चीनी और एक चम्मच क्रीम और डालो, एक मिनट पकाओ।"
+   },
+   {
+    "mistake": "cream split",
+    "en": "Turn the heat low before adding cream, and do not let it boil after.",
+    "hi": "क्रीम डालने से पहले आँच धीमी करो, और उसके बाद उबलने मत दो।"
+   }
+  ],
+  "swaps": {
+   "cream": [
+    "milk",
+    "skip"
+   ],
+   "ghee": [
+    "butter"
+   ]
+  }
+ },
+ "ASC244": {
+  "names": {
+   "hi-en": "Chilli chicken",
+   "hi": "चिली चिकन",
+   "pa": "ਚਿੱਲੀ ਚਿਕਨ"
+  },
+  "steps": [
+   {
+    "en": "Wash the chicken and pat it dry. Cut it into cubes and mix with the egg white, a teaspoon of cornflour, salt and pepper. Leave it for 15 minutes.",
+    "hi-en": "Chicken dho ke kapde se sukha lo. Tukde karke ande ki safedi, ek chhota chammach cornflour, namak aur kali mirch ke saath milao. 15 minute rakho.",
+    "hi": "चिकन धोकर कपड़े से सुखा लो। टुकड़े करके अंडे की सफ़ेदी, एक छोटा चम्मच कॉर्नफ्लोर, नमक और काली मिर्च के साथ मिलाओ। 15 मिनट रखो।",
+    "pa": "ਚਿਕਨ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਟੁਕੜੇ ਕਰਕੇ ਆਂਡੇ ਦੀ ਸਫ਼ੈਦੀ, ਇੱਕ ਛੋਟਾ ਚਮਚ ਕੌਰਨਫਲੋਰ, ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਨਾਲ ਮਿਲਾਓ। 15 ਮਿੰਟ ਰੱਖੋ।",
+    "safety": "raw_chicken"
+   },
+   {
+    "en": "Fry the chicken in hot oil until golden and white all through, about 6 minutes. Drain.",
+    "hi-en": "Chicken garam tel mein sunehra aur andar tak safed hone tak talo, lagbhag 6 minute. Nikaal lo.",
+    "hi": "चिकन गरम तेल में सुनहरा और अंदर तक सफ़ेद होने तक तलो, लगभग 6 मिनट। निकाल लो।",
+    "pa": "ਚਿਕਨ ਗਰਮ ਤੇਲ ਵਿੱਚ ਸੁਨਹਿਰੀ ਅਤੇ ਅੰਦਰ ਤੱਕ ਚਿੱਟਾ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 6 ਮਿੰਟ। ਕੱਢ ਲਓ।",
+    "timer": 6,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "In a spoon of oil on high heat, fry the garlic, ginger and green chilli for 1 minute. Add the capsicum and mushrooms and stir fry for 2 minutes.",
+    "hi-en": "Ek chammach tel tez aanch pe garam karke lehsun, adrak aur hari mirch 1 minute bhuno. Shimla mirch aur mushroom daal ke 2 minute tez chalao.",
+    "hi": "एक चम्मच तेल तेज़ आँच पर गरम करके लहसुन, अदरक और हरी मिर्च 1 मिनट भूनो। शिमला मिर्च और मशरूम डालकर 2 मिनट तेज़ चलाओ।",
+    "pa": "ਇੱਕ ਚਮਚ ਤੇਲ ਤੇਜ਼ ਅੱਗ ਤੇ ਗਰਮ ਕਰਕੇ ਲਸਣ, ਅਦਰਕ ਅਤੇ ਹਰੀ ਮਿਰਚ 1 ਮਿੰਟ ਭੁੰਨੋ। ਸ਼ਿਮਲਾ ਮਿਰਚ ਅਤੇ ਮਸ਼ਰੂਮ ਪਾ ਕੇ 2 ਮਿੰਟ ਤੇਜ਼ ਹਿਲਾਓ।",
+    "timer": 2,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the soya sauce, vinegar, sugar, red chilli powder and salt. Stir in half a teaspoon of cornflour mixed with the water or stock and cook until glossy, about 1 minute.",
+    "hi-en": "Soya sauce, sirka, cheeni, laal mirch aur namak daalo. Aadha chhota chammach cornflour paani ya stock mein ghol ke milao aur chamakne tak pakao, lagbhag 1 minute.",
+    "hi": "सोया सॉस, सिरका, चीनी, लाल मिर्च और नमक डालो। आधा छोटा चम्मच कॉर्नफ्लोर पानी या स्टॉक में घोलकर मिलाओ और चमकने तक पकाओ, लगभग 1 मिनट।",
+    "pa": "ਸੋਇਆ ਸੌਸ, ਸਿਰਕਾ, ਖੰਡ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾਓ। ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਕੌਰਨਫਲੋਰ ਪਾਣੀ ਜਾਂ ਸਟਾਕ ਵਿੱਚ ਘੋਲ ਕੇ ਮਿਲਾਓ ਅਤੇ ਚਮਕਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1
+   },
+   {
+    "en": "Toss in the chicken, add the spring onion and serve hot with sliced cucumber on the side.",
+    "hi-en": "Chicken daal ke uchhaalo, hara pyaaz daalo aur saath mein kate kheere ke saath garam garam khao.",
+    "hi": "चिकन डालकर उछालो, हरा प्याज़ डालो और साथ में कटे खीरे के साथ गरमागरम खाओ।",
+    "pa": "ਚਿਕਨ ਪਾ ਕੇ ਉਛਾਲੋ, ਹਰਾ ਪਿਆਜ਼ ਪਾਓ ਅਤੇ ਨਾਲ ਕੱਟੇ ਖੀਰੇ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Cover and cook for 5 more minutes, then cut the thickest piece to check again.",
+    "hi": "ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+   },
+   {
+    "mistake": "coating went soggy",
+    "en": "Toss the chicken in only at the end and serve straight away.",
+    "hi": "चिकन आखिर में ही डालो और तुरंत परोसो।"
+   },
+   {
+    "mistake": "too salty",
+    "en": "Soya sauce is salty. Add a squeeze of lemon and a pinch of sugar.",
+    "hi": "सोया सॉस नमकीन होता है। थोड़ा नींबू और चुटकी भर चीनी डालो।"
+   }
+  ],
+  "swaps": {
+   "mushroom": [
+    "skip"
+   ],
+   "cucumber": [
+    "skip"
+   ]
+  }
+ },
+ "ASC246": {
+  "names": {
+   "hi-en": "Machli ki curry",
+   "hi": "मछली की करी",
+   "pa": "ਮੱਛੀ ਦੀ ਕਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Rub the fish pieces with turmeric, salt and lemon juice and leave them for 15 minutes.",
+    "hi-en": "Machli ke tukdon pe haldi, namak aur nimbu ka ras laga ke 15 minute rakho.",
+    "hi": "मछली के टुकड़ों पर हल्दी, नमक और नींबू का रस लगाकर 15 मिनट रखो।",
+    "pa": "ਮੱਛੀ ਦੇ ਟੁਕੜਿਆਂ ਤੇ ਹਲਦੀ, ਲੂਣ ਅਤੇ ਨਿੰਬੂ ਦਾ ਰਸ ਲਗਾ ਕੇ 15 ਮਿੰਟ ਰੱਖੋ।",
+    "timer": 15
+   },
+   {
+    "en": "Fry the fish in the oil for 2 minutes on each side and take it out.",
+    "hi-en": "Machli tel mein dono taraf 2 minute talo aur nikaal lo.",
+    "hi": "मछली तेल में दोनों तरफ़ 2 मिनट तलो और निकाल लो।",
+    "pa": "ਮੱਛੀ ਤੇਲ ਵਿੱਚ ਦੋਵੇਂ ਪਾਸੇ 2 ਮਿੰਟ ਤਲੋ ਅਤੇ ਕੱਢ ਲਓ।",
+    "timer": 4,
+    "safety": "splutter"
+   },
+   {
+    "en": "In the same oil add the bay leaf, black cardamom, cloves, cinnamon and peppercorns. Add the onion paste and cook until golden, then the ginger, garlic and the poppy seed paste.",
+    "hi-en": "Usi tel mein tej patta, badi elaichi, laung, dalchini aur kali mirch daalo. Pyaaz ka paste sunehra hone tak bhuno, phir adrak, lehsun aur khaskhas ka paste.",
+    "hi": "उसी तेल में तेज पत्ता, बड़ी इलायची, लौंग, दालचीनी और काली मिर्च डालो। प्याज़ का पेस्ट सुनहरा होने तक भूनो, फिर अदरक, लहसुन और खसखस का पेस्ट।",
+    "pa": "ਉਸੇ ਤੇਲ ਵਿੱਚ ਤੇਜ ਪੱਤਾ, ਵੱਡੀ ਇਲਾਇਚੀ, ਲੌਂਗ, ਦਾਲਚੀਨੀ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਪਾਓ। ਪਿਆਜ਼ ਦਾ ਪੇਸਟ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਫਿਰ ਅਦਰਕ, ਲਸਣ ਅਤੇ ਖਸਖਸ ਦਾ ਪੇਸਟ।"
+   },
+   {
+    "en": "Add the chopped tomatoes, red chilli powder and salt and cook until the oil separates, about 5 minutes. Turn the heat low and stir in the whisked curd, then 1 cup of water. Bring to a boil.",
+    "hi-en": "Kate tamatar, laal mirch aur namak daal ke tel alag hone tak pakao, lagbhag 5 minute. Aanch dheemi karke phenta dahi milao, phir 1 cup paani. Ubaal aane do.",
+    "hi": "कटे टमाटर, लाल मिर्च और नमक डालकर तेल अलग होने तक पकाओ, लगभग 5 मिनट। आँच धीमी करके फेंटा दही मिलाओ, फिर 1 कप पानी। उबाल आने दो।",
+    "pa": "ਕੱਟੇ ਟਮਾਟਰ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾ ਕੇ ਤੇਲ ਵੱਖ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ। ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਫੈਂਟਿਆ ਦਹੀਂ ਮਿਲਾਓ, ਫਿਰ 1 ਕੱਪ ਪਾਣੀ। ਉਬਾਲ ਆਉਣ ਦਿਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Slide in the fish and simmer for 6 minutes without stirring; shake the pan gently instead. Add the garam masala.",
+    "hi-en": "Machli daal ke 6 minute dheeme pakao, chalaana nahi, bas pan halke se hilao. Garam masala daalo.",
+    "hi": "मछली डालकर 6 मिनट धीमी आँच पर पकाओ, चलाना नहीं, बस बर्तन हल्के से हिलाओ। गरम मसाला डालो।",
+    "pa": "ਮੱਛੀ ਪਾ ਕੇ 6 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ, ਹਿਲਾਉਣਾ ਨਹੀਂ, ਬੱਸ ਭਾਂਡਾ ਹੌਲੀ ਜਿਹੇ ਹਿਲਾਓ। ਗਰਮ ਮਸਾਲਾ ਪਾਓ।",
+    "timer": 6,
+    "safety": "fish_done"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "fish broke into pieces",
+    "en": "It was stirred. Shake the pan instead, and use firm fish like rohu or surmai.",
+    "hi": "मछली चलाने से टूटी। चलाने की जगह बर्तन हिलाओ, और रोहू या सुरमई जैसी सख्त मछली लो।"
+   },
+   {
+    "mistake": "fishy smell",
+    "en": "Rub the fish with salt, turmeric and lemon and rinse before cooking.",
+    "hi": "पकाने से पहले मछली पर नमक, हल्दी और नींबू लगाकर धो लो।"
+   },
+   {
+    "mistake": "curd split in the gravy",
+    "en": "The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",
+    "hi": "आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।"
+   }
+  ],
+  "swaps": {
+   "poppy_seeds": [
+    "cashews",
+    "skip"
+   ]
+  }
+ },
+ "ASC252": {
+  "names": {
+   "hi-en": "Tandoori machli",
+   "hi": "तंदूरी मछली",
+   "pa": "ਤੰਦੂਰੀ ਮੱਛੀ"
+  },
+  "steps": [
+   {
+    "en": "Clean the pomfret and make 3 deep cuts on each side. Rub with lemon juice and salt and leave it for 15 minutes.",
+    "hi-en": "Pomfret saaf karke dono taraf 3 gehre chiraa lagao. Nimbu ka ras aur namak laga ke 15 minute rakho.",
+    "hi": "पॉम्फ्रेट साफ़ करके दोनों तरफ़ 3 गहरे चीरे लगाओ। नींबू का रस और नमक लगाकर 15 मिनट रखो।",
+    "pa": "ਪੌਮਫ੍ਰੇਟ ਸਾਫ਼ ਕਰਕੇ ਦੋਵੇਂ ਪਾਸੇ 3 ਡੂੰਘੇ ਚੀਰੇ ਲਗਾਓ। ਨਿੰਬੂ ਦਾ ਰਸ ਅਤੇ ਲੂਣ ਲਗਾ ਕੇ 15 ਮਿੰਟ ਰੱਖੋ।",
+    "timer": 15
+   },
+   {
+    "en": "Mix the thick curd with the ginger and garlic paste, red chilli powder, turmeric, garam masala, ajwain, vinegar and a spoon of the fat. Coat the fish well, pushing it into the cuts, and keep it in the fridge for 1 hour.",
+    "hi-en": "Gaadhe dahi mein adrak lehsun paste, laal mirch, haldi, garam masala, ajwain, sirka aur ek chammach ghee ya tel milao. Machli pe achhe se lagao, chiron mein bhi, aur 1 ghanta fridge mein rakho.",
+    "hi": "गाढ़े दही में अदरक-लहसुन पेस्ट, लाल मिर्च, हल्दी, गरम मसाला, अजवाइन, सिरका और एक चम्मच घी या तेल मिलाओ। मछली पर अच्छे से लगाओ, चीरों में भी, और 1 घंटा फ्रिज में रखो।",
+    "pa": "ਗਾੜ੍ਹੇ ਦਹੀਂ ਵਿੱਚ ਅਦਰਕ-ਲਸਣ ਪੇਸਟ, ਲਾਲ ਮਿਰਚ, ਹਲਦੀ, ਗਰਮ ਮਸਾਲਾ, ਅਜਵਾਇਣ, ਸਿਰਕਾ ਅਤੇ ਇੱਕ ਚਮਚ ਘਿਓ ਜਾਂ ਤੇਲ ਮਿਲਾਓ। ਮੱਛੀ ਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਗਾਓ, ਚੀਰਿਆਂ ਵਿੱਚ ਵੀ, ਅਤੇ 1 ਘੰਟਾ ਫਰਿੱਜ ਵਿੱਚ ਰੱਖੋ।"
+   },
+   {
+    "en": "Heat the oven to 220°C. Put the fish on a greased tray and bake for about 16 minutes, turning once and brushing with fat.",
+    "hi-en": "Oven 220°C pe garam karo. Machli ghee lagi tray pe rakh ke lagbhag 16 minute bake karo, ek baar palat ke ghee lagao.",
+    "hi": "ओवन 220°C पर गरम करो। मछली घी लगी ट्रे पर रखकर लगभग 16 मिनट बेक करो, एक बार पलटकर घी लगाओ।",
+    "pa": "ਓਵਨ 220°C ਤੇ ਗਰਮ ਕਰੋ। ਮੱਛੀ ਘਿਓ ਲੱਗੀ ਟ੍ਰੇ ਤੇ ਰੱਖ ਕੇ ਲਗਭਗ 16 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਇੱਕ ਵਾਰ ਪਲਟ ਕੇ ਘਿਓ ਲਗਾਓ।",
+    "timer": 16,
+    "safety": "oven"
+   },
+   {
+    "en": "Check that the fish is done, then serve with onion rings, tomato slices and lemon wedges.",
+    "hi-en": "Dekh lo machli pak gayi hai, phir pyaaz ke chhalle, tamatar ke tukde aur nimbu ke saath khao.",
+    "hi": "देख लो मछली पक गई है, फिर प्याज़ के छल्ले, टमाटर के टुकड़े और नींबू के साथ खाओ।",
+    "pa": "ਵੇਖ ਲਓ ਮੱਛੀ ਪੱਕ ਗਈ ਹੈ, ਫਿਰ ਪਿਆਜ਼ ਦੇ ਛੱਲੇ, ਟਮਾਟਰ ਦੇ ਟੁਕੜੇ ਅਤੇ ਨਿੰਬੂ ਨਾਲ ਖਾਓ।",
+    "safety": "fish_done"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "marinade slid off",
+    "en": "The curd was too watery. Hang it in a cloth for 30 minutes to make it thick.",
+    "hi": "दही पतला था। 30 मिनट कपड़े में लटकाकर गाढ़ा कर लो।"
+   },
+   {
+    "mistake": "fish is dry",
+    "en": "It baked too long. Check after 12 minutes next time.",
+    "hi": "ज़्यादा देर बेक हुई। अगली बार 12 मिनट पर जाँचना।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Cook it on a hot greased tawa, covered, for 5 to 6 minutes on each side.",
+    "hi": "गरम घी लगे तवे पर ढककर दोनों तरफ़ 5-6 मिनट पकाओ।"
+   }
+  ],
+  "swaps": {
+   "fish": [
+    "prawns"
+   ]
+  }
+ },
+ "BFP090": {
+  "names": {
+   "hi-en": "Chicken stew",
+   "hi": "चिकन स्टू",
+   "pa": "ਚਿਕਨ ਸਟੂ"
+  },
+  "steps": [
+   {
+    "en": "Wash the chicken and pat it dry. Cube the potato, slice the onion and shallots, and slit the green chillies.",
+    "hi-en": "Chicken dho ke kapde se sukha lo. Aloo ke tukde karo, pyaaz aur chhote pyaaz lambe kaato, aur hari mirch beech se cheer lo.",
+    "hi": "चिकन धोकर कपड़े से सुखा लो। आलू के टुकड़े करो, प्याज़ और छोटे प्याज़ लंबे काटो, और हरी मिर्च बीच से चीर लो।",
+    "pa": "ਚਿਕਨ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਆਲੂ ਦੇ ਟੁਕੜੇ ਕਰੋ, ਪਿਆਜ਼ ਅਤੇ ਛੋਟੇ ਪਿਆਜ਼ ਲੰਮੇ ਕੱਟੋ, ਅਤੇ ਹਰੀ ਮਿਰਚ ਵਿੱਚੋਂ ਚੀਰ ਲਓ।",
+    "safety": "raw_chicken"
+   },
+   {
+    "en": "Heat half the oil and add the cinnamon, cloves, cardamom, peppercorns and bay leaf. Add the onion, ginger, garlic, green chilli and curry leaves and cook until soft, not brown.",
+    "hi-en": "Aadha tel garam karke dalchini, laung, elaichi, kali mirch aur tej patta daalo. Pyaaz, adrak, lehsun, hari mirch aur kadi patta daal ke naram hone tak pakao, bhoora nahi.",
+    "hi": "आधा तेल गरम करके दालचीनी, लौंग, इलायची, काली मिर्च और तेज पत्ता डालो। प्याज़, अदरक, लहसुन, हरी मिर्च और कड़ी पत्ता डालकर नरम होने तक पकाओ, भूरा नहीं।",
+    "pa": "ਅੱਧਾ ਤੇਲ ਗਰਮ ਕਰਕੇ ਦਾਲਚੀਨੀ, ਲੌਂਗ, ਇਲਾਇਚੀ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਤੇਜ ਪੱਤਾ ਪਾਓ। ਪਿਆਜ਼, ਅਦਰਕ, ਲਸਣ, ਹਰੀ ਮਿਰਚ ਅਤੇ ਕੜੀ ਪੱਤਾ ਪਾ ਕੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਭੂਰਾ ਨਹੀਂ।"
+   },
+   {
+    "en": "Add the chicken, potato, turmeric, salt and 1 cup of water. Cover and simmer until the chicken is cooked and the potato is soft, about 20 minutes.",
+    "hi-en": "Chicken, aloo, haldi, namak aur 1 cup paani daalo. Dhak ke dheeme pakao jab tak chicken pak jaaye aur aloo naram ho jaaye, lagbhag 20 minute.",
+    "hi": "चिकन, आलू, हल्दी, नमक और 1 कप पानी डालो। ढककर धीमी आँच पर पकाओ जब तक चिकन पक जाए और आलू नरम हो जाए, लगभग 20 मिनट।",
+    "pa": "ਚਿਕਨ, ਆਲੂ, ਹਲਦੀ, ਲੂਣ ਅਤੇ 1 ਕੱਪ ਪਾਣੀ ਪਾਓ। ਢੱਕ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ ਜਦੋਂ ਤੱਕ ਚਿਕਨ ਪੱਕ ਜਾਵੇ ਅਤੇ ਆਲੂ ਨਰਮ ਹੋ ਜਾਵੇ, ਲਗਭਗ 20 ਮਿੰਟ।",
+    "timer": 20,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "Turn the heat to low, stir in the coconut milk and warm it through without boiling.",
+    "hi-en": "Aanch dheemi karke nariyal ka doodh milao aur bina ubaale garam karo.",
+    "hi": "आँच धीमी करके नारियल का दूध मिलाओ और बिना उबाले गरम करो।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰਕੇ ਨਾਰੀਅਲ ਦਾ ਦੁੱਧ ਮਿਲਾਓ ਅਤੇ ਬਿਨਾਂ ਉਬਾਲੇ ਗਰਮ ਕਰੋ।"
+   },
+   {
+    "en": "In the rest of the oil, splutter the mustard seeds, then add the whole red chilli, curry leaves and shallots and fry until golden. Pour this over the stew and serve with appam or rice.",
+    "hi-en": "Baaki tel mein rai chatkao, phir sabut laal mirch, kadi patta aur chhote pyaaz sunehre hone tak talo. Stew ke upar daal ke appam ya chawal ke saath khao.",
+    "hi": "बाकी तेल में राई चटकाओ, फिर साबुत लाल मिर्च, कड़ी पत्ता और छोटे प्याज़ सुनहरे होने तक तलो। स्टू के ऊपर डालकर अप्पम या चावल के साथ खाओ।",
+    "pa": "ਬਾਕੀ ਤੇਲ ਵਿੱਚ ਰਾਈ ਤਿੜਕਾਓ, ਫਿਰ ਸਾਬਤ ਲਾਲ ਮਿਰਚ, ਕੜੀ ਪੱਤਾ ਅਤੇ ਛੋਟੇ ਪਿਆਜ਼ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ। ਸਟੂ ਉੱਤੇ ਪਾ ਕੇ ਅੱਪਮ ਜਾਂ ਚੌਲਾਂ ਨਾਲ ਖਾਓ।",
+    "safety": "splutter"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Cover and cook for 5 more minutes, then cut the thickest piece to check again.",
+    "hi": "ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+   },
+   {
+    "mistake": "coconut milk split",
+    "en": "It boiled. Keep the heat low after adding coconut milk.",
+    "hi": "नारियल का दूध उबल गया। उसे डालने के बाद आँच धीमी रखो।"
+   },
+   {
+    "mistake": "stew is too thin",
+    "en": "Mash a few potato pieces into it and simmer for 3 minutes.",
+    "hi": "आलू के कुछ टुकड़े मसलकर मिलाओ और 3 मिनट पकाओ।"
+   }
+  ],
+  "swaps": {
+   "coconut": [
+    "milk"
+   ],
+   "potato": [
+    "carrot"
+   ]
+  }
+ },
+ "BFP141": {
+  "names": {
+   "hi-en": "Mutton pulao",
+   "hi": "मटन पुलाव",
+   "pa": "ਮਟਨ ਪੁਲਾਓ"
+  },
+  "steps": [
+   {
+    "en": "Wash the rice and soak it for 30 minutes.",
+    "hi-en": "Chawal dho ke 30 minute bhigo do.",
+    "hi": "चावल धोकर 30 मिनट भिगो दो।",
+    "pa": "ਚੌਲ ਧੋ ਕੇ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Pressure cook the mutton with 2 cups of water, salt, the coriander seeds, ginger, garlic, a little onion and half the whole spices until soft, about 5 whistles. Strain and keep the stock.",
+    "hi-en": "Mutton 2 cup paani, namak, sabut dhaniya, adrak, lehsun, thoda pyaaz aur aadhe sabut masalon ke saath cooker mein naram hone tak pakao, lagbhag 5 seeti. Chhaan ke stock rakh lo.",
+    "hi": "मटन 2 कप पानी, नमक, साबुत धनिया, अदरक, लहसुन, थोड़ा प्याज़ और आधे साबुत मसालों के साथ कुकर में नरम होने तक पकाओ, लगभग 5 सीटी। छानकर स्टॉक रख लो।",
+    "pa": "ਮਟਨ 2 ਕੱਪ ਪਾਣੀ, ਲੂਣ, ਸਾਬਤ ਧਨੀਆ, ਅਦਰਕ, ਲਸਣ, ਥੋੜ੍ਹਾ ਪਿਆਜ਼ ਅਤੇ ਅੱਧੇ ਸਾਬਤ ਮਸਾਲਿਆਂ ਨਾਲ ਕੁੱਕਰ ਵਿੱਚ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਸੀਟੀਆਂ। ਛਾਣ ਕੇ ਸਟਾਕ ਰੱਖ ਲਓ।",
+    "safety": "meat_done"
+   },
+   {
+    "en": "Fry the sliced onion in the oil until brown and take half out. Fry the cashews and almonds until golden and take them out too.",
+    "hi-en": "Lamba kata pyaaz tel mein bhoora hone tak talo aur aadha nikaal lo. Kaju aur badaam sunehre hone tak talo aur unhe bhi nikaal lo.",
+    "hi": "लंबा कटा प्याज़ तेल में भूरा होने तक तलो और आधा निकाल लो। काजू और बादाम सुनहरे होने तक तलो और उन्हें भी निकाल लो।",
+    "pa": "ਲੰਮਾ ਕੱਟਿਆ ਪਿਆਜ਼ ਤੇਲ ਵਿੱਚ ਭੂਰਾ ਹੋਣ ਤੱਕ ਤਲੋ ਅਤੇ ਅੱਧਾ ਕੱਢ ਲਓ। ਕਾਜੂ ਅਤੇ ਬਦਾਮ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ ਅਤੇ ਉਹ ਵੀ ਕੱਢ ਲਓ।"
+   },
+   {
+    "en": "Add the rest of the whole spices, the ground poppy seeds, curd and red chilli powder and cook for 2 minutes. Add the mutton and fry for 3 minutes.",
+    "hi-en": "Baaki sabut masale, pisi khaskhas, dahi aur laal mirch daal ke 2 minute pakao. Mutton daal ke 3 minute bhuno.",
+    "hi": "बाकी साबुत मसाले, पिसी खसखस, दही और लाल मिर्च डालकर 2 मिनट पकाओ। मटन डालकर 3 मिनट भूनो।",
+    "pa": "ਬਾਕੀ ਸਾਬਤ ਮਸਾਲੇ, ਪੀਸੀ ਖਸਖਸ, ਦਹੀਂ ਅਤੇ ਲਾਲ ਮਿਰਚ ਪਾ ਕੇ 2 ਮਿੰਟ ਪਕਾਓ। ਮਟਨ ਪਾ ਕੇ 3 ਮਿੰਟ ਭੁੰਨੋ।",
+    "timer": 3,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the drained rice, the saffron and the strained stock, about one and a half cups. Bring it to a boil, cover and cook on the lowest heat for 15 minutes.",
+    "hi-en": "Paani nikaale chawal, kesar aur chhaana hua stock, lagbhag dedh cup, daalo. Ubaal aane pe dhak ke sabse dheemi aanch pe 15 minute pakao.",
+    "hi": "पानी निकाले चावल, केसर और छाना हुआ स्टॉक, लगभग डेढ़ कप, डालो। उबाल आने पर ढककर सबसे धीमी आँच पर 15 मिनट पकाओ।",
+    "pa": "ਪਾਣੀ ਕੱਢੇ ਚੌਲ, ਕੇਸਰ ਅਤੇ ਛਾਣਿਆ ਸਟਾਕ, ਲਗਭਗ ਡੇਢ ਕੱਪ, ਪਾਓ। ਉਬਾਲ ਆਉਣ ਤੇ ਢੱਕ ਕੇ ਸਭ ਤੋਂ ਹੌਲੀ ਅੱਗ ਤੇ 15 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Sprinkle the kewra, top with the fried onion and nuts and serve with raita.",
+    "hi-en": "Kewra chhidko, upar tala pyaaz aur meve daal ke raite ke saath khao.",
+    "hi": "केवड़ा छिड़को, ऊपर तला प्याज़ और मेवे डालकर रायते के साथ खाओ।",
+    "pa": "ਕੇਵੜਾ ਛਿੜਕੋ, ਉੱਤੇ ਤਲਿਆ ਪਿਆਜ਼ ਅਤੇ ਮੇਵੇ ਪਾ ਕੇ ਰਾਇਤੇ ਨਾਲ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mutton is still tough",
+    "en": "It needs more time. Add half a cup of hot water and pressure cook for 2 more whistles.",
+    "hi": "मटन को और समय चाहिए। आधा कप गरम पानी डालकर 2 सीटी और लगाओ।"
+   },
+   {
+    "mistake": "rice is mushy",
+    "en": "Too much stock. Open the lid on low heat for 2 minutes. Use a little less next time.",
+    "hi": "स्टॉक ज़्यादा था। धीमी आँच पर 2 मिनट ढक्कन खोल दो। अगली बार थोड़ा कम।"
+   },
+   {
+    "mistake": "rice is still hard",
+    "en": "Sprinkle 3 tablespoons of hot stock or water, cover and cook on low heat for 5 minutes.",
+    "hi": "3 चम्मच गरम स्टॉक या पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"
+   }
+  ],
+  "swaps": {
+   "saffron": [
+    "skip"
+   ],
+   "poppy_seeds": [
+    "skip"
+   ],
+   "rose": [
+    "skip"
+   ]
+  }
+ },
+ "BFP142": {
+  "names": {
+   "hi-en": "Chicken pulao",
+   "hi": "चिकन पुलाव",
+   "pa": "ਚਿਕਨ ਪੁਲਾਓ"
+  },
+  "steps": [
+   {
+    "en": "Wash the rice and soak it for 30 minutes.",
+    "hi-en": "Chawal dho ke 30 minute bhigo do.",
+    "hi": "चावल धोकर 30 मिनट भिगो दो।",
+    "pa": "ਚੌਲ ਧੋ ਕੇ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Wash the chicken. Simmer it with 2 cups of water, salt, the coriander seeds, ginger, garlic, a little onion and half the whole spices until cooked through, about 15 minutes. Strain and keep the stock.",
+    "hi-en": "Chicken dho lo. 2 cup paani, namak, sabut dhaniya, adrak, lehsun, thoda pyaaz aur aadhe sabut masalon ke saath andar tak pakne tak dheeme ubaalo, lagbhag 15 minute. Chhaan ke stock rakh lo.",
+    "hi": "चिकन धो लो। 2 कप पानी, नमक, साबुत धनिया, अदरक, लहसुन, थोड़ा प्याज़ और आधे साबुत मसालों के साथ अंदर तक पकने तक धीमी आँच पर उबालो, लगभग 15 मिनट। छानकर स्टॉक रख लो।",
+    "pa": "ਚਿਕਨ ਧੋ ਲਓ। 2 ਕੱਪ ਪਾਣੀ, ਲੂਣ, ਸਾਬਤ ਧਨੀਆ, ਅਦਰਕ, ਲਸਣ, ਥੋੜ੍ਹਾ ਪਿਆਜ਼ ਅਤੇ ਅੱਧੇ ਸਾਬਤ ਮਸਾਲਿਆਂ ਨਾਲ ਅੰਦਰ ਤੱਕ ਪੱਕਣ ਤੱਕ ਹੌਲੀ ਅੱਗ ਤੇ ਉਬਾਲੋ, ਲਗਭਗ 15 ਮਿੰਟ। ਛਾਣ ਕੇ ਸਟਾਕ ਰੱਖ ਲਓ।",
+    "timer": 15,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "Fry the sliced onion in the oil until brown and take half out. Fry the cashews and almonds until golden and take them out too.",
+    "hi-en": "Lamba kata pyaaz tel mein bhoora hone tak talo aur aadha nikaal lo. Kaju aur badaam sunehre hone tak talo aur unhe bhi nikaal lo.",
+    "hi": "लंबा कटा प्याज़ तेल में भूरा होने तक तलो और आधा निकाल लो। काजू और बादाम सुनहरे होने तक तलो और उन्हें भी निकाल लो।",
+    "pa": "ਲੰਮਾ ਕੱਟਿਆ ਪਿਆਜ਼ ਤੇਲ ਵਿੱਚ ਭੂਰਾ ਹੋਣ ਤੱਕ ਤਲੋ ਅਤੇ ਅੱਧਾ ਕੱਢ ਲਓ। ਕਾਜੂ ਅਤੇ ਬਦਾਮ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ ਅਤੇ ਉਹ ਵੀ ਕੱਢ ਲਓ।"
+   },
+   {
+    "en": "Add the rest of the whole spices, the ground poppy seeds, curd and red chilli powder and cook for 2 minutes. Add the chicken and fry for 3 minutes.",
+    "hi-en": "Baaki sabut masale, pisi khaskhas, dahi aur laal mirch daal ke 2 minute pakao. Chicken daal ke 3 minute bhuno.",
+    "hi": "बाकी साबुत मसाले, पिसी खसखस, दही और लाल मिर्च डालकर 2 मिनट पकाओ। चिकन डालकर 3 मिनट भूनो।",
+    "pa": "ਬਾਕੀ ਸਾਬਤ ਮਸਾਲੇ, ਪੀਸੀ ਖਸਖਸ, ਦਹੀਂ ਅਤੇ ਲਾਲ ਮਿਰਚ ਪਾ ਕੇ 2 ਮਿੰਟ ਪਕਾਓ। ਚਿਕਨ ਪਾ ਕੇ 3 ਮਿੰਟ ਭੁੰਨੋ।",
+    "timer": 3,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the drained rice, the saffron and the strained stock, about one and a half cups. Bring it to a boil, cover and cook on the lowest heat for 15 minutes.",
+    "hi-en": "Paani nikaale chawal, kesar aur chhaana hua stock, lagbhag dedh cup, daalo. Ubaal aane pe dhak ke sabse dheemi aanch pe 15 minute pakao.",
+    "hi": "पानी निकाले चावल, केसर और छाना हुआ स्टॉक, लगभग डेढ़ कप, डालो। उबाल आने पर ढककर सबसे धीमी आँच पर 15 मिनट पकाओ।",
+    "pa": "ਪਾਣੀ ਕੱਢੇ ਚੌਲ, ਕੇਸਰ ਅਤੇ ਛਾਣਿਆ ਸਟਾਕ, ਲਗਭਗ ਡੇਢ ਕੱਪ, ਪਾਓ। ਉਬਾਲ ਆਉਣ ਤੇ ਢੱਕ ਕੇ ਸਭ ਤੋਂ ਹੌਲੀ ਅੱਗ ਤੇ 15 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Sprinkle the kewra, top with the fried onion and nuts and serve with raita.",
+    "hi-en": "Kewra chhidko, upar tala pyaaz aur meve daal ke raite ke saath khao.",
+    "hi": "केवड़ा छिड़को, ऊपर तला प्याज़ और मेवे डालकर रायते के साथ खाओ।",
+    "pa": "ਕੇਵੜਾ ਛਿੜਕੋ, ਉੱਤੇ ਤਲਿਆ ਪਿਆਜ਼ ਅਤੇ ਮੇਵੇ ਪਾ ਕੇ ਰਾਇਤੇ ਨਾਲ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Cover and cook for 5 more minutes, then cut the thickest piece to check again.",
+    "hi": "ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+   },
+   {
+    "mistake": "rice is mushy",
+    "en": "Too much stock. Open the lid on low heat for 2 minutes. Use a little less next time.",
+    "hi": "स्टॉक ज़्यादा था। धीमी आँच पर 2 मिनट ढक्कन खोल दो। अगली बार थोड़ा कम।"
+   },
+   {
+    "mistake": "rice is still hard",
+    "en": "Sprinkle 3 tablespoons of hot stock or water, cover and cook on low heat for 5 minutes.",
+    "hi": "3 चम्मच गरम स्टॉक या पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"
+   }
+  ],
+  "swaps": {
+   "saffron": [
+    "skip"
+   ],
+   "poppy_seeds": [
+    "skip"
+   ],
+   "rose": [
+    "skip"
+   ]
+  }
+ }
+}
