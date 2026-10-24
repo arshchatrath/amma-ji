@@ -265,6 +265,11 @@ ASC359,paneer turned hard,Fry only until the batter is golden; paneer does not n
 ASC364,mathri is hard,Not enough oil was rubbed in. Rub in more until it holds when pressed.,आटे में तेल कम था। इतना रगड़ो कि दबाने पर आकार बने।
 ASC364,mathri puffed up,Prick each one well with a fork before frying.,तलने से पहले हर एक में काँटे से अच्छे छेद करो।
 ASC364,"brown outside, soft inside",Fry slowly on low heat. Mathri needs time.,धीमी आँच पर धीरे-धीरे तलो। मठरी को समय चाहिए।
+ASC377,kebabs broke in the oil,"The mix is too soft. Add more bread, or chill the kebabs for 15 minutes before frying.","मिश्रण बहुत नरम है। थोड़ी और ब्रेड मिलाओ, या तलने से पहले कबाब 15 मिनट फ्रिज में रखो।"
+ASC377,too much oil soaked in,Heat the oil well before frying. You can also shallow fry them on a tawa.,तलने से पहले तेल अच्छे से गरम करो। तवे पर कम तेल में भी सेक सकते हो।
+ASC378,vadas broke in the oil,"The dal was wet or ground too fine. Drain it fully and grind coarse, without water.",दाल गीली थी या बहुत बारीक पिसी। पानी पूरा निकालो और बिना पानी मोटा पीसो।
+ASC378,vadas are hard,"Grind a little less coarse, and do not press the discs too thin.","थोड़ा कम मोटा पीसो, और टिक्की बहुत पतली मत दबाओ।"
+ASC378,soaked up oil,Heat the oil until a pinch of mix rises at once.,तेल इतना गरम करो कि थोड़ा मिश्रण तुरंत ऊपर आए।
 ASC419,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
 ASC419,cake is dry,It baked too long. Check 5 minutes early next time. Brush the slices with a little milk and sugar syrup.,ज़्यादा देर बेक हुआ। अगली बार 5 मिनट पहले जाँचना। अभी टुकड़ों पर थोड़ा दूध या चाशनी लगा दो।
 ASC419,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
@@ -289,6 +294,9 @@ ASC448,no oven at home,"Use a heavy kadhai or a cooker without the whistle and r
 ASC459,sugar turned dark and bitter,The heat was too high. Melt sugar only on low heat and take it off once golden.,आँच तेज़ थी। चीनी धीमी आँच पर ही पिघलाओ और सुनहरी होते ही उतार लो।
 ASC459,sugar went grainy,It was stirred too much. Swirl the pan instead of stirring.,बहुत चलाया। चलाने की जगह बर्तन घुमाओ।
 ASC459,hard to cut,"Cut while it is still warm. If it set, warm the plate on low heat for a few seconds.",गरम रहते ही काटो। जम गई हो तो प्लेट धीमी आँच पर कुछ सेकंड गरम करो।
+ASC474,dhokla did not rise,The soda or Eno went in too early or was old. Add it just before steaming and steam straight away.,सोडा या ईनो जल्दी डाला या पुराना था। भाप से ठीक पहले डालो और तुरंत भाप में रखो।
+ASC474,sticky inside,"Steam for 3 to 5 more minutes, until a knife comes out clean.","3-5 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+ASC474,dhokla is dry,Pour a little more of the tempering water over it while it is warm.,गरम रहते ऊपर थोड़ा और तड़के वाला पानी डालो।
 ASC485,curd is too sour,Mix in a spoon of milk or a pinch of sugar.,एक चम्मच दूध या चुटकी भर चीनी मिला दो।
 ASC485,too thick,Beat in 2 tablespoons of cold water.,2 चम्मच ठंडा पानी मिलाकर फेंटो।
 ASC485,potato breaks into mush,It was overboiled. It still tastes good; next time stop at 2 whistles.,आलू ज़्यादा उबल गया। स्वाद फिर भी अच्छा है; अगली बार 2 सीटी पर रुकना।
@@ -321,6 +329,9 @@ BFP090,stew is too thin,Mash a few potato pieces into it and simmer for 3 minute
 BFP110,dough got sticky,The onion and methi let out water. Add a little more atta and knead again.,प्याज़ और मेथी ने पानी छोड़ा। थोड़ा और आटा मिलाकर फिर गूँधो।
 BFP110,too bitter,"Use a little less methi next time, or add a pinch of sugar to the dough.","अगली बार मेथी थोड़ी कम लो, या आटे में चुटकी भर चीनी मिलाओ।"
 BFP110,gritty to eat,Wash the methi in 2 or 3 changes of water to get the soil out.,मेथी 2-3 बार पानी बदलकर धोओ ताकि मिट्टी निकल जाए।
+BFP118,kachoris burst in the oil,The filling was wet or the edges were not sealed. Cook the filling dry and pinch the edges well.,भराई गीली थी या किनारे बंद नहीं हुए। भराई सूखी पकाओ और किनारे अच्छे से बंद करो।
+BFP118,"kachoris are soft, not flaky",Fry them slowly on low heat for longer.,धीमी आँच पर ज़्यादा देर तक धीरे-धीरे तलो।
+BFP118,did not puff,"Roll them evenly and keep the oil warm, not smoking.","बराबर बेलो और तेल गरम रखो, धुआँ नहीं उठना चाहिए।"
 BFP136,rice is mushy,There was too much water. Open the lid and let the steam escape on low heat for 2 minutes. Use a little less water next time.,पानी ज़्यादा हो गया। ढक्कन हटाकर धीमी आँच पर 2 मिनट भाप निकलने दो। अगली बार पानी थोड़ा कम डालना।
 BFP136,rice is still hard,"Sprinkle 2 to 3 tablespoons of hot water, cover and cook on low heat for 5 more minutes.","2-3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट और पकाओ।"
 BFP136,bottom got burnt,Do not stir. Spoon the top rice into another pan and leave the burnt layer behind.,"चलाओ मत। ऊपर के चावल चम्मच से दूसरे बर्तन में निकाल लो, जली परत वहीं छोड़ दो।"
@@ -369,6 +380,8 @@ BFP239,too salty,Add half a cup of water and one more boiled potato.,आधा �
 BFP240,yolk turned green,The egg boiled too long. It is safe to eat. Next time boil it for 10 minutes and cool it in cold water straight away.,अंडा ज़्यादा उबल गया। खाने में ठीक है। अगली बार 10 मिनट उबालकर तुरंत ठंडे पानी में डालना।
 BFP240,gravy too thin,Cook uncovered on high heat for 4 to 5 minutes until it thickens.,बिना ढके तेज़ आँच पर 4-5 मिनट पकाओ जब तक गाढ़ी न हो जाए।
 BFP240,egg tastes plain,Make the cuts a little deeper and simmer it in the gravy for 3 more minutes.,चीरे थोड़े गहरे करो और ग्रेवी में 3 मिनट और पकाओ।
+BFP269,bhindi turned slimy,"It was wet, covered, or salted too early. Dry it fully, cook uncovered and add salt at the end.","भिंडी गीली थी, ढकी थी, या नमक जल्दी डाला। पूरी सुखाओ, बिना ढके पकाओ और नमक आखिर में डालो।"
+BFP269,bhindi burnt at the edges,The heat was too high. Keep it on medium and stir gently.,आँच तेज़ थी। मध्यम रखो और हल्के से चलाओ।
 BFP272,beans turned dull and mushy,They cooked too long. Stop when they are just tender and still bright green.,बीन्स ज़्यादा पक गईं। जब नरम और हरी चमकीली हों तभी बंद कर दो।
 BFP272,beans still hard,"Add another spoon of water, cover and cook for 2 more minutes.","एक चम्मच पानी और डालो, ढककर 2 मिनट और पकाओ।"
 BFP272,coconut tastes raw,"Cook it for a minute after adding, and use fresh coconut if you can.","नारियल डालकर एक मिनट पकाओ, और हो सके तो ताज़ा नारियल लो।"
@@ -390,6 +403,16 @@ BFP401,lumps formed,"Pour the syrup slowly while stirring, and break lumps with 
 BFP407,ladoos will not hold,"The mix has cooled. Warm it for a few seconds, or add a spoon of warm ghee, and shape again.","मिश्रण ठंडा हो गया। कुछ सेकंड गरम करो, या एक चम्मच गरम घी मिलाओ, फिर बाँधो।"
 BFP407,raw taste,It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.,ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।
 BFP407,laddoos spoil quickly,Milk makes them keep only 2 or 3 days. Use warm ghee instead of milk to keep them longer.,दूध से लड्डू बस 2-3 दिन चलते हैं। ज़्यादा दिन रखने हों तो दूध की जगह गरम घी लो।
+BFP431,samosa opened in the oil,Seal the edges firmly with the flour paste and press out any air.,किनारे मैदे के पेस्ट से अच्छे से चिपकाओ और अंदर की हवा दबाकर निकालो।
+BFP431,bubbles on the crust,The oil was too hot. Start in warm oil and fry slowly on low heat.,तेल बहुत गरम था। हल्के गरम तेल में शुरू करो और धीमी आँच पर धीरे तलो।
+BFP431,crust is soft,"Rub in enough ghee so the flour holds when pressed, and keep the dough stiff.","मैदे में इतना घी रगड़ो कि दबाने पर बँधे, और आटा सख्त रखो।"
+BFP439,dhokla did not rise,The soda or Eno went in too early or was old. Add it just before steaming and steam straight away.,सोडा या ईनो जल्दी डाला या पुराना था। भाप से ठीक पहले डालो और तुरंत भाप में रखो।
+BFP439,sticky inside,"Steam for 3 to 5 more minutes, until a knife comes out clean.","3-5 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+BFP439,dhokla is dry,Pour a little more of the tempering water over it while it is warm.,गरम रहते ऊपर थोड़ा और तड़के वाला पानी डालो।
+BFP456,soggy inside,Pat the tomato slices dry first.,पहले टमाटर के टुकड़े कपड़े से सुखा लो।
+BFP456,burnt outside,Lower the heat and press with a lid.,आँच कम करो और ढक्कन से दबाओ।
+BFP473,chicken is pink inside,Simmer for 5 more minutes and check the thickest part again.,5 मिनट और पकाओ और सबसे मोटा हिस्सा फिर से देखो।
+BFP473,bread went soggy,Butter the bread well and add the topping just before eating.,ब्रेड पर अच्छे से मक्खन लगाओ और खाने से ठीक पहले ऊपर रखो।
 BFP476,cake is flat and rubbery,"The eggs were not beaten enough, or the flour was stirred hard. Beat until thick ribbons fall, and fold gently.","अंडे कम फेंटे या मैदा ज़ोर से मिलाया। गाढ़ी धार गिरने तक फेंटो, और हल्के हाथ से मिलाओ।"
 BFP476,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
 BFP476,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
@@ -419,6 +442,17 @@ OSR078,no oven at home,"Cook the slices in a covered pan on medium heat, 6 to 7 
 OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
 OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
 OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।
+OSR112,bhaji is watery,Simmer uncovered and keep mashing until it is thick.,बिना ढके पकाओ और गाढ़ी होने तक मैश करते रहो।
+OSR112,bhaji is too sour,Add a little more butter and a pinch of sugar.,थोड़ा और मक्खन और चुटकी भर चीनी डालो।
+OSR112,no colour,Kashmiri chilli gives the red colour without heat. Add a little more and some beetroot if you have it.,"कश्मीरी मिर्च बिना तीखेपन के लाल रंग देती है। थोड़ी और डालो, और चुकंदर हो तो थोड़ा।"
+OSR115,dhokla did not rise,The soda or Eno went in too early or was old. Add it just before steaming and steam straight away.,सोडा या ईनो जल्दी डाला या पुराना था। भाप से ठीक पहले डालो और तुरंत भाप में रखो।
+OSR115,sticky inside,"Steam for 3 to 5 more minutes, until a knife comes out clean.","3-5 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+OSR115,dhokla is gritty,Rest the batter the full 15 minutes so the suji softens.,घोल पूरे 15 मिनट रखो ताकि सूजी नरम हो जाए।
+OSR116,corn popped and splattered,"The corn was wet. Pat it dry before coating, and keep a lid handy.","कॉर्न गीली थी। लपेटने से पहले सुखाओ, और ढक्कन पास रखो।"
+OSR116,corn went soft,Mix the chaat only just before eating.,चाट खाने से ठीक पहले ही मिलाओ।
+OSR119,chips are chewy,They were cut too thick or taken out early. Slice thinner and fry until the bubbling almost stops.,चिप्स मोटे कटे या जल्दी निकाले। पतले काटो और बुलबुले लगभग बंद होने तक तलो।
+OSR119,oil spluttered when salt water went in,"Sprinkle only a teaspoon at a time, from a distance, with the flame low.","एक बार में बस एक छोटा चम्मच, दूर से, आँच धीमी करके छिड़को।"
+OSR119,chips are dark,The bananas were ripening. Use firm green raw bananas.,केले पकने लगे थे। सख्त हरे कच्चे केले लो।
 OSR123,cake is gritty,The suji did not rest long enough. Rest the batter the full 30 minutes.,सूजी को पूरा समय नहीं मिला। घोल पूरे 30 मिनट रखो।
 OSR123,top is pale,"Bake 5 more minutes, or put it under the grill for a minute.","5 मिनट और बेक करो, या एक मिनट ग्रिल के नीचे रखो।"
 OSR123,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
