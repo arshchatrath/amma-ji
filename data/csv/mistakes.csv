@@ -2,6 +2,16 @@ dish_id,mistake,fix_en,fix_hi
 ASC001,tea is bitter,The leaves boiled too long. Add a little more milk. Next time boil the leaves for only 2 minutes.,पत्ती ज़्यादा उबल गई। थोड़ा और दूध डाल दो। अगली बार पत्ती सिर्फ़ 2 मिनट उबालना।
 ASC001,tea is weak,"Simmer it for 2 more minutes, or add a pinch more tea leaves.","2 मिनट और हल्की आँच पर पकाओ, या चुटकी भर और पत्ती डाल दो।"
 ASC001,milk boiled over,Lower the heat straight away and wipe the stove once it cools. Stay close when the milk is about to boil.,तुरंत आँच धीमी करो और ठंडा होने पर चूल्हा पोंछ लो। दूध उबलने वाला हो तो पास ही रहना।
+ASC002,no froth on top,"Beat the coffee and sugar longer, until it turns light brown and creamy.","कॉफ़ी और चीनी और देर फेंटो, जब तक हल्की भूरी और क्रीमी न हो जाए।"
+ASC002,too bitter,Add a little more milk or sugar.,थोड़ा और दूध या चीनी डालो।
+ASC004,tea is bitter,"The leaves sat too long. Strain after 3 minutes, and add a little more sugar now.","पत्ती ज़्यादा देर रही। 3 मिनट में छान लो, अभी थोड़ी चीनी और डालो।"
+ASC004,tea turned cloudy,It was put in the fridge while hot. Let it cool on the counter first.,गरम-गरम फ्रिज में रख दी। पहले बाहर ठंडी होने दो।
+ASC008,sugar will not dissolve,"Dissolve it in a little warm water first, then add cold water.","पहले थोड़े गुनगुने पानी में घोलो, फिर ठंडा पानी डालो।"
+ASC008,bitter taste,Lemon seeds or too hard a squeeze. Take out the seeds and squeeze gently.,नींबू के बीज या ज़ोर से निचोड़ा। बीज निकालो और हल्के से निचोड़ो।
+ASC015,watery taste,"Too much ice. Use fewer cubes, or freeze some milk as ice next time.","बर्फ़ ज़्यादा हो गई। कम टुकड़े डालो, या अगली बार दूध की बर्फ़ जमा लो।"
+ASC015,coffee lumps,Dissolve the coffee fully in warm water before blending.,मिक्सी से पहले कॉफ़ी गुनगुने पानी में पूरी घोल लो।
+ASC017,shake is too thick,Add a little more cold milk and blend again.,थोड़ा और ठंडा दूध डालकर फिर चलाओ।
+ASC017,not sweet,The mango was not ripe. Add a spoon of sugar or honey.,आम पूरा पका नहीं था। एक चम्मच चीनी या शहद डालो।
 ASC047,too thick,Stir in a little warm milk until it is how you like it.,थोड़ा गरम दूध मिलाओ जब तक मनपसंद न हो जाए।
 ASC047,daliya still hard,"Add a few spoons of water, cover and cook for 5 more minutes before adding more milk.","कुछ चम्मच पानी डालो, ढककर 5 मिनट और पकाओ, फिर दूध डालो।"
 ASC047,milk stuck at the bottom,Move it to a clean pan without scraping and keep stirring on low heat.,नीचे से खुरचे बिना साफ़ बर्तन में डालो और धीमी आँच पर चलाते रहो।
@@ -155,6 +165,9 @@ ASC298,pumpkin pieces still firm,"Grate it finer next time. Now, cover with a sp
 ASC321,kulfi is icy,"The milk was not reduced enough. Reduce it to half, and the cornflour helps keep it smooth.","दूध ठीक से नहीं औटा। आधा होने तक औटाओ, कॉर्नफ्लोर भी इसे चिकना रखता है।"
 ASC321,lumps from the cornflour,"Always mix the cornflour in cold milk first, then add it while stirring.","कॉर्नफ्लोर हमेशा पहले ठंडे दूध में घोलो, फिर चलाते हुए डालो।"
 ASC321,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+ASC325,pudding is wobbly in the middle,Bake for 5 to 10 more minutes until the middle is set.,5-10 मिनट और बेक करो जब तक बीच से जम न जाए।
+ASC325,sauce has lumps,"Mix the cornflour into cold water first, then heat. Whisk out lumps now.","कॉर्नफ्लोर पहले ठंडे पानी में घोलो, फिर गरम करो। अभी फेंटकर गाँठें निकालो।"
+ASC325,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
 ASC336,burfi will not set,It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.,जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।
 ASC336,burfi is hard and crumbly,It cooked too long. Next time take it off as soon as it gathers into one lump.,"ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
 ASC336,too sweet,Use a little less sugar next time. Khoya is already slightly sweet.,अगली बार चीनी थोड़ी कम डालना। खोया पहले से हल्का मीठा होता है।
@@ -179,12 +192,38 @@ ASC348,jamuns are hard,"Too much maida or kneaded too hard. Knead gently, and so
 ASC358,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
 ASC358,batter slides off the bread,The batter is too thin. Add a spoon of besan and whisk again.,घोल पतला है। एक चम्मच बेसन मिलाकर फिर फेंटो।
 ASC358,"outside brown, bread soggy inside","Fry on medium, not high, so the inside crisps too.","तेज़ नहीं, मध्यम आँच पर तलो ताकि अंदर भी कुरकुरा हो।"
+ASC419,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+ASC419,cake is dry,It baked too long. Check 5 minutes early next time. Brush the slices with a little milk and sugar syrup.,ज़्यादा देर बेक हुआ। अगली बार 5 मिनट पहले जाँचना। अभी टुकड़ों पर थोड़ा दूध या चाशनी लगा दो।
+ASC419,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+ASC420,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+ASC420,cake is dry,It baked too long. Check 5 minutes early next time. Brush the slices with a little milk and sugar syrup.,ज़्यादा देर बेक हुआ। अगली बार 5 मिनट पहले जाँचना। अभी टुकड़ों पर थोड़ा दूध या चाशनी लगा दो।
+ASC420,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+ASC421,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+ASC421,cake tastes bitter,The white part of the peel went in. Grate only the thin orange skin.,छिलके का सफ़ेद हिस्सा चला गया। बस पतला नारंगी छिलका कद्दूकस करो।
+ASC421,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+ASC425,fruit sank to the bottom,"Toss the fruit in a little flour before folding it in, and keep the batter thick.","फल मिलाने से पहले थोड़े मैदे में लपेटो, और घोल गाढ़ा रखो।"
+ASC425,top is browning too fast,Cover the top loosely with foil for the rest of the baking.,बाकी बेकिंग के लिए ऊपर ढीला फ़ॉइल ढक दो।
+ASC425,caramel turned bitter and black,It burnt. Make it again and stop at dark brown.,जल गया। फिर से बनाओ और गहरे भूरे पर रोक दो।
+ASC427,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+ASC427,cake is dense,The batter was overmixed. Fold the flour in only until no dry flour shows.,घोल ज़्यादा चलाया। मैदा बस इतना मिलाओ कि सूखा न दिखे।
+ASC427,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+ASC428,cake is flat and rubbery,"The eggs were not beaten enough, or the flour was stirred hard. Beat until thick ribbons fall, and fold gently.","अंडे कम फेंटे या मैदा ज़ोर से मिलाया। गाढ़ी धार गिरने तक फेंटो, और हल्के हाथ से मिलाओ।"
+ASC428,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+ASC428,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+ASC448,biscuits are hard,The dough was kneaded. Just press it together next time.,आटा गूँध दिया। अगली बार बस दबाकर इकट्ठा करना।
+ASC448,biscuits are soft after cooling,Bake for 3 to 4 more minutes on low heat to dry them out.,धीमी आँच पर 3-4 मिनट और बेक करो ताकि सूख जाएँ।
+ASC448,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
 ASC459,sugar turned dark and bitter,The heat was too high. Melt sugar only on low heat and take it off once golden.,आँच तेज़ थी। चीनी धीमी आँच पर ही पिघलाओ और सुनहरी होते ही उतार लो।
 ASC459,sugar went grainy,It was stirred too much. Swirl the pan instead of stirring.,बहुत चलाया। चलाने की जगह बर्तन घुमाओ।
 ASC459,hard to cut,"Cut while it is still warm. If it set, warm the plate on low heat for a few seconds.",गरम रहते ही काटो। जम गई हो तो प्लेट धीमी आँच पर कुछ सेकंड गरम करो।
 ASC485,curd is too sour,Mix in a spoon of milk or a pinch of sugar.,एक चम्मच दूध या चुटकी भर चीनी मिला दो।
 ASC485,too thick,Beat in 2 tablespoons of cold water.,2 चम्मच ठंडा पानी मिलाकर फेंटो।
 ASC485,potato breaks into mush,It was overboiled. It still tastes good; next time stop at 2 whistles.,आलू ज़्यादा उबल गया। स्वाद फिर भी अच्छा है; अगली बार 2 सीटी पर रुकना।
+BFP011,lumps of chocolate,Always make a paste with a little milk first. Whisk the lumps out now.,हमेशा पहले थोड़े दूध से पेस्ट बनाओ। अभी फेंटकर गाँठें निकालो।
+BFP011,skin on top,"Whisk just before pouring, and serve straight away.","डालने से ठीक पहले फेंटो, और तुरंत परोसो।"
+BFP024,too sour,Add a little more sugar and water.,थोड़ी और चीनी और पानी डालो।
+BFP024,too salty,Add more water and a squeeze of lemon.,थोड़ा और पानी और नींबू डालो।
+BFP024,tastes flat,"Roast the cumin darker, it gives jal jeera its flavour. Add a pinch more black salt.","जीरा थोड़ा गहरा भूनो, उसी से जलजीरे का स्वाद आता है। चुटकी भर काला नमक और डालो।"
 BFP039,lumps in upma,Break them with the back of the spoon while stirring. Next time add the suji slowly into the boiling water.,चलाते हुए चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो। अगली बार सूजी धीरे-धीरे डालना।
 BFP039,upma too thick or dry,"Add 2 to 3 tablespoons of hot water, stir and cover for a minute.","2-3 चम्मच गरम पानी डालो, मिलाओ और एक मिनट ढक दो।"
 BFP039,upma is sticky,The suji was not roasted enough. Next time roast it until it smells nutty.,सूजी कम भुनी थी। अगली बार खुशबू आने तक अच्छे से भूनना।
@@ -236,6 +275,12 @@ BFP401,lumps formed,"Pour the syrup slowly while stirring, and break lumps with 
 BFP407,ladoos will not hold,"The mix has cooled. Warm it for a few seconds, or add a spoon of warm ghee, and shape again.","मिश्रण ठंडा हो गया। कुछ सेकंड गरम करो, या एक चम्मच गरम घी मिलाओ, फिर बाँधो।"
 BFP407,raw taste,It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.,ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।
 BFP407,laddoos spoil quickly,Milk makes them keep only 2 or 3 days. Use warm ghee instead of milk to keep them longer.,दूध से लड्डू बस 2-3 दिन चलते हैं। ज़्यादा दिन रखने हों तो दूध की जगह गरम घी लो।
+BFP476,cake is flat and rubbery,"The eggs were not beaten enough, or the flour was stirred hard. Beat until thick ribbons fall, and fold gently.","अंडे कम फेंटे या मैदा ज़ोर से मिलाया। गाढ़ी धार गिरने तक फेंटो, और हल्के हाथ से मिलाओ।"
+BFP476,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+BFP476,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+BFP495,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+BFP495,cake is gummy,It is underbaked. Bake 5 more minutes and test again with a toothpick.,केक कच्चा है। 5 मिनट और बेक करो और फिर सींक से जाँचो।
+BFP495,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
 BFP556,too dry,Stir in half a cup of hot water and simmer for 2 minutes.,आधा कप गरम पानी मिलाकर 2 मिनट पकाओ।
 BFP556,too mushy,"That is how khichdi often is. If you want it looser, it is fine; if too wet, cook uncovered for 3 minutes.",खिचड़ी अक्सर ऐसी ही होती है। ज़्यादा गीली लगे तो बिना ढके 3 मिनट पकाओ।
 BFP556,tastes plain,"Make a quick tadka of ghee, cumin and a pinch of hing and pour it on top.","घी, जीरा और चुटकी भर हींग का झटपट तड़का बनाकर ऊपर डाल दो।"
@@ -248,6 +293,12 @@ OSR077,paneer is hard,Soak the cubes in warm water for 10 minutes before adding 
 OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
 OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
 OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।
+OSR123,cake is gritty,The suji did not rest long enough. Rest the batter the full 30 minutes.,सूजी को पूरा समय नहीं मिला। घोल पूरे 30 मिनट रखो।
+OSR123,top is pale,"Bake 5 more minutes, or put it under the grill for a minute.","5 मिनट और बेक करो, या एक मिनट ग्रिल के नीचे रखो।"
+OSR123,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+OSR127,tutti frutti sank,Toss it in a little maida first so it stays spread through the cake.,पहले थोड़े मैदे में लपेटो ताकि पूरे केक में फैली रहे।
+OSR127,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
+OSR127,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
 OSR139,dal still hard,Add a cup of hot water and pressure cook for 3 to 4 more whistles. Soak overnight next time.,एक कप गरम पानी डालकर कुकर में 3-4 सीटी और लगाओ। अगली बार रात भर भिगोना।
 OSR139,too thick,"Add hot water, half a cup at a time, and simmer for 2 minutes.",आधा-आधा कप गरम पानी डालो और 2 मिनट पकाओ।
 OSR139,sticking at the bottom,"Move it to a clean pot without scraping, add water and keep stirring.","नीचे से खुरचे बिना साफ़ बर्तन में डालो, पानी मिलाओ और चलाते रहो।"

@@ -1,0 +1,1221 @@
+{
+ "ASC325": {
+  "names": {
+   "hi-en": "Chocolate bread pudding",
+   "hi": "चॉकलेट ब्रेड पुडिंग",
+   "pa": "ਚਾਕਲੇਟ ਬ੍ਰੈੱਡ ਪੁਡਿੰਗ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C and grease a baking dish with butter. Tear the bread into small crumbs.",
+    "hi-en": "Oven 180°C pe garam karo aur baking dish mein makhan laga lo. Bread ke chhote chhote tukde kar lo.",
+    "hi": "ओवन 180°C पर गरम करो और बेकिंग डिश में मक्खन लगा लो। ब्रेड के छोटे-छोटे टुकड़े कर लो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰੋ ਅਤੇ ਬੇਕਿੰਗ ਡਿਸ਼ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਲਓ। ਬ੍ਰੈੱਡ ਦੇ ਛੋਟੇ-ਛੋਟੇ ਟੁਕੜੇ ਕਰ ਲਓ।"
+   },
+   {
+    "en": "Beat the egg with the milk, castor sugar, a spoon of cocoa powder, the melted butter, vanilla essence, baking powder and a pinch of salt. Stir in the bread and leave it to soak for 10 minutes.",
+    "hi-en": "Anda doodh, barik cheeni, ek chammach cocoa powder, pighle makhan, vanilla essence, baking powder aur chutki namak ke saath phento. Bread mila ke 10 minute bheegne do.",
+    "hi": "अंडा दूध, बारीक चीनी, एक चम्मच कोको पाउडर, पिघले मक्खन, वनीला एसेंस, बेकिंग पाउडर और चुटकी भर नमक के साथ फेंटो। ब्रेड मिलाकर 10 मिनट भीगने दो।",
+    "pa": "ਆਂਡਾ ਦੁੱਧ, ਬਾਰੀਕ ਖੰਡ, ਇੱਕ ਚਮਚ ਕੋਕੋ ਪਾਊਡਰ, ਪਿਘਲੇ ਮੱਖਣ, ਵਨੀਲਾ ਐਸੈਂਸ, ਬੇਕਿੰਗ ਪਾਊਡਰ ਅਤੇ ਚੁਟਕੀ ਲੂਣ ਨਾਲ ਫੈਂਟੋ। ਬ੍ਰੈੱਡ ਮਿਲਾ ਕੇ 10 ਮਿੰਟ ਭਿੱਜਣ ਦਿਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Pour into the dish and bake for 30 minutes, until set in the middle.",
+    "hi-en": "Dish mein daal ke 30 minute bake karo, jab tak beech se jam na jaaye.",
+    "hi": "डिश में डालकर 30 मिनट बेक करो, जब तक बीच से जम न जाए।",
+    "pa": "ਡਿਸ਼ ਵਿੱਚ ਪਾ ਕੇ 30 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰੋਂ ਜੰਮ ਨਾ ਜਾਵੇ।",
+    "timer": 30,
+    "safety": "oven"
+   },
+   {
+    "en": "For the sauce, stir the cornflour, the rest of the cocoa and the sugar into the water. Simmer, stirring, until thick, about 3 minutes. Add a teaspoon of butter and a little vanilla.",
+    "hi-en": "Sauce ke liye cornflour, baaki cocoa aur cheeni paani mein ghol lo. Chalaate hue gaadha hone tak pakao, lagbhag 3 minute. Ek chhota chammach makhan aur thoda vanilla daalo.",
+    "hi": "सॉस के लिए कॉर्नफ्लोर, बाकी कोको और चीनी पानी में घोल लो। चलाते हुए गाढ़ा होने तक पकाओ, लगभग 3 मिनट। एक छोटा चम्मच मक्खन और थोड़ा वनीला डालो।",
+    "pa": "ਸੌਸ ਲਈ ਕੌਰਨਫਲੋਰ, ਬਾਕੀ ਕੋਕੋ ਅਤੇ ਖੰਡ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਲਓ। ਹਿਲਾਉਂਦੇ ਹੋਏ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 3 ਮਿੰਟ। ਇੱਕ ਛੋਟਾ ਚਮਚ ਮੱਖਣ ਅਤੇ ਥੋੜ੍ਹਾ ਵਨੀਲਾ ਪਾਓ।",
+    "timer": 3
+   },
+   {
+    "en": "Pour the warm sauce over the pudding and serve.",
+    "hi-en": "Garam sauce pudding ke upar daal ke khao.",
+    "hi": "गरम सॉस पुडिंग के ऊपर डालकर खाओ।",
+    "pa": "ਗਰਮ ਸੌਸ ਪੁਡਿੰਗ ਉੱਤੇ ਪਾ ਕੇ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pudding is wobbly in the middle",
+    "en": "Bake for 5 to 10 more minutes until the middle is set.",
+    "hi": "5-10 मिनट और बेक करो जब तक बीच से जम न जाए।"
+   },
+   {
+    "mistake": "sauce has lumps",
+    "en": "Mix the cornflour into cold water first, then heat. Whisk out lumps now.",
+    "hi": "कॉर्नफ्लोर पहले ठंडे पानी में घोलो, फिर गरम करो। अभी फेंटकर गाँठें निकालो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "cocoa": [
+    "skip"
+   ]
+  }
+ },
+ "ASC419": {
+  "names": {
+   "hi-en": "Marble cake",
+   "hi": "मार्बल केक",
+   "pa": "ਮਾਰਬਲ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Sift the maida with the baking powder.",
+    "hi-en": "Maida baking powder ke saath chhaan lo.",
+    "hi": "मैदा बेकिंग पाउडर के साथ छान लो।",
+    "pa": "ਮੈਦਾ ਬੇਕਿੰਗ ਪਾਊਡਰ ਨਾਲ ਛਾਣ ਲਓ।"
+   },
+   {
+    "en": "Beat the soft butter and castor sugar together until pale and fluffy, about 4 minutes.",
+    "hi-en": "Naram makhan aur barik cheeni ko halka aur phoola hone tak phento, lagbhag 4 minute.",
+    "hi": "नरम मक्खन और बारीक चीनी को हल्का और फूला होने तक फेंटो, लगभग 4 मिनट।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਨੂੰ ਹਲਕਾ ਅਤੇ ਫੁੱਲਿਆ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Beat in the eggs one at a time.",
+    "hi-en": "Ande ek ek karke daalo aur phento.",
+    "hi": "अंडे एक-एक करके डालो और फेंटो।",
+    "pa": "ਆਂਡੇ ਇੱਕ-ਇੱਕ ਕਰਕੇ ਪਾਓ ਅਤੇ ਫੈਂਟੋ।"
+   },
+   {
+    "en": "Fold in the flour gently with the vanilla essence and half the milk.",
+    "hi-en": "Maida, vanilla essence aur aadha doodh halke haath se milao.",
+    "hi": "मैदा, वनीला एसेंस और आधा दूध हल्के हाथ से मिलाओ।",
+    "pa": "ਮੈਦਾ, ਵਨੀਲਾ ਐਸੈਂਸ ਅਤੇ ਅੱਧਾ ਦੁੱਧ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Take out half the batter and mix the cocoa powder and the rest of the milk into it.",
+    "hi-en": "Aadha ghol alag karke usmein cocoa powder aur baaki doodh milao.",
+    "hi": "आधा घोल अलग करके उसमें कोको पाउडर और बाकी दूध मिलाओ।",
+    "pa": "ਅੱਧਾ ਘੋਲ ਵੱਖਰਾ ਕਰਕੇ ਉਸ ਵਿੱਚ ਕੋਕੋ ਪਾਊਡਰ ਅਤੇ ਬਾਕੀ ਦੁੱਧ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Spoon the plain and chocolate batters into the tin in turns. Draw a knife through once or twice to make swirls.",
+    "hi-en": "Saada aur chocolate ghol baari baari tin mein daalo. Chaaku ek do baar ghuma ke lehrein bana do.",
+    "hi": "सादा और चॉकलेट घोल बारी-बारी टिन में डालो। चाकू एक-दो बार घुमाकर लहरें बना दो।",
+    "pa": "ਸਾਦਾ ਅਤੇ ਚਾਕਲੇਟ ਘੋਲ ਵਾਰੀ-ਵਾਰੀ ਟਿਨ ਵਿੱਚ ਪਾਓ। ਚਾਕੂ ਇੱਕ-ਦੋ ਵਾਰ ਘੁਮਾ ਕੇ ਲਹਿਰਾਂ ਬਣਾ ਦਿਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 35 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 35 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 35 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 35 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 35,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "cake is dry",
+    "en": "It baked too long. Check 5 minutes early next time. Brush the slices with a little milk and sugar syrup.",
+    "hi": "ज़्यादा देर बेक हुआ। अगली बार 5 मिनट पहले जाँचना। अभी टुकड़ों पर थोड़ा दूध या चाशनी लगा दो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "butter": [
+    "oil"
+   ]
+  }
+ },
+ "ASC420": {
+  "names": {
+   "hi-en": "Chocolate cake",
+   "hi": "चॉकलेट केक",
+   "pa": "ਚਾਕਲੇਟ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Sift the maida with the cocoa powder, baking powder and soda.",
+    "hi-en": "Maida, cocoa powder, baking powder aur soda saath mein chhaan lo.",
+    "hi": "मैदा, कोको पाउडर, बेकिंग पाउडर और सोडा साथ में छान लो।",
+    "pa": "ਮੈਦਾ, ਕੋਕੋ ਪਾਊਡਰ, ਬੇਕਿੰਗ ਪਾਊਡਰ ਅਤੇ ਸੋਡਾ ਇਕੱਠੇ ਛਾਣ ਲਓ।"
+   },
+   {
+    "en": "Beat the soft butter and castor sugar together until pale and fluffy, about 4 minutes.",
+    "hi-en": "Naram makhan aur barik cheeni ko halka aur phoola hone tak phento, lagbhag 4 minute.",
+    "hi": "नरम मक्खन और बारीक चीनी को हल्का और फूला होने तक फेंटो, लगभग 4 मिनट।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਨੂੰ ਹਲਕਾ ਅਤੇ ਫੁੱਲਿਆ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Beat in the eggs one at a time.",
+    "hi-en": "Ande ek ek karke daalo aur phento.",
+    "hi": "अंडे एक-एक करके डालो और फेंटो।",
+    "pa": "ਆਂਡੇ ਇੱਕ-ਇੱਕ ਕਰਕੇ ਪਾਓ ਅਤੇ ਫੈਂਟੋ।"
+   },
+   {
+    "en": "Fold in the flour mix gently, adding the milk a little at a time, until smooth. Pour into the tin.",
+    "hi-en": "Maide ka mishran halke haath se milao, thoda thoda doodh daalte hue, jab tak smooth ho jaaye. Tin mein daalo.",
+    "hi": "मैदे का मिश्रण हल्के हाथ से मिलाओ, थोड़ा-थोड़ा दूध डालते हुए, जब तक चिकना हो जाए। टिन में डालो।",
+    "pa": "ਮੈਦੇ ਦਾ ਮਿਸ਼ਰਣ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾਓ, ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਦੁੱਧ ਪਾਉਂਦੇ ਹੋਏ, ਜਦੋਂ ਤੱਕ ਮੁਲਾਇਮ ਹੋ ਜਾਵੇ। ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 25 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 25 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 25 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 25 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 25,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "cake is dry",
+    "en": "It baked too long. Check 5 minutes early next time. Brush the slices with a little milk and sugar syrup.",
+    "hi": "ज़्यादा देर बेक हुआ। अगली बार 5 मिनट पहले जाँचना। अभी टुकड़ों पर थोड़ा दूध या चाशनी लगा दो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "butter": [
+    "oil"
+   ]
+  }
+ },
+ "ASC421": {
+  "names": {
+   "hi-en": "Orange cake",
+   "hi": "ऑरेंज केक",
+   "pa": "ਸੰਤਰੇ ਦਾ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Sift the maida with the baking powder. Grate the orange rind, only the orange part.",
+    "hi-en": "Maida baking powder ke saath chhaan lo. Santre ka chhilka kaddukas karo, bas naarangi hissa.",
+    "hi": "मैदा बेकिंग पाउडर के साथ छान लो। संतरे का छिलका कद्दूकस करो, बस नारंगी हिस्सा।",
+    "pa": "ਮੈਦਾ ਬੇਕਿੰਗ ਪਾਊਡਰ ਨਾਲ ਛਾਣ ਲਓ। ਸੰਤਰੇ ਦਾ ਛਿਲਕਾ ਕੱਦੂਕਸ ਕਰੋ, ਬੱਸ ਸੰਤਰੀ ਹਿੱਸਾ।"
+   },
+   {
+    "en": "Beat the soft butter and castor sugar together until pale and fluffy, about 4 minutes.",
+    "hi-en": "Naram makhan aur barik cheeni ko halka aur phoola hone tak phento, lagbhag 4 minute.",
+    "hi": "नरम मक्खन और बारीक चीनी को हल्का और फूला होने तक फेंटो, लगभग 4 मिनट।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਨੂੰ ਹਲਕਾ ਅਤੇ ਫੁੱਲਿਆ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Beat in the eggs one at a time.",
+    "hi-en": "Ande ek ek karke daalo aur phento.",
+    "hi": "अंडे एक-एक करके डालो और फेंटो।",
+    "pa": "ਆਂਡੇ ਇੱਕ-ਇੱਕ ਕਰਕੇ ਪਾਓ ਅਤੇ ਫੈਂਟੋ।"
+   },
+   {
+    "en": "Stir in the orange rind, orange juice, orange essence and colour, if using. Fold in the flour gently and pour into the tin.",
+    "hi-en": "Santre ka chhilka, santre ka ras, orange essence aur rang, agar daalna ho, milao. Maida halke haath se mila ke tin mein daalo.",
+    "hi": "संतरे का छिलका, संतरे का रस, ऑरेंज एसेंस और रंग, अगर डालना हो, मिलाओ। मैदा हल्के हाथ से मिलाकर टिन में डालो।",
+    "pa": "ਸੰਤਰੇ ਦਾ ਛਿਲਕਾ, ਸੰਤਰੇ ਦਾ ਰਸ, ਔਰੇਂਜ ਐਸੈਂਸ ਅਤੇ ਰੰਗ, ਜੇ ਪਾਉਣਾ ਹੋਵੇ, ਮਿਲਾਓ। ਮੈਦਾ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾ ਕੇ ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 25 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 25 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 25 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 25 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 25,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "cake tastes bitter",
+    "en": "The white part of the peel went in. Grate only the thin orange skin.",
+    "hi": "छिलके का सफ़ेद हिस्सा चला गया। बस पतला नारंगी छिलका कद्दूकस करो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ],
+   "butter": [
+    "oil"
+   ]
+  }
+ },
+ "ASC425": {
+  "names": {
+   "hi-en": "Christmas cake",
+   "hi": "क्रिसमस केक",
+   "pa": "ਕ੍ਰਿਸਮਸ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Chop the dried fruits, cashews, cherries and tutti frutti and soak them in the rum, covered, for at least 1 day.",
+    "hi-en": "Sookhe phal, kaju, cherry aur tutti frutti kaat ke rum mein dhak ke kam se kam 1 din bhigo do.",
+    "hi": "सूखे फल, काजू, चेरी और टूटी फ्रूटी काटकर रम में ढककर कम से कम 1 दिन भिगो दो।",
+    "pa": "ਸੁੱਕੇ ਫਲ, ਕਾਜੂ, ਚੈਰੀ ਅਤੇ ਟੂਟੀ ਫਰੂਟੀ ਕੱਟ ਕੇ ਰਮ ਵਿੱਚ ਢੱਕ ਕੇ ਘੱਟੋ-ਘੱਟ 1 ਦਿਨ ਭਿਓਂ ਦਿਓ।"
+   },
+   {
+    "en": "For the caramel, melt the 25 grams of sugar in a small pan until dark brown. Stand back and add 3 tablespoons of hot water. Stir and let it cool.",
+    "hi-en": "Caramel ke liye 25 gram cheeni chhote pan mein gehri bhoori hone tak pighlao. Peeche ho ke 3 chammach garam paani daalo. Chala ke thanda hone do.",
+    "hi": "कैरामल के लिए 25 ग्राम चीनी छोटे बर्तन में गहरी भूरी होने तक पिघलाओ। पीछे होकर 3 चम्मच गरम पानी डालो। चलाकर ठंडा होने दो।",
+    "pa": "ਕੈਰੇਮਲ ਲਈ 25 ਗ੍ਰਾਮ ਖੰਡ ਛੋਟੇ ਭਾਂਡੇ ਵਿੱਚ ਗੂੜ੍ਹੀ ਭੂਰੀ ਹੋਣ ਤੱਕ ਪਿਘਲਾਓ। ਪਿੱਛੇ ਹੋ ਕੇ 3 ਚਮਚ ਗਰਮ ਪਾਣੀ ਪਾਓ। ਹਿਲਾ ਕੇ ਠੰਡਾ ਹੋਣ ਦਿਓ।",
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "Heat the oven to 160°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 160°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 160°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 160°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Sift the maida with the baking powder, cinnamon, cloves, nutmeg and both cardamoms, all ground. Toss the soaked fruit in 2 spoons of this flour.",
+    "hi-en": "Maida baking powder, dalchini, laung, jaiphal aur dono elaichi, sab pise hue, ke saath chhaan lo. Bheege phal is maide ke 2 chammach mein lapet lo.",
+    "hi": "मैदा बेकिंग पाउडर, दालचीनी, लौंग, जायफल और दोनों इलायची, सब पिसे हुए, के साथ छान लो। भीगे फल इस मैदे के 2 चम्मच में लपेट लो।",
+    "pa": "ਮੈਦਾ ਬੇਕਿੰਗ ਪਾਊਡਰ, ਦਾਲਚੀਨੀ, ਲੌਂਗ, ਜਾਇਫਲ ਅਤੇ ਦੋਵੇਂ ਇਲਾਇਚੀਆਂ, ਸਭ ਪੀਸੀਆਂ, ਨਾਲ ਛਾਣ ਲਓ। ਭਿੱਜੇ ਫਲ ਇਸ ਮੈਦੇ ਦੇ 2 ਚਮਚਾਂ ਵਿੱਚ ਲਪੇਟ ਲਓ।"
+   },
+   {
+    "en": "Beat the soft butter and castor sugar together until pale and fluffy, about 4 minutes.",
+    "hi-en": "Naram makhan aur barik cheeni ko halka aur phoola hone tak phento, lagbhag 4 minute.",
+    "hi": "नरम मक्खन और बारीक चीनी को हल्का और फूला होने तक फेंटो, लगभग 4 मिनट।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਨੂੰ ਹਲਕਾ ਅਤੇ ਫੁੱਲਿਆ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Beat in the eggs one at a time.",
+    "hi-en": "Ande ek ek karke daalo aur phento.",
+    "hi": "अंडे एक-एक करके डालो और फेंटो।",
+    "pa": "ਆਂਡੇ ਇੱਕ-ਇੱਕ ਕਰਕੇ ਪਾਓ ਅਤੇ ਫੈਂਟੋ।"
+   },
+   {
+    "en": "Stir in the caramel and vanilla essence. Fold in the flour, then the fruit, and pour into the tin.",
+    "hi-en": "Caramel aur vanilla essence milao. Maida milao, phir phal, aur tin mein daalo.",
+    "hi": "कैरामल और वनीला एसेंस मिलाओ। मैदा मिलाओ, फिर फल, और टिन में डालो।",
+    "pa": "ਕੈਰੇਮਲ ਅਤੇ ਵਨੀਲਾ ਐਸੈਂਸ ਮਿਲਾਓ। ਮੈਦਾ ਮਿਲਾਓ, ਫਿਰ ਫਲ, ਅਤੇ ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 160°C for about 65 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "160°C pe lagbhag 65 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "160°C पर लगभग 65 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "160°C ਤੇ ਲਗਭਗ 65 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 65,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "fruit sank to the bottom",
+    "en": "Toss the fruit in a little flour before folding it in, and keep the batter thick.",
+    "hi": "फल मिलाने से पहले थोड़े मैदे में लपेटो, और घोल गाढ़ा रखो।"
+   },
+   {
+    "mistake": "top is browning too fast",
+    "en": "Cover the top loosely with foil for the rest of the baking.",
+    "hi": "बाकी बेकिंग के लिए ऊपर ढीला फ़ॉइल ढक दो।"
+   },
+   {
+    "mistake": "caramel turned bitter and black",
+    "en": "It burnt. Make it again and stop at dark brown.",
+    "hi": "जल गया। फिर से बनाओ और गहरे भूरे पर रोक दो।"
+   }
+  ],
+  "swaps": {
+   "alcohol": [
+    "juice"
+   ]
+  }
+ },
+ "ASC427": {
+  "names": {
+   "hi-en": "Eggless cake",
+   "hi": "बिना अंडे का केक",
+   "pa": "ਬਿਨਾਂ ਆਂਡੇ ਦਾ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Sift the maida with the baking powder, soda and salt.",
+    "hi-en": "Maida, baking powder, soda aur namak saath mein chhaan lo.",
+    "hi": "मैदा, बेकिंग पाउडर, सोडा और नमक साथ में छान लो।",
+    "pa": "ਮੈਦਾ, ਬੇਕਿੰਗ ਪਾਊਡਰ, ਸੋਡਾ ਅਤੇ ਲੂਣ ਇਕੱਠੇ ਛਾਣ ਲਓ।"
+   },
+   {
+    "en": "Beat the soft butter and castor sugar together until pale and fluffy, about 4 minutes.",
+    "hi-en": "Naram makhan aur barik cheeni ko halka aur phoola hone tak phento, lagbhag 4 minute.",
+    "hi": "नरम मक्खन और बारीक चीनी को हल्का और फूला होने तक फेंटो, लगभग 4 मिनट।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਨੂੰ ਹਲਕਾ ਅਤੇ ਫੁੱਲਿਆ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Whisk the milk powder into the milk until smooth, and mix it into the butter with the vanilla essence.",
+    "hi-en": "Milk powder doodh mein smooth hone tak phento, aur vanilla essence ke saath makhan mein milao.",
+    "hi": "मिल्क पाउडर दूध में चिकना होने तक फेंटो, और वनीला एसेंस के साथ मक्खन में मिलाओ।",
+    "pa": "ਮਿਲਕ ਪਾਊਡਰ ਦੁੱਧ ਵਿੱਚ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਅਤੇ ਵਨੀਲਾ ਐਸੈਂਸ ਨਾਲ ਮੱਖਣ ਵਿੱਚ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Fold in the flour gently until just mixed, and pour into the tin.",
+    "hi-en": "Maida halke haath se bas milne tak milao, aur tin mein daalo.",
+    "hi": "मैदा हल्के हाथ से बस मिलने तक मिलाओ, और टिन में डालो।",
+    "pa": "ਮੈਦਾ ਹੌਲੀ ਹੱਥ ਨਾਲ ਬੱਸ ਮਿਲਣ ਤੱਕ ਮਿਲਾਓ, ਅਤੇ ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 35 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 35 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 35 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 35 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 35,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "cake is dense",
+    "en": "The batter was overmixed. Fold the flour in only until no dry flour shows.",
+    "hi": "घोल ज़्यादा चलाया। मैदा बस इतना मिलाओ कि सूखा न दिखे।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "butter": [
+    "oil"
+   ]
+  }
+ },
+ "ASC428": {
+  "names": {
+   "hi-en": "Sponge cake",
+   "hi": "स्पंज केक",
+   "pa": "ਸਪੰਜ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Beat the eggs and castor sugar with an electric beater until thick, pale and three times bigger, about 8 minutes.",
+    "hi-en": "Ande aur barik cheeni electric beater se gaadhe, halke rang ke aur teen guna hone tak phento, lagbhag 8 minute.",
+    "hi": "अंडे और बारीक चीनी इलेक्ट्रिक बीटर से गाढ़े, हल्के रंग के और तीन गुना होने तक फेंटो, लगभग 8 मिनट।",
+    "pa": "ਆਂਡੇ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਇਲੈਕਟ੍ਰਿਕ ਬੀਟਰ ਨਾਲ ਗਾੜ੍ਹੇ, ਹਲਕੇ ਰੰਗ ਦੇ ਅਤੇ ਤਿੰਨ ਗੁਣਾ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8
+   },
+   {
+    "en": "Add the vanilla essence. Sift the maida over in three parts, folding very gently with a spatula so the air stays in.",
+    "hi-en": "Vanilla essence daalo. Maida teen hisson mein chhaan ke upar daalo aur spatula se bahut halke haath se milao taaki hawa na nikle.",
+    "hi": "वनीला एसेंस डालो। मैदा तीन हिस्सों में छानकर ऊपर डालो और स्पैचुला से बहुत हल्के हाथ से मिलाओ ताकि हवा न निकले।",
+    "pa": "ਵਨੀਲਾ ਐਸੈਂਸ ਪਾਓ। ਮੈਦਾ ਤਿੰਨ ਹਿੱਸਿਆਂ ਵਿੱਚ ਛਾਣ ਕੇ ਉੱਤੇ ਪਾਓ ਅਤੇ ਸਪੈਚੂਲਾ ਨਾਲ ਬਹੁਤ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾਓ ਤਾਂ ਜੋ ਹਵਾ ਨਾ ਨਿਕਲੇ।"
+   },
+   {
+    "en": "Pour into the tin and bake for about 22 minutes. Do not open the oven for the first 15 minutes.",
+    "hi-en": "Tin mein daal ke lagbhag 22 minute bake karo. Pehle 15 minute oven mat kholna.",
+    "hi": "टिन में डालकर लगभग 22 मिनट बेक करो। पहले 15 मिनट ओवन मत खोलना।",
+    "pa": "ਟਿਨ ਵਿੱਚ ਪਾ ਕੇ ਲਗਭਗ 22 ਮਿੰਟ ਬੇਕ ਕਰੋ। ਪਹਿਲੇ 15 ਮਿੰਟ ਓਵਨ ਨਾ ਖੋਲ੍ਹਣਾ।",
+    "timer": 22,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake is flat and rubbery",
+    "en": "The eggs were not beaten enough, or the flour was stirred hard. Beat until thick ribbons fall, and fold gently.",
+    "hi": "अंडे कम फेंटे या मैदा ज़ोर से मिलाया। गाढ़ी धार गिरने तक फेंटो, और हल्के हाथ से मिलाओ।"
+   },
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC448": {
+  "names": {
+   "hi-en": "Masala biscuit",
+   "hi": "मसाला बिस्कुट",
+   "pa": "ਮਸਾਲਾ ਬਿਸਕੁਟ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Chop the ginger, curry leaves and coriander very fine.",
+    "hi-en": "Oven 180°C pe garam karo. Adrak, kadi patta aur hara dhaniya bahut barik kaato.",
+    "hi": "ओवन 180°C पर गरम करो। अदरक, कड़ी पत्ता और हरा धनिया बहुत बारीक काटो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰੋ। ਅਦਰਕ, ਕੜੀ ਪੱਤਾ ਅਤੇ ਹਰਾ ਧਨੀਆ ਬਹੁਤ ਬਾਰੀਕ ਕੱਟੋ।"
+   },
+   {
+    "en": "Mix the maida with the baking powder, baking soda, salt and sugar. Rub in the ghee with your fingertips until it looks like breadcrumbs.",
+    "hi-en": "Maide mein baking powder, baking soda, namak aur cheeni milao. Ghee ungliyon se ragad ke milao jab tak bread crumbs jaisa lage.",
+    "hi": "मैदे में बेकिंग पाउडर, बेकिंग सोडा, नमक और चीनी मिलाओ। घी उँगलियों से रगड़कर मिलाओ जब तक ब्रेड क्रम्ब्स जैसा लगे।",
+    "pa": "ਮੈਦੇ ਵਿੱਚ ਬੇਕਿੰਗ ਪਾਊਡਰ, ਬੇਕਿੰਗ ਸੋਡਾ, ਲੂਣ ਅਤੇ ਖੰਡ ਮਿਲਾਓ। ਘਿਓ ਉਂਗਲਾਂ ਨਾਲ ਰਗੜ ਕੇ ਮਿਲਾਓ ਜਦੋਂ ਤੱਕ ਬ੍ਰੈੱਡ ਕਰੰਬਜ਼ ਵਰਗਾ ਲੱਗੇ।"
+   },
+   {
+    "en": "Add the ginger, curry leaves and coriander. Bring it together into a dough with the curd and the chilled water. Do not knead.",
+    "hi-en": "Adrak, kadi patta aur hara dhaniya daalo. Dahi aur thande paani se aata ikattha karo. Goondhna nahi hai.",
+    "hi": "अदरक, कड़ी पत्ता और हरा धनिया डालो। दही और ठंडे पानी से आटा इकट्ठा करो। गूँधना नहीं है।",
+    "pa": "ਅਦਰਕ, ਕੜੀ ਪੱਤਾ ਅਤੇ ਹਰਾ ਧਨੀਆ ਪਾਓ। ਦਹੀਂ ਅਤੇ ਠੰਡੇ ਪਾਣੀ ਨਾਲ ਆਟਾ ਇਕੱਠਾ ਕਰੋ। ਗੁੰਨ੍ਹਣਾ ਨਹੀਂ ਹੈ।"
+   },
+   {
+    "en": "Roll it out as thick as a coin, cut into rounds and prick each with a fork. Put them on a greased tray.",
+    "hi-en": "Sikke jitna mota bel ke gol kaato aur har ek mein kaante se chhed karo. Ghee lagi tray pe rakho.",
+    "hi": "सिक्के जितना मोटा बेलकर गोल काटो और हर एक में काँटे से छेद करो। घी लगी ट्रे पर रखो।",
+    "pa": "ਸਿੱਕੇ ਜਿੰਨਾ ਮੋਟਾ ਵੇਲ ਕੇ ਗੋਲ ਕੱਟੋ ਅਤੇ ਹਰ ਇੱਕ ਵਿੱਚ ਕਾਂਟੇ ਨਾਲ ਛੇਕ ਕਰੋ। ਘਿਓ ਲੱਗੀ ਟ੍ਰੇ ਤੇ ਰੱਖੋ।"
+   },
+   {
+    "en": "Bake for about 15 minutes, until golden at the edges. They turn crisp as they cool.",
+    "hi-en": "Lagbhag 15 minute bake karo, jab tak kinaare sunehre ho jaayein. Thande ho ke crispy ho jaate hain.",
+    "hi": "लगभग 15 मिनट बेक करो, जब तक किनारे सुनहरे हो जाएँ। ठंडे होकर कुरकुरे हो जाते हैं।",
+    "pa": "ਲਗਭਗ 15 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਕਿਨਾਰੇ ਸੁਨਹਿਰੀ ਹੋ ਜਾਣ। ਠੰਡੇ ਹੋ ਕੇ ਕਰਾਰੇ ਹੋ ਜਾਂਦੇ ਹਨ।",
+    "timer": 15,
+    "safety": "oven"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "biscuits are hard",
+    "en": "The dough was kneaded. Just press it together next time.",
+    "hi": "आटा गूँध दिया। अगली बार बस दबाकर इकट्ठा करना।"
+   },
+   {
+    "mistake": "biscuits are soft after cooling",
+    "en": "Bake for 3 to 4 more minutes on low heat to dry them out.",
+    "hi": "धीमी आँच पर 3-4 मिनट और बेक करो ताकि सूख जाएँ।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "curry_leaves": [
+    "skip"
+   ],
+   "ghee": [
+    "butter"
+   ]
+  }
+ },
+ "BFP476": {
+  "names": {
+   "hi-en": "Chocolate sponge cake",
+   "hi": "चॉकलेट स्पंज केक",
+   "pa": "ਚਾਕਲੇਟ ਸਪੰਜ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Sift the maida with the cocoa twice.",
+    "hi-en": "Maida cocoa ke saath do baar chhaan lo.",
+    "hi": "मैदा कोको के साथ दो बार छान लो।",
+    "pa": "ਮੈਦਾ ਕੋਕੋ ਨਾਲ ਦੋ ਵਾਰ ਛਾਣ ਲਓ।"
+   },
+   {
+    "en": "Beat the eggs and castor sugar with an electric beater until thick, pale and three times bigger, about 8 minutes. Add the vanilla essence and the 2 teaspoons of water.",
+    "hi-en": "Ande aur barik cheeni electric beater se gaadhe aur teen guna hone tak phento, lagbhag 8 minute. Vanilla essence aur 2 chhote chammach paani daalo.",
+    "hi": "अंडे और बारीक चीनी इलेक्ट्रिक बीटर से गाढ़े और तीन गुना होने तक फेंटो, लगभग 8 मिनट। वनीला एसेंस और 2 छोटे चम्मच पानी डालो।",
+    "pa": "ਆਂਡੇ ਅਤੇ ਬਾਰੀਕ ਖੰਡ ਇਲੈਕਟ੍ਰਿਕ ਬੀਟਰ ਨਾਲ ਗਾੜ੍ਹੇ ਅਤੇ ਤਿੰਨ ਗੁਣਾ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 8 ਮਿੰਟ। ਵਨੀਲਾ ਐਸੈਂਸ ਅਤੇ 2 ਛੋਟੇ ਚਮਚ ਪਾਣੀ ਪਾਓ।",
+    "timer": 8
+   },
+   {
+    "en": "Fold in the flour and cocoa in three parts, very gently, so the air stays in. Pour into the tin.",
+    "hi-en": "Maida aur cocoa teen hisson mein bahut halke haath se milao taaki hawa na nikle. Tin mein daalo.",
+    "hi": "मैदा और कोको तीन हिस्सों में बहुत हल्के हाथ से मिलाओ ताकि हवा न निकले। टिन में डालो।",
+    "pa": "ਮੈਦਾ ਅਤੇ ਕੋਕੋ ਤਿੰਨ ਹਿੱਸਿਆਂ ਵਿੱਚ ਬਹੁਤ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾਓ ਤਾਂ ਜੋ ਹਵਾ ਨਾ ਨਿਕਲੇ। ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 22 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 22 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 22 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 22 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 22,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake is flat and rubbery",
+    "en": "The eggs were not beaten enough, or the flour was stirred hard. Beat until thick ribbons fall, and fold gently.",
+    "hi": "अंडे कम फेंटे या मैदा ज़ोर से मिलाया। गाढ़ी धार गिरने तक फेंटो, और हल्के हाथ से मिलाओ।"
+   },
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {}
+ },
+ "BFP495": {
+  "names": {
+   "hi-en": "Eggless chocolate cake",
+   "hi": "बिना अंडे का चॉकलेट केक",
+   "pa": "ਬਿਨਾਂ ਆਂਡੇ ਦਾ ਚਾਕਲੇਟ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Whisk the condensed milk with the melted butter until smooth.",
+    "hi-en": "Condensed milk pighle makhan ke saath smooth hone tak phento.",
+    "hi": "कंडेंस्ड मिल्क पिघले मक्खन के साथ चिकना होने तक फेंटो।",
+    "pa": "ਕੰਡੈਂਸਡ ਮਿਲਕ ਪਿਘਲੇ ਮੱਖਣ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟੋ।"
+   },
+   {
+    "en": "Sift the maida with the cocoa powder, baking powder and soda.",
+    "hi-en": "Maida, cocoa powder, baking powder aur soda saath mein chhaan lo.",
+    "hi": "मैदा, कोको पाउडर, बेकिंग पाउडर और सोडा साथ में छान लो।",
+    "pa": "ਮੈਦਾ, ਕੋਕੋ ਪਾਊਡਰ, ਬੇਕਿੰਗ ਪਾਊਡਰ ਅਤੇ ਸੋਡਾ ਇਕੱਠੇ ਛਾਣ ਲਓ।"
+   },
+   {
+    "en": "Fold the flour into the condensed milk, adding the cola a little at a time, then the vanilla essence. Pour into the tin.",
+    "hi-en": "Maida condensed milk mein milao, cola thoda thoda daalte hue, phir vanilla essence. Tin mein daalo.",
+    "hi": "मैदा कंडेंस्ड मिल्क में मिलाओ, कोला थोड़ा-थोड़ा डालते हुए, फिर वनीला एसेंस। टिन में डालो।",
+    "pa": "ਮੈਦਾ ਕੰਡੈਂਸਡ ਮਿਲਕ ਵਿੱਚ ਮਿਲਾਓ, ਕੋਲਾ ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਉਂਦੇ ਹੋਏ, ਫਿਰ ਵਨੀਲਾ ਐਸੈਂਸ। ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 30 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 30 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 30 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 30 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 30,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "cake is gummy",
+    "en": "It is underbaked. Bake 5 more minutes and test again with a toothpick.",
+    "hi": "केक कच्चा है। 5 मिनट और बेक करो और फिर सींक से जाँचो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "juice": [
+    "milk"
+   ]
+  }
+ },
+ "OSR123": {
+  "names": {
+   "hi-en": "Suji cake",
+   "hi": "सूजी केक",
+   "pa": "ਸੂਜੀ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Mix the suji, grated coconut, condensed milk, milk, melted ghee and cardamom powder. Cover and rest for 30 minutes so the suji softens.",
+    "hi-en": "Suji, kaddukas nariyal, condensed milk, doodh, pighla ghee aur elaichi powder milao. Dhak ke 30 minute rakho taaki suji naram ho jaaye.",
+    "hi": "सूजी, कद्दूकस नारियल, कंडेंस्ड मिल्क, दूध, पिघला घी और इलायची पाउडर मिलाओ। ढककर 30 मिनट रखो ताकि सूजी नरम हो जाए।",
+    "pa": "ਸੂਜੀ, ਕੱਦੂਕਸ ਨਾਰੀਅਲ, ਕੰਡੈਂਸਡ ਮਿਲਕ, ਦੁੱਧ, ਪਿਘਲਿਆ ਘਿਓ ਅਤੇ ਇਲਾਇਚੀ ਪਾਊਡਰ ਮਿਲਾਓ। ਢੱਕ ਕੇ 30 ਮਿੰਟ ਰੱਖੋ ਤਾਂ ਜੋ ਸੂਜੀ ਨਰਮ ਹੋ ਜਾਵੇ।",
+    "timer": 30
+   },
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Stir in the baking powder and pour the batter into the tin.",
+    "hi-en": "Baking powder mila ke ghol tin mein daalo.",
+    "hi": "बेकिंग पाउडर मिलाकर घोल टिन में डालो।",
+    "pa": "ਬੇਕਿੰਗ ਪਾਊਡਰ ਮਿਲਾ ਕੇ ਘੋਲ ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 40 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 40 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 40 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 40 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 40,
+    "safety": "oven"
+   },
+   {
+    "en": "Cool in the tin, then cut into 9 squares.",
+    "hi-en": "Tin mein thanda karke 9 chaukor tukde kaato.",
+    "hi": "टिन में ठंडा करके 9 चौकोर टुकड़े काटो।",
+    "pa": "ਟਿਨ ਵਿੱਚ ਠੰਡਾ ਕਰਕੇ 9 ਚੌਰਸ ਟੁਕੜੇ ਕੱਟੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "cake is gritty",
+    "en": "The suji did not rest long enough. Rest the batter the full 30 minutes.",
+    "hi": "सूजी को पूरा समय नहीं मिला। घोल पूरे 30 मिनट रखो।"
+   },
+   {
+    "mistake": "top is pale",
+    "en": "Bake 5 more minutes, or put it under the grill for a minute.",
+    "hi": "5 मिनट और बेक करो, या एक मिनट ग्रिल के नीचे रखो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "coconut": [
+    "skip"
+   ],
+   "ghee": [
+    "butter"
+   ]
+  }
+ },
+ "OSR127": {
+  "names": {
+   "hi-en": "Tutti frutti cake",
+   "hi": "टूटी फ्रूटी केक",
+   "pa": "ਟੂਟੀ ਫਰੂਟੀ ਕੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Heat the oven to 180°C. Grease a cake tin with butter and dust it with a little maida.",
+    "hi-en": "Oven 180°C pe garam kar lo. Cake tin mein makhan laga ke thoda maida chhidak do.",
+    "hi": "ओवन 180°C पर गरम कर लो। केक टिन में मक्खन लगाकर थोड़ा मैदा छिड़क दो।",
+    "pa": "ਓਵਨ 180°C ਤੇ ਗਰਮ ਕਰ ਲਓ। ਕੇਕ ਟਿਨ ਵਿੱਚ ਮੱਖਣ ਲਗਾ ਕੇ ਥੋੜ੍ਹਾ ਮੈਦਾ ਛਿੜਕ ਦਿਓ।"
+   },
+   {
+    "en": "Whisk the curd and sugar until the sugar dissolves. Add the baking powder and baking soda and leave it for 5 minutes until frothy.",
+    "hi-en": "Dahi aur cheeni cheeni ghulne tak phento. Baking powder aur baking soda daal ke 5 minute chhod do jab tak jhaag aa jaaye.",
+    "hi": "दही और चीनी, चीनी घुलने तक फेंटो। बेकिंग पाउडर और बेकिंग सोडा डालकर 5 मिनट छोड़ दो जब तक झाग आ जाए।",
+    "pa": "ਦਹੀਂ ਅਤੇ ਖੰਡ, ਖੰਡ ਘੁਲਣ ਤੱਕ ਫੈਂਟੋ। ਬੇਕਿੰਗ ਪਾਊਡਰ ਅਤੇ ਬੇਕਿੰਗ ਸੋਡਾ ਪਾ ਕੇ 5 ਮਿੰਟ ਛੱਡ ਦਿਓ ਜਦੋਂ ਤੱਕ ਝੱਗ ਆ ਜਾਵੇ।",
+    "timer": 5
+   },
+   {
+    "en": "Whisk in the oil and vanilla extract.",
+    "hi-en": "Tel aur vanilla extract phent ke milao.",
+    "hi": "तेल और वनीला एक्सट्रैक्ट फेंटकर मिलाओ।",
+    "pa": "ਤੇਲ ਅਤੇ ਵਨੀਲਾ ਐਕਸਟ੍ਰੈਕਟ ਫੈਂਟ ਕੇ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Sift in the maida and fold gently, adding the water a little at a time. Toss the tutti frutti in a spoon of maida and fold it in. Pour into the tin.",
+    "hi-en": "Maida chhaan ke daalo aur halke haath se milao, thoda thoda paani daalte hue. Tutti frutti ek chammach maide mein lapet ke milao. Tin mein daalo.",
+    "hi": "मैदा छानकर डालो और हल्के हाथ से मिलाओ, थोड़ा-थोड़ा पानी डालते हुए। टूटी फ्रूटी एक चम्मच मैदे में लपेटकर मिलाओ। टिन में डालो।",
+    "pa": "ਮੈਦਾ ਛਾਣ ਕੇ ਪਾਓ ਅਤੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾਓ, ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾਉਂਦੇ ਹੋਏ। ਟੂਟੀ ਫਰੂਟੀ ਇੱਕ ਚਮਚ ਮੈਦੇ ਵਿੱਚ ਲਪੇਟ ਕੇ ਮਿਲਾਓ। ਟਿਨ ਵਿੱਚ ਪਾਓ।"
+   },
+   {
+    "en": "Bake at 180°C for about 45 minutes, until a toothpick in the middle comes out clean.",
+    "hi-en": "180°C pe lagbhag 45 minute bake karo, jab tak beech mein daali seenk saaf na nikle.",
+    "hi": "180°C पर लगभग 45 मिनट बेक करो, जब तक बीच में डाली सींक साफ़ न निकले।",
+    "pa": "180°C ਤੇ ਲਗਭਗ 45 ਮਿੰਟ ਬੇਕ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਵਿੱਚਕਾਰ ਪਾਈ ਸੀਖ ਸਾਫ਼ ਨਾ ਨਿਕਲੇ।",
+    "timer": 45,
+    "safety": "oven"
+   },
+   {
+    "en": "Let it cool in the tin for 10 minutes, then turn it out and cool fully before cutting.",
+    "hi-en": "10 minute tin mein hi thanda hone do, phir nikaal ke poora thanda karke kaato.",
+    "hi": "10 मिनट टिन में ही ठंडा होने दो, फिर निकालकर पूरा ठंडा करके काटो।",
+    "pa": "10 ਮਿੰਟ ਟਿਨ ਵਿੱਚ ਹੀ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਫਿਰ ਕੱਢ ਕੇ ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਕੱਟੋ।",
+    "timer": 10
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "tutti frutti sank",
+    "en": "Toss it in a little maida first so it stays spread through the cake.",
+    "hi": "पहले थोड़े मैदे में लपेटो ताकि पूरे केक में फैली रहे।"
+   },
+   {
+    "mistake": "cake sank in the middle",
+    "en": "The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.",
+    "hi": "ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।"
+   },
+   {
+    "mistake": "no oven at home",
+    "en": "Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.",
+    "hi": "भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+   }
+  ],
+  "swaps": {
+   "sweets_misc": [
+    "raisins"
+   ]
+  }
+ },
+ "ASC002": {
+  "names": {
+   "hi-en": "Coffee",
+   "hi": "कॉफ़ी",
+   "pa": "ਕੌਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Put the instant coffee powder and sugar in a cup with a teaspoon of water. Beat with a spoon until pale and frothy, about 3 minutes.",
+    "hi-en": "Cup mein instant coffee powder, cheeni aur ek chhota chammach paani daalo. Chammach se halka aur jhaagdaar hone tak phento, lagbhag 3 minute.",
+    "hi": "कप में इंस्टेंट कॉफ़ी पाउडर, चीनी और एक छोटा चम्मच पानी डालो। चम्मच से हल्का और झागदार होने तक फेंटो, लगभग 3 मिनट।",
+    "pa": "ਕੱਪ ਵਿੱਚ ਇੰਸਟੈਂਟ ਕੌਫ਼ੀ ਪਾਊਡਰ, ਖੰਡ ਅਤੇ ਇੱਕ ਛੋਟਾ ਚਮਚ ਪਾਣੀ ਪਾਓ। ਚਮਚ ਨਾਲ ਹਲਕਾ ਅਤੇ ਝੱਗਦਾਰ ਹੋਣ ਤੱਕ ਫੈਂਟੋ, ਲਗਭਗ 3 ਮਿੰਟ।",
+    "timer": 3
+   },
+   {
+    "en": "Heat the milk and the water together until it just boils.",
+    "hi-en": "Doodh aur paani saath mein garam karo jab tak ubaal aane lage.",
+    "hi": "दूध और पानी साथ में गरम करो जब तक उबाल आने लगे।",
+    "pa": "ਦੁੱਧ ਅਤੇ ਪਾਣੀ ਇਕੱਠੇ ਗਰਮ ਕਰੋ ਜਦੋਂ ਤੱਕ ਉਬਾਲ ਆਉਣ ਲੱਗੇ।",
+    "safety": "boil_over"
+   },
+   {
+    "en": "Pour the hot milk into the cup from a height and stir. Serve hot.",
+    "hi-en": "Garam doodh thodi oonchai se cup mein daalo aur chalao. Garam garam piyo.",
+    "hi": "गरम दूध थोड़ी ऊँचाई से कप में डालो और चलाओ। गरम-गरम पियो।",
+    "pa": "ਗਰਮ ਦੁੱਧ ਥੋੜ੍ਹੀ ਉਚਾਈ ਤੋਂ ਕੱਪ ਵਿੱਚ ਪਾਓ ਅਤੇ ਹਿਲਾਓ। ਗਰਮ-ਗਰਮ ਪੀਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "no froth on top",
+    "en": "Beat the coffee and sugar longer, until it turns light brown and creamy.",
+    "hi": "कॉफ़ी और चीनी और देर फेंटो, जब तक हल्की भूरी और क्रीमी न हो जाए।"
+   },
+   {
+    "mistake": "too bitter",
+    "en": "Add a little more milk or sugar.",
+    "hi": "थोड़ा और दूध या चीनी डालो।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "honey",
+    "skip"
+   ]
+  }
+ },
+ "ASC004": {
+  "names": {
+   "hi-en": "Iced tea",
+   "hi": "आइस्ड टी",
+   "pa": "ਆਇਸਡ ਟੀ"
+  },
+  "steps": [
+   {
+    "en": "Boil the water, turn off the heat and add the tea leaves. Leave them for 3 minutes, no longer.",
+    "hi-en": "Paani ubaal ke gas band karo aur chai patti daalo. 3 minute rehne do, isse zyada nahi.",
+    "hi": "पानी उबालकर गैस बंद करो और चाय पत्ती डालो। 3 मिनट रहने दो, इससे ज़्यादा नहीं।",
+    "pa": "ਪਾਣੀ ਉਬਾਲ ਕੇ ਗੈਸ ਬੰਦ ਕਰੋ ਅਤੇ ਚਾਹ ਪੱਤੀ ਪਾਓ। 3 ਮਿੰਟ ਰਹਿਣ ਦਿਓ, ਇਸ ਤੋਂ ਜ਼ਿਆਦਾ ਨਹੀਂ।",
+    "timer": 3,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Strain, stir in the sugar and let it cool.",
+    "hi-en": "Chhaan ke cheeni milao aur thanda hone do.",
+    "hi": "छानकर चीनी मिलाओ और ठंडा होने दो।",
+    "pa": "ਛਾਣ ਕੇ ਖੰਡ ਮਿਲਾਓ ਅਤੇ ਠੰਡਾ ਹੋਣ ਦਿਓ।"
+   },
+   {
+    "en": "Fill a tall glass with ice cubes, pour in the tea and squeeze in the lemon. Add a lemon slice on top.",
+    "hi-en": "Lambe glass mein barf bharo, chai daalo aur nimbu nichodo. Upar nimbu ka ek tukda rakho.",
+    "hi": "लंबे गिलास में बर्फ़ भरो, चाय डालो और नींबू निचोड़ो। ऊपर नींबू का एक टुकड़ा रखो।",
+    "pa": "ਲੰਮੇ ਗਿਲਾਸ ਵਿੱਚ ਬਰਫ਼ ਭਰੋ, ਚਾਹ ਪਾਓ ਅਤੇ ਨਿੰਬੂ ਨਿਚੋੜੋ। ਉੱਤੇ ਨਿੰਬੂ ਦਾ ਇੱਕ ਟੁਕੜਾ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "tea is bitter",
+    "en": "The leaves sat too long. Strain after 3 minutes, and add a little more sugar now.",
+    "hi": "पत्ती ज़्यादा देर रही। 3 मिनट में छान लो, अभी थोड़ी चीनी और डालो।"
+   },
+   {
+    "mistake": "tea turned cloudy",
+    "en": "It was put in the fridge while hot. Let it cool on the counter first.",
+    "hi": "गरम-गरम फ्रिज में रख दी। पहले बाहर ठंडी होने दो।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "honey"
+   ]
+  }
+ },
+ "ASC008": {
+  "names": {
+   "hi-en": "Nimbu paani",
+   "hi": "नींबू पानी",
+   "pa": "ਨਿੰਬੂ ਪਾਣੀ"
+  },
+  "steps": [
+   {
+    "en": "Stir the sugar and salt into the water until dissolved.",
+    "hi-en": "Cheeni aur namak paani mein ghulne tak milao.",
+    "hi": "चीनी और नमक पानी में घुलने तक मिलाओ।",
+    "pa": "ਖੰਡ ਅਤੇ ਲੂਣ ਪਾਣੀ ਵਿੱਚ ਘੁਲਣ ਤੱਕ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Add the lemon juice and taste. Add more sugar or lemon if you like.",
+    "hi-en": "Nimbu ka ras daal ke chakho. Chaho to cheeni ya nimbu aur daalo.",
+    "hi": "नींबू का रस डालकर चखो। चाहो तो चीनी या नींबू और डालो।",
+    "pa": "ਨਿੰਬੂ ਦਾ ਰਸ ਪਾ ਕੇ ਚੱਖੋ। ਚਾਹੋ ਤਾਂ ਖੰਡ ਜਾਂ ਨਿੰਬੂ ਹੋਰ ਪਾਓ।"
+   },
+   {
+    "en": "Crush the mint leaves lightly, add them with the crushed ice and serve cold.",
+    "hi-en": "Pudina halka kuchal ke kuti barf ke saath daalo aur thanda thanda piyo.",
+    "hi": "पुदीना हल्का कुचलकर कुटी बर्फ़ के साथ डालो और ठंडा-ठंडा पियो।",
+    "pa": "ਪੁਦੀਨਾ ਹਲਕਾ ਕੁਚਲ ਕੇ ਕੁੱਟੀ ਬਰਫ਼ ਨਾਲ ਪਾਓ ਅਤੇ ਠੰਡਾ-ਠੰਡਾ ਪੀਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "sugar will not dissolve",
+    "en": "Dissolve it in a little warm water first, then add cold water.",
+    "hi": "पहले थोड़े गुनगुने पानी में घोलो, फिर ठंडा पानी डालो।"
+   },
+   {
+    "mistake": "bitter taste",
+    "en": "Lemon seeds or too hard a squeeze. Take out the seeds and squeeze gently.",
+    "hi": "नींबू के बीज या ज़ोर से निचोड़ा। बीज निकालो और हल्के से निचोड़ो।"
+   }
+  ],
+  "swaps": {
+   "mint": [
+    "skip"
+   ],
+   "sugar": [
+    "honey"
+   ]
+  }
+ },
+ "ASC015": {
+  "names": {
+   "hi-en": "Cold coffee",
+   "hi": "कोल्ड कॉफ़ी",
+   "pa": "ਕੋਲਡ ਕੌਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Dissolve the coffee powder and sugar in 30 ml warm water.",
+    "hi-en": "Coffee powder aur cheeni 30 ml gungune paani mein ghol lo.",
+    "hi": "कॉफ़ी पाउडर और चीनी 30 ml गुनगुने पानी में घोल लो।",
+    "pa": "ਕੌਫ਼ੀ ਪਾਊਡਰ ਅਤੇ ਖੰਡ 30 ml ਕੋਸੇ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਲਓ।"
+   },
+   {
+    "en": "Blend it with the cold milk and the ice cubes for 1 minute until frothy.",
+    "hi-en": "Thande doodh aur barf ke saath 1 minute mixer mein chala lo jab tak jhaag aa jaaye.",
+    "hi": "ठंडे दूध और बर्फ़ के साथ 1 मिनट मिक्सी में चला लो जब तक झाग आ जाए।",
+    "pa": "ਠੰਡੇ ਦੁੱਧ ਅਤੇ ਬਰਫ਼ ਨਾਲ 1 ਮਿੰਟ ਮਿਕਸੀ ਵਿੱਚ ਚਲਾ ਲਓ ਜਦੋਂ ਤੱਕ ਝੱਗ ਆ ਜਾਵੇ।",
+    "timer": 1
+   },
+   {
+    "en": "Pour into a tall glass and top with the ice cream.",
+    "hi-en": "Lambe glass mein daal ke upar ice cream rakho.",
+    "hi": "लंबे गिलास में डालकर ऊपर आइसक्रीम रखो।",
+    "pa": "ਲੰਮੇ ਗਿਲਾਸ ਵਿੱਚ ਪਾ ਕੇ ਉੱਤੇ ਆਈਸਕ੍ਰੀਮ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "watery taste",
+    "en": "Too much ice. Use fewer cubes, or freeze some milk as ice next time.",
+    "hi": "बर्फ़ ज़्यादा हो गई। कम टुकड़े डालो, या अगली बार दूध की बर्फ़ जमा लो।"
+   },
+   {
+    "mistake": "coffee lumps",
+    "en": "Dissolve the coffee fully in warm water before blending.",
+    "hi": "मिक्सी से पहले कॉफ़ी गुनगुने पानी में पूरी घोल लो।"
+   }
+  ],
+  "swaps": {
+   "ice_cream": [
+    "skip",
+    "cream"
+   ]
+  }
+ },
+ "ASC017": {
+  "names": {
+   "hi-en": "Mango shake",
+   "hi": "मैंगो शेक",
+   "pa": "ਅੰਬ ਦਾ ਸ਼ੇਕ"
+  },
+  "steps": [
+   {
+    "en": "Peel the ripe mango and cut the flesh into pieces.",
+    "hi-en": "Pake aam ko chheel ke goode ke tukde kaat lo.",
+    "hi": "पके आम को छीलकर गूदे के टुकड़े काट लो।",
+    "pa": "ਪੱਕੇ ਅੰਬ ਨੂੰ ਛਿੱਲ ਕੇ ਗੁੱਦੇ ਦੇ ਟੁਕੜੇ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Blend the mango with the cold milk, sugar, vanilla essence and ice cubes until smooth, about 1 minute.",
+    "hi-en": "Aam thande doodh, cheeni, vanilla essence aur barf ke saath smooth hone tak mixer mein chalao, lagbhag 1 minute.",
+    "hi": "आम ठंडे दूध, चीनी, वनीला एसेंस और बर्फ़ के साथ चिकना होने तक मिक्सी में चलाओ, लगभग 1 मिनट।",
+    "pa": "ਅੰਬ ਠੰਡੇ ਦੁੱਧ, ਖੰਡ, ਵਨੀਲਾ ਐਸੈਂਸ ਅਤੇ ਬਰਫ਼ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਮਿਕਸੀ ਵਿੱਚ ਚਲਾਓ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1
+   },
+   {
+    "en": "Pour into a tall glass and serve straight away.",
+    "hi-en": "Lambe glass mein daal ke turant piyo.",
+    "hi": "लंबे गिलास में डालकर तुरंत पियो।",
+    "pa": "ਲੰਮੇ ਗਿਲਾਸ ਵਿੱਚ ਪਾ ਕੇ ਤੁਰੰਤ ਪੀਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "shake is too thick",
+    "en": "Add a little more cold milk and blend again.",
+    "hi": "थोड़ा और ठंडा दूध डालकर फिर चलाओ।"
+   },
+   {
+    "mistake": "not sweet",
+    "en": "The mango was not ripe. Add a spoon of sugar or honey.",
+    "hi": "आम पूरा पका नहीं था। एक चम्मच चीनी या शहद डालो।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "honey",
+    "skip"
+   ],
+   "vanilla": [
+    "skip"
+   ]
+  }
+ },
+ "BFP011": {
+  "names": {
+   "hi-en": "Hot chocolate",
+   "hi": "हॉट चॉकलेट",
+   "pa": "ਹੌਟ ਚਾਕਲੇਟ"
+  },
+  "steps": [
+   {
+    "en": "Mix the drinking chocolate with 2 tablespoons of the milk into a smooth paste.",
+    "hi-en": "Drinking chocolate 2 chammach doodh ke saath smooth paste bana lo.",
+    "hi": "ड्रिंकिंग चॉकलेट 2 चम्मच दूध के साथ चिकना पेस्ट बना लो।",
+    "pa": "ਡ੍ਰਿੰਕਿੰਗ ਚਾਕਲੇਟ 2 ਚਮਚ ਦੁੱਧ ਨਾਲ ਮੁਲਾਇਮ ਪੇਸਟ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Heat the rest of the milk until it just boils. Whisk in the chocolate paste.",
+    "hi-en": "Baaki doodh ubaal aane tak garam karo. Chocolate paste phent ke milao.",
+    "hi": "बाकी दूध उबाल आने तक गरम करो। चॉकलेट पेस्ट फेंटकर मिलाओ।",
+    "pa": "ਬਾਕੀ ਦੁੱਧ ਉਬਾਲ ਆਉਣ ਤੱਕ ਗਰਮ ਕਰੋ। ਚਾਕਲੇਟ ਪੇਸਟ ਫੈਂਟ ਕੇ ਮਿਲਾਓ।",
+    "safety": "boil_over"
+   },
+   {
+    "en": "Pour into cups and top with the grated chocolate.",
+    "hi-en": "Cup mein daal ke upar kaddukas chocolate daalo.",
+    "hi": "कप में डालकर ऊपर कद्दूकस चॉकलेट डालो।",
+    "pa": "ਕੱਪ ਵਿੱਚ ਪਾ ਕੇ ਉੱਤੇ ਕੱਦੂਕਸ ਚਾਕਲੇਟ ਪਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "lumps of chocolate",
+    "en": "Always make a paste with a little milk first. Whisk the lumps out now.",
+    "hi": "हमेशा पहले थोड़े दूध से पेस्ट बनाओ। अभी फेंटकर गाँठें निकालो।"
+   },
+   {
+    "mistake": "skin on top",
+    "en": "Whisk just before pouring, and serve straight away.",
+    "hi": "डालने से ठीक पहले फेंटो, और तुरंत परोसो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "BFP024": {
+  "names": {
+   "hi-en": "Jal jeera",
+   "hi": "जलजीरा",
+   "pa": "ਜਲਜੀਰਾ"
+  },
+  "steps": [
+   {
+    "en": "Soak the tamarind in a cup of warm water for 15 minutes. Squeeze out the pulp and strain it.",
+    "hi-en": "Imli ek cup gungune paani mein 15 minute bhigo do. Gooda nichod ke chhaan lo.",
+    "hi": "इमली एक कप गुनगुने पानी में 15 मिनट भिगो दो। गूदा निचोड़कर छान लो।",
+    "pa": "ਇਮਲੀ ਇੱਕ ਕੱਪ ਕੋਸੇ ਪਾਣੀ ਵਿੱਚ 15 ਮਿੰਟ ਭਿਓਂ ਦਿਓ। ਗੁੱਦਾ ਨਿਚੋੜ ਕੇ ਛਾਣ ਲਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Dry roast the cumin seeds until dark and fragrant, about 2 minutes, and grind them.",
+    "hi-en": "Jeera sookhe pan mein gehra aur khushboodar hone tak bhuno, lagbhag 2 minute, aur pees lo.",
+    "hi": "जीरा सूखे बर्तन में गहरा और खुशबूदार होने तक भूनो, लगभग 2 मिनट, और पीस लो।",
+    "pa": "ਜੀਰਾ ਸੁੱਕੇ ਭਾਂਡੇ ਵਿੱਚ ਗੂੜ੍ਹਾ ਅਤੇ ਖੁਸ਼ਬੂਦਾਰ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 2 ਮਿੰਟ, ਅਤੇ ਪੀਸ ਲਓ।",
+    "timer": 2
+   },
+   {
+    "en": "Grind the mint leaves, ginger and green chilli with a little water into a smooth paste.",
+    "hi-en": "Pudina, adrak aur hari mirch thode paani ke saath smooth paste pees lo.",
+    "hi": "पुदीना, अदरक और हरी मिर्च थोड़े पानी के साथ चिकना पेस्ट पीस लो।",
+    "pa": "ਪੁਦੀਨਾ, ਅਦਰਕ ਅਤੇ ਹਰੀ ਮਿਰਚ ਥੋੜ੍ਹੇ ਪਾਣੀ ਨਾਲ ਮੁਲਾਇਮ ਪੇਸਟ ਪੀਸ ਲਓ।"
+   },
+   {
+    "en": "Mix the tamarind water, mint paste, roasted cumin, lemon juice, sugar, salt, black salt, red chilli powder and the ground spices into the rest of the water. Taste and adjust.",
+    "hi-en": "Imli ka paani, pudina paste, bhuna jeera, nimbu ras, cheeni, namak, kala namak, laal mirch aur pise masale baaki paani mein milao. Chakh ke theek karo.",
+    "hi": "इमली का पानी, पुदीना पेस्ट, भुना जीरा, नींबू रस, चीनी, नमक, काला नमक, लाल मिर्च और पिसे मसाले बाकी पानी में मिलाओ। चखकर ठीक करो।",
+    "pa": "ਇਮਲੀ ਦਾ ਪਾਣੀ, ਪੁਦੀਨਾ ਪੇਸਟ, ਭੁੰਨਿਆ ਜੀਰਾ, ਨਿੰਬੂ ਰਸ, ਖੰਡ, ਲੂਣ, ਕਾਲਾ ਲੂਣ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਪੀਸੇ ਮਸਾਲੇ ਬਾਕੀ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾਓ। ਚੱਖ ਕੇ ਠੀਕ ਕਰੋ।"
+   },
+   {
+    "en": "Chill for an hour. Serve with a few mint leaves and boondi on top.",
+    "hi-en": "Ek ghanta thanda karo. Upar kuch pudine ke patte aur boondi daal ke piyo.",
+    "hi": "एक घंटा ठंडा करो। ऊपर कुछ पुदीने के पत्ते और बूँदी डालकर पियो।",
+    "pa": "ਇੱਕ ਘੰਟਾ ਠੰਡਾ ਕਰੋ। ਉੱਤੇ ਕੁਝ ਪੁਦੀਨੇ ਦੇ ਪੱਤੇ ਅਤੇ ਬੂੰਦੀ ਪਾ ਕੇ ਪੀਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too sour",
+    "en": "Add a little more sugar and water.",
+    "hi": "थोड़ी और चीनी और पानी डालो।"
+   },
+   {
+    "mistake": "too salty",
+    "en": "Add more water and a squeeze of lemon.",
+    "hi": "थोड़ा और पानी और नींबू डालो।"
+   },
+   {
+    "mistake": "tastes flat",
+    "en": "Roast the cumin darker, it gives jal jeera its flavour. Add a pinch more black salt.",
+    "hi": "जीरा थोड़ा गहरा भूनो, उसी से जलजीरे का स्वाद आता है। चुटकी भर काला नमक और डालो।"
+   }
+  ],
+  "swaps": {
+   "tamarind": [
+    "amchur"
+   ]
+  }
+ }
+}
