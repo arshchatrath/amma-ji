@@ -131,9 +131,57 @@ ASC224,coating fell off,The batter was too thin. Add a spoon more cornflour and 
 ASC240,chicken is hard or chewy,"Add half a cup of water, cover and simmer on low heat for 10 more minutes.","आधा कप पानी डालो, ढककर धीमी आँच पर 10 मिनट और पकाओ।"
 ASC240,too spicy,Turn off the heat and stir in 2 spoons of beaten curd or cream.,गैस बंद करके 2 चम्मच फेंटा हुआ दही या मलाई मिला दो।
 ASC240,gravy too thin,"Cook uncovered on high heat for 5 minutes, stirring.",बिना ढके तेज़ आँच पर 5 मिनट चलाते हुए पकाओ।
+ASC282,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+ASC282,kheer is too thin,Simmer a few minutes more. It also thickens as it cools.,कुछ मिनट और पकाओ। ठंडी होने पर भी गाढ़ी होती है।
+ASC282,kheer is too thick,Stir in a little warm milk.,थोड़ा गरम दूध मिला दो।
+ASC283,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+ASC283,makhana is chewy,It was not roasted enough. Roast until one breaks with a crunch.,मखाने ठीक से नहीं भुने। इतना भूनो कि एक तोड़ो तो कुरकुरा टूटे।
+ASC283,kheer is too thin,Simmer a few minutes more. It also thickens as it cools.,कुछ मिनट और पकाओ। ठंडी होने पर भी गाढ़ी होती है।
+ASC285,kheer turned too thick,Vermicelli soaks up milk as it sits. Stir in warm milk before serving.,सेवइयाँ रखे-रखे दूध सोख लेती हैं। परोसने से पहले गरम दूध मिलाओ।
+ASC285,vermicelli broke into mush,Stir gently and do not cook it too long after adding the milk.,हल्के हाथ से चलाओ और दूध डालने के बाद ज़्यादा देर मत पकाओ।
+ASC285,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+ASC292,lumps formed,"Whisk hard for a minute, or pass it through a sieve.","एक मिनट ज़ोर से फेंटो, या छलनी से छान लो।"
+ASC292,phirni is runny,Cook a few minutes more. It sets thicker once chilled.,कुछ मिनट और पकाओ। ठंडी होकर और गाढ़ी जमती है।
+ASC292,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+ASC293,lumps in the halwa,The water was poured too fast or was cold. Mash the lumps with the back of the spoon while stirring.,पानी बहुत जल्दी या ठंडा डाला। चलाते हुए चम्मच के पिछले हिस्से से गाँठें तोड़ो।
+ASC293,"halwa is sticky, not grainy",The suji was not roasted enough. Roast until golden next time.,सूजी कम भुनी थी। अगली बार सुनहरी होने तक भूनना।
+ASC293,halwa is too dry,Sprinkle a few spoons of hot water and stir on low heat.,कुछ चम्मच गरम पानी छिड़को और धीमी आँच पर चलाओ।
+ASC295,halwa is watery,"The sugar lets out liquid. Keep cooking on medium heat, stirring, until it dries.",चीनी पानी छोड़ती है। मध्यम आँच पर चलाते हुए सूखने तक पकाते रहो।
+ASC295,sticking to the pan,"Lower the heat, add a spoon of ghee and stir more often.","आँच कम करो, एक चम्मच घी डालो और ज़्यादा बार चलाओ।"
+ASC295,not sweet enough,Add a spoon of sugar and cook until it dries again.,एक चम्मच चीनी और डालो और फिर सूखने तक पकाओ।
+ASC298,halwa is watery,"Keep cooking uncovered on medium heat, stirring, until the liquid is gone.",बिना ढके मध्यम आँच पर चलाते हुए पानी खत्म होने तक पकाओ।
+ASC298,sticking to the pan,Lower the heat and add half a spoon of ghee.,आँच कम करो और आधा चम्मच घी डालो।
+ASC298,pumpkin pieces still firm,"Grate it finer next time. Now, cover with a spoon of water for 3 minutes.",अगली बार बारीक कद्दूकस करना। अभी एक चम्मच पानी डालकर 3 मिनट ढक दो।
+ASC321,kulfi is icy,"The milk was not reduced enough. Reduce it to half, and the cornflour helps keep it smooth.","दूध ठीक से नहीं औटा। आधा होने तक औटाओ, कॉर्नफ्लोर भी इसे चिकना रखता है।"
+ASC321,lumps from the cornflour,"Always mix the cornflour in cold milk first, then add it while stirring.","कॉर्नफ्लोर हमेशा पहले ठंडे दूध में घोलो, फिर चलाते हुए डालो।"
+ASC321,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+ASC336,burfi will not set,It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.,जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।
+ASC336,burfi is hard and crumbly,It cooked too long. Next time take it off as soon as it gathers into one lump.,"ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
+ASC336,too sweet,Use a little less sugar next time. Khoya is already slightly sweet.,अगली बार चीनी थोड़ी कम डालना। खोया पहले से हल्का मीठा होता है।
+ASC337,burfi will not set,It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.,जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।
+ASC337,burfi is hard and crumbly,It cooked too long. Next time take it off as soon as it gathers into one lump.,"ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
+ASC337,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+ASC339,dough is sticky,It needs more cooking. Put it back on low heat for a minute or two.,थोड़ा और पकाना है। एक-दो मिनट फिर धीमी आँच पर रखो।
+ASC339,dough is dry and cracks,It cooked too long. Knead in a few drops of warm milk.,ज़्यादा पक गया। कुछ बूँदें गरम दूध मिलाकर गूँधो।
+ASC339,cashew powder turned oily,Grind in short bursts and stop as soon as it is powder.,रुक-रुककर पीसो और पाउडर बनते ही रोक दो।
+ASC340,raw taste,It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.,ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।
+ASC340,burfi will not set,It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.,जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।
+ASC340,besan burnt in spots,The heat was too high. Roast besan only on low heat and keep stirring.,आँच तेज़ थी। बेसन हमेशा धीमी आँच पर भूनो और चलाते रहो।
+ASC343,ladoos will not hold,"The mix has cooled. Warm it for a few seconds, or add a spoon of warm ghee, and shape again.","मिश्रण ठंडा हो गया। कुछ सेकंड गरम करो, या एक चम्मच गरम घी मिलाओ, फिर बाँधो।"
+ASC343,raw taste,It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.,ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।
+ASC343,sugar melted and mix turned runny,The mix was too hot. Let it cool more before adding sugar.,मिश्रण बहुत गरम था। चीनी डालने से पहले और ठंडा होने दो।
+ASC344,mix got too hard to shape,Warm it on very low heat for a few seconds until soft again.,बहुत धीमी आँच पर कुछ सेकंड गरम करो जब तक फिर नरम हो जाए।
+ASC344,laddoos are sticky and soft,The jaggery was not cooked enough. Next time cook until a drop forms a firm ball in water.,गुड़ कम पका। अगली बार इतना पकाना कि पानी में एक बूँद पक्की गोली बने।
+ASC344,til tastes bitter,They were roasted too dark. Roast only until light golden.,तिल ज़्यादा भुन गए। बस हल्के सुनहरे होने तक भूनो।
+ASC348,jamuns break in the oil,The dough has cracks or is too soft. Knead in a pinch more maida and roll smooth balls.,गोलियों में दरार है या आटा बहुत नरम है। चुटकी भर मैदा और मिलाकर चिकनी गोलियाँ बनाओ।
+ASC348,"brown outside, raw inside",The oil was too hot. Fry on low heat so they cook through slowly.,तेल बहुत गरम था। धीमी आँच पर तलो ताकि अंदर तक धीरे-धीरे पकें।
+ASC348,jamuns are hard,"Too much maida or kneaded too hard. Knead gently, and soak them longer in warm syrup.","मैदा ज़्यादा या ज़ोर से गूँधा। हल्के हाथ से गूँधो, और गरम चाशनी में ज़्यादा देर भिगोओ।"
 ASC358,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
 ASC358,batter slides off the bread,The batter is too thin. Add a spoon of besan and whisk again.,घोल पतला है। एक चम्मच बेसन मिलाकर फिर फेंटो।
 ASC358,"outside brown, bread soggy inside","Fry on medium, not high, so the inside crisps too.","तेज़ नहीं, मध्यम आँच पर तलो ताकि अंदर भी कुरकुरा हो।"
+ASC459,sugar turned dark and bitter,The heat was too high. Melt sugar only on low heat and take it off once golden.,आँच तेज़ थी। चीनी धीमी आँच पर ही पिघलाओ और सुनहरी होते ही उतार लो।
+ASC459,sugar went grainy,It was stirred too much. Swirl the pan instead of stirring.,बहुत चलाया। चलाने की जगह बर्तन घुमाओ।
+ASC459,hard to cut,"Cut while it is still warm. If it set, warm the plate on low heat for a few seconds.",गरम रहते ही काटो। जम गई हो तो प्लेट धीमी आँच पर कुछ सेकंड गरम करो।
 ASC485,curd is too sour,Mix in a spoon of milk or a pinch of sugar.,एक चम्मच दूध या चुटकी भर चीनी मिला दो।
 ASC485,too thick,Beat in 2 tablespoons of cold water.,2 चम्मच ठंडा पानी मिलाकर फेंटो।
 ASC485,potato breaks into mush,It was overboiled. It still tastes good; next time stop at 2 whistles.,आलू ज़्यादा उबल गया। स्वाद फिर भी अच्छा है; अगली बार 2 सीटी पर रुकना।
@@ -179,6 +227,15 @@ BFP272,coconut tastes raw,"Cook it for a minute after adding, and use fresh coco
 BFP277,vegetables went soft and soggy,The heat was low or they cooked too long. Keep the heat high and stop while they still have a bite.,आँच धीमी थी या ज़्यादा पक गईं। आँच तेज़ रखो और थोड़ी कुरकुरी रहते ही बंद कर दो।
 BFP277,potato still hard,"Cut it thinner. For now, cover and cook for 2 more minutes with a spoon of water.",आलू पतला काटो। अभी एक चम्मच पानी डालकर ढककर 2 मिनट और पकाओ।
 BFP277,too sour,Too much vinegar. Add a pinch of sugar and toss.,सिरका ज़्यादा हो गया। चुटकी भर चीनी डालकर मिला दो।
+BFP334,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+BFP334,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
+BFP334,milk split,"Add the sugar only at the end, after the lauki is cooked.","चीनी लौकी पकने के बाद, आखिर में ही डालो।"
+BFP401,burfi will not set,It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.,जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।
+BFP401,burfi is hard and crumbly,It cooked too long. Next time take it off as soon as it gathers into one lump.,"ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
+BFP401,lumps formed,"Pour the syrup slowly while stirring, and break lumps with the back of the spoon.","चाशनी धीरे-धीरे चलाते हुए डालो, और गाँठें चम्मच के पिछले हिस्से से तोड़ो।"
+BFP407,ladoos will not hold,"The mix has cooled. Warm it for a few seconds, or add a spoon of warm ghee, and shape again.","मिश्रण ठंडा हो गया। कुछ सेकंड गरम करो, या एक चम्मच गरम घी मिलाओ, फिर बाँधो।"
+BFP407,raw taste,It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.,ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।
+BFP407,laddoos spoil quickly,Milk makes them keep only 2 or 3 days. Use warm ghee instead of milk to keep them longer.,दूध से लड्डू बस 2-3 दिन चलते हैं। ज़्यादा दिन रखने हों तो दूध की जगह गरम घी लो।
 BFP556,too dry,Stir in half a cup of hot water and simmer for 2 minutes.,आधा कप गरम पानी मिलाकर 2 मिनट पकाओ।
 BFP556,too mushy,"That is how khichdi often is. If you want it looser, it is fine; if too wet, cook uncovered for 3 minutes.",खिचड़ी अक्सर ऐसी ही होती है। ज़्यादा गीली लगे तो बिना ढके 3 मिनट पकाओ।
 BFP556,tastes plain,"Make a quick tadka of ghee, cumin and a pinch of hing and pour it on top.","घी, जीरा और चुटकी भर हींग का झटपट तड़का बनाकर ऊपर डाल दो।"

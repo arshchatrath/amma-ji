@@ -765,56 +765,56 @@ ASC281,red_chilli_powder,Red chilli powder,0.25,tsp,no,
 ASC281,salt,Salt,0.5,tsp,no,
 ASC281,water,Water,100.0,ml,no,
 ASC282,rice,Rice,10.0,g,no,
-ASC282,raisins,Raisins,1.5,g,no,
+ASC282,raisins,Raisins,1.5,g,no,skip
 ASC282,cardamom,Green cardamom,0.25,tsp,no,
-ASC282,almonds,Almond,1.11,g,no,
+ASC282,almonds,Almond,1.11,g,no,"cashews, skip"
 ASC282,milk,Milk,250.0,ml,yes,
-ASC282,sugar,Sugar,1.5,tbsp,no,
+ASC282,sugar,Sugar,1.5,tbsp,no,jaggery
 ASC282,water,Water,0.5,cup,no,
-ASC283,raisins,Raisins,1.5,g,no,
+ASC283,raisins,Raisins,1.5,g,no,skip
 ASC283,cardamom,Green cardamom,0.25,tsp,no,
-ASC283,almonds,Almond,1.11,g,no,
+ASC283,almonds,Almond,1.11,g,no,"cashews, skip"
 ASC283,milk,Milk,250.0,ml,yes,
-ASC283,sugar,Sugar,1.5,tbsp,no,
+ASC283,sugar,Sugar,1.5,tbsp,no,jaggery
 ASC283,ghee,Ghee,0.5,tsp,no,
 ASC283,makhana,Makhana,5.0,g,no,
 ASC285,vermicelli,Vermicelli,10.0,g,no,
-ASC285,raisins,Raisins,1.32,g,no,
-ASC285,almonds,Almond,1.11,g,no,
+ASC285,raisins,Raisins,1.32,g,no,skip
+ASC285,almonds,Almond,1.11,g,no,"cashews, skip"
 ASC285,milk,Milk,200.0,g,yes,
-ASC285,sugar,Sugar,1.5,tbsp,no,
+ASC285,sugar,Sugar,1.5,tbsp,no,jaggery
 ASC285,ghee,Ghee,0.5,tsp,no,
-ASC292,food_colour,Kewra essence,0.25,tsp,no,
+ASC292,food_colour,Kewra essence,0.25,tsp,no,skip
 ASC292,rice,Rice,20.0,g,no,
-ASC292,almonds,Almond,2.22,g,no,
+ASC292,almonds,Almond,2.22,g,no,skip
 ASC292,milk,Milk,250.0,g,yes,
 ASC292,sugar,Sugar,1.5,tbsp,no,
 ASC293,suji,Suji,25.0,g,yes,
-ASC293,raisins,Raisins,1.32,g,no,
+ASC293,raisins,Raisins,1.32,g,no,skip
 ASC293,cardamom,Green cardamom,0.25,tsp,no,
-ASC293,almonds,Blanched almonds,2.8,g,no,
-ASC293,sugar,Sugar,20.0,g,no,
+ASC293,almonds,Blanched almonds,2.8,g,no,"cashews, skip"
+ASC293,sugar,Sugar,20.0,g,no,jaggery
 ASC293,water,Water,90.0,ml,no,
 ASC293,ghee,Ghee,20.0,g,no,
 ASC295,carrot,Carrots,200.0,g,yes,
 ASC295,cardamom,Green cardamom,0.25,tsp,no,
 ASC295,almonds,Almond,2.22,g,no,
-ASC295,cashews,Cashewnuts,2.5,g,no,
-ASC295,pistachios,Pistachios,0.4,g,no,
+ASC295,cashews,Cashewnuts,2.5,g,no,skip
+ASC295,pistachios,Pistachios,0.4,g,no,skip
 ASC295,milk,Milk,30.0,ml,no,
-ASC295,khoya,Khoa,40.0,g,no,
+ASC295,khoya,Khoa,40.0,g,no,"condensed_milk, skip"
 ASC295,sugar,Sugar,40.0,g,no,
 ASC295,ghee,Ghee,20.0,g,no,
 ASC298,pumpkin,Pumpkin (Yellow),100.0,g,yes,
-ASC298,raisins,Raisins,1.32,g,no,
+ASC298,raisins,Raisins,1.32,g,no,skip
 ASC298,cardamom,Green cardamom,0.25,tsp,no,
 ASC298,almonds,Almond,2.22,g,no,
-ASC298,coconut,Coconut powder,10.0,g,no,
-ASC298,sugar,Sugar,35.0,g,no,
+ASC298,coconut,Coconut powder,10.0,g,no,skip
+ASC298,sugar,Sugar,35.0,g,no,jaggery
 ASC298,ghee,Ghee,1.5,tsp,no,
-ASC321,food_colour,Kewra essence,0.5,tsp,no,
+ASC321,food_colour,Kewra essence,0.5,tsp,no,skip
 ASC321,almonds,Almonds,2.22,g,no,
-ASC321,pistachios,Pistachios,0.4,g,no,
+ASC321,pistachios,Pistachios,0.4,g,no,"almonds, skip"
 ASC321,milk,Milk,250.0,ml,yes,
 ASC321,corn_flour,Cornflour,1.0,tsp,no,
 ASC321,sugar,Sugar,15.0,g,no,
@@ -830,45 +830,45 @@ ASC325,salt,Salt,0.25,tsp,no,
 ASC325,water,Water,75.0,ml,no,
 ASC325,butter,Butter,1.0,tsp,no,
 ASC325,vanilla,Vanilla essence,0.5,tsp,no,
-ASC336,food_colour,Color,0.25,tsp,no,
-ASC336,food_colour,Kewra essence,0.25,tsp,no,
+ASC336,food_colour,Color,0.25,tsp,no,skip
+ASC336,food_colour,Kewra essence,0.25,tsp,no,skip
 ASC336,coconut,Coconut powder,50.0,g,yes,
-ASC336,khoya,Khoya,100.0,g,yes,
+ASC336,khoya,Khoya,100.0,g,yes,condensed_milk
 ASC336,sugar,Castor sugar,50.0,g,no,
 ASC336,ghee,Fat,2.0,tbsp,no,
-ASC337,food_colour,Color (green),0.25,tsp,no,
-ASC337,food_colour,Kewra essence,0.25,tsp,no,
+ASC337,food_colour,Color (green),0.25,tsp,no,skip
+ASC337,food_colour,Kewra essence,0.25,tsp,no,skip
 ASC337,bottle_gourd,Ghia,100.0,g,yes,
-ASC337,khoya,Khoya,100.0,g,yes,
+ASC337,khoya,Khoya,100.0,g,yes,condensed_milk
 ASC337,sugar,Sugar,50.0,g,no,
 ASC337,water,Water,1.5,tsp,no,
 ASC337,ghee,Fat,1.0,tsp,no,
-ASC339,food_colour,Kewra essence,0.25,tsp,no,
+ASC339,food_colour,Kewra essence,0.25,tsp,no,skip
 ASC339,cashews,Kaju,50.0,g,yes,
 ASC339,sugar,Sugar,50.0,g,no,
 ASC339,water,Water,3.0,tbsp,no,
 ASC339,ghee,Fat,2.0,tbsp,no,
 ASC340,cardamom,Green cardamom,0.38,tsp,no,
-ASC340,khoya,Khoya,35.0,g,yes,
+ASC340,khoya,Khoya,35.0,g,yes,skip
 ASC340,besan,Besan,50.0,g,yes,
 ASC340,sugar,Sugar,35.0,g,no,
 ASC340,water,Water,1.5,tsp,no,
 ASC340,ghee,Ghee,25.0,g,no,
-ASC343,suji,Suji,10.0,g,yes,
+ASC343,suji,Suji,10.0,g,yes,skip
 ASC343,cardamom,Green cardamom,0.25,tsp,no,
 ASC343,turmeric,Haldi,0.25,tsp,no,
 ASC343,besan,Besan,50.0,g,yes,
 ASC343,sugar,Castor sugar,50.0,g,no,
 ASC343,ghee,Ghee,30.0,g,no,
 ASC344,sesame,Til seeds,50.0,g,yes,
-ASC344,jaggery,Jaggery,50.0,g,yes,
+ASC344,jaggery,Jaggery,50.0,g,yes,sugar
 ASC344,water,Water,2.0,tsp,no,
 ASC348,maida,Maida,25.0,g,yes,
 ASC348,milk,Milk,1.0,tsp,no,
 ASC348,khoya,Soft khoya,100.0,g,yes,
 ASC348,oil,Fat,480.0,ml,no,
 ASC348,sugar,Sugar,200.0,g,no,
-ASC348,baking_soda,Soda-bi-carb,0.06,tsp,no,
+ASC348,baking_soda,Soda-bi-carb,0.06,tsp,no,skip
 ASC348,water,Water,1.0,tsp,no,
 ASC351,potato,Potato,80.0,g,yes,
 ASC351,besan,Besan,50.0,g,yes,
@@ -1036,7 +1036,7 @@ ASC448,water,Chilled water,1.0,tsp,no,
 ASC448,ghee,Ghee,20.0,g,no,
 ASC459,peanuts,Peanuts,50.0,g,yes,
 ASC459,oil,Fat,2.0,tbsp,no,
-ASC459,sugar,Sugar,50.0,g,no,
+ASC459,sugar,Sugar,50.0,g,no,jaggery
 ASC474,green_chilli,Green chilli,3.33,g,no,
 ASC474,coriander_leaves,Coriander leaves,1.0,sprig,no,
 ASC474,ginger,Ginger,6.33,g,no,
@@ -1531,20 +1531,20 @@ BFP328,curd,Curd,100.0,g,yes,
 BFP328,salt,Salt,0.17,tsp,no,
 BFP334,bottle_gourd,Bottle gourd,50.0,g,yes,
 BFP334,cardamom,Green cardamom,0.25,tsp,no,
-BFP334,almonds,Almonds,2.2,g,no,
+BFP334,almonds,Almonds,2.2,g,no,"cashews, skip"
 BFP334,milk,Milk,200.0,ml,yes,
 BFP334,sugar,Sugar,15.0,g,no,
 BFP401,suji,Semolina,50.0,g,yes,
 BFP401,cardamom,Green cardamom,0.25,tsp,no,
-BFP401,saffron,Saffron,0.25,tsp,no,
+BFP401,saffron,Saffron,0.25,tsp,no,skip
 BFP401,sugar,Sugar,50.0,g,no,
 BFP401,water,Water,0.5,tsp,no,
 BFP401,ghee,Ghee,30.0,g,no,
-BFP401,mixed_nuts,Mixed nuts,3.78,g,no,
+BFP401,mixed_nuts,Mixed nuts,3.78,g,no,skip
 BFP407,suji,Semolina,50.0,g,yes,
-BFP407,raisins,Raisins,5.0,g,no,
+BFP407,raisins,Raisins,5.0,g,no,skip
 BFP407,cardamom,Cardamom,0.25,tsp,no,
-BFP407,cashews,Cashewnuts,5.0,g,no,
+BFP407,cashews,Cashewnuts,5.0,g,no,"almonds, skip"
 BFP407,sugar,Castor sugar,20.0,g,no,
 BFP407,water,Milk/Water,15.0,ml,no,
 BFP407,ghee,Ghee,30.0,g,no,

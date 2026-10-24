@@ -1,0 +1,1167 @@
+{
+ "ASC282": {
+  "names": {
+   "hi-en": "Chawal ki kheer",
+   "hi": "चावल की खीर",
+   "pa": "ਚੌਲਾਂ ਦੀ ਖੀਰ"
+  },
+  "steps": [
+   {
+    "en": "Wash the rice and soak it for 15 minutes.",
+    "hi-en": "Chawal dho ke 15 minute bhigo do.",
+    "hi": "चावल धोकर 15 मिनट भिगो दो।",
+    "pa": "ਚੌਲ ਧੋ ਕੇ 15 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "In a heavy pan, boil the milk with half a cup of water. Add the drained rice.",
+    "hi-en": "Bhaari pan mein doodh aadha cup paani ke saath ubaalo. Paani nikaale chawal daalo.",
+    "hi": "भारी बर्तन में दूध आधा कप पानी के साथ उबालो। पानी निकाले चावल डालो।",
+    "pa": "ਭਾਰੀ ਭਾਂਡੇ ਵਿੱਚ ਦੁੱਧ ਅੱਧਾ ਕੱਪ ਪਾਣੀ ਨਾਲ ਉਬਾਲੋ। ਪਾਣੀ ਕੱਢੇ ਚੌਲ ਪਾਓ।",
+    "safety": "boil_over"
+   },
+   {
+    "en": "Simmer on low heat, stirring often, until the rice is very soft and the milk is thick and creamy, about 30 minutes.",
+    "hi-en": "Dheemi aanch pe baar baar chalaate hue pakao, jab tak chawal bahut naram aur doodh gaadha ho jaaye, lagbhag 30 minute.",
+    "hi": "धीमी आँच पर बार-बार चलाते हुए पकाओ, जब तक चावल बहुत नरम और दूध गाढ़ा हो जाए, लगभग 30 मिनट।",
+    "pa": "ਹੌਲੀ ਅੱਗ ਤੇ ਵਾਰ-ਵਾਰ ਹਿਲਾਉਂਦੇ ਹੋਏ ਪਕਾਓ, ਜਦੋਂ ਤੱਕ ਚੌਲ ਬਹੁਤ ਨਰਮ ਅਤੇ ਦੁੱਧ ਗਾੜ੍ਹਾ ਹੋ ਜਾਵੇ, ਲਗਭਗ 30 ਮਿੰਟ।",
+    "timer": 30
+   },
+   {
+    "en": "Add the sugar and cardamom and cook for 5 more minutes.",
+    "hi-en": "Cheeni aur elaichi daal ke 5 minute aur pakao.",
+    "hi": "चीनी और इलायची डालकर 5 मिनट और पकाओ।",
+    "pa": "ਖੰਡ ਅਤੇ ਇਲਾਇਚੀ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੋਰ ਪਕਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Stir in the raisins and chopped almonds and serve warm or chilled.",
+    "hi-en": "Kishmish aur kate badaam milao aur garam ya thanda khao.",
+    "hi": "किशमिश और कटे बादाम मिलाओ और गरम या ठंडा खाओ।",
+    "pa": "ਸੌਗੀ ਅਤੇ ਕੱਟੇ ਬਦਾਮ ਮਿਲਾਓ ਅਤੇ ਗਰਮ ਜਾਂ ਠੰਡਾ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "milk stuck and burnt at the bottom",
+    "en": "Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.",
+    "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।"
+   },
+   {
+    "mistake": "kheer is too thin",
+    "en": "Simmer a few minutes more. It also thickens as it cools.",
+    "hi": "कुछ मिनट और पकाओ। ठंडी होने पर भी गाढ़ी होती है।"
+   },
+   {
+    "mistake": "kheer is too thick",
+    "en": "Stir in a little warm milk.",
+    "hi": "थोड़ा गरम दूध मिला दो।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "jaggery"
+   ],
+   "almonds": [
+    "cashews",
+    "skip"
+   ],
+   "raisins": [
+    "skip"
+   ]
+  }
+ },
+ "ASC283": {
+  "names": {
+   "hi-en": "Makhana kheer",
+   "hi": "मखाना खीर",
+   "pa": "ਮਖਾਣਾ ਖੀਰ"
+  },
+  "steps": [
+   {
+    "en": "Roast the makhana in the ghee on low heat until crisp, about 4 minutes. Crush half of them.",
+    "hi-en": "Makhane ghee mein dheemi aanch pe crispy hone tak bhuno, lagbhag 4 minute. Aadhe makhane kuchal lo.",
+    "hi": "मखाने घी में धीमी आँच पर कुरकुरे होने तक भूनो, लगभग 4 मिनट। आधे मखाने कुचल लो।",
+    "pa": "ਮਖਾਣੇ ਘਿਓ ਵਿੱਚ ਹੌਲੀ ਅੱਗ ਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਅੱਧੇ ਮਖਾਣੇ ਕੁਚਲ ਲਓ।",
+    "timer": 4
+   },
+   {
+    "en": "Boil the milk in a heavy pan. Add all the makhana and simmer on low heat, stirring often, for 15 minutes.",
+    "hi-en": "Bhaari pan mein doodh ubaalo. Saare makhane daal ke dheemi aanch pe baar baar chalaate hue 15 minute pakao.",
+    "hi": "भारी बर्तन में दूध उबालो। सारे मखाने डालकर धीमी आँच पर बार-बार चलाते हुए 15 मिनट पकाओ।",
+    "pa": "ਭਾਰੀ ਭਾਂਡੇ ਵਿੱਚ ਦੁੱਧ ਉਬਾਲੋ। ਸਾਰੇ ਮਖਾਣੇ ਪਾ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਵਾਰ-ਵਾਰ ਹਿਲਾਉਂਦੇ ਹੋਏ 15 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 15,
+    "safety": "boil_over"
+   },
+   {
+    "en": "Add the sugar and cardamom and cook for 3 more minutes.",
+    "hi-en": "Cheeni aur elaichi daal ke 3 minute aur pakao.",
+    "hi": "चीनी और इलायची डालकर 3 मिनट और पकाओ।",
+    "pa": "ਖੰਡ ਅਤੇ ਇਲਾਇਚੀ ਪਾ ਕੇ 3 ਮਿੰਟ ਹੋਰ ਪਕਾਓ।",
+    "timer": 3
+   },
+   {
+    "en": "Stir in the raisins and chopped almonds and serve warm or chilled.",
+    "hi-en": "Kishmish aur kate badaam milao aur garam ya thanda khao.",
+    "hi": "किशमिश और कटे बादाम मिलाओ और गरम या ठंडा खाओ।",
+    "pa": "ਸੌਗੀ ਅਤੇ ਕੱਟੇ ਬਦਾਮ ਮਿਲਾਓ ਅਤੇ ਗਰਮ ਜਾਂ ਠੰਡਾ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "milk stuck and burnt at the bottom",
+    "en": "Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.",
+    "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।"
+   },
+   {
+    "mistake": "makhana is chewy",
+    "en": "It was not roasted enough. Roast until one breaks with a crunch.",
+    "hi": "मखाने ठीक से नहीं भुने। इतना भूनो कि एक तोड़ो तो कुरकुरा टूटे।"
+   },
+   {
+    "mistake": "kheer is too thin",
+    "en": "Simmer a few minutes more. It also thickens as it cools.",
+    "hi": "कुछ मिनट और पकाओ। ठंडी होने पर भी गाढ़ी होती है।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "jaggery"
+   ],
+   "almonds": [
+    "cashews",
+    "skip"
+   ],
+   "raisins": [
+    "skip"
+   ]
+  }
+ },
+ "ASC285": {
+  "names": {
+   "hi-en": "Seviyan ki kheer",
+   "hi": "सेवइयों की खीर",
+   "pa": "ਸੇਵੀਆਂ ਦੀ ਖੀਰ"
+  },
+  "steps": [
+   {
+    "en": "Roast the vermicelli in the ghee on low heat until golden, about 3 minutes.",
+    "hi-en": "Sevaiyan ghee mein dheemi aanch pe sunehri hone tak bhuno, lagbhag 3 minute.",
+    "hi": "सेवइयाँ घी में धीमी आँच पर सुनहरी होने तक भूनो, लगभग 3 मिनट।",
+    "pa": "ਸੇਵੀਆਂ ਘਿਓ ਵਿੱਚ ਹੌਲੀ ਅੱਗ ਤੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 3 ਮਿੰਟ।",
+    "timer": 3
+   },
+   {
+    "en": "Pour in the milk, bring it to a boil, then simmer on low heat, stirring, for 8 minutes.",
+    "hi-en": "Doodh daal ke ubaal aane do, phir dheemi aanch pe chalaate hue 8 minute pakao.",
+    "hi": "दूध डालकर उबाल आने दो, फिर धीमी आँच पर चलाते हुए 8 मिनट पकाओ।",
+    "pa": "ਦੁੱਧ ਪਾ ਕੇ ਉਬਾਲ ਆਉਣ ਦਿਓ, ਫਿਰ ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ 8 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 8,
+    "safety": "boil_over"
+   },
+   {
+    "en": "Add the sugar and cook for 2 more minutes.",
+    "hi-en": "Cheeni daal ke 2 minute aur pakao.",
+    "hi": "चीनी डालकर 2 मिनट और पकाओ।",
+    "pa": "ਖੰਡ ਪਾ ਕੇ 2 ਮਿੰਟ ਹੋਰ ਪਕਾਓ।",
+    "timer": 2
+   },
+   {
+    "en": "Stir in the raisins and chopped almonds and serve warm or chilled.",
+    "hi-en": "Kishmish aur kate badaam milao aur garam ya thanda khao.",
+    "hi": "किशमिश और कटे बादाम मिलाओ और गरम या ठंडा खाओ।",
+    "pa": "ਸੌਗੀ ਅਤੇ ਕੱਟੇ ਬਦਾਮ ਮਿਲਾਓ ਅਤੇ ਗਰਮ ਜਾਂ ਠੰਡਾ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "kheer turned too thick",
+    "en": "Vermicelli soaks up milk as it sits. Stir in warm milk before serving.",
+    "hi": "सेवइयाँ रखे-रखे दूध सोख लेती हैं। परोसने से पहले गरम दूध मिलाओ।"
+   },
+   {
+    "mistake": "vermicelli broke into mush",
+    "en": "Stir gently and do not cook it too long after adding the milk.",
+    "hi": "हल्के हाथ से चलाओ और दूध डालने के बाद ज़्यादा देर मत पकाओ।"
+   },
+   {
+    "mistake": "milk stuck and burnt at the bottom",
+    "en": "Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.",
+    "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "jaggery"
+   ],
+   "almonds": [
+    "cashews",
+    "skip"
+   ],
+   "raisins": [
+    "skip"
+   ]
+  }
+ },
+ "ASC292": {
+  "names": {
+   "hi-en": "Phirni",
+   "hi": "फिरनी",
+   "pa": "ਫਿਰਨੀ"
+  },
+  "steps": [
+   {
+    "en": "Wash the rice and soak it for 30 minutes. Grind it with a little water into a slightly coarse paste.",
+    "hi-en": "Chawal dho ke 30 minute bhigo do. Thode paani ke saath thoda mota paste pees lo.",
+    "hi": "चावल धोकर 30 मिनट भिगो दो। थोड़े पानी के साथ थोड़ा मोटा पेस्ट पीस लो।",
+    "pa": "ਚੌਲ ਧੋ ਕੇ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ। ਥੋੜ੍ਹੇ ਪਾਣੀ ਨਾਲ ਥੋੜ੍ਹਾ ਮੋਟਾ ਪੇਸਟ ਪੀਸ ਲਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Bring the milk to a boil in a heavy pan. Add the rice paste slowly, stirring all the time so no lumps form.",
+    "hi-en": "Bhaari pan mein doodh ubaalo. Chawal ka paste dheere dheere daalo, lagaataar chalaate raho taaki gaanthein na banein.",
+    "hi": "भारी बर्तन में दूध उबालो। चावल का पेस्ट धीरे-धीरे डालो, लगातार चलाते रहो ताकि गाँठें न बनें।",
+    "pa": "ਭਾਰੀ ਭਾਂਡੇ ਵਿੱਚ ਦੁੱਧ ਉਬਾਲੋ। ਚੌਲਾਂ ਦਾ ਪੇਸਟ ਹੌਲੀ-ਹੌਲੀ ਪਾਓ, ਲਗਾਤਾਰ ਹਿਲਾਉਂਦੇ ਰਹੋ ਤਾਂ ਜੋ ਗੰਢਾਂ ਨਾ ਬਣਨ।",
+    "safety": "boil_over"
+   },
+   {
+    "en": "Cook on low heat, stirring, until thick like custard, about 12 minutes. Add the sugar and cook for 2 minutes.",
+    "hi-en": "Dheemi aanch pe chalaate hue custard jaisa gaadha hone tak pakao, lagbhag 12 minute. Cheeni daal ke 2 minute pakao.",
+    "hi": "धीमी आँच पर चलाते हुए कस्टर्ड जैसा गाढ़ा होने तक पकाओ, लगभग 12 मिनट। चीनी डालकर 2 मिनट पकाओ।",
+    "pa": "ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਕਸਟਰਡ ਵਰਗਾ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 12 ਮਿੰਟ। ਖੰਡ ਪਾ ਕੇ 2 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 12
+   },
+   {
+    "en": "Turn off the heat and stir in the kewra essence. Pour into small bowls, top with chopped almonds and chill for 1 hour.",
+    "hi-en": "Gas band karke kewra essence milao. Chhoti katoriyon mein daal ke kate badaam daalo aur 1 ghanta fridge mein rakho.",
+    "hi": "गैस बंद करके केवड़ा एसेंस मिलाओ। छोटी कटोरियों में डालकर कटे बादाम डालो और 1 घंटा फ्रिज में रखो।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਕੇਵੜਾ ਐਸੈਂਸ ਮਿਲਾਓ। ਛੋਟੀਆਂ ਕੌਲੀਆਂ ਵਿੱਚ ਪਾ ਕੇ ਕੱਟੇ ਬਦਾਮ ਪਾਓ ਅਤੇ 1 ਘੰਟਾ ਫਰਿੱਜ ਵਿੱਚ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "lumps formed",
+    "en": "Whisk hard for a minute, or pass it through a sieve.",
+    "hi": "एक मिनट ज़ोर से फेंटो, या छलनी से छान लो।"
+   },
+   {
+    "mistake": "phirni is runny",
+    "en": "Cook a few minutes more. It sets thicker once chilled.",
+    "hi": "कुछ मिनट और पकाओ। ठंडी होकर और गाढ़ी जमती है।"
+   },
+   {
+    "mistake": "milk stuck and burnt at the bottom",
+    "en": "Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.",
+    "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ],
+   "almonds": [
+    "skip"
+   ]
+  }
+ },
+ "ASC293": {
+  "names": {
+   "hi-en": "Suji ka halwa",
+   "hi": "सूजी का हलवा",
+   "pa": "ਸੂਜੀ ਦਾ ਹਲਵਾ"
+  },
+  "steps": [
+   {
+    "en": "Heat the water with the sugar until the sugar dissolves. Keep it hot on the side.",
+    "hi-en": "Paani mein cheeni daal ke ghulne tak garam karo. Ek taraf garam rakho.",
+    "hi": "पानी में चीनी डालकर घुलने तक गरम करो। एक तरफ़ गरम रखो।",
+    "pa": "ਪਾਣੀ ਵਿੱਚ ਖੰਡ ਪਾ ਕੇ ਘੁਲਣ ਤੱਕ ਗਰਮ ਕਰੋ। ਇੱਕ ਪਾਸੇ ਗਰਮ ਰੱਖੋ।"
+   },
+   {
+    "en": "Heat the ghee and roast the suji on low heat, stirring all the time, until golden and it smells nutty, about 8 minutes.",
+    "hi-en": "Ghee garam karke suji dheemi aanch pe lagaataar chalaate hue sunehri aur khushboodar hone tak bhuno, lagbhag 8 minute.",
+    "hi": "घी गरम करके सूजी धीमी आँच पर लगातार चलाते हुए सुनहरी और खुशबूदार होने तक भूनो, लगभग 8 मिनट।",
+    "pa": "ਘਿਓ ਗਰਮ ਕਰਕੇ ਸੂਜੀ ਹੌਲੀ ਅੱਗ ਤੇ ਲਗਾਤਾਰ ਹਿਲਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਖੁਸ਼ਬੂਦਾਰ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8
+   },
+   {
+    "en": "Stand back and pour in the hot sugar water slowly, stirring. Cook until it thickens and leaves the sides, about 3 minutes.",
+    "hi-en": "Thoda peeche khade ho ke garam cheeni wala paani dheere dheere chalaate hue daalo. Gaadha hone aur kinaare chhodne tak pakao, lagbhag 3 minute.",
+    "hi": "थोड़ा पीछे खड़े होकर गरम चीनी वाला पानी धीरे-धीरे चलाते हुए डालो। गाढ़ा होने और किनारे छोड़ने तक पकाओ, लगभग 3 मिनट।",
+    "pa": "ਥੋੜ੍ਹਾ ਪਿੱਛੇ ਖੜ੍ਹੇ ਹੋ ਕੇ ਗਰਮ ਖੰਡ ਵਾਲਾ ਪਾਣੀ ਹੌਲੀ-ਹੌਲੀ ਹਿਲਾਉਂਦੇ ਹੋਏ ਪਾਓ। ਗਾੜ੍ਹਾ ਹੋਣ ਅਤੇ ਕਿਨਾਰੇ ਛੱਡਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 3 ਮਿੰਟ।",
+    "timer": 3,
+    "safety": "splutter"
+   },
+   {
+    "en": "Stir in the cardamom, raisins and almonds and serve warm.",
+    "hi-en": "Elaichi, kishmish aur badaam milao aur garam garam khao.",
+    "hi": "इलायची, किशमिश और बादाम मिलाओ और गरम-गरम खाओ।",
+    "pa": "ਇਲਾਇਚੀ, ਸੌਗੀ ਅਤੇ ਬਦਾਮ ਮਿਲਾਓ ਅਤੇ ਗਰਮ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "lumps in the halwa",
+    "en": "The water was poured too fast or was cold. Mash the lumps with the back of the spoon while stirring.",
+    "hi": "पानी बहुत जल्दी या ठंडा डाला। चलाते हुए चम्मच के पिछले हिस्से से गाँठें तोड़ो।"
+   },
+   {
+    "mistake": "halwa is sticky, not grainy",
+    "en": "The suji was not roasted enough. Roast until golden next time.",
+    "hi": "सूजी कम भुनी थी। अगली बार सुनहरी होने तक भूनना।"
+   },
+   {
+    "mistake": "halwa is too dry",
+    "en": "Sprinkle a few spoons of hot water and stir on low heat.",
+    "hi": "कुछ चम्मच गरम पानी छिड़को और धीमी आँच पर चलाओ।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "jaggery"
+   ],
+   "raisins": [
+    "skip"
+   ],
+   "almonds": [
+    "cashews",
+    "skip"
+   ]
+  }
+ },
+ "ASC295": {
+  "names": {
+   "hi-en": "Gajar ka halwa",
+   "hi": "गाजर का हलवा",
+   "pa": "ਗਾਜਰ ਦਾ ਹਲਵਾ"
+  },
+  "steps": [
+   {
+    "en": "Wash, peel and grate the carrots.",
+    "hi-en": "Gajar dho ke chheel lo aur kaddukas karo.",
+    "hi": "गाजर धोकर छील लो और कद्दूकस करो।",
+    "pa": "ਗਾਜਰ ਧੋ ਕੇ ਛਿੱਲ ਲਓ ਅਤੇ ਕੱਦੂਕਸ ਕਰੋ।"
+   },
+   {
+    "en": "Cook the carrots with the milk in a heavy pan, covered, on low heat until soft, about 10 minutes. Then cook uncovered, stirring, until the liquid dries, about 10 minutes.",
+    "hi-en": "Bhaari pan mein gajar doodh ke saath dhak ke dheemi aanch pe naram hone tak pakao, lagbhag 10 minute. Phir bina dhakke chalaate hue paani sookhne tak pakao, lagbhag 10 minute.",
+    "hi": "भारी बर्तन में गाजर दूध के साथ ढककर धीमी आँच पर नरम होने तक पकाओ, लगभग 10 मिनट। फिर बिना ढके चलाते हुए पानी सूखने तक पकाओ, लगभग 10 मिनट।",
+    "pa": "ਭਾਰੀ ਭਾਂਡੇ ਵਿੱਚ ਗਾਜਰ ਦੁੱਧ ਨਾਲ ਢੱਕ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 10 ਮਿੰਟ। ਫਿਰ ਬਿਨਾਂ ਢੱਕੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਪਾਣੀ ਸੁੱਕਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 10 ਮਿੰਟ।",
+    "timer": 10
+   },
+   {
+    "en": "Add the ghee and sugar and keep stirring until it is dry again and glossy, about 10 minutes.",
+    "hi-en": "Ghee aur cheeni daal ke chalaate raho jab tak phir se sookha aur chamakdaar ho jaaye, lagbhag 10 minute.",
+    "hi": "घी और चीनी डालकर चलाते रहो जब तक फिर से सूखा और चमकदार हो जाए, लगभग 10 मिनट।",
+    "pa": "ਘਿਓ ਅਤੇ ਖੰਡ ਪਾ ਕੇ ਹਿਲਾਉਂਦੇ ਰਹੋ ਜਦੋਂ ਤੱਕ ਫਿਰ ਤੋਂ ਸੁੱਕਾ ਅਤੇ ਚਮਕਦਾਰ ਹੋ ਜਾਵੇ, ਲਗਭਗ 10 ਮਿੰਟ।",
+    "timer": 10
+   },
+   {
+    "en": "Crumble in the khoya and cook for 5 minutes. Stir in the cardamom, almonds, cashews and pistachios.",
+    "hi-en": "Khoya masal ke daalo aur 5 minute pakao. Elaichi, badaam, kaju aur pista milao.",
+    "hi": "खोया मसलकर डालो और 5 मिनट पकाओ। इलायची, बादाम, काजू और पिस्ता मिलाओ।",
+    "pa": "ਖੋਆ ਮਸਲ ਕੇ ਪਾਓ ਅਤੇ 5 ਮਿੰਟ ਪਕਾਓ। ਇਲਾਇਚੀ, ਬਦਾਮ, ਕਾਜੂ ਅਤੇ ਪਿਸਤਾ ਮਿਲਾਓ।",
+    "timer": 5
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "halwa is watery",
+    "en": "The sugar lets out liquid. Keep cooking on medium heat, stirring, until it dries.",
+    "hi": "चीनी पानी छोड़ती है। मध्यम आँच पर चलाते हुए सूखने तक पकाते रहो।"
+   },
+   {
+    "mistake": "sticking to the pan",
+    "en": "Lower the heat, add a spoon of ghee and stir more often.",
+    "hi": "आँच कम करो, एक चम्मच घी डालो और ज़्यादा बार चलाओ।"
+   },
+   {
+    "mistake": "not sweet enough",
+    "en": "Add a spoon of sugar and cook until it dries again.",
+    "hi": "एक चम्मच चीनी और डालो और फिर सूखने तक पकाओ।"
+   }
+  ],
+  "swaps": {
+   "khoya": [
+    "condensed_milk",
+    "skip"
+   ],
+   "cashews": [
+    "skip"
+   ],
+   "pistachios": [
+    "skip"
+   ]
+  }
+ },
+ "ASC298": {
+  "names": {
+   "hi-en": "Kaddu ka halwa",
+   "hi": "कद्दू का हलवा",
+   "pa": "ਕੱਦੂ ਦਾ ਹਲਵਾ"
+  },
+  "steps": [
+   {
+    "en": "Peel the pumpkin, take out the seeds and grate it.",
+    "hi-en": "Kaddu chheel ke beej nikaalo aur kaddukas karo.",
+    "hi": "कद्दू छीलकर बीज निकालो और कद्दूकस करो।",
+    "pa": "ਕੱਦੂ ਛਿੱਲ ਕੇ ਬੀਜ ਕੱਢੋ ਅਤੇ ਕੱਦੂਕਸ ਕਰੋ।"
+   },
+   {
+    "en": "Heat the ghee, add the pumpkin, cover and cook on low heat until soft, about 8 minutes. Then cook uncovered until the water dries.",
+    "hi-en": "Ghee garam karke kaddu daalo, dhak ke dheemi aanch pe naram hone tak pakao, lagbhag 8 minute. Phir bina dhakke paani sookhne tak pakao.",
+    "hi": "घी गरम करके कद्दू डालो, ढककर धीमी आँच पर नरम होने तक पकाओ, लगभग 8 मिनट। फिर बिना ढके पानी सूखने तक पकाओ।",
+    "pa": "ਘਿਓ ਗਰਮ ਕਰਕੇ ਕੱਦੂ ਪਾਓ, ਢੱਕ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 8 ਮਿੰਟ। ਫਿਰ ਬਿਨਾਂ ਢੱਕੇ ਪਾਣੀ ਸੁੱਕਣ ਤੱਕ ਪਕਾਓ।",
+    "timer": 8
+   },
+   {
+    "en": "Add the sugar and stir until the halwa is thick and glossy, about 8 minutes.",
+    "hi-en": "Cheeni daal ke chalaate raho jab tak halwa gaadha aur chamakdaar ho jaaye, lagbhag 8 minute.",
+    "hi": "चीनी डालकर चलाते रहो जब तक हलवा गाढ़ा और चमकदार हो जाए, लगभग 8 मिनट।",
+    "pa": "ਖੰਡ ਪਾ ਕੇ ਹਿਲਾਉਂਦੇ ਰਹੋ ਜਦੋਂ ਤੱਕ ਹਲਵਾ ਗਾੜ੍ਹਾ ਅਤੇ ਚਮਕਦਾਰ ਹੋ ਜਾਵੇ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8
+   },
+   {
+    "en": "Stir in the coconut powder and cook for 2 minutes. Add the cardamom, raisins and almonds.",
+    "hi-en": "Nariyal powder milao aur 2 minute pakao. Elaichi, kishmish aur badaam daalo.",
+    "hi": "नारियल पाउडर मिलाओ और 2 मिनट पकाओ। इलायची, किशमिश और बादाम डालो।",
+    "pa": "ਨਾਰੀਅਲ ਪਾਊਡਰ ਮਿਲਾਓ ਅਤੇ 2 ਮਿੰਟ ਪਕਾਓ। ਇਲਾਇਚੀ, ਸੌਗੀ ਅਤੇ ਬਦਾਮ ਪਾਓ।",
+    "timer": 2
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "halwa is watery",
+    "en": "Keep cooking uncovered on medium heat, stirring, until the liquid is gone.",
+    "hi": "बिना ढके मध्यम आँच पर चलाते हुए पानी खत्म होने तक पकाओ।"
+   },
+   {
+    "mistake": "sticking to the pan",
+    "en": "Lower the heat and add half a spoon of ghee.",
+    "hi": "आँच कम करो और आधा चम्मच घी डालो।"
+   },
+   {
+    "mistake": "pumpkin pieces still firm",
+    "en": "Grate it finer next time. Now, cover with a spoon of water for 3 minutes.",
+    "hi": "अगली बार बारीक कद्दूकस करना। अभी एक चम्मच पानी डालकर 3 मिनट ढक दो।"
+   }
+  ],
+  "swaps": {
+   "coconut": [
+    "skip"
+   ],
+   "sugar": [
+    "jaggery"
+   ],
+   "raisins": [
+    "skip"
+   ]
+  }
+ },
+ "ASC321": {
+  "names": {
+   "hi-en": "Kulfi",
+   "hi": "कुल्फ़ी",
+   "pa": "ਕੁਲਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Boil the milk in a heavy, wide pan. Simmer on low heat, stirring and scraping the cream from the sides back in, until it is reduced to half, about 25 minutes.",
+    "hi-en": "Bhaari chaude pan mein doodh ubaalo. Dheemi aanch pe chalaate hue aur kinaaron ki malaai wapas milaate hue aadha hone tak pakao, lagbhag 25 minute.",
+    "hi": "भारी चौड़े बर्तन में दूध उबालो। धीमी आँच पर चलाते हुए और किनारों की मलाई वापस मिलाते हुए आधा होने तक पकाओ, लगभग 25 मिनट।",
+    "pa": "ਭਾਰੀ ਚੌੜੇ ਭਾਂਡੇ ਵਿੱਚ ਦੁੱਧ ਉਬਾਲੋ। ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਅਤੇ ਕਿਨਾਰਿਆਂ ਦੀ ਮਲਾਈ ਵਾਪਸ ਮਿਲਾਉਂਦੇ ਹੋਏ ਅੱਧਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 25 ਮਿੰਟ।",
+    "timer": 25,
+    "safety": "boil_over"
+   },
+   {
+    "en": "Mix the cornflour with 2 tablespoons of cold milk and stir it in. Cook for 3 minutes, then add the sugar.",
+    "hi-en": "Cornflour 2 chammach thande doodh mein ghol ke milao. 3 minute pakao, phir cheeni daalo.",
+    "hi": "कॉर्नफ्लोर 2 चम्मच ठंडे दूध में घोलकर मिलाओ। 3 मिनट पकाओ, फिर चीनी डालो।",
+    "pa": "ਕੌਰਨਫਲੋਰ 2 ਚਮਚ ਠੰਡੇ ਦੁੱਧ ਵਿੱਚ ਘੋਲ ਕੇ ਮਿਲਾਓ। 3 ਮਿੰਟ ਪਕਾਓ, ਫਿਰ ਖੰਡ ਪਾਓ।",
+    "timer": 3
+   },
+   {
+    "en": "Let it cool. Stir in the kewra essence and the chopped almonds and pistachios.",
+    "hi-en": "Thanda hone do. Kewra essence aur kate badaam pista milao.",
+    "hi": "ठंडा होने दो। केवड़ा एसेंस और कटे बादाम-पिस्ता मिलाओ।",
+    "pa": "ਠੰਡਾ ਹੋਣ ਦਿਓ। ਕੇਵੜਾ ਐਸੈਂਸ ਅਤੇ ਕੱਟੇ ਬਦਾਮ-ਪਿਸਤਾ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Pour into kulfi moulds or small cups, cover and freeze for 6 to 8 hours. Dip the mould in warm water for a few seconds to take it out.",
+    "hi-en": "Kulfi ke saanchon ya chhote cup mein daal ke dhak do aur 6 se 8 ghante freezer mein rakho. Nikaalne ke liye saancha kuch second gungune paani mein dubao.",
+    "hi": "कुल्फ़ी के साँचों या छोटे कप में डालकर ढक दो और 6 से 8 घंटे फ्रीज़र में रखो। निकालने के लिए साँचा कुछ सेकंड गुनगुने पानी में डुबाओ।",
+    "pa": "ਕੁਲਫ਼ੀ ਦੇ ਸਾਂਚਿਆਂ ਜਾਂ ਛੋਟੇ ਕੱਪਾਂ ਵਿੱਚ ਪਾ ਕੇ ਢੱਕ ਦਿਓ ਅਤੇ 6 ਤੋਂ 8 ਘੰਟੇ ਫ੍ਰੀਜ਼ਰ ਵਿੱਚ ਰੱਖੋ। ਕੱਢਣ ਲਈ ਸਾਂਚਾ ਕੁਝ ਸਕਿੰਟ ਕੋਸੇ ਪਾਣੀ ਵਿੱਚ ਡੁਬੋਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "kulfi is icy",
+    "en": "The milk was not reduced enough. Reduce it to half, and the cornflour helps keep it smooth.",
+    "hi": "दूध ठीक से नहीं औटा। आधा होने तक औटाओ, कॉर्नफ्लोर भी इसे चिकना रखता है।"
+   },
+   {
+    "mistake": "lumps from the cornflour",
+    "en": "Always mix the cornflour in cold milk first, then add it while stirring.",
+    "hi": "कॉर्नफ्लोर हमेशा पहले ठंडे दूध में घोलो, फिर चलाते हुए डालो।"
+   },
+   {
+    "mistake": "milk stuck and burnt at the bottom",
+    "en": "Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.",
+    "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ],
+   "pistachios": [
+    "almonds",
+    "skip"
+   ]
+  }
+ },
+ "ASC336": {
+  "names": {
+   "hi-en": "Nariyal burfi",
+   "hi": "नारियल बर्फ़ी",
+   "pa": "ਨਾਰੀਅਲ ਬਰਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Grease a plate with a little ghee. Heat the rest of the ghee and cook the crumbled khoya on low heat until soft, about 3 minutes.",
+    "hi-en": "Plate pe thoda ghee laga lo. Baaki ghee garam karke masla khoya dheemi aanch pe naram hone tak pakao, lagbhag 3 minute.",
+    "hi": "प्लेट पर थोड़ा घी लगा लो। बाकी घी गरम करके मसला खोया धीमी आँच पर नरम होने तक पकाओ, लगभग 3 मिनट।",
+    "pa": "ਪਲੇਟ ਤੇ ਥੋੜ੍ਹਾ ਘਿਓ ਲਗਾ ਲਓ। ਬਾਕੀ ਘਿਓ ਗਰਮ ਕਰਕੇ ਮਸਲਿਆ ਖੋਆ ਹੌਲੀ ਅੱਗ ਤੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 3 ਮਿੰਟ।",
+    "timer": 3
+   },
+   {
+    "en": "Add the coconut powder and sugar and keep stirring until the mix leaves the sides of the pan, about 7 minutes.",
+    "hi-en": "Nariyal powder aur cheeni daal ke chalaate raho jab tak mishran kadhai ke kinaare chhod de, lagbhag 7 minute.",
+    "hi": "नारियल पाउडर और चीनी डालकर चलाते रहो जब तक मिश्रण कड़ाही के किनारे छोड़ दे, लगभग 7 मिनट।",
+    "pa": "ਨਾਰੀਅਲ ਪਾਊਡਰ ਅਤੇ ਖੰਡ ਪਾ ਕੇ ਹਿਲਾਉਂਦੇ ਰਹੋ ਜਦੋਂ ਤੱਕ ਮਿਸ਼ਰਣ ਕੜਾਹੀ ਦੇ ਕਿਨਾਰੇ ਛੱਡ ਦੇਵੇ, ਲਗਭਗ 7 ਮਿੰਟ।",
+    "timer": 7
+   },
+   {
+    "en": "Turn off the heat and mix in the colour, if using, and the kewra essence.",
+    "hi-en": "Gas band karke rang, agar daalna ho, aur kewra essence milao.",
+    "hi": "गैस बंद करके रंग, अगर डालना हो, और केवड़ा एसेंस मिलाओ।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਰੰਗ, ਜੇ ਪਾਉਣਾ ਹੋਵੇ, ਅਤੇ ਕੇਵੜਾ ਐਸੈਂਸ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Spread it on a greased plate, press it flat and leave it to set for 30 minutes. Cut into squares.",
+    "hi-en": "Ghee lagi plate pe faila ke dabaa do aur 30 minute jamne do. Chaukor tukde kaato.",
+    "hi": "घी लगी प्लेट पर फैलाकर दबा दो और 30 मिनट जमने दो। चौकोर टुकड़े काटो।",
+    "pa": "ਘਿਓ ਲੱਗੀ ਪਲੇਟ ਤੇ ਫੈਲਾ ਕੇ ਦਬਾ ਦਿਓ ਅਤੇ 30 ਮਿੰਟ ਜੰਮਣ ਦਿਓ। ਚੌਰਸ ਟੁਕੜੇ ਕੱਟੋ।",
+    "timer": 30
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "burfi will not set",
+    "en": "It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.",
+    "hi": "जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।"
+   },
+   {
+    "mistake": "burfi is hard and crumbly",
+    "en": "It cooked too long. Next time take it off as soon as it gathers into one lump.",
+    "hi": "ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
+   },
+   {
+    "mistake": "too sweet",
+    "en": "Use a little less sugar next time. Khoya is already slightly sweet.",
+    "hi": "अगली बार चीनी थोड़ी कम डालना। खोया पहले से हल्का मीठा होता है।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ],
+   "khoya": [
+    "condensed_milk"
+   ]
+  }
+ },
+ "ASC337": {
+  "names": {
+   "hi-en": "Lauki ki burfi",
+   "hi": "लौकी की बर्फ़ी",
+   "pa": "ਘੀਏ ਦੀ ਬਰਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Peel and grate the lauki and squeeze out the water. Grease a plate with a little ghee.",
+    "hi-en": "Lauki chheel ke kaddukas karo aur paani nichod lo. Plate pe thoda ghee laga lo.",
+    "hi": "लौकी छीलकर कद्दूकस करो और पानी निचोड़ लो। प्लेट पर थोड़ा घी लगा लो।",
+    "pa": "ਘੀਆ ਛਿੱਲ ਕੇ ਕੱਦੂਕਸ ਕਰੋ ਅਤੇ ਪਾਣੀ ਨਿਚੋੜ ਲਓ। ਪਲੇਟ ਤੇ ਥੋੜ੍ਹਾ ਘਿਓ ਲਗਾ ਲਓ।"
+   },
+   {
+    "en": "Heat a teaspoon of ghee, add the lauki with the water and cook until soft and dry, about 10 minutes.",
+    "hi-en": "Ek chhota chammach ghee garam karke lauki paani ke saath daalo aur naram aur sookhi hone tak pakao, lagbhag 10 minute.",
+    "hi": "एक छोटा चम्मच घी गरम करके लौकी पानी के साथ डालो और नरम और सूखी होने तक पकाओ, लगभग 10 मिनट।",
+    "pa": "ਇੱਕ ਛੋਟਾ ਚਮਚ ਘਿਓ ਗਰਮ ਕਰਕੇ ਘੀਆ ਪਾਣੀ ਨਾਲ ਪਾਓ ਅਤੇ ਨਰਮ ਅਤੇ ਸੁੱਕਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 10 ਮਿੰਟ।",
+    "timer": 10
+   },
+   {
+    "en": "Add the sugar and stir until it dries again, about 6 minutes. Add the rest of the ghee and the crumbled khoya and cook until the mix leaves the sides, about 5 minutes.",
+    "hi-en": "Cheeni daal ke phir sookhne tak chalao, lagbhag 6 minute. Baaki ghee aur masla khoya daal ke kinaare chhodne tak pakao, lagbhag 5 minute.",
+    "hi": "चीनी डालकर फिर सूखने तक चलाओ, लगभग 6 मिनट। बाकी घी और मसला खोया डालकर किनारे छोड़ने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਖੰਡ ਪਾ ਕੇ ਫਿਰ ਸੁੱਕਣ ਤੱਕ ਹਿਲਾਓ, ਲਗਭਗ 6 ਮਿੰਟ। ਬਾਕੀ ਘਿਓ ਅਤੇ ਮਸਲਿਆ ਖੋਆ ਪਾ ਕੇ ਕਿਨਾਰੇ ਛੱਡਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 6
+   },
+   {
+    "en": "Turn off the heat and mix in the green colour, if using, and the kewra essence.",
+    "hi-en": "Gas band karke hara rang, agar daalna ho, aur kewra essence milao.",
+    "hi": "गैस बंद करके हरा रंग, अगर डालना हो, और केवड़ा एसेंस मिलाओ।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਹਰਾ ਰੰਗ, ਜੇ ਪਾਉਣਾ ਹੋਵੇ, ਅਤੇ ਕੇਵੜਾ ਐਸੈਂਸ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Spread it on a greased plate, press it flat and leave it to set for 30 minutes. Cut into squares.",
+    "hi-en": "Ghee lagi plate pe faila ke dabaa do aur 30 minute jamne do. Chaukor tukde kaato.",
+    "hi": "घी लगी प्लेट पर फैलाकर दबा दो और 30 मिनट जमने दो। चौकोर टुकड़े काटो।",
+    "pa": "ਘਿਓ ਲੱਗੀ ਪਲੇਟ ਤੇ ਫੈਲਾ ਕੇ ਦਬਾ ਦਿਓ ਅਤੇ 30 ਮਿੰਟ ਜੰਮਣ ਦਿਓ। ਚੌਰਸ ਟੁਕੜੇ ਕੱਟੋ।",
+    "timer": 30
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "burfi will not set",
+    "en": "It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.",
+    "hi": "जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।"
+   },
+   {
+    "mistake": "burfi is hard and crumbly",
+    "en": "It cooked too long. Next time take it off as soon as it gathers into one lump.",
+    "hi": "ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
+   },
+   {
+    "mistake": "lauki tastes bitter",
+    "en": "Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.",
+    "hi": "पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ],
+   "khoya": [
+    "condensed_milk"
+   ]
+  }
+ },
+ "ASC339": {
+  "names": {
+   "hi-en": "Kaju katli",
+   "hi": "काजू कतली",
+   "pa": "ਕਾਜੂ ਕਤਲੀ"
+  },
+  "steps": [
+   {
+    "en": "Grind the cashews to a fine powder in short bursts, so they do not turn oily.",
+    "hi-en": "Kaju ko ruk ruk ke chala ke barik powder bana lo, taaki tel na chhode.",
+    "hi": "काजू को रुक-रुककर चलाकर बारीक पाउडर बना लो, ताकि तेल न छोड़े।",
+    "pa": "ਕਾਜੂ ਨੂੰ ਰੁਕ-ਰੁਕ ਕੇ ਚਲਾ ਕੇ ਬਾਰੀਕ ਪਾਊਡਰ ਬਣਾ ਲਓ, ਤਾਂ ਜੋ ਤੇਲ ਨਾ ਛੱਡਣ।"
+   },
+   {
+    "en": "Boil the sugar with 3 tablespoons of water until the syrup makes one thread between your finger and thumb, about 5 minutes.",
+    "hi-en": "Cheeni 3 chammach paani ke saath ubaalo jab tak chaashni ungli aur angoothe ke beech ek taar bana de, lagbhag 5 minute.",
+    "hi": "चीनी 3 चम्मच पानी के साथ उबालो जब तक चाशनी उँगली और अँगूठे के बीच एक तार बना दे, लगभग 5 मिनट।",
+    "pa": "ਖੰਡ 3 ਚਮਚ ਪਾਣੀ ਨਾਲ ਉਬਾਲੋ ਜਦੋਂ ਤੱਕ ਚਾਸ਼ਨੀ ਉਂਗਲ ਅਤੇ ਅੰਗੂਠੇ ਵਿੱਚਕਾਰ ਇੱਕ ਤਾਰ ਬਣਾ ਦੇਵੇ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5,
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "On low heat, add the cashew powder and stir until it comes together like soft dough, about 4 minutes. Mix in the ghee and kewra essence.",
+    "hi-en": "Dheemi aanch pe kaju powder daal ke chalao jab tak naram aate jaisa ikattha ho jaaye, lagbhag 4 minute. Ghee aur kewra essence milao.",
+    "hi": "धीमी आँच पर काजू पाउडर डालकर चलाओ जब तक नरम आटे जैसा इकट्ठा हो जाए, लगभग 4 मिनट। घी और केवड़ा एसेंस मिलाओ।",
+    "pa": "ਹੌਲੀ ਅੱਗ ਤੇ ਕਾਜੂ ਪਾਊਡਰ ਪਾ ਕੇ ਹਿਲਾਓ ਜਦੋਂ ਤੱਕ ਨਰਮ ਆਟੇ ਵਰਗਾ ਇਕੱਠਾ ਹੋ ਜਾਵੇ, ਲਗਭਗ 4 ਮਿੰਟ। ਘਿਓ ਅਤੇ ਕੇਵੜਾ ਐਸੈਂਸ ਮਿਲਾਓ।",
+    "timer": 4
+   },
+   {
+    "en": "When it is cool enough to touch, knead it smooth. Roll it between two greased sheets to the thickness of a coin and cut into diamonds.",
+    "hi-en": "Jab chhoone layak thanda ho jaaye, smooth goondh lo. Do ghee lagi sheeton ke beech sikke jitna mota bel ke diamond shape mein kaato.",
+    "hi": "जब छूने लायक ठंडा हो जाए, चिकना गूँध लो। दो घी लगी शीटों के बीच सिक्के जितना मोटा बेलकर डायमंड आकार में काटो।",
+    "pa": "ਜਦੋਂ ਛੂਹਣ ਲਾਇਕ ਠੰਡਾ ਹੋ ਜਾਵੇ, ਮੁਲਾਇਮ ਗੁੰਨ੍ਹ ਲਓ। ਦੋ ਘਿਓ ਲੱਗੀਆਂ ਸ਼ੀਟਾਂ ਵਿੱਚਕਾਰ ਸਿੱਕੇ ਜਿੰਨਾ ਮੋਟਾ ਵੇਲ ਕੇ ਡਾਇਮੰਡ ਸ਼ਕਲ ਵਿੱਚ ਕੱਟੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "dough is sticky",
+    "en": "It needs more cooking. Put it back on low heat for a minute or two.",
+    "hi": "थोड़ा और पकाना है। एक-दो मिनट फिर धीमी आँच पर रखो।"
+   },
+   {
+    "mistake": "dough is dry and cracks",
+    "en": "It cooked too long. Knead in a few drops of warm milk.",
+    "hi": "ज़्यादा पक गया। कुछ बूँदें गरम दूध मिलाकर गूँधो।"
+   },
+   {
+    "mistake": "cashew powder turned oily",
+    "en": "Grind in short bursts and stop as soon as it is powder.",
+    "hi": "रुक-रुककर पीसो और पाउडर बनते ही रोक दो।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ]
+  }
+ },
+ "ASC340": {
+  "names": {
+   "hi-en": "Besan ki burfi",
+   "hi": "बेसन की बर्फ़ी",
+   "pa": "ਵੇਸਣ ਦੀ ਬਰਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Heat the ghee and roast the besan on low heat, stirring all the time, until golden and nutty, about 15 minutes.",
+    "hi-en": "Ghee garam karke besan dheemi aanch pe lagaataar chalaate hue sunehra aur khushboodar hone tak bhuno, lagbhag 15 minute.",
+    "hi": "घी गरम करके बेसन धीमी आँच पर लगातार चलाते हुए सुनहरा और खुशबूदार होने तक भूनो, लगभग 15 मिनट।",
+    "pa": "ਘਿਓ ਗਰਮ ਕਰਕੇ ਵੇਸਣ ਹੌਲੀ ਅੱਗ ਤੇ ਲਗਾਤਾਰ ਹਿਲਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਖੁਸ਼ਬੂਦਾਰ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 15 ਮਿੰਟ।",
+    "timer": 15
+   },
+   {
+    "en": "Crumble in the khoya and cook for 3 minutes.",
+    "hi-en": "Khoya masal ke daalo aur 3 minute pakao.",
+    "hi": "खोया मसलकर डालो और 3 मिनट पकाओ।",
+    "pa": "ਖੋਆ ਮਸਲ ਕੇ ਪਾਓ ਅਤੇ 3 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 3
+   },
+   {
+    "en": "In another pan, melt the sugar with the water and let it bubble for 2 minutes. Pour it into the besan with the cardamom and stir fast.",
+    "hi-en": "Doosre pan mein cheeni paani ke saath pighla ke 2 minute ubaalo. Besan mein elaichi ke saath daal ke jaldi jaldi chalao.",
+    "hi": "दूसरे बर्तन में चीनी पानी के साथ पिघलाकर 2 मिनट उबालो। बेसन में इलायची के साथ डालकर जल्दी-जल्दी चलाओ।",
+    "pa": "ਦੂਜੇ ਭਾਂਡੇ ਵਿੱਚ ਖੰਡ ਪਾਣੀ ਨਾਲ ਪਿਘਲਾ ਕੇ 2 ਮਿੰਟ ਉਬਾਲੋ। ਵੇਸਣ ਵਿੱਚ ਇਲਾਇਚੀ ਨਾਲ ਪਾ ਕੇ ਜਲਦੀ-ਜਲਦੀ ਹਿਲਾਓ।",
+    "timer": 2,
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "Spread it on a greased plate, press it flat and leave it to set for 30 minutes. Cut into squares.",
+    "hi-en": "Ghee lagi plate pe faila ke dabaa do aur 30 minute jamne do. Chaukor tukde kaato.",
+    "hi": "घी लगी प्लेट पर फैलाकर दबा दो और 30 मिनट जमने दो। चौकोर टुकड़े काटो।",
+    "pa": "ਘਿਓ ਲੱਗੀ ਪਲੇਟ ਤੇ ਫੈਲਾ ਕੇ ਦਬਾ ਦਿਓ ਅਤੇ 30 ਮਿੰਟ ਜੰਮਣ ਦਿਓ। ਚੌਰਸ ਟੁਕੜੇ ਕੱਟੋ।",
+    "timer": 30
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raw taste",
+    "en": "It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.",
+    "hi": "ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।"
+   },
+   {
+    "mistake": "burfi will not set",
+    "en": "It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.",
+    "hi": "जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।"
+   },
+   {
+    "mistake": "besan burnt in spots",
+    "en": "The heat was too high. Roast besan only on low heat and keep stirring.",
+    "hi": "आँच तेज़ थी। बेसन हमेशा धीमी आँच पर भूनो और चलाते रहो।"
+   }
+  ],
+  "swaps": {
+   "khoya": [
+    "skip"
+   ]
+  }
+ },
+ "ASC343": {
+  "names": {
+   "hi-en": "Besan ke laddoo",
+   "hi": "बेसन के लड्डू",
+   "pa": "ਵੇਸਣ ਦੇ ਲੱਡੂ"
+  },
+  "steps": [
+   {
+    "en": "Heat the ghee and add the besan and suji. Roast on low heat, stirring all the time, until golden and nutty, about 15 minutes. Add a pinch of haldi for colour.",
+    "hi-en": "Ghee garam karke besan aur suji daalo. Dheemi aanch pe lagaataar chalaate hue sunehra aur khushboodar hone tak bhuno, lagbhag 15 minute. Rang ke liye chutki haldi daalo.",
+    "hi": "घी गरम करके बेसन और सूजी डालो। धीमी आँच पर लगातार चलाते हुए सुनहरा और खुशबूदार होने तक भूनो, लगभग 15 मिनट। रंग के लिए चुटकी भर हल्दी डालो।",
+    "pa": "ਘਿਓ ਗਰਮ ਕਰਕੇ ਵੇਸਣ ਅਤੇ ਸੂਜੀ ਪਾਓ। ਹੌਲੀ ਅੱਗ ਤੇ ਲਗਾਤਾਰ ਹਿਲਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਖੁਸ਼ਬੂਦਾਰ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 15 ਮਿੰਟ। ਰੰਗ ਲਈ ਚੁਟਕੀ ਹਲਦੀ ਪਾਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Take it off the heat and let it cool until just warm, about 10 minutes.",
+    "hi-en": "Aanch se utaar ke halka garam rehne tak thanda hone do, lagbhag 10 minute.",
+    "hi": "आँच से उतारकर हल्का गरम रहने तक ठंडा होने दो, लगभग 10 मिनट।",
+    "pa": "ਅੱਗ ਤੋਂ ਉਤਾਰ ਕੇ ਹਲਕਾ ਗਰਮ ਰਹਿਣ ਤੱਕ ਠੰਡਾ ਹੋਣ ਦਿਓ, ਲਗਭਗ 10 ਮਿੰਟ।",
+    "timer": 10
+   },
+   {
+    "en": "Mix in the powdered sugar and cardamom. Take a little in your palm, press and roll into round laddoos.",
+    "hi-en": "Pisi cheeni aur elaichi milao. Thoda mishran hatheli mein le ke daba ke gol laddoo bana lo.",
+    "hi": "पिसी चीनी और इलायची मिलाओ। थोड़ा मिश्रण हथेली में लेकर दबाकर गोल लड्डू बना लो।",
+    "pa": "ਪੀਸੀ ਖੰਡ ਅਤੇ ਇਲਾਇਚੀ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ ਮਿਸ਼ਰਣ ਹਥੇਲੀ ਵਿੱਚ ਲੈ ਕੇ ਦਬਾ ਕੇ ਗੋਲ ਲੱਡੂ ਬਣਾ ਲਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "ladoos will not hold",
+    "en": "The mix has cooled. Warm it for a few seconds, or add a spoon of warm ghee, and shape again.",
+    "hi": "मिश्रण ठंडा हो गया। कुछ सेकंड गरम करो, या एक चम्मच गरम घी मिलाओ, फिर बाँधो।"
+   },
+   {
+    "mistake": "raw taste",
+    "en": "It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.",
+    "hi": "ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।"
+   },
+   {
+    "mistake": "sugar melted and mix turned runny",
+    "en": "The mix was too hot. Let it cool more before adding sugar.",
+    "hi": "मिश्रण बहुत गरम था। चीनी डालने से पहले और ठंडा होने दो।"
+   }
+  ],
+  "swaps": {
+   "suji": [
+    "skip"
+   ]
+  }
+ },
+ "ASC344": {
+  "names": {
+   "hi-en": "Til ke laddoo",
+   "hi": "तिल के लड्डू",
+   "pa": "ਤਿਲਾਂ ਦੇ ਲੱਡੂ"
+  },
+  "steps": [
+   {
+    "en": "Dry roast the til on low heat, stirring, until they start to pop and turn light golden, about 4 minutes. Spread on a plate.",
+    "hi-en": "Til sookhe pan mein dheemi aanch pe chalaate hue chatakne aur halke sunehre hone tak bhuno, lagbhag 4 minute. Plate pe faila do.",
+    "hi": "तिल सूखे बर्तन में धीमी आँच पर चलाते हुए चटकने और हल्के सुनहरे होने तक भूनो, लगभग 4 मिनट। प्लेट पर फैला दो।",
+    "pa": "ਤਿਲ ਸੁੱਕੇ ਭਾਂਡੇ ਵਿੱਚ ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਤਿੜਕਣ ਅਤੇ ਹਲਕੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 4 ਮਿੰਟ। ਪਲੇਟ ਤੇ ਫੈਲਾ ਦਿਓ।",
+    "timer": 4
+   },
+   {
+    "en": "Melt the jaggery with the water on low heat until it bubbles and a drop in cold water forms a soft ball, about 4 minutes.",
+    "hi-en": "Gud paani ke saath dheemi aanch pe pighlao jab tak ubaal aaye aur ek boond thande paani mein naram goli ban jaaye, lagbhag 4 minute.",
+    "hi": "गुड़ पानी के साथ धीमी आँच पर पिघलाओ जब तक उबाल आए और एक बूँद ठंडे पानी में नरम गोली बन जाए, लगभग 4 मिनट।",
+    "pa": "ਗੁੜ ਪਾਣੀ ਨਾਲ ਹੌਲੀ ਅੱਗ ਤੇ ਪਿਘਲਾਓ ਜਦੋਂ ਤੱਕ ਉਬਾਲ ਆਵੇ ਅਤੇ ਇੱਕ ਬੂੰਦ ਠੰਡੇ ਪਾਣੀ ਵਿੱਚ ਨਰਮ ਗੋਲੀ ਬਣ ਜਾਵੇ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "Turn off the heat, add the til and mix well.",
+    "hi-en": "Gas band karke til daalo aur achhe se milao.",
+    "hi": "गैस बंद करके तिल डालो और अच्छे से मिलाओ।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਤਿਲ ਪਾਓ ਅਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Grease your palms and shape small laddoos while the mix is still warm. Work quickly, it hardens as it cools.",
+    "hi-en": "Hatheliyon pe ghee laga ke garam garam mein hi chhote laddoo bana lo. Jaldi karna, thanda ho ke sakht ho jaata hai.",
+    "hi": "हथेलियों पर घी लगाकर गरम-गरम में ही छोटे लड्डू बना लो। जल्दी करना, ठंडा होकर सख्त हो जाता है।",
+    "pa": "ਹਥੇਲੀਆਂ ਤੇ ਘਿਓ ਲਗਾ ਕੇ ਗਰਮ-ਗਰਮ ਵਿੱਚ ਹੀ ਛੋਟੇ ਲੱਡੂ ਬਣਾ ਲਓ। ਜਲਦੀ ਕਰਨਾ, ਠੰਡਾ ਹੋ ਕੇ ਸਖ਼ਤ ਹੋ ਜਾਂਦਾ ਹੈ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mix got too hard to shape",
+    "en": "Warm it on very low heat for a few seconds until soft again.",
+    "hi": "बहुत धीमी आँच पर कुछ सेकंड गरम करो जब तक फिर नरम हो जाए।"
+   },
+   {
+    "mistake": "laddoos are sticky and soft",
+    "en": "The jaggery was not cooked enough. Next time cook until a drop forms a firm ball in water.",
+    "hi": "गुड़ कम पका। अगली बार इतना पकाना कि पानी में एक बूँद पक्की गोली बने।"
+   },
+   {
+    "mistake": "til tastes bitter",
+    "en": "They were roasted too dark. Roast only until light golden.",
+    "hi": "तिल ज़्यादा भुन गए। बस हल्के सुनहरे होने तक भूनो।"
+   }
+  ],
+  "swaps": {
+   "jaggery": [
+    "sugar"
+   ]
+  }
+ },
+ "ASC348": {
+  "names": {
+   "hi-en": "Gulab jamun",
+   "hi": "गुलाब जामुन",
+   "pa": "ਗੁਲਾਬ ਜਾਮੁਨ"
+  },
+  "steps": [
+   {
+    "en": "For the syrup, boil the sugar with 125 ml water for 5 minutes until slightly sticky. Keep it warm.",
+    "hi-en": "Chaashni ke liye cheeni 125 ml paani ke saath 5 minute ubaalo jab tak halki chipchipi ho jaaye. Garam rakho.",
+    "hi": "चाशनी के लिए चीनी 125 ml पानी के साथ 5 मिनट उबालो जब तक हल्की चिपचिपी हो जाए। गरम रखो।",
+    "pa": "ਚਾਸ਼ਨੀ ਲਈ ਖੰਡ 125 ml ਪਾਣੀ ਨਾਲ 5 ਮਿੰਟ ਉਬਾਲੋ ਜਦੋਂ ਤੱਕ ਹਲਕੀ ਚਿਪਚਿਪੀ ਹੋ ਜਾਵੇ। ਗਰਮ ਰੱਖੋ।",
+    "timer": 5,
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "Grate the khoya and mix it with the maida and a tiny pinch of soda. Add the milk and a teaspoon of water and knead gently for 3 minutes until smooth.",
+    "hi-en": "Khoya kaddukas karke maida aur bahut chhoti chutki soda milao. Doodh aur ek chhota chammach paani daal ke 3 minute halke haath se smooth hone tak goondho.",
+    "hi": "खोया कद्दूकस करके मैदा और बहुत छोटी चुटकी सोडा मिलाओ। दूध और एक छोटा चम्मच पानी डालकर 3 मिनट हल्के हाथ से चिकना होने तक गूँधो।",
+    "pa": "ਖੋਆ ਕੱਦੂਕਸ ਕਰਕੇ ਮੈਦਾ ਅਤੇ ਬਹੁਤ ਛੋਟੀ ਚੁਟਕੀ ਸੋਡਾ ਮਿਲਾਓ। ਦੁੱਧ ਅਤੇ ਇੱਕ ਛੋਟਾ ਚਮਚ ਪਾਣੀ ਪਾ ਕੇ 3 ਮਿੰਟ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਗੁੰਨ੍ਹੋ।",
+    "timer": 3
+   },
+   {
+    "en": "Make small balls with no cracks. Fry them in oil on low heat, turning gently, until deep brown all over, about 8 minutes.",
+    "hi-en": "Bina daraar ke chhoti goliyan bana lo. Dheemi aanch pe tel mein halke halke ghumaate hue gehre bhoore hone tak talo, lagbhag 8 minute.",
+    "hi": "बिना दरार के छोटी गोलियाँ बना लो। धीमी आँच पर तेल में हल्के-हल्के घुमाते हुए गहरे भूरे होने तक तलो, लगभग 8 मिनट।",
+    "pa": "ਬਿਨਾਂ ਤਰੇੜ ਦੇ ਛੋਟੀਆਂ ਗੋਲੀਆਂ ਬਣਾ ਲਓ। ਹੌਲੀ ਅੱਗ ਤੇ ਤੇਲ ਵਿੱਚ ਹੌਲੀ-ਹੌਲੀ ਘੁਮਾਉਂਦੇ ਹੋਏ ਗੂੜ੍ਹੇ ਭੂਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drop the hot jamuns straight into the warm syrup and leave them to soak for 1 hour.",
+    "hi-en": "Garam jamun seedhe garam chaashni mein daalo aur 1 ghanta bheegne do.",
+    "hi": "गरम जामुन सीधे गरम चाशनी में डालो और 1 घंटा भीगने दो।",
+    "pa": "ਗਰਮ ਜਾਮੁਨ ਸਿੱਧੇ ਗਰਮ ਚਾਸ਼ਨੀ ਵਿੱਚ ਪਾਓ ਅਤੇ 1 ਘੰਟਾ ਭਿੱਜਣ ਦਿਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "jamuns break in the oil",
+    "en": "The dough has cracks or is too soft. Knead in a pinch more maida and roll smooth balls.",
+    "hi": "गोलियों में दरार है या आटा बहुत नरम है। चुटकी भर मैदा और मिलाकर चिकनी गोलियाँ बनाओ।"
+   },
+   {
+    "mistake": "brown outside, raw inside",
+    "en": "The oil was too hot. Fry on low heat so they cook through slowly.",
+    "hi": "तेल बहुत गरम था। धीमी आँच पर तलो ताकि अंदर तक धीरे-धीरे पकें।"
+   },
+   {
+    "mistake": "jamuns are hard",
+    "en": "Too much maida or kneaded too hard. Knead gently, and soak them longer in warm syrup.",
+    "hi": "मैदा ज़्यादा या ज़ोर से गूँधा। हल्के हाथ से गूँधो, और गरम चाशनी में ज़्यादा देर भिगोओ।"
+   }
+  ],
+  "swaps": {
+   "baking_soda": [
+    "skip"
+   ]
+  }
+ },
+ "ASC459": {
+  "names": {
+   "hi-en": "Moongphali burfi",
+   "hi": "मूंगफली बर्फ़ी",
+   "pa": "ਮੂੰਗਫਲੀ ਬਰਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Dry roast the peanuts on low heat until crunchy, about 6 minutes. Rub off the skins and crush them coarsely. Grease a plate.",
+    "hi-en": "Moongphali dheemi aanch pe crunchy hone tak bhuno, lagbhag 6 minute. Chhilke ragad ke nikaalo aur mota kuchal lo. Plate pe ghee laga lo.",
+    "hi": "मूंगफली धीमी आँच पर कुरकुरी होने तक भूनो, लगभग 6 मिनट। छिलके रगड़कर निकालो और मोटा कुचल लो। प्लेट पर घी लगा लो।",
+    "pa": "ਮੂੰਗਫਲੀ ਹੌਲੀ ਅੱਗ ਤੇ ਕਰਾਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 6 ਮਿੰਟ। ਛਿਲਕੇ ਰਗੜ ਕੇ ਕੱਢੋ ਅਤੇ ਮੋਟਾ ਕੁਚਲ ਲਓ। ਪਲੇਟ ਤੇ ਘਿਓ ਲਗਾ ਲਓ।",
+    "timer": 6
+   },
+   {
+    "en": "Melt the sugar with the ghee on low heat, without stirring too much, until it turns into a golden liquid, about 5 minutes.",
+    "hi-en": "Cheeni ghee ke saath dheemi aanch pe pighlao, zyada mat chalao, jab tak sunehri tarl ban jaaye, lagbhag 5 minute.",
+    "hi": "चीनी घी के साथ धीमी आँच पर पिघलाओ, ज़्यादा मत चलाओ, जब तक सुनहरी तरल बन जाए, लगभग 5 मिनट।",
+    "pa": "ਖੰਡ ਘਿਓ ਨਾਲ ਹੌਲੀ ਅੱਗ ਤੇ ਪਿਘਲਾਓ, ਜ਼ਿਆਦਾ ਨਾ ਹਿਲਾਓ, ਜਦੋਂ ਤੱਕ ਸੁਨਹਿਰੀ ਤਰਲ ਬਣ ਜਾਵੇ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5,
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "Turn off the heat, mix in the peanuts quickly and spread on the greased plate. Press flat and cut into pieces while still warm.",
+    "hi-en": "Gas band karke moongphali jaldi se milao aur ghee lagi plate pe faila do. Daba ke garam rehte hi tukde kaat lo.",
+    "hi": "गैस बंद करके मूंगफली जल्दी से मिलाओ और घी लगी प्लेट पर फैला दो। दबाकर गरम रहते ही टुकड़े काट लो।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਮੂੰਗਫਲੀ ਜਲਦੀ ਨਾਲ ਮਿਲਾਓ ਅਤੇ ਘਿਓ ਲੱਗੀ ਪਲੇਟ ਤੇ ਫੈਲਾ ਦਿਓ। ਦਬਾ ਕੇ ਗਰਮ ਰਹਿੰਦੇ ਹੀ ਟੁਕੜੇ ਕੱਟ ਲਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "sugar turned dark and bitter",
+    "en": "The heat was too high. Melt sugar only on low heat and take it off once golden.",
+    "hi": "आँच तेज़ थी। चीनी धीमी आँच पर ही पिघलाओ और सुनहरी होते ही उतार लो।"
+   },
+   {
+    "mistake": "sugar went grainy",
+    "en": "It was stirred too much. Swirl the pan instead of stirring.",
+    "hi": "बहुत चलाया। चलाने की जगह बर्तन घुमाओ।"
+   },
+   {
+    "mistake": "hard to cut",
+    "en": "Cut while it is still warm. If it set, warm the plate on low heat for a few seconds.",
+    "hi": "गरम रहते ही काटो। जम गई हो तो प्लेट धीमी आँच पर कुछ सेकंड गरम करो।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "jaggery"
+   ]
+  }
+ },
+ "BFP334": {
+  "names": {
+   "hi-en": "Lauki ki kheer",
+   "hi": "लौकी की खीर",
+   "pa": "ਘੀਏ ਦੀ ਖੀਰ"
+  },
+  "steps": [
+   {
+    "en": "Peel and grate the bottle gourd.",
+    "hi-en": "Lauki chheel ke kaddukas karo.",
+    "hi": "लौकी छीलकर कद्दूकस करो।",
+    "pa": "ਘੀਆ ਛਿੱਲ ਕੇ ਕੱਦੂਕਸ ਕਰੋ।"
+   },
+   {
+    "en": "Boil the milk in a heavy pan. Add the grated bottle gourd and simmer on low heat, stirring often, until soft and the milk thickens, about 15 minutes.",
+    "hi-en": "Bhaari pan mein doodh ubaalo. Kaddukas lauki daal ke dheemi aanch pe baar baar chalaate hue naram hone aur doodh gaadha hone tak pakao, lagbhag 15 minute.",
+    "hi": "भारी बर्तन में दूध उबालो। कद्दूकस लौकी डालकर धीमी आँच पर बार-बार चलाते हुए नरम होने और दूध गाढ़ा होने तक पकाओ, लगभग 15 मिनट।",
+    "pa": "ਭਾਰੀ ਭਾਂਡੇ ਵਿੱਚ ਦੁੱਧ ਉਬਾਲੋ। ਕੱਦੂਕਸ ਘੀਆ ਪਾ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਵਾਰ-ਵਾਰ ਹਿਲਾਉਂਦੇ ਹੋਏ ਨਰਮ ਹੋਣ ਅਤੇ ਦੁੱਧ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 15 ਮਿੰਟ।",
+    "timer": 15,
+    "safety": "boil_over"
+   },
+   {
+    "en": "Add the sugar and cardamom and cook for 3 more minutes. Top with chopped almonds and serve warm or chilled.",
+    "hi-en": "Cheeni aur elaichi daal ke 3 minute aur pakao. Upar kate badaam daal ke garam ya thanda khao.",
+    "hi": "चीनी और इलायची डालकर 3 मिनट और पकाओ। ऊपर कटे बादाम डालकर गरम या ठंडा खाओ।",
+    "pa": "ਖੰਡ ਅਤੇ ਇਲਾਇਚੀ ਪਾ ਕੇ 3 ਮਿੰਟ ਹੋਰ ਪਕਾਓ। ਉੱਤੇ ਕੱਟੇ ਬਦਾਮ ਪਾ ਕੇ ਗਰਮ ਜਾਂ ਠੰਡਾ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "lauki tastes bitter",
+    "en": "Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.",
+    "hi": "पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+   },
+   {
+    "mistake": "milk stuck and burnt at the bottom",
+    "en": "Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.",
+    "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।"
+   },
+   {
+    "mistake": "milk split",
+    "en": "Add the sugar only at the end, after the lauki is cooked.",
+    "hi": "चीनी लौकी पकने के बाद, आखिर में ही डालो।"
+   }
+  ],
+  "swaps": {
+   "almonds": [
+    "cashews",
+    "skip"
+   ]
+  }
+ },
+ "BFP401": {
+  "names": {
+   "hi-en": "Suji ki burfi",
+   "hi": "सूजी की बर्फ़ी",
+   "pa": "ਸੂਜੀ ਦੀ ਬਰਫ਼ੀ"
+  },
+  "steps": [
+   {
+    "en": "Soak the saffron in half a teaspoon of warm water. Grease a plate.",
+    "hi-en": "Kesar aadha chhota chammach gungune paani mein bhigo do. Plate pe ghee laga lo.",
+    "hi": "केसर आधा छोटा चम्मच गुनगुने पानी में भिगो दो। प्लेट पर घी लगा लो।",
+    "pa": "ਕੇਸਰ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਕੋਸੇ ਪਾਣੀ ਵਿੱਚ ਭਿਓਂ ਦਿਓ। ਪਲੇਟ ਤੇ ਘਿਓ ਲਗਾ ਲਓ।"
+   },
+   {
+    "en": "Heat the ghee and roast the suji on low heat, stirring, until light golden, about 8 minutes.",
+    "hi-en": "Ghee garam karke suji dheemi aanch pe chalaate hue halki sunehri hone tak bhuno, lagbhag 8 minute.",
+    "hi": "घी गरम करके सूजी धीमी आँच पर चलाते हुए हल्की सुनहरी होने तक भूनो, लगभग 8 मिनट।",
+    "pa": "ਘਿਓ ਗਰਮ ਕਰਕੇ ਸੂਜੀ ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਹਲਕੀ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8
+   },
+   {
+    "en": "In another pan, boil the sugar with 50 ml water until the syrup makes one thread, about 5 minutes.",
+    "hi-en": "Doosre pan mein cheeni 50 ml paani ke saath ek taar ki chaashni banne tak ubaalo, lagbhag 5 minute.",
+    "hi": "दूसरे बर्तन में चीनी 50 ml पानी के साथ एक तार की चाशनी बनने तक उबालो, लगभग 5 मिनट।",
+    "pa": "ਦੂਜੇ ਭਾਂਡੇ ਵਿੱਚ ਖੰਡ 50 ml ਪਾਣੀ ਨਾਲ ਇੱਕ ਤਾਰ ਦੀ ਚਾਸ਼ਨੀ ਬਣਨ ਤੱਕ ਉਬਾਲੋ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5,
+    "safety": "sugar_syrup"
+   },
+   {
+    "en": "Stand back and pour the syrup into the suji, stirring. Add the saffron, cardamom and nuts and cook until it leaves the sides, about 3 minutes.",
+    "hi-en": "Thoda peeche ho ke chaashni suji mein chalaate hue daalo. Kesar, elaichi aur meve daal ke kinaare chhodne tak pakao, lagbhag 3 minute.",
+    "hi": "थोड़ा पीछे होकर चाशनी सूजी में चलाते हुए डालो। केसर, इलायची और मेवे डालकर किनारे छोड़ने तक पकाओ, लगभग 3 मिनट।",
+    "pa": "ਥੋੜ੍ਹਾ ਪਿੱਛੇ ਹੋ ਕੇ ਚਾਸ਼ਨੀ ਸੂਜੀ ਵਿੱਚ ਹਿਲਾਉਂਦੇ ਹੋਏ ਪਾਓ। ਕੇਸਰ, ਇਲਾਇਚੀ ਅਤੇ ਮੇਵੇ ਪਾ ਕੇ ਕਿਨਾਰੇ ਛੱਡਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 3 ਮਿੰਟ।",
+    "timer": 3,
+    "safety": "splutter"
+   },
+   {
+    "en": "Spread it on a greased plate, press it flat and leave it to set for 30 minutes. Cut into squares.",
+    "hi-en": "Ghee lagi plate pe faila ke dabaa do aur 30 minute jamne do. Chaukor tukde kaato.",
+    "hi": "घी लगी प्लेट पर फैलाकर दबा दो और 30 मिनट जमने दो। चौकोर टुकड़े काटो।",
+    "pa": "ਘਿਓ ਲੱਗੀ ਪਲੇਟ ਤੇ ਫੈਲਾ ਕੇ ਦਬਾ ਦਿਓ ਅਤੇ 30 ਮਿੰਟ ਜੰਮਣ ਦਿਓ। ਚੌਰਸ ਟੁਕੜੇ ਕੱਟੋ।",
+    "timer": 30
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "burfi will not set",
+    "en": "It was taken off too early. Put it back on low heat and cook until it leaves the sides of the pan.",
+    "hi": "जल्दी उतार लिया। फिर धीमी आँच पर रखो और कड़ाही के किनारे छोड़ने तक पकाओ।"
+   },
+   {
+    "mistake": "burfi is hard and crumbly",
+    "en": "It cooked too long. Next time take it off as soon as it gathers into one lump.",
+    "hi": "ज़्यादा पक गई। अगली बार जैसे ही एक गोला बने, उतार लेना।"
+   },
+   {
+    "mistake": "lumps formed",
+    "en": "Pour the syrup slowly while stirring, and break lumps with the back of the spoon.",
+    "hi": "चाशनी धीरे-धीरे चलाते हुए डालो, और गाँठें चम्मच के पिछले हिस्से से तोड़ो।"
+   }
+  ],
+  "swaps": {
+   "saffron": [
+    "skip"
+   ],
+   "mixed_nuts": [
+    "skip"
+   ]
+  }
+ },
+ "BFP407": {
+  "names": {
+   "hi-en": "Rava laddoo",
+   "hi": "रवा लड्डू",
+   "pa": "ਰਵਾ ਲੱਡੂ"
+  },
+  "steps": [
+   {
+    "en": "Fry the cashews and raisins in a spoon of the ghee until the cashews are golden. Take them out.",
+    "hi-en": "Kaju aur kishmish ek chammach ghee mein kaju sunehre hone tak bhuno. Nikaal lo.",
+    "hi": "काजू और किशमिश एक चम्मच घी में काजू सुनहरे होने तक भूनो। निकाल लो।",
+    "pa": "ਕਾਜੂ ਅਤੇ ਸੌਗੀ ਇੱਕ ਚਮਚ ਘਿਓ ਵਿੱਚ ਕਾਜੂ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ। ਕੱਢ ਲਓ।"
+   },
+   {
+    "en": "In the rest of the ghee, roast the suji on low heat, stirring, until it smells nutty and turns light golden, about 8 minutes. Let it cool until warm.",
+    "hi-en": "Baaki ghee mein suji dheemi aanch pe chalaate hue khushboo aane aur halki sunehri hone tak bhuno, lagbhag 8 minute. Halka garam rehne tak thanda hone do.",
+    "hi": "बाकी घी में सूजी धीमी आँच पर चलाते हुए खुशबू आने और हल्की सुनहरी होने तक भूनो, लगभग 8 मिनट। हल्का गरम रहने तक ठंडा होने दो।",
+    "pa": "ਬਾਕੀ ਘਿਓ ਵਿੱਚ ਸੂਜੀ ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਖੁਸ਼ਬੂ ਆਉਣ ਅਤੇ ਹਲਕੀ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 8 ਮਿੰਟ। ਹਲਕਾ ਗਰਮ ਰਹਿਣ ਤੱਕ ਠੰਡਾ ਹੋਣ ਦਿਓ।",
+    "timer": 8
+   },
+   {
+    "en": "Mix in the powdered sugar, cardamom, cashews and raisins. Sprinkle the warm milk a spoon at a time and press the mix into laddoos.",
+    "hi-en": "Pisi cheeni, elaichi, kaju aur kishmish milao. Garam doodh ek ek chammach chhidak ke mishran daba ke laddoo bana lo.",
+    "hi": "पिसी चीनी, इलायची, काजू और किशमिश मिलाओ। गरम दूध एक-एक चम्मच छिड़ककर मिश्रण दबाकर लड्डू बना लो।",
+    "pa": "ਪੀਸੀ ਖੰਡ, ਇਲਾਇਚੀ, ਕਾਜੂ ਅਤੇ ਸੌਗੀ ਮਿਲਾਓ। ਗਰਮ ਦੁੱਧ ਇੱਕ-ਇੱਕ ਚਮਚ ਛਿੜਕ ਕੇ ਮਿਸ਼ਰਣ ਦਬਾ ਕੇ ਲੱਡੂ ਬਣਾ ਲਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "ladoos will not hold",
+    "en": "The mix has cooled. Warm it for a few seconds, or add a spoon of warm ghee, and shape again.",
+    "hi": "मिश्रण ठंडा हो गया। कुछ सेकंड गरम करो, या एक चम्मच गरम घी मिलाओ, फिर बाँधो।"
+   },
+   {
+    "mistake": "raw taste",
+    "en": "It was not roasted long enough. Roast on low heat until it smells nutty and turns golden.",
+    "hi": "ठीक से भुना नहीं। धीमी आँच पर खुशबू आने और सुनहरा होने तक भूनो।"
+   },
+   {
+    "mistake": "laddoos spoil quickly",
+    "en": "Milk makes them keep only 2 or 3 days. Use warm ghee instead of milk to keep them longer.",
+    "hi": "दूध से लड्डू बस 2-3 दिन चलते हैं। ज़्यादा दिन रखने हों तो दूध की जगह गरम घी लो।"
+   }
+  ],
+  "swaps": {
+   "cashews": [
+    "almonds",
+    "skip"
+   ],
+   "raisins": [
+    "skip"
+   ]
+  }
+ }
+}
