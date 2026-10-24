@@ -70,7 +70,9 @@ def main():
         for i in dish["ingredients"]:
             if any(x["id"] == i["id"] and x["as_written"] == i["as_written"] for x in ingredients):
                 continue
-            ingredients.append({**{k: i[k] for k in ("id", "as_written", "qty", "unit", "essential")},
+            # Something the steps say can be skipped is not a must-have, whatever its weight
+            ingredients.append({**{k: i[k] for k in ("id", "as_written", "qty", "unit")},
+                                "essential": i["essential"] and "skip" not in swaps.get(i["id"], []),
                                 "substitutes": swaps.get(i["id"], [])})
         for old, new in swaps.items():
             if old not in {i["id"] for i in ingredients}:

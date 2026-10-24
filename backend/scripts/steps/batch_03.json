@@ -333,7 +333,7 @@
    {"mistake": "dosa is thick and soft", "en": "Thin the batter with a little water and spread it faster in wide circles.", "hi": "घोल में थोड़ा पानी मिलाओ और बड़े गोल घेरे में जल्दी फैलाओ।"},
    {"mistake": "batter did not ferment", "en": "Keep it in a warm place, like inside the oven with the light on, for a few more hours.", "hi": "कुछ घंटे और गरम जगह रखो, जैसे ओवन के अंदर बत्ती जलाकर।"}
   ],
-  "swaps": {"urad_dal": ["skip"]}
+  "swaps": {}
  },
  "ASC147": {
   "names": {"hi-en": "Rava dosa", "hi": "रवा डोसा", "pa": "ਰਵਾ ਡੋਸਾ"},
