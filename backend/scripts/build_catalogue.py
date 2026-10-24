@@ -68,6 +68,12 @@ def main():
                 continue
             ingredients.append({**{k: i[k] for k in ("id", "as_written", "qty", "unit", "essential")},
                                 "substitutes": swaps.get(i["id"], [])})
+        for old, new in swaps.items():
+            if old not in {i["id"] for i in ingredients}:
+                problems.append(f"{code} swap for {old}, which the dish does not use")
+            for x in new:
+                if x != "skip" and x not in known:
+                    problems.append(f"{code} swap {old} -> {x}: unknown ingredient")
         steps = []
         for n, s in enumerate((steps_src or {}).get("steps", []), 1):
             missing = [lang for lang in LANGS if not s.get(lang)]

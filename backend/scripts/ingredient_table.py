@@ -18,7 +18,7 @@ scripts/import_indb.py turns this into app/data/ingredients.json.
 TABLE = [
     # checked first, so "pineapple essence" is an additive and "strawberry jam" is jam, not fruit
     ("food_colour", "food colour or essence", "फ़ूड कलर", "ਫੂਡ ਕਲਰ", "food colour|food color",
-     r"colou?r|essen|essesnce|flavour|^citric|tartaric|alum|silver foil|reetha|nannari|spinach powder", "additive group"),
+     r"colou?r|essen|essesnce|^\w+ flavour|^citric|tartaric|alum|silver foil|reetha|nannari|spinach powder", "additive group"),
     ("rose", "rose water", "गुलाब जल", "ਗੁਲਾਬ ਜਲ", "gulab jal|rose water|gulkand|kewra|rose petals",
      r"^rose|gulkand|kewra", "additive group"),
     ("vanilla", "vanilla essence", "वनीला एसेंस", "ਵਨੀਲਾ ਐਸੈਂਸ", "vanilla|vanilla essence", r"^vanilla", "additive"),

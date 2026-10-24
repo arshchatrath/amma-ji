@@ -31,7 +31,7 @@
    {"mistake": "paneer is hard", "en": "Soak the pieces in warm water for 10 minutes before mixing them in.", "hi": "मिलाने से पहले पनीर के टुकड़े 10 मिनट गुनगुने पानी में रखो।"},
    {"mistake": "rice is still hard", "en": "Sprinkle 3 tablespoons of hot water, cover and cook on low heat for 5 minutes.", "hi": "3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"}
   ],
-  "swaps": {"ghee": ["oil"], "paneer": ["tofu"]}
+  "swaps": {"paneer": ["tofu"]}
  },
  "ASC117": {
   "names": {"hi-en": "Moong sprouts pulao", "hi": "अंकुरित मूंग पुलाव", "pa": "ਪੁੰਗਰੀ ਮੂੰਗੀ ਪੁਲਾਓ"},
@@ -66,7 +66,7 @@
    {"mistake": "rice is mushy", "en": "Open the lid on low heat for 2 minutes to let steam out.", "hi": "धीमी आँच पर 2 मिनट ढक्कन खोलकर भाप निकलने दो।"},
    {"mistake": "tastes plain", "en": "Squeeze in some lemon and add a pinch more salt and garam masala.", "hi": "थोड़ा नींबू निचोड़ो और चुटकी भर नमक और गरम मसाला डालो।"}
   ],
-  "swaps": {"ghee": ["oil"], "carrot": ["peas", "skip"]}
+  "swaps": {"carrot": ["peas", "skip"]}
  },
  "ASC123": {
   "names": {"hi-en": "Veg biryani", "hi": "वेज बिरयानी", "pa": "ਵੈਜ ਬਿਰਯਾਨੀ"},
@@ -106,7 +106,7 @@
    {"mistake": "bottom is burning", "en": "Put a flat tawa under the pot and keep the heat at the lowest for the dum.", "hi": "बर्तन के नीचे चपटा तवा रख दो और दम के लिए आँच सबसे धीमी रखो।"},
    {"mistake": "rice on top is hard", "en": "Sprinkle 3 tablespoons of hot water or milk, cover tightly and cook on low heat for 5 more minutes.", "hi": "3 चम्मच गरम पानी या दूध छिड़को, कसकर ढककर धीमी आँच पर 5 मिनट और पकाओ।"}
   ],
-  "swaps": {"saffron": ["skip"], "cauliflower": ["potato"], "ghee": ["oil"]}
+  "swaps": {"saffron": ["skip"], "cauliflower": ["potato"]}
  },
  "BFP041": {
   "names": {"hi-en": "Rice upma", "hi": "चावल उपमा", "pa": "ਚੌਲਾਂ ਦਾ ਉਪਮਾ"},
@@ -392,7 +392,7 @@
    {"mistake": "daliya still hard", "en": "Add a few spoons of water, cover and cook for 5 more minutes before adding more milk.", "hi": "कुछ चम्मच पानी डालो, ढककर 5 मिनट और पकाओ, फिर दूध डालो।"},
    {"mistake": "milk stuck at the bottom", "en": "Move it to a clean pan without scraping and keep stirring on low heat.", "hi": "नीचे से खुरचे बिना साफ़ बर्तन में डालो और धीमी आँच पर चलाते रहो।"}
   ],
-  "swaps": {"sugar": ["jaggery", "honey"], "ghee": ["butter"]}
+  "swaps": {"sugar": ["jaggery", "honey"]}
  },
  "ASC050": {
   "names": {"hi-en": "Oats porridge", "hi": "ओट्स दलिया", "pa": "ਓਟਸ ਦਲੀਆ"},

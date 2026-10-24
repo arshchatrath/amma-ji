@@ -1901,7 +1901,7 @@ OSR139,cinnamon,Cinnamon,2.5,g,no,
 OSR139,salt,Salt,0.5,tsp,no,
 OSR139,water,Water,4.0,cup,no,
 OSR139,butter,Butter,3.0,tbsp,no,ghee
-OSR139,cheese,Low fat cream,2.0,tbsp,no,
+OSR139,cream,Low fat cream,2.0,tbsp,no,"milk, skip"
 OSR141,papaya,Raw papaya,600.0,g,yes,
 OSR141,tomato,Tomato,50.0,g,no,
 OSR141,orange,Lime,1.0,tsp,no,

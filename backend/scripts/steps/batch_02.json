@@ -155,7 +155,7 @@
    {"mistake": "too watery", "en": "Cook uncovered on high heat for 3 to 4 minutes.", "hi": "बिना ढके तेज़ आँच पर 3-4 मिनट पकाओ।"},
    {"mistake": "too salty", "en": "Add half a cup of water and a boiled potato and simmer for 5 minutes.", "hi": "आधा कप पानी और एक उबला आलू डालकर 5 मिनट पकाओ।"}
   ],
-  "swaps": {"ghee": ["oil"]}
+  "swaps": {}
  },
  "ASC192": {
   "names": {"hi-en": "Matar mushroom", "hi": "मटर मशरूम", "pa": "ਮਟਰ ਮਸ਼ਰੂਮ"},
@@ -281,7 +281,7 @@
    {"mistake": "too much water", "en": "Boil it uncovered on high heat for 5 minutes.", "hi": "बिना ढके तेज़ आँच पर 5 मिनट उबालो।"},
    {"mistake": "too salty", "en": "Add hot water and a squeeze of lemon, and boil for 2 minutes.", "hi": "गरम पानी और थोड़ा नींबू डालकर 2 मिनट उबालो।"}
   ],
-  "swaps": {"ghee": ["oil"]}
+  "swaps": {}
  },
  "OSR144": {
   "names": {"hi-en": "Panchmel dal", "hi": "पंचमेल दाल", "pa": "ਪੰਚਮੇਲ ਦਾਲ"},
@@ -380,6 +380,6 @@
    {"mistake": "rice is still hard", "en": "Sprinkle 3 tablespoons of hot water, cover and cook on low heat for 5 minutes.", "hi": "3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"},
    {"mistake": "bottom got burnt", "en": "Do not stir. Spoon the top rice into another pan and leave the burnt layer.", "hi": "चलाओ मत। ऊपर के चावल दूसरे बर्तन में निकाल लो, जली परत छोड़ दो।"}
   ],
-  "swaps": {"ghee": ["oil"], "beans": ["skip"], "carrot": ["skip"]}
+  "swaps": {"beans": ["skip"], "carrot": ["skip"]}
  }
 }

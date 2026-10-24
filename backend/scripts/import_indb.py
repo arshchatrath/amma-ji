@@ -34,6 +34,8 @@ SOURCES = {
 GRAMS = {"g": 1, "ml": 1, "tsp": 5, "tbsp": 15, "C": 240, "sprig": 2, "pinch": 0.5, "nos": 50,
          "drops": 0.05, "sheet": 1}
 UNIT_NAMES = {"C": "cup", "nos": "piece"}
+# INDB filed this one under cream cheese, but the recipe says cream
+SAME_FOOD_OTHER_WORD = {("cheese, cream, low fat", "low fat cream"): "cream, fluid"}
 ALLERGENS = {"dairy", "gluten", "nuts", "peanut", "egg", "fish", "shellfish", "soy", "sesame", "mustard"}
 # What kind of dish, guessed from its name. The first match wins, so the order matters.
 KINDS = [
@@ -106,6 +108,7 @@ def main():
     for r in rows("recipes.xlsx"):
         food = str(r["food_name"] or r["food_name_org"] or "").strip()
         key = food.lower()
+        key = SAME_FOOD_OTHER_WORD.get((key, str(r["ingredient_name_org"] or "").strip().lower()), key)
         found = next(((ing_id, labels) for rx, ing_id, labels in rules if rx.search(key)), None)
         if found:
             mapped_rows += 1
