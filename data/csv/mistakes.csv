@@ -290,9 +290,36 @@ BFP142,rice is still hard,"Sprinkle 3 tablespoons of hot stock or water, cover a
 BFP147,idlis did not rise,"The Eno went in too early or was old. Add Eno only right before steaming, and steam straight away.",ईनो बहुत पहले डाला या पुराना था। ईनो भाप से ठीक पहले डालो और तुरंत भाप में रखो।
 BFP147,idlis are dry,The batter was too thick. Add 2 tablespoons of curd or water next time.,घोल बहुत गाढ़ा था। अगली बार 2 चम्मच दही या पानी और डालना।
 BFP147,sticky inside,"Steam for 3 more minutes, until a knife comes out clean.","3 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+BFP155,sauce is watery,Simmer uncovered for 5 more minutes until it clings to a spoon.,बिना ढके 5 मिनट और पकाओ जब तक चम्मच पर चिपकने न लगे।
+BFP155,spaghetti is sticky,"Boil it in more water, stir in the first minute, and toss it with butter straight after draining.","ज़्यादा पानी में उबालो, पहले मिनट में चलाओ, और निकालते ही मक्खन मिलाओ।"
+BFP155,sauce is too sour,Add a pinch of sugar and simmer for 2 minutes.,चुटकी भर चीनी डालकर 2 मिनट पकाओ।
+BFP165,noodles stuck together,"Dust them well with flour after cutting, and drop them into the water a few at a time.","काटने के बाद अच्छे से सूखा मैदा लगाओ, और पानी में थोड़े-थोड़े डालो।"
+BFP165,dough tears while rolling,It was not rested. Cover it for 15 more minutes and roll again.,आटा रखा नहीं गया। 15 मिनट और ढककर रखो और फिर बेलो।
+BFP165,noodles are thick and chewy,"Roll the dough thinner, almost see-through.","आटा और पतला बेलो, लगभग आर-पार दिखने तक।"
 BFP166,too much water,Boil it uncovered on high heat for 5 minutes and the extra water will dry up.,"बिना ढके तेज़ आँच पर 5 मिनट उबालो, ज़्यादा पानी सूख जाएगा।"
 BFP166,too thick,Add half a cup of hot water and boil for 2 minutes.,आधा कप गरम पानी डालकर 2 मिनट उबालो।
 BFP166,tadka burnt,Throw it away and make a fresh one. Burnt garlic or cumin makes the dal bitter.,जला तड़का फेंक दो और नया बनाओ। जला लहसुन या जीरा दाल को कड़वा कर देता है।
+BFP196,koftas broke in the oil,The mix was too wet. Squeeze the onion dry and knead the keema longer so it binds.,मिश्रण गीला था। प्याज़ निचोड़कर डालो और कीमा और देर गूँधो ताकि बँध जाए।
+BFP196,koftas are pink inside,Simmer them in the gravy for 5 more minutes.,ग्रेवी में 5 मिनट और पकाओ।
+BFP196,gravy is too thick,Add a little hot water and simmer for a minute.,थोड़ा गरम पानी डालकर एक मिनट पकाओ।
+BFP207,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+BFP207,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
+BFP207,too oily,"Shallow fry the lauki in 2 spoons of oil instead, or skip frying and simmer it longer.","लौकी 2 चम्मच तेल में ही सेक लो, या तलना छोड़कर ज़्यादा देर पकाओ।"
+BFP214,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+BFP214,cream split,"Turn the heat low before adding cream, and do not let it boil after.","क्रीम डालने से पहले आँच धीमी करो, और उसके बाद उबलने मत दो।"
+BFP214,gravy is too thick,Add a little hot water and simmer for a minute.,थोड़ा गरम पानी डालकर एक मिनट पकाओ।
+BFP220,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+BFP220,ginger tastes too sharp,Fry the ginger a little longer until it turns light golden.,अदरक थोड़ी और देर भूनो जब तक हल्की सुनहरी न हो जाए।
+BFP220,too salty,Both sauces are salty. Add a squeeze of lemon and a pinch of sugar.,दोनों सॉस नमकीन हैं। थोड़ा नींबू और चुटकी भर चीनी डालो।
+BFP222,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
+BFP222,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+BFP222,gravy is grainy,Grind the onion and cashew paste longer until very smooth.,प्याज़-काजू का पेस्ट और देर पीसो जब तक बहुत चिकना न हो जाए।
+BFP223,fish broke into pieces,It was stirred. Shake the pan gently instead.,मछली चलाने से टूटी। चलाने की जगह बर्तन हल्के से हिलाओ।
+BFP223,raw smell of mustard oil,Heat the oil until it smokes lightly before frying.,तलने से पहले तेल हल्का धुआँ आने तक गरम करो।
+BFP223,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+BFP230,prawns are rubbery,They cooked too long. Take them off as soon as they turn pink and curl.,झींगे ज़्यादा पक गए। गुलाबी होकर मुड़ते ही उतार लो।
+BFP230,curry is too sour,Add a little more coconut paste or a pinch of sugar.,थोड़ा और नारियल पेस्ट या चुटकी भर चीनी डालो।
+BFP230,curry is grainy,Grind the coconut longer with a little more water until smooth.,नारियल थोड़े और पानी के साथ चिकना होने तक और पीसो।
 BFP239,too watery,Mash 3 or 4 potato pieces into the gravy and cook uncovered for 3 minutes.,आलू के 3-4 टुकड़े ग्रेवी में मैश करो और बिना ढके 3 मिनट पकाओ।
 BFP239,potato still hard,"Add a little water, cover and cook for 5 more minutes.","थोड़ा पानी डालो, ढककर 5 मिनट और पकाओ।"
 BFP239,too salty,Add half a cup of water and one more boiled potato.,आधा कप पानी और एक उबला आलू और डाल दो।
@@ -305,6 +332,9 @@ BFP272,coconut tastes raw,"Cook it for a minute after adding, and use fresh coco
 BFP277,vegetables went soft and soggy,The heat was low or they cooked too long. Keep the heat high and stop while they still have a bite.,आँच धीमी थी या ज़्यादा पक गईं। आँच तेज़ रखो और थोड़ी कुरकुरी रहते ही बंद कर दो।
 BFP277,potato still hard,"Cut it thinner. For now, cover and cook for 2 more minutes with a spoon of water.",आलू पतला काटो। अभी एक चम्मच पानी डालकर ढककर 2 मिनट और पकाओ।
 BFP277,too sour,Too much vinegar. Add a pinch of sugar and toss.,सिरका ज़्यादा हो गया। चुटकी भर चीनी डालकर मिला दो।
+BFP287,potatoes are not crisp,"Spread them out with space between, and roast 10 minutes longer.","आलू दूर-दूर फैलाओ, और 10 मिनट और रोस्ट करो।"
+BFP287,potatoes broke while boiling,"Boil only until the edges soften, not all the way.","बस किनारे नरम होने तक उबालो, पूरा नहीं।"
+BFP287,no oven at home,"Cook the boiled potatoes in a heavy pan with the butter on medium heat, turning, for about 15 minutes.",उबले आलू भारी पैन में मक्खन के साथ मध्यम आँच पर पलटते हुए लगभग 15 मिनट सेको।
 BFP334,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
 BFP334,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
 BFP334,milk split,"Add the sugar only at the end, after the lauki is cooked.","चीनी लौकी पकने के बाद, आखिर में ही डालो।"
