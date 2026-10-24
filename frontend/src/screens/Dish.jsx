@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { api } from "../api.js";
+import { canTalk, hush, sayLine } from "../audio/voice.js";
 import Nutrition from "../components/Nutrition.jsx";
 import "./Dish.css";
 
@@ -18,6 +19,12 @@ export default function Dish({ id, language, onCook, onBack, starting }) {
     api.recipe(id, language).then(setDish, (e) => setError(e.message));
   }, [id, language]);
 
+  // Amma ji approves the pick. She stops if the cook leaves or starts cooking.
+  useEffect(() => {
+    if (canTalk()) sayLine("ready", language).catch(() => {});
+    return hush;
+  }, [id, language]);
+
   if (error) {
     return (
       <main className="dish">
@@ -34,7 +41,7 @@ export default function Dish({ id, language, onCook, onBack, starting }) {
 
   const n = dish.nutrition;
   return (
-    <main className="dish">
+    <main className="dish" onPointerDown={hush}>
       <header className="dishes__top">
         <button className="round-button" onClick={onBack} aria-label="Back to the dishes">
           <svg viewBox="0 0 24 24" aria-hidden="true">

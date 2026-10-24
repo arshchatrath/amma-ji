@@ -80,6 +80,17 @@
   transform: scale(0.94);
 }
 
+/* Amma ji's speech bubble: the whole width of the card, its tail pointing down at the kadhai */
+.pantry__amma {
+  grid-column: 1 / -1;
+  padding: 12px 16px;
+  border-radius: 20px 20px 20px 4px;
+  background: var(--haldi-soft);
+  font-size: var(--text-m);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
 .pantry__status {
   font-weight: 700;
   font-size: var(--text-m);

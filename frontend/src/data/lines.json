@@ -1,0 +1,62 @@
+{
+  "hello_0": {
+    "hi-en": { "say": "आजा बेटा, आज क्या बनाएँ?", "show": "Aaja beta, aaj kya banayein?" },
+    "hi": { "say": "आजा बेटा, आज क्या बनाएँ?" },
+    "pa": { "say": "ਆਜਾ ਬੇਟਾ, ਅੱਜ ਕੀ ਬਣਾਈਏ?" },
+    "en": { "say": "Come, बेटा. What are we making today?", "show": "Come, beta. What are we making today?" }
+  },
+  "hello_1": {
+    "hi-en": { "say": "भूख लगी है? <laugh> चल, किचन में मिलते हैं।", "show": "Bhookh lagi hai? Chal, kitchen mein milte hain." },
+    "hi": { "say": "भूख लगी है? <laugh> चल, किचन में मिलते हैं।" },
+    "pa": { "say": "ਭੁੱਖ ਲੱਗੀ ਹੈ? <laugh> ਚੱਲ, ਰਸੋਈ ਵਿੱਚ ਮਿਲਦੇ ਹਾਂ।" },
+    "en": { "say": "Hungry? <laugh> Meet me in the kitchen." }
+  },
+  "hello_2": {
+    "hi-en": { "say": "मसाले तैयार हैं। तू तैयार है?", "show": "Masale tayyar hain. Tu tayyar hai?" },
+    "hi": { "say": "मसाले तैयार हैं। तू तैयार है?" },
+    "pa": { "say": "ਮਸਾਲੇ ਤਿਆਰ ਨੇ। ਤੂੰ ਤਿਆਰ ਹੈਂ?" },
+    "en": { "say": "The masalas are ready. Are you?" }
+  },
+  "ask_have": {
+    "hi-en": { "say": "<excited> चल बेटा, बता किचन में क्या क्या है? आलू, प्याज़, पनीर, जो भी हो।", "show": "Chal beta, bata kitchen mein kya kya hai? Aloo, pyaaz, paneer, jo bhi ho." },
+    "hi": { "say": "<excited> चल बेटा, बता किचन में क्या क्या है? आलू, प्याज़, पनीर, जो भी हो।" },
+    "pa": { "say": "<excited> ਚੱਲ ਬੇਟਾ, ਦੱਸ ਰਸੋਈ ਵਿੱਚ ਕੀ ਕੀ ਹੈ? ਆਲੂ, ਪਿਆਜ਼, ਪਨੀਰ, ਜੋ ਵੀ ਹੋਵੇ।" },
+    "en": { "say": "<excited> Come, बेटा, tell me what's in your kitchen. Potatoes, onions, paneer, anything.", "show": "Come, beta, tell me what's in your kitchen. Potatoes, onions, paneer, anything." }
+  },
+  "ask_time": {
+    "hi-en": { "say": "अच्छा, और कितना टाइम है तेरे पास? पंद्रह मिनट, आधा घंटा?", "show": "Achha, aur kitna time hai tere paas? Pandrah minute, aadha ghanta?" },
+    "hi": { "say": "अच्छा, और कितना समय है तेरे पास? पंद्रह मिनट, आधा घंटा?" },
+    "pa": { "say": "ਅੱਛਾ, ਤੇ ਕਿੰਨਾ ਸਮਾਂ ਹੈ ਤੇਰੇ ਕੋਲ? ਪੰਦਰਾਂ ਮਿੰਟ, ਅੱਧਾ ਘੰਟਾ?" },
+    "en": { "say": "Okay. And how much time do you have? Fifteen minutes, half an hour?" }
+  },
+  "ask_allergy": {
+    "hi-en": { "say": "और बेटा, किसी चीज़ से एलर्जी तो नहीं है? मूंगफली, दूध, कुछ भी?", "show": "Aur beta, kisi cheez se allergy to nahi hai? Moongphali, doodh, kuch bhi?" },
+    "hi": { "say": "और बेटा, किसी चीज़ से एलर्जी तो नहीं है? मूंगफली, दूध, कुछ भी?" },
+    "pa": { "say": "ਤੇ ਬੇਟਾ, ਕਿਸੇ ਚੀਜ਼ ਤੋਂ ਐਲਰਜੀ ਤਾਂ ਨਹੀਂ? ਮੂੰਗਫਲੀ, ਦੁੱਧ, ਕੁਝ ਵੀ?" },
+    "en": { "say": "And बेटा, any allergies? Peanuts, milk, anything?", "show": "And beta, any allergies? Peanuts, milk, anything?" }
+  },
+  "noted": {
+    "hi-en": { "say": "ठीक है बेटा, ध्यान रखूँगी। चल, देखती हूँ क्या बन सकता है।", "show": "Theek hai beta, dhyan rakhungi. Chal, dekhti hoon kya ban sakta hai." },
+    "hi": { "say": "ठीक है बेटा, ध्यान रखूँगी। चल, देखती हूँ क्या बन सकता है।" },
+    "pa": { "say": "ਠੀਕ ਹੈ ਬੇਟਾ, ਧਿਆਨ ਰੱਖਾਂਗੀ। ਚੱਲ, ਵੇਖਦੀ ਹਾਂ ਕੀ ਬਣ ਸਕਦਾ ਹੈ।" },
+    "en": { "say": "Okay बेटा, I'll keep that in mind. Let me see what we can make.", "show": "Okay beta, I'll keep that in mind. Let me see what we can make." }
+  },
+  "not_heard": {
+    "hi-en": { "say": "<sigh> बेटा, सुनाई नहीं दिया। थोड़ा पास आके फिर से बोलो।", "show": "Beta, sunai nahi diya. Thoda paas aake phir se bolo." },
+    "hi": { "say": "<sigh> बेटा, सुनाई नहीं दिया। थोड़ा पास आके फिर से बोलो।" },
+    "pa": { "say": "<sigh> ਬੇਟਾ, ਸੁਣਿਆ ਨਹੀਂ। ਥੋੜ੍ਹਾ ਨੇੜੇ ਆ ਕੇ ਫਿਰ ਬੋਲੋ।" },
+    "en": { "say": "<sigh> बेटा, I didn't catch that. Come a little closer and say it again.", "show": "Beta, I didn't catch that. Come a little closer and say it again." }
+  },
+  "nothing_fits": {
+    "hi-en": { "say": "<sigh> इतने में तो कुछ नहीं बनेगा बेटा। पीछे जाके थोड़ा और बताओ क्या है।", "show": "Itne mein to kuch nahi banega beta. Peeche jaake thoda aur batao kya hai." },
+    "hi": { "say": "<sigh> इतने में तो कुछ नहीं बनेगा बेटा। पीछे जाके थोड़ा और बताओ क्या है।" },
+    "pa": { "say": "<sigh> ਇੰਨੇ ਨਾਲ ਤਾਂ ਕੁਝ ਨਹੀਂ ਬਣਨਾ ਬੇਟਾ। ਪਿੱਛੇ ਜਾ ਕੇ ਥੋੜ੍ਹਾ ਹੋਰ ਦੱਸੋ ਕੀ ਹੈ।" },
+    "en": { "say": "<sigh> We can't make much with just that, बेटा. Go back and tell me a little more.", "show": "We can't make much with just that, beta. Go back and tell me a little more." }
+  },
+  "ready": {
+    "hi-en": { "say": "बढ़िया चॉइस बेटा! सामान देख लो, फिर नीचे वाला बटन दबाओ और शुरू करते हैं।", "show": "Badhiya choice beta! Saamaan dekh lo, phir neeche wala button dabao aur shuru karte hain." },
+    "hi": { "say": "बढ़िया चुनाव बेटा! सामान देख लो, फिर नीचे वाला बटन दबाओ और शुरू करते हैं।" },
+    "pa": { "say": "ਵਧੀਆ ਚੋਣ ਬੇਟਾ! ਸਮਾਨ ਵੇਖ ਲਓ, ਫਿਰ ਹੇਠਾਂ ਵਾਲਾ ਬਟਨ ਦਬਾਓ ਤੇ ਸ਼ੁਰੂ ਕਰਦੇ ਹਾਂ।" },
+    "en": { "say": "Good choice, बेटा! Check the ingredients, then press the button below and we'll start.", "show": "Good choice, beta! Check the ingredients, then press the button below and we'll start." }
+  }
+}

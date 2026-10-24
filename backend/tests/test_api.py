@@ -67,6 +67,19 @@ def test_pantry_hears_ingredients_time_and_no():
     assert [i["id"] for i in r["have"]] == ["potato", "paneer", "onion"]
     assert [i["id"] for i in r["not_have"]] == ["ghee"]
     assert r["minutes"] == 20
+    # the screen shows aloo, Amma ji says आलू
+    assert r["have"][0]["name"] == "aloo" and r["have"][0]["say"] == "आलू"
+
+
+def test_suggest_puts_dishes_that_fit_the_time_first():
+    dishes = client.post("/api/suggest", json={"have": ["potato", "paneer", "onion"], "minutes": 30, "limit": 10}).json()
+    flags = [d["longer_than_you_have"] for d in dishes if not d["missing_essential"]]
+    assert flags == sorted(flags)  # every dish that fits comes before any that runs long
+
+
+def test_suggest_gives_timbre_a_devanagari_name_for_hinglish():
+    d = client.post("/api/suggest", json={"have": ["potato", "onion"], "language": "hi-en"}).json()[0]
+    assert d["say_name"] and not any("a" <= ch <= "z" for ch in d["say_name"].lower())
 
 
 def test_suggest_labels_are_honest_and_respect_diet_and_allergies():

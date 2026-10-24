@@ -7,12 +7,12 @@ Keeps the API keys safe and runs the cooking loop. Python + FastAPI.
 ```
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt -r requirements-dev.txt
-.venv/bin/uvicorn app.main:app --reload
+.venv/bin/uvicorn app.main:app --reload --port 8010
 ```
 
 Keys come from environment variables, or from `backend/.env` (copy `.env.example`): `GNANI_API_KEY`,
 `GROQ_API_KEY`, and optionally `GROQ_MODEL`, `TTS_VOICE` (default Chetana), `FRONTEND_ORIGINS`. Then open
-http://localhost:8000/docs to try every endpoint in the browser.
+http://localhost:8010/docs to try every endpoint in the browser.
 
 ## Endpoints
 

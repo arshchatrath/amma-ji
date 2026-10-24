@@ -1,5 +1,5 @@
 // How the screens talk to Amma ji's server. In development, Vite forwards /api to
-// localhost:8000 (see vite.config.js). In production, VITE_API_URL points at the server.
+// localhost:8010 (see vite.config.js). In production, VITE_API_URL points at the server.
 const BASE = import.meta.env.VITE_API_URL || "";
 
 async function call(path, options = {}) {

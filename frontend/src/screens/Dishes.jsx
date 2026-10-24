@@ -2,7 +2,9 @@ import { useEffect, useRef, useState } from "react";
 import { api } from "../api.js";
 import { unlockAudio } from "../audio/context.js";
 import { startRecording } from "../audio/recorder.js";
+import { canTalk, hush, lineText, sayLine, sayLive } from "../audio/voice.js";
 import Kadhai from "../components/Kadhai.jsx";
+import { dishesLine } from "../data/copy.js";
 import "./Dishes.css";
 
 const LABELS = {
@@ -16,6 +18,7 @@ const STATUS = {
   idle: "Tap and say which one, like \"doosra wala\"",
   listening: "Listening. Tap again when you finish",
   thinking: "Amma ji is looking",
+  speaking: "Amma ji is talking. Tap to stop her",
 };
 
 // Flow C: the best dishes for what you have, ranked by code (not AI), with honest labels.
@@ -26,24 +29,60 @@ export default function Dishes({ language, pantry, onOpen, onBack }) {
   const [error, setError] = useState("");
   const [mood, setMood] = useState("idle");
   const [heard, setHeard] = useState("");
+  const [amma, setAmma] = useState("");
   const recording = useRef(null);
+  const announced = useRef(false);
+  const talk = useRef(0);
 
-  async function listen() {
+  // The first time the dishes arrive, Amma ji reads out her picks, then listens for which one
+  async function announce(list) {
+    if (announced.current || !canTalk()) return;
+    announced.current = true;
+    const id = ++talk.current;
+    setMood("speaking");
+    // She only recommends out loud what can really be made; the rest stay on screen with their labels
+    const makeable = list.filter((d) => d.label !== "missing_essential");
+    try {
+      if (makeable.length) {
+        const text = dishesLine(makeable.map((d) => d.say_name), language);
+        setAmma(text);
+        await sayLive(text, language);
+      } else {
+        setAmma(lineText("nothing_fits", language));
+        await sayLine("nothing_fits", language);
+      }
+    } catch {
+      // no voice: the list is on screen anyway
+    }
+    if (id !== talk.current) return;
+    setMood("idle");
+    if (makeable.length) listen(list, true);
+  }
+
+  async function listen(list = dishes, auto = false) {
     const context = unlockAudio();
-    if (mood === "listening") return recording.current?.stop();
-    if (mood !== "idle") return;
+    if (!auto && mood === "speaking") {
+      talk.current += 1;
+      hush();
+      return setMood("idle");
+    }
+    if (!auto && mood === "listening") return recording.current?.stop();
+    if (!auto && mood !== "idle") return;
+    const id = talk.current; // leaving the screen bumps this, so a late answer opens nothing
     setError("");
     try {
       setMood("listening");
       recording.current = await startRecording(context);
       const wav = await recording.current.result;
       recording.current = null;
+      if (id !== talk.current) return;
       if (!wav) return setError("Amma ji did not hear anything. Tap and speak a little closer.");
       setMood("thinking");
       const { text } = await api.hear(wav, language);
       setHeard(text);
-      const { id } = await api.pick(text, dishes.map((d) => d.id));
-      if (id) return onOpen(id);
+      const picked = (await api.pick(text, list.map((d) => d.id))).id;
+      if (id !== talk.current) return;
+      if (picked) return onOpen(picked);
       setError("Amma ji could not tell which one. Say its number, like \"pehla wala\", or tap it.");
     } catch (e) {
       setError(e.name === "NotAllowedError" ? "Amma ji needs the microphone. Allow it, or tap a dish." : e.message);
@@ -52,7 +91,14 @@ export default function Dishes({ language, pantry, onOpen, onBack }) {
     }
   }
 
-  useEffect(() => () => recording.current?.stop(), []);
+  useEffect(
+    () => () => {
+      talk.current += 1;
+      hush();
+      recording.current?.stop();
+    },
+    [],
+  );
 
   useEffect(() => {
     setError("");
@@ -66,7 +112,10 @@ export default function Dishes({ language, pantry, onOpen, onBack }) {
         language,
         limit,
       })
-      .then(setDishes, (e) => setError(e.message));
+      .then((list) => {
+        setDishes(list);
+        announce(list);
+      }, (e) => setError(e.message));
   }, [pantry, language, limit]);
 
   return (
@@ -87,7 +136,8 @@ export default function Dishes({ language, pantry, onOpen, onBack }) {
       )}
       {dishes?.length > 0 && (
         <section className="pantry__voice dishes__voice">
-          <button className={`pantry__mic pantry__mic--${mood}`} onClick={listen} aria-label="Say which dish">
+          {amma && <p className="pantry__amma">{amma}</p>}
+          <button className={`pantry__mic pantry__mic--${mood}`} onClick={() => listen()} aria-label="Say which dish">
             <Kadhai mood={mood} size={76} />
           </button>
           <div>

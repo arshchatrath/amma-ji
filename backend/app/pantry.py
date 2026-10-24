@@ -2,7 +2,7 @@
 
 hear()    "do aloo, paneer, pyaaz hai, 20 minute mein" -> {have: [potato, paneer, onion], minutes: 20}
           Works for English letters, Devanagari and Gurmukhi, any common spelling.
-suggest() ranks the cookable dishes: must-haves first, then how many of your things a dish uses,
+suggest() ranks the cookable dishes: must-haves first, then fits your time, then how many of your things a dish uses,
           then fewest missing extras, then time. Allergies and diet are filters, never suggestions.
 """
 import re
@@ -217,8 +217,9 @@ def suggest(have, not_have=(), minutes=None, diet=None, allergies=(), kinds=None
             continue
         total = _minutes(recipe)
         too_long = bool(minutes and total and total > minutes)
-        ranked.append(((len(fit["missing_essential"]), -len(fit["uses"]), len(fit["missing_optional"]),
-                        too_long, total or 999), recipe, fit, total, too_long))
+        # A dish that fits the cook's time beats one that uses more of their things but runs long
+        ranked.append(((len(fit["missing_essential"]), too_long, -len(fit["uses"]), len(fit["missing_optional"]),
+                        total or 999), recipe, fit, total, too_long))
     ranked.sort(key=lambda r: r[0])
     out = []
     for _, recipe, fit, total, too_long in ranked[:limit]:
@@ -226,6 +227,7 @@ def suggest(have, not_have=(), minutes=None, diet=None, allergies=(), kinds=None
         out.append({
             "id": recipe.get("id", "dal_tadka"),
             "name": in_language(recipe["name"], language),
+            "say_name": in_language(recipe["name"], "hi" if language == "hi-en" else language),  # for Timbre
             "kind": recipe.get("kind", "main"),
             "diet": _diet(recipe),
             "label": label_for(fit),

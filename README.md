@@ -14,7 +14,7 @@ Backend (Python, needs `GNANI_API_KEY` and `GROQ_API_KEY` set):
 cd backend
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt -r requirements-dev.txt
-.venv/bin/uvicorn app.main:app --reload
+.venv/bin/uvicorn app.main:app --reload --port 8010
 ```
 
 Frontend (Node):
@@ -41,6 +41,17 @@ they allow the mic. The `Dockerfile` builds it; `render.yaml` sets it up on Rend
 
 On the free plan the service sleeps after 15 minutes without visits, so the first visit after
 that takes about a minute. Cooking sessions live in memory, so a restart ends any that are open.
+
+## Amma ji's voice outside cooking
+
+She greets you, asks what is in your kitchen, reacts to what you say, asks about time and allergies,
+then reads out her top dishes. Fixed lines are in `frontend/src/data/lines.json`, each with an mp3 in
+`frontend/public/voice/` made once with Timbre v3.0. Lines built from what you said are spoken live.
+After changing a line, delete its mp3 and run, from `backend/`:
+
+```
+.venv/bin/python scripts/make_voice_lines.py
+```
 
 ## The recipe sheet
 

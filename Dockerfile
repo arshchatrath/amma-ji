@@ -9,11 +9,11 @@ COPY frontend/ ./
 RUN npm run build
 
 FROM python:3.13-slim
-ENV PYTHONUNBUFFERED=1 PORT=8000
+ENV PYTHONUNBUFFERED=1 PORT=8010
 WORKDIR /app/backend
 COPY backend/requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 COPY backend/app ./app
 COPY --from=app /app/frontend/dist /app/frontend/dist
-EXPOSE 8000
+EXPOSE 8010
 CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT}"]

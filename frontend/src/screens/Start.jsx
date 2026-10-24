@@ -1,6 +1,9 @@
 import { useRef, useState } from "react";
 import Kadhai from "../components/Kadhai.jsx";
-import { GREETINGS, LANGUAGES } from "../data/copy.js";
+import { LANGUAGES } from "../data/copy.js";
+import { lineText, sayLine } from "../audio/voice.js";
+
+const GREETINGS = ["hello_0", "hello_1", "hello_2"];
 import "./Start.css";
 
 // Flow A: pick a language and start. The "Start cooking" tap also unlocks browser audio later.
@@ -11,7 +14,9 @@ export default function Start({ language, setLanguage, lessTeasing, setLessTeasi
 
   // Tapping the kadhai makes the seeds splutter and Amma ji says something else
   function poke() {
-    setGreeting((g) => (g + 1) % GREETINGS[language].length);
+    const next = (greeting + 1) % GREETINGS.length;
+    setGreeting(next);
+    sayLine(GREETINGS[next], language).catch(() => {}); // the tap unlocks sound, so she can say it
     setMood("listening");
     clearTimeout(timer.current);
     timer.current = setTimeout(() => setMood("idle"), 1100);
@@ -27,7 +32,7 @@ export default function Start({ language, setLanguage, lessTeasing, setLessTeasi
             <Kadhai mood={mood} size={208} />
           </button>
           <p className="start__greeting" aria-live="polite">
-            {GREETINGS[language][greeting]}
+            {lineText(GREETINGS[greeting], language)}
           </p>
         </div>
       </div>
@@ -72,8 +77,8 @@ export default function Start({ language, setLanguage, lessTeasing, setLessTeasi
         )}
 
         <p className="start__privacy">
-          Amma ji listens for her name on your device. Only what you say after "Amma ji" is sent to
-          Gnani to understand you. No recordings are saved.
+          Amma ji only listens while you see "Mic on". What you say then is sent to Gnani to
+          understand you. No recordings are saved.
         </p>
       </div>
     </main>

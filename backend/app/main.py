@@ -1,7 +1,7 @@
 """Amma ji's backend. Keeps the API keys safe and runs the cooking loop.
 
-Run from the backend folder:  .venv/bin/uvicorn app.main:app --reload
-Then open http://localhost:8000/docs to try every endpoint in the browser.
+Run from the backend folder:  .venv/bin/uvicorn app.main:app --reload --port 8010
+Then open http://localhost:8010/docs to try every endpoint in the browser.
 """
 import itertools
 import logging
@@ -180,7 +180,9 @@ async def hear(request: Request, language: Language = "hi-en"):
 def understand_pantry(body: Pantry):
     """Flow B: what the cook has, from what they said or typed. Plain code, no AI."""
     heard = pantry.hear(body.text)
-    named = lambda ids: [{"id": i, "name": pantry.display_name(i, body.language)} for i in ids]
+    # "say" is the name in the script Timbre reads well: आलू even on a Hinglish screen that shows aloo
+    named = lambda ids: [{"id": i, "name": pantry.display_name(i, body.language),
+                          "say": pantry.ingredient_name(i, body.language)} for i in ids]
     return {**heard, "have": named(heard["have"]), "not_have": named(heard["not_have"])}
 
 
