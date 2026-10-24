@@ -34,6 +34,9 @@ ASC057,egg stuck to the pan,Use a little more butter and let the pan heat before
 ASC059,egg is rubbery or dry,It cooked too long or too hot. Next time cook on low heat and take it off while still soft.,ज़्यादा देर या तेज़ आँच पर पका। अगली बार धीमी आँच पर पकाना और थोड़ा नरम रहते ही उतार लेना।
 ASC059,egg is watery,"Cook it 30 seconds more on low heat, stirring.",धीमी आँच पर 30 सेकंड और चलाते हुए पकाओ।
 ASC059,too salty,Beat one more egg without salt and mix it in.,एक और अंडा बिना नमक के फेंटकर मिला दो।
+ASC087,egg formed big lumps,Pour it slowly in a thin stream while stirring.,पतली धार में धीरे-धीरे चलाते हुए डालो।
+ASC087,soup has lumps,"Mix the cornflour in cold water first, then stir it in.","कॉर्नफ्लोर पहले ठंडे पानी में घोलो, फिर मिलाओ।"
+ASC087,chicken is pink inside,Simmer for 5 more minutes before shredding.,रेशे करने से पहले 5 मिनट और पकाओ।
 ASC096,roti is hard and chewy,"The dough was stiff or not rested. Knead it softer, rest it 20 minutes, and do not cook on low heat.","आटा सख्त था या रखा नहीं गया। नरम गूँधो, 20 मिनट रखो, और धीमी आँच पर मत सेको।"
 ASC096,roti does not puff,"It is rolled unevenly. Roll from the middle out with even pressure, and make sure the tawa is hot.","रोटी बराबर नहीं बेली। बीच से बाहर एक जैसे दबाव से बेलो, और तवा गरम रखो।"
 ASC096,dough is sticky,Add a spoon of atta and knead again. Use dry flour when rolling.,एक चम्मच आटा मिलाकर फिर गूँधो। बेलते समय सूखा आटा लगाओ।
@@ -88,6 +91,10 @@ ASC122,bottom is burning,Put a flat tawa under the pot and keep the heat at the 
 ASC123,rice broke and turned mushy,It boiled too long before layering. Stop at three-quarters done next time; it finishes on dum.,"परत लगाने से पहले चावल ज़्यादा उबल गए। अगली बार तीन-चौथाई पर रोकना, बाकी दम पर पकते हैं।"
 ASC123,bottom is burning,Put a flat tawa under the pot and keep the heat at the lowest for the dum.,बर्तन के नीचे चपटा तवा रख दो और दम के लिए आँच सबसे धीमी रखो।
 ASC123,rice on top is hard,"Sprinkle 3 tablespoons of hot water or milk, cover tightly and cook on low heat for 5 more minutes.","3 चम्मच गरम पानी या दूध छिड़को, कसकर ढककर धीमी आँच पर 5 मिनट और पकाओ।"
+ASC131,sauce turned dark green,It cooked too long. Simmer only 3 minutes after adding the puree.,ज़्यादा देर पकी। प्यूरी डालने के बाद बस 3 मिनट पकाओ।
+ASC131,sauce is too thick,Add a few spoons of the pasta water.,पास्ता के पानी के कुछ चम्मच मिलाओ।
+ASC132,lumps in the sauce,Always mix cornflour in cold milk first. Whisk hard now or pass it through a sieve.,कॉर्नफ्लोर हमेशा पहले ठंडे दूध में घोलो। अभी ज़ोर से फेंटो या छलनी से छान लो।
+ASC132,cheese went stringy,Add the cheese on low heat and do not let the sauce boil after.,चीज़ धीमी आँच पर डालो और उसके बाद सॉस को उबलने मत दो।
 ASC135,noodles are sticky and clumped,They were overcooked or not rinsed. Rinse in cold water and toss with oil straight away.,नूडल्स ज़्यादा उबले या धोए नहीं। ठंडे पानी से धोकर तुरंत तेल मिलाओ।
 ASC135,too salty,Soya sauce is salty. Add a few more vegetables or plain noodles and skip extra salt.,"सोया सॉस नमकीन होता है। थोड़ी और सब्ज़ी या सादे नूडल्स मिलाओ, ऊपर से नमक मत डालो।"
 ASC135,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
@@ -193,6 +200,12 @@ ASC251,fishy smell,Rub the fish with salt and lemon and rinse before marinating.
 ASC252,marinade slid off,The curd was too watery. Hang it in a cloth for 30 minutes to make it thick.,दही पतला था। 30 मिनट कपड़े में लटकाकर गाढ़ा कर लो।
 ASC252,fish is dry,It baked too long. Check after 12 minutes next time.,ज़्यादा देर बेक हुई। अगली बार 12 मिनट पर जाँचना।
 ASC252,no oven at home,"Cook it on a hot greased tawa, covered, for 5 to 6 minutes on each side.",गरम घी लगे तवे पर ढककर दोनों तरफ़ 5-6 मिनट पकाओ।
+ASC270,raita is too sour,The curd was old. Stir in a spoon of milk or a pinch of sugar.,दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+ASC270,peanuts went soft,Add them only just before serving.,मूंगफली परोसने से ठीक पहले ही डालो।
+ASC275,raita is too sour,The curd was old. Stir in a spoon of milk or a pinch of sugar.,दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+ASC275,raita tastes bitter,"Use only the leaves, not the stems, and do not grind too long.","बस पत्ते लो, डंठल नहीं, और ज़्यादा देर मत पीसो।"
+ASC281,too thick after cooling,Stir in a little warm water.,थोड़ा गुनगुना पानी मिला दो।
+ASC281,too sour,Add a little more jaggery and warm it until it melts.,थोड़ा और गुड़ डालकर पिघलने तक गरम करो।
 ASC282,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
 ASC282,kheer is too thin,Simmer a few minutes more. It also thickens as it cools.,कुछ मिनट और पकाओ। ठंडी होने पर भी गाढ़ी होती है।
 ASC282,kheer is too thick,Stir in a little warm milk.,थोड़ा गरम दूध मिला दो।
@@ -323,6 +336,8 @@ BFP043,vegetables still hard,"Cut them smaller next time. For now, cover and coo
 BFP044,poha is mushy,It soaked too long. Spread it in the pan on high heat for a minute to dry a little. Next time just rinse and drain.,पोहा ज़्यादा देर भीगा। तेज़ आँच पर एक मिनट फैलाकर थोड़ा सुखा लो। अगली बार बस धोकर पानी निकाल देना।
 BFP044,poha is dry and hard,"Sprinkle 2 tablespoons of water, cover and steam on low heat for 2 minutes.","2 चम्मच पानी छिड़को, ढककर धीमी आँच पर 2 मिनट भाप में पकाओ।"
 BFP044,too salty,"Mix in a little more rinsed poha, or squeeze in more lemon.","थोड़ा और धुला पोहा मिला दो, या थोड़ा और नींबू निचोड़ दो।"
+BFP073,soup turned dull green,Do not cook the spinach long. Blend soon after it wilts.,पालक ज़्यादा देर मत पकाओ। मुरझाते ही पीस लो।
+BFP073,soup is lumpy,"Whisk the soup slowly into the flour, or blend it again.","सूप धीरे-धीरे फेंटते हुए मैदे में डालो, या फिर से पीस लो।"
 BFP090,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
 BFP090,coconut milk split,It boiled. Keep the heat low after adding coconut milk.,नारियल का दूध उबल गया। उसे डालने के बाद आँच धीमी रखो।
 BFP090,stew is too thin,Mash a few potato pieces into it and simmer for 3 minutes.,आलू के कुछ टुकड़े मसलकर मिलाओ और 3 मिनट पकाओ।
@@ -394,6 +409,12 @@ BFP287,no oven at home,"Cook the boiled potatoes in a heavy pan with the butter 
 BFP293,sauce has lumps,Pour the milk slowly while whisking. Whisk hard now or pass it through a sieve.,दूध फेंटते हुए धीरे-धीरे डालो। अभी ज़ोर से फेंटो या छलनी से छान लो।
 BFP293,dish is watery,Drain the cauliflower well after boiling.,उबालने के बाद गोभी का पानी अच्छे से निकालो।
 BFP293,no oven at home,"Cover the pan and cook on low heat for 10 minutes, then brown the top with a hot spoon of ghee.","पैन ढककर धीमी आँच पर 10 मिनट पकाओ, फिर ऊपर गरम घी डालकर सुनहरा करो।"
+BFP316,raita is too sour,The curd was old. Stir in a spoon of milk or a pinch of sugar.,दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+BFP316,raita turned watery,"Add the vegetables just before serving, and squeeze out their water first.","सब्ज़ी परोसने से ठीक पहले डालो, और पहले उसका पानी निचोड़ लो।"
+BFP318,raita is too sour,The curd was old. Stir in a spoon of milk or a pinch of sugar.,दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+BFP318,curd split,The pumpkin was still hot. Let it cool fully before mixing.,कद्दू गरम था। मिलाने से पहले पूरा ठंडा होने दो।
+BFP328,raita is too sour,The curd was old. Stir in a spoon of milk or a pinch of sugar.,दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+BFP328,hard bits in the raita,Take out all the seeds; they stay hard.,सारे बीज निकाल दो; वो सख्त रहते हैं।
 BFP334,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
 BFP334,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
 BFP334,milk split,"Add the sugar only at the end, after the lauki is cooked.","चीनी लौकी पकने के बाद, आखिर में ही डालो।"
@@ -409,6 +430,10 @@ BFP431,crust is soft,"Rub in enough ghee so the flour holds when pressed, and ke
 BFP439,dhokla did not rise,The soda or Eno went in too early or was old. Add it just before steaming and steam straight away.,सोडा या ईनो जल्दी डाला या पुराना था। भाप से ठीक पहले डालो और तुरंत भाप में रखो।
 BFP439,sticky inside,"Steam for 3 to 5 more minutes, until a knife comes out clean.","3-5 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
 BFP439,dhokla is dry,Pour a little more of the tempering water over it while it is warm.,गरम रहते ऊपर थोड़ा और तड़के वाला पानी डालो।
+BFP445,too sour,Add a pinch of sugar or jaggery and grind again.,चुटकी भर चीनी या गुड़ डालकर फिर पीसो।
+BFP445,too bitter,Amla can be bitter. Add more coriander and a pinch of sugar.,आंवला कड़वा हो सकता है। थोड़ा और हरा धनिया और चुटकी भर चीनी डालो।
+BFP447,too thick after cooling,Stir in a little warm water.,थोड़ा गुनगुना पानी मिला दो।
+BFP447,too sour,Add a little more jaggery and warm it until it melts.,थोड़ा और गुड़ डालकर पिघलने तक गरम करो।
 BFP456,soggy inside,Pat the tomato slices dry first.,पहले टमाटर के टुकड़े कपड़े से सुखा लो।
 BFP456,burnt outside,Lower the heat and press with a lid.,आँच कम करो और ढक्कन से दबाओ।
 BFP473,chicken is pink inside,Simmer for 5 more minutes and check the thickest part again.,5 मिनट और पकाओ और सबसे मोटा हिस्सा फिर से देखो।
@@ -425,9 +450,15 @@ BFP556,tastes plain,"Make a quick tadka of ghee, cumin and a pinch of hing and p
 BFP579,idlis are dense,"Add the soda only right before steaming, and do not overmix after adding it.","सोडा भाप से ठीक पहले डालो, और उसके बाद ज़्यादा मत चलाओ।"
 BFP579,idlis are dry,Add 2 tablespoons more curd to the batter.,घोल में 2 चम्मच और दही मिला दो।
 BFP579,sticky inside,"Steam for 3 more minutes, until a knife comes out clean.","3 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+BFP599,mould on top,Water got in. Use a fully dry jar and a dry spoon every time. Throw away any pickle with mould.,पानी चला गया। हर बार पूरा सूखा डिब्बा और सूखा चम्मच लो। फफूंद लगा अचार फेंक दो।
+BFP599,pickle tastes raw,Leave it in the sun for another day or two.,एक-दो दिन और धूप में रखो।
 BFP604,too bitter,Leave them in salt longer and squeeze well. A pinch of sugar or jaggery in the filling helps.,नमक में और देर रखो और अच्छे से निचोड़ो। भराई में चुटकी भर चीनी या गुड़ भी मदद करता है।
 BFP604,"karelas burnt outside, hard inside","Cook covered on low heat first, then crisp them up.","पहले ढककर धीमी आँच पर पकाओ, फिर कुरकुरा करो।"
 BFP604,filling falls out,Tie each karela with a cotton thread. Take the thread off before eating.,हर करेले पर सूती धागा बाँध दो। खाने से पहले धागा हटा देना।
+OSR051,mould on top,Water got in. Use a fully dry jar and a dry spoon every time. Throw away any pickle with mould.,पानी चला गया। हर बार पूरा सूखा डिब्बा और सूखा चम्मच लो। फफूंद लगा अचार फेंक दो।
+OSR051,sticking to the pan,Lower the heat and keep stirring; dates burn easily.,आँच कम करो और चलाते रहो; खजूर जल्दी जलते हैं।
+OSR052,mould on top,Water got in. Use a fully dry jar and a dry spoon every time. Throw away any pickle with mould.,पानी चला गया। हर बार पूरा सूखा डिब्बा और सूखा चम्मच लो। फफूंद लगा अचार फेंक दो।
+OSR052,fenugreek tastes bitter,It was roasted too dark. Roast only until it smells nutty.,मेथी ज़्यादा भुन गई। बस खुशबू आने तक भूनो।
 OSR065,balls are pink inside,Fry them a little longer on medium heat until cooked through.,मध्यम आँच पर थोड़ा और तलो जब तक अंदर तक पक न जाएँ।
 OSR065,sauce has lumps,"Always mix the corn flour in cold water first, then stir it in.","कॉर्नफ्लोर हमेशा पहले ठंडे पानी में घोलो, फिर मिलाओ।"
 OSR065,too salty,The sauces are salty. Add a little more stock or water and skip extra salt.,सॉस नमकीन हैं। थोड़ा और स्टॉक या पानी डालो और ऊपर से नमक मत डालो।
@@ -439,6 +470,18 @@ OSR077,paneer is hard,Soak the cubes in warm water for 10 minutes before adding 
 OSR078,slices fell apart,Cut through the middle where the stem holds it together. Use the loose bits as florets.,बीच से काटो जहाँ डंठल जोड़कर रखता है। टूटे टुकड़े फूलों की तरह इस्तेमाल करो।
 OSR078,still hard in the middle,"Roast 5 to 10 minutes more, or cover with foil for the first 10 minutes next time.","5-10 मिनट और रोस्ट करो, या अगली बार पहले 10 मिनट फ़ॉइल से ढक देना।"
 OSR078,no oven at home,"Cook the slices in a covered pan on medium heat, 6 to 7 minutes each side.",स्लाइस ढके पैन में मध्यम आँच पर हर तरफ़ 6-7 मिनट पकाओ।
+OSR085,too thick,Stir in a little warm water.,थोड़ा गुनगुना पानी मिला दो।
+OSR085,too spicy,"Use fewer chillies, or add a few more dates.","कम मिर्च लो, या कुछ और खजूर डालो।"
+OSR086,salad is watery,Dry the chicken and celery well before mixing.,मिलाने से पहले चिकन और सेलेरी अच्छे से सुखा लो।
+OSR086,bland taste,"Add more lemon juice, pepper and a pinch of salt.","थोड़ा और नींबू रस, काली मिर्च और चुटकी भर नमक डालो।"
+OSR090,raita is too sour,The curd was old. Stir in a spoon of milk or a pinch of sugar.,दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।
+OSR090,raita turned watery,"Add the vegetables just before serving, and squeeze out their water first.","सब्ज़ी परोसने से ठीक पहले डालो, और पहले उसका पानी निचोड़ लो।"
+OSR092,kale is tough,Rub it longer with the oil and lemon until it turns darker and soft.,तेल और नींबू के साथ और देर मसलो जब तक गहरा और नरम न हो जाए।
+OSR092,apple turned brown,Toss the apple in lemon juice right after cutting.,काटते ही सेब पर नींबू रस लगा दो।
+OSR096,too thick after cooling,Stir in a little warm water.,थोड़ा गुनगुना पानी मिला दो।
+OSR096,too sour,Add a little more jaggery and warm it until it melts.,थोड़ा और गुड़ डालकर पिघलने तक गरम करो।
+OSR098,chutney turned dark,The mixer got warm. Use ice-cold water and grind in short bursts.,मिक्सी गरम हो गई। बर्फ़ जैसा ठंडा पानी लो और रुक-रुककर पीसो।
+OSR098,chutney tastes bitter,Too much mint or the stems went in. Add more coriander and a squeeze of lemon.,पुदीना ज़्यादा या डंठल चले गए। थोड़ा और हरा धनिया और नींबू डालो।
 OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
 OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
 OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।
@@ -459,6 +502,10 @@ OSR123,no oven at home,"Use a heavy kadhai or a cooker without the whistle and r
 OSR127,tutti frutti sank,Toss it in a little maida first so it stays spread through the cake.,पहले थोड़े मैदे में लपेटो ताकि पूरे केक में फैली रहे।
 OSR127,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
 OSR127,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"
+OSR137,soup tastes bitter,The lemon was boiled. Always add lemon after turning off the heat.,नींबू उबल गया। नींबू हमेशा गैस बंद करके डालो।
+OSR137,soup is too thick,Add a little hot water.,थोड़ा गरम पानी डालो।
+OSR138,garlic tastes bitter,It browned too much. Cook garlic only until light golden.,लहसुन ज़्यादा भुन गया। बस हल्का सुनहरा होने तक भूनो।
+OSR138,soup is too thick,Add a little hot water or milk.,थोड़ा गरम पानी या दूध डालो।
 OSR139,dal still hard,Add a cup of hot water and pressure cook for 3 to 4 more whistles. Soak overnight next time.,एक कप गरम पानी डालकर कुकर में 3-4 सीटी और लगाओ। अगली बार रात भर भिगोना।
 OSR139,too thick,"Add hot water, half a cup at a time, and simmer for 2 minutes.",आधा-आधा कप गरम पानी डालो और 2 मिनट पकाओ।
 OSR139,sticking at the bottom,"Move it to a clean pot without scraping, add water and keep stirring.","नीचे से खुरचे बिना साफ़ बर्तन में डालो, पानी मिलाओ और चलाते रहो।"

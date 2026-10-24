@@ -392,7 +392,8 @@
     "hi-en": "Chicken dho ke kapde se sukha lo. Namak, kali mirch aur aadha garam masala laga ke 15 minute rakho.",
     "hi": "चिकन धोकर कपड़े से सुखा लो। नमक, काली मिर्च और आधा गरम मसाला लगाकर 15 मिनट रखो।",
     "pa": "ਚਿਕਨ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਲੂਣ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਅੱਧਾ ਗਰਮ ਮਸਾਲਾ ਲਗਾ ਕੇ 15 ਮਿੰਟ ਰੱਖੋ।",
-    "safety": "raw_chicken"
+    "safety": "raw_chicken",
+    "timer": 15
    },
    {
     "en": "Cook the chicken in half the butter, turning, until browned and white all through, about 10 minutes. Take it out.",
@@ -463,7 +464,8 @@
     "hi-en": "Chicken dho ke kapde se sukha lo. Tukde karke ande ki safedi, ek chhota chammach cornflour, namak aur kali mirch ke saath milao. 15 minute rakho.",
     "hi": "चिकन धोकर कपड़े से सुखा लो। टुकड़े करके अंडे की सफ़ेदी, एक छोटा चम्मच कॉर्नफ्लोर, नमक और काली मिर्च के साथ मिलाओ। 15 मिनट रखो।",
     "pa": "ਚਿਕਨ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ। ਟੁਕੜੇ ਕਰਕੇ ਆਂਡੇ ਦੀ ਸਫ਼ੈਦੀ, ਇੱਕ ਛੋਟਾ ਚਮਚ ਕੌਰਨਫਲੋਰ, ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਨਾਲ ਮਿਲਾਓ। 15 ਮਿੰਟ ਰੱਖੋ।",
-    "safety": "raw_chicken"
+    "safety": "raw_chicken",
+    "timer": 15
    },
    {
     "en": "Fry the chicken in hot oil until golden and white all through, about 6 minutes. Drain.",
@@ -540,7 +542,7 @@
     "hi-en": "Machli tel mein dono taraf 2 minute talo aur nikaal lo.",
     "hi": "मछली तेल में दोनों तरफ़ 2 मिनट तलो और निकाल लो।",
     "pa": "ਮੱਛੀ ਤੇਲ ਵਿੱਚ ਦੋਵੇਂ ਪਾਸੇ 2 ਮਿੰਟ ਤਲੋ ਅਤੇ ਕੱਢ ਲਓ।",
-    "timer": 4,
+    "timer": 2,
     "safety": "splutter"
    },
    {

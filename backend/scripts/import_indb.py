@@ -94,15 +94,26 @@ def number(value):
 
 
 def split_name(name):
-    """'Okra fry (Bhindi sabzi)' -> ('Okra fry', 'Bhindi sabzi')"""
-    m = re.match(r"^(.*?)\s*\((.+)\)\s*$", name.strip())
-    return (m.group(1).strip(), m.group(2).strip()) if m else (name.strip(), None)
+    """'Okra fry (Bhindi sabzi)' -> ('Okra fry', 'Bhindi sabzi'). The local name is the last bracket,
+    so 'Prawn curry (with coconut) (Jhinga curry)' keeps '(with coconut)' in the English name."""
+    name = name.strip()
+    if not name.endswith(")"):
+        return name, None
+    depth = 0
+    for at in range(len(name) - 1, -1, -1):
+        depth += {")": 1, "(": -1}.get(name[at], 0)
+        if depth == 0:
+            break
+    if depth or at == 0:
+        return name, None
+    return name[:at].strip(), name[at + 1:-1].strip()
 
 
 def main():
     download()
     rules, catalogue = ingredient_rules()
     labels_of = {c["id"]: set(c["labels"]) for c in catalogue}
+    words_for = {c["id"]: {c["names"]["en"], *c["spellings"]} - {""} for c in catalogue}
     names = {r["recipe_code"]: r for r in rows("recipes_names.xlsx")}
     servings = {r["recipe_code"]: r for r in rows("recipes_servingsize.xlsx")}
     nutrition = {r["food_code"]: r for r in rows("INDB.xlsx")}
@@ -138,9 +149,12 @@ def main():
         # Main ingredients: not pantry, garnish or additive, and a real share of the dish by weight
         countable = [i for i in items if not i["_labels"] & {"pantry", "garnish", "additive", "fat"}]
         total = sum(i["grams"] for i in countable) or 1
+        # The thing a dish is named after is a must-have even when it is light, like dalia in meetha daliya
+        title = f"{name} {local or ''}".lower()
         for i in items:
             i["essential"] = i in countable and (
-                i["grams"] / total >= 0.15 or bool(i["_labels"] & {"meat", "fish", "egg"}))
+                i["grams"] / total >= 0.15 or bool(i["_labels"] & {"meat", "fish", "egg"})
+                or any(re.search(rf"\b{re.escape(w)}", title) for w in words_for.get(i["id"], ())))
         if countable and not any(i["essential"] for i in items):
             max(countable, key=lambda i: i["grams"])["essential"] = True
         labels = set().union(*(i.pop("_labels") for i in items))

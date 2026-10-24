@@ -1,0 +1,1124 @@
+{
+ "ASC131": {
+  "names": {
+   "hi-en": "Palak pasta sauce",
+   "hi": "पालक पास्ता सॉस",
+   "pa": "ਪਾਲਕ ਪਾਸਤਾ ਸੌਸ"
+  },
+  "steps": [
+   {
+    "en": "Put the spinach into boiling water for 1 minute, then into cold water. Grind it with the half cup of water into a smooth puree.",
+    "hi-en": "Palak ubalte paani mein 1 minute daal ke thande paani mein daalo. Aadhe cup paani ke saath smooth puree pees lo.",
+    "hi": "पालक उबलते पानी में 1 मिनट डालकर ठंडे पानी में डालो। आधे कप पानी के साथ चिकनी प्यूरी पीस लो।",
+    "pa": "ਪਾਲਕ ਉਬਲਦੇ ਪਾਣੀ ਵਿੱਚ 1 ਮਿੰਟ ਪਾ ਕੇ ਠੰਡੇ ਪਾਣੀ ਵਿੱਚ ਪਾਓ। ਅੱਧੇ ਕੱਪ ਪਾਣੀ ਨਾਲ ਮੁਲਾਇਮ ਪਿਊਰੀ ਪੀਸ ਲਓ।",
+    "timer": 1,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Heat the olive oil and butter. Cook the chopped garlic and spring onion for 2 minutes.",
+    "hi-en": "Olive oil aur makhan garam karo. Kata lehsun aur hara pyaaz 2 minute pakao.",
+    "hi": "ऑलिव ऑयल और मक्खन गरम करो। कटा लहसुन और हरा प्याज़ 2 मिनट पकाओ।",
+    "pa": "ਔਲਿਵ ਆਇਲ ਅਤੇ ਮੱਖਣ ਗਰਮ ਕਰੋ। ਕੱਟਿਆ ਲਸਣ ਅਤੇ ਹਰਾ ਪਿਆਜ਼ 2 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 2
+   },
+   {
+    "en": "Add the spinach puree, salt, sugar and pepper and simmer for 3 minutes.",
+    "hi-en": "Palak puree, namak, cheeni aur kali mirch daal ke 3 minute dheeme pakao.",
+    "hi": "पालक प्यूरी, नमक, चीनी और काली मिर्च डालकर 3 मिनट धीमी आँच पर पकाओ।",
+    "pa": "ਪਾਲਕ ਪਿਊਰੀ, ਲੂਣ, ਖੰਡ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਪਾ ਕੇ 3 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ।",
+    "timer": 3,
+    "safety": "splutter"
+   },
+   {
+    "en": "Turn off the heat, stir in the cream and cheese, and toss with hot boiled pasta.",
+    "hi-en": "Gas band karke cream aur cheese milao, aur garam uble pasta ke saath mila do.",
+    "hi": "गैस बंद करके क्रीम और चीज़ मिलाओ, और गरम उबले पास्ता के साथ मिला दो।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਕਰੀਮ ਅਤੇ ਚੀਜ਼ ਮਿਲਾਓ, ਅਤੇ ਗਰਮ ਉਬਲੇ ਪਾਸਤਾ ਨਾਲ ਮਿਲਾ ਦਿਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "sauce turned dark green",
+    "en": "It cooked too long. Simmer only 3 minutes after adding the puree.",
+    "hi": "ज़्यादा देर पकी। प्यूरी डालने के बाद बस 3 मिनट पकाओ।"
+   },
+   {
+    "mistake": "sauce is too thick",
+    "en": "Add a few spoons of the pasta water.",
+    "hi": "पास्ता के पानी के कुछ चम्मच मिलाओ।"
+   }
+  ],
+  "swaps": {
+   "cream": [
+    "milk"
+   ],
+   "cheese": [
+    "skip"
+   ]
+  }
+ },
+ "ASC132": {
+  "names": {
+   "hi-en": "Cheese pasta sauce",
+   "hi": "चीज़ पास्ता सॉस",
+   "pa": "ਚੀਜ਼ ਪਾਸਤਾ ਸੌਸ"
+  },
+  "steps": [
+   {
+    "en": "Mix the cornflour with a few spoons of the cold milk until smooth.",
+    "hi-en": "Cornflour thode thande doodh mein smooth hone tak ghol lo.",
+    "hi": "कॉर्नफ्लोर थोड़े ठंडे दूध में चिकना होने तक घोल लो।",
+    "pa": "ਕੌਰਨਫਲੋਰ ਥੋੜ੍ਹੇ ਠੰਡੇ ਦੁੱਧ ਵਿੱਚ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਘੋਲ ਲਓ।"
+   },
+   {
+    "en": "Melt the butter and add the rest of the milk. When it is hot, whisk in the cornflour mix and cook, stirring, until thick, about 4 minutes.",
+    "hi-en": "Makhan pighla ke baaki doodh daalo. Garam ho jaaye to cornflour wala ghol phentte hue daalo aur chalaate hue gaadha hone tak pakao, lagbhag 4 minute.",
+    "hi": "मक्खन पिघलाकर बाकी दूध डालो। गरम हो जाए तो कॉर्नफ्लोर वाला घोल फेंटते हुए डालो और चलाते हुए गाढ़ा होने तक पकाओ, लगभग 4 मिनट।",
+    "pa": "ਮੱਖਣ ਪਿਘਲਾ ਕੇ ਬਾਕੀ ਦੁੱਧ ਪਾਓ। ਗਰਮ ਹੋ ਜਾਵੇ ਤਾਂ ਕੌਰਨਫਲੋਰ ਵਾਲਾ ਘੋਲ ਫੈਂਟਦੇ ਹੋਏ ਪਾਓ ਅਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "boil_over"
+   },
+   {
+    "en": "Turn the heat low. Add the salt, pepper and oregano, then stir in the cheese and cream until melted. Toss with hot boiled pasta.",
+    "hi-en": "Aanch dheemi karo. Namak, kali mirch aur oregano daalo, phir cheese aur cream pighalne tak milao. Garam uble pasta ke saath mila do.",
+    "hi": "आँच धीमी करो। नमक, काली मिर्च और ओरेगानो डालो, फिर चीज़ और क्रीम पिघलने तक मिलाओ। गरम उबले पास्ता के साथ मिला दो।",
+    "pa": "ਅੱਗ ਹੌਲੀ ਕਰੋ। ਲੂਣ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਓਰੀਗੈਨੋ ਪਾਓ, ਫਿਰ ਚੀਜ਼ ਅਤੇ ਕਰੀਮ ਪਿਘਲਣ ਤੱਕ ਮਿਲਾਓ। ਗਰਮ ਉਬਲੇ ਪਾਸਤਾ ਨਾਲ ਮਿਲਾ ਦਿਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "lumps in the sauce",
+    "en": "Always mix cornflour in cold milk first. Whisk hard now or pass it through a sieve.",
+    "hi": "कॉर्नफ्लोर हमेशा पहले ठंडे दूध में घोलो। अभी ज़ोर से फेंटो या छलनी से छान लो।"
+   },
+   {
+    "mistake": "cheese went stringy",
+    "en": "Add the cheese on low heat and do not let the sauce boil after.",
+    "hi": "चीज़ धीमी आँच पर डालो और उसके बाद सॉस को उबलने मत दो।"
+   }
+  ],
+  "swaps": {
+   "cream": [
+    "milk"
+   ],
+   "herbs_dried": [
+    "skip"
+   ]
+  }
+ },
+ "ASC270": {
+  "names": {
+   "hi-en": "Moongphali ka raita",
+   "hi": "मूंगफली का रायता",
+   "pa": "ਮੂੰਗਫਲੀ ਦਾ ਰਾਇਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Dry roast the peanuts until crunchy, rub off the skins and crush them coarsely.",
+    "hi-en": "Moongphali crunchy hone tak sookhi bhuno, chhilke ragad ke nikaalo aur mota kuchal lo.",
+    "hi": "मूंगफली कुरकुरी होने तक सूखी भूनो, छिलके रगड़कर निकालो और मोटा कुचल लो।",
+    "pa": "ਮੂੰਗਫਲੀ ਕਰਾਰੀ ਹੋਣ ਤੱਕ ਸੁੱਕੀ ਭੁੰਨੋ, ਛਿਲਕੇ ਰਗੜ ਕੇ ਕੱਢੋ ਅਤੇ ਮੋਟੀ ਕੁਚਲ ਲਓ।"
+   },
+   {
+    "en": "Whisk the curd with the salt until smooth.",
+    "hi-en": "Dahi namak ke saath smooth hone tak phent lo.",
+    "hi": "दही नमक के साथ चिकना होने तक फेंट लो।",
+    "pa": "ਦਹੀਂ ਲੂਣ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Just before serving, stir in the peanuts and chopped green chilli. Sprinkle the roasted cumin seed powder and red chilli powder on top.",
+    "hi-en": "Parosne se theek pehle moongphali aur kati hari mirch milao. Upar bhuna jeera powder aur laal mirch chhidko.",
+    "hi": "परोसने से ठीक पहले मूंगफली और कटी हरी मिर्च मिलाओ। ऊपर भुना जीरा पाउडर और लाल मिर्च छिड़को।",
+    "pa": "ਪਰੋਸਣ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਮੂੰਗਫਲੀ ਅਤੇ ਕੱਟੀ ਹਰੀ ਮਿਰਚ ਮਿਲਾਓ। ਉੱਤੇ ਭੁੰਨਿਆ ਜੀਰਾ ਪਾਊਡਰ ਅਤੇ ਲਾਲ ਮਿਰਚ ਛਿੜਕੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raita is too sour",
+    "en": "The curd was old. Stir in a spoon of milk or a pinch of sugar.",
+    "hi": "दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।"
+   },
+   {
+    "mistake": "peanuts went soft",
+    "en": "Add them only just before serving.",
+    "hi": "मूंगफली परोसने से ठीक पहले ही डालो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC275": {
+  "names": {
+   "hi-en": "Pudina raita",
+   "hi": "पुदीना रायता",
+   "pa": "ਪੁਦੀਨਾ ਰਾਇਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Crush the mint leaves and green chilli into a paste with a spoon of the curd.",
+    "hi-en": "Pudina aur hari mirch ek chammach dahi ke saath kuchal ke paste bana lo.",
+    "hi": "पुदीना और हरी मिर्च एक चम्मच दही के साथ कुचलकर पेस्ट बना लो।",
+    "pa": "ਪੁਦੀਨਾ ਅਤੇ ਹਰੀ ਮਿਰਚ ਇੱਕ ਚਮਚ ਦਹੀਂ ਨਾਲ ਕੁਚਲ ਕੇ ਪੇਸਟ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Whisk the curd with the salt until smooth.",
+    "hi-en": "Dahi namak ke saath smooth hone tak phent lo.",
+    "hi": "दही नमक के साथ चिकना होने तक फेंट लो।",
+    "pa": "ਦਹੀਂ ਲੂਣ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Mix in the mint paste and sprinkle the roasted cumin seed powder and red chilli powder on top. Serve cold.",
+    "hi-en": "Pudine ka paste milao aur upar bhuna jeera powder aur laal mirch chhidko. Thanda parosna.",
+    "hi": "पुदीने का पेस्ट मिलाओ और ऊपर भुना जीरा पाउडर और लाल मिर्च छिड़को। ठंडा परोसना।",
+    "pa": "ਪੁਦੀਨੇ ਦਾ ਪੇਸਟ ਮਿਲਾਓ ਅਤੇ ਉੱਤੇ ਭੁੰਨਿਆ ਜੀਰਾ ਪਾਊਡਰ ਅਤੇ ਲਾਲ ਮਿਰਚ ਛਿੜਕੋ। ਠੰਡਾ ਪਰੋਸਣਾ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raita is too sour",
+    "en": "The curd was old. Stir in a spoon of milk or a pinch of sugar.",
+    "hi": "दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।"
+   },
+   {
+    "mistake": "raita tastes bitter",
+    "en": "Use only the leaves, not the stems, and do not grind too long.",
+    "hi": "बस पत्ते लो, डंठल नहीं, और ज़्यादा देर मत पीसो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC281": {
+  "names": {
+   "hi-en": "Imli ki saunth",
+   "hi": "इमली की सोंठ",
+   "pa": "ਇਮਲੀ ਦੀ ਸੁੰਢ"
+  },
+  "steps": [
+   {
+    "en": "Soak the tamarind in the 100 ml of hot water for 20 minutes. Mash it and strain out the pulp.",
+    "hi-en": "Imli 100 ml garam paani mein 20 minute bhigo do. Masal ke gooda chhaan lo.",
+    "hi": "इमली 100 ml गरम पानी में 20 मिनट भिगो दो। मसलकर गूदा छान लो।",
+    "pa": "ਇਮਲੀ 100 ml ਗਰਮ ਪਾਣੀ ਵਿੱਚ 20 ਮਿੰਟ ਭਿਓਂ ਦਿਓ। ਮਸਲ ਕੇ ਗੁੱਦਾ ਛਾਣ ਲਓ।",
+    "timer": 20
+   },
+   {
+    "en": "Cook the pulp with the jaggery on low heat, stirring, until the jaggery melts and it thickens, about 8 minutes.",
+    "hi-en": "Gooda gud ke saath dheemi aanch pe chalaate hue pakao jab tak gud pighal jaaye aur gaadha ho jaaye, lagbhag 8 minute.",
+    "hi": "गूदा गुड़ के साथ धीमी आँच पर चलाते हुए पकाओ जब तक गुड़ पिघल जाए और गाढ़ा हो जाए, लगभग 8 मिनट।",
+    "pa": "ਗੁੱਦਾ ਗੁੜ ਨਾਲ ਹੌਲੀ ਅੱਗ ਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਪਕਾਓ ਜਦੋਂ ਤੱਕ ਗੁੜ ਪਿਘਲ ਜਾਵੇ ਅਤੇ ਗਾੜ੍ਹਾ ਹੋ ਜਾਵੇ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8,
+    "safety": "splutter"
+   },
+   {
+    "en": "Stir in the roasted cumin seed powder, red chilli powder and salt. Let it cool; it thickens more.",
+    "hi-en": "Bhuna jeera powder, laal mirch aur namak milao. Thanda hone do, aur gaadha ho jaayega.",
+    "hi": "भुना जीरा पाउडर, लाल मिर्च और नमक मिलाओ। ठंडा होने दो, और गाढ़ा हो जाएगा।",
+    "pa": "ਭੁੰਨਿਆ ਜੀਰਾ ਪਾਊਡਰ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਮਿਲਾਓ। ਠੰਡਾ ਹੋਣ ਦਿਓ, ਹੋਰ ਗਾੜ੍ਹਾ ਹੋ ਜਾਵੇਗਾ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too thick after cooling",
+    "en": "Stir in a little warm water.",
+    "hi": "थोड़ा गुनगुना पानी मिला दो।"
+   },
+   {
+    "mistake": "too sour",
+    "en": "Add a little more jaggery and warm it until it melts.",
+    "hi": "थोड़ा और गुड़ डालकर पिघलने तक गरम करो।"
+   }
+  ],
+  "swaps": {
+   "jaggery": [
+    "sugar"
+   ]
+  }
+ },
+ "BFP316": {
+  "names": {
+   "hi-en": "Gajar ka raita",
+   "hi": "गाजर का रायता",
+   "pa": "ਗਾਜਰ ਦਾ ਰਾਇਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Dry roast the cumin seeds for a minute and crush them. Grate the carrot.",
+    "hi-en": "Jeera ek minute sookha bhuno aur kuchal lo. Gajar kaddukas karo.",
+    "hi": "जीरा एक मिनट सूखा भूनो और कुचल लो। गाजर कद्दूकस करो।",
+    "pa": "ਜੀਰਾ ਇੱਕ ਮਿੰਟ ਸੁੱਕਾ ਭੁੰਨੋ ਅਤੇ ਕੁਚਲ ਲਓ। ਗਾਜਰ ਕੱਦੂਕਸ ਕਰੋ।"
+   },
+   {
+    "en": "Whisk the curd with the salt, black salt, pepper powder and garam masala.",
+    "hi-en": "Dahi namak, kala namak, kali mirch aur garam masale ke saath phent lo.",
+    "hi": "दही नमक, काला नमक, काली मिर्च और गरम मसाले के साथ फेंट लो।",
+    "pa": "ਦਹੀਂ ਲੂਣ, ਕਾਲੇ ਲੂਣ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਗਰਮ ਮਸਾਲੇ ਨਾਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Stir in the carrot, chopped green chilli and coriander, and sprinkle the crushed cumin on top.",
+    "hi-en": "Gajar, kati hari mirch aur hara dhaniya milao, aur upar kucha jeera chhidko.",
+    "hi": "गाजर, कटी हरी मिर्च और हरा धनिया मिलाओ, और ऊपर कुचला जीरा छिड़को।",
+    "pa": "ਗਾਜਰ, ਕੱਟੀ ਹਰੀ ਮਿਰਚ ਅਤੇ ਹਰਾ ਧਨੀਆ ਮਿਲਾਓ, ਅਤੇ ਉੱਤੇ ਕੁਚਲਿਆ ਜੀਰਾ ਛਿੜਕੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raita is too sour",
+    "en": "The curd was old. Stir in a spoon of milk or a pinch of sugar.",
+    "hi": "दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।"
+   },
+   {
+    "mistake": "raita turned watery",
+    "en": "Add the vegetables just before serving, and squeeze out their water first.",
+    "hi": "सब्ज़ी परोसने से ठीक पहले डालो, और पहले उसका पानी निचोड़ लो।"
+   }
+  ],
+  "swaps": {
+   "black_salt": [
+    "salt"
+   ]
+  }
+ },
+ "BFP318": {
+  "names": {
+   "hi-en": "Kaddu ka raita",
+   "hi": "कद्दू का रायता",
+   "pa": "ਕੱਦੂ ਦਾ ਰਾਇਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Peel and grate the pumpkin. Cook it with the tablespoon of water, covered, until soft, about 4 minutes. Let it cool.",
+    "hi-en": "Kaddu chheel ke kaddukas karo. Ek chammach paani ke saath dhak ke naram hone tak pakao, lagbhag 4 minute. Thanda hone do.",
+    "hi": "कद्दू छीलकर कद्दूकस करो। एक चम्मच पानी के साथ ढककर नरम होने तक पकाओ, लगभग 4 मिनट। ठंडा होने दो।",
+    "pa": "ਕੱਦੂ ਛਿੱਲ ਕੇ ਕੱਦੂਕਸ ਕਰੋ। ਇੱਕ ਚਮਚ ਪਾਣੀ ਨਾਲ ਢੱਕ ਕੇ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 4 ਮਿੰਟ। ਠੰਡਾ ਹੋਣ ਦਿਓ।",
+    "timer": 4
+   },
+   {
+    "en": "Whisk the curd with the salt until smooth.",
+    "hi-en": "Dahi namak ke saath smooth hone tak phent lo.",
+    "hi": "दही नमक के साथ चिकना होने तक फेंट लो।",
+    "pa": "ਦਹੀਂ ਲੂਣ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Mix in the pumpkin, pepper powder, roasted cumin powder, chopped green chilli and coriander. Serve cold.",
+    "hi-en": "Kaddu, kali mirch, bhuna jeera powder, kati hari mirch aur hara dhaniya milao. Thanda parosna.",
+    "hi": "कद्दू, काली मिर्च, भुना जीरा पाउडर, कटी हरी मिर्च और हरा धनिया मिलाओ। ठंडा परोसना।",
+    "pa": "ਕੱਦੂ, ਕਾਲੀ ਮਿਰਚ, ਭੁੰਨਿਆ ਜੀਰਾ ਪਾਊਡਰ, ਕੱਟੀ ਹਰੀ ਮਿਰਚ ਅਤੇ ਹਰਾ ਧਨੀਆ ਮਿਲਾਓ। ਠੰਡਾ ਪਰੋਸਣਾ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raita is too sour",
+    "en": "The curd was old. Stir in a spoon of milk or a pinch of sugar.",
+    "hi": "दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।"
+   },
+   {
+    "mistake": "curd split",
+    "en": "The pumpkin was still hot. Let it cool fully before mixing.",
+    "hi": "कद्दू गरम था। मिलाने से पहले पूरा ठंडा होने दो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "BFP328": {
+  "names": {
+   "hi-en": "Amrood ka raita",
+   "hi": "अमरूद का रायता",
+   "pa": "ਅਮਰੂਦ ਦਾ ਰਾਇਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Cut the ripe guava, take out the seedy middle and chop the rest small.",
+    "hi-en": "Pake amrood ko kaat ke beech ka beej wala hissa nikaalo aur baaki chhota kaat lo.",
+    "hi": "पके अमरूद को काटकर बीच का बीज वाला हिस्सा निकालो और बाकी छोटा काट लो।",
+    "pa": "ਪੱਕੇ ਅਮਰੂਦ ਨੂੰ ਕੱਟ ਕੇ ਵਿੱਚਕਾਰਲਾ ਬੀਜਾਂ ਵਾਲਾ ਹਿੱਸਾ ਕੱਢੋ ਅਤੇ ਬਾਕੀ ਛੋਟਾ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Whisk the curd with the salt until smooth.",
+    "hi-en": "Dahi namak ke saath smooth hone tak phent lo.",
+    "hi": "दही नमक के साथ चिकना होने तक फेंट लो।",
+    "pa": "ਦਹੀਂ ਲੂਣ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Mix in the guava, pepper and roasted cumin powder. Top with a few cherry pieces and serve cold.",
+    "hi-en": "Amrood, kali mirch aur bhuna jeera powder milao. Upar cherry ke kuch tukde daal ke thanda parosna.",
+    "hi": "अमरूद, काली मिर्च और भुना जीरा पाउडर मिलाओ। ऊपर चेरी के कुछ टुकड़े डालकर ठंडा परोसना।",
+    "pa": "ਅਮਰੂਦ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਭੁੰਨਿਆ ਜੀਰਾ ਪਾਊਡਰ ਮਿਲਾਓ। ਉੱਤੇ ਚੈਰੀ ਦੇ ਕੁਝ ਟੁਕੜੇ ਪਾ ਕੇ ਠੰਡਾ ਪਰੋਸਣਾ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raita is too sour",
+    "en": "The curd was old. Stir in a spoon of milk or a pinch of sugar.",
+    "hi": "दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।"
+   },
+   {
+    "mistake": "hard bits in the raita",
+    "en": "Take out all the seeds; they stay hard.",
+    "hi": "सारे बीज निकाल दो; वो सख्त रहते हैं।"
+   }
+  ],
+  "swaps": {
+   "berries": [
+    "pomegranate",
+    "skip"
+   ]
+  }
+ },
+ "BFP445": {
+  "names": {
+   "hi-en": "Amla chutney",
+   "hi": "आंवला चटनी",
+   "pa": "ਔਲੇ ਦੀ ਚਟਣੀ"
+  },
+  "steps": [
+   {
+    "en": "Wash the gooseberries, take out the seeds and chop them.",
+    "hi-en": "Amla dho ke beej nikaalo aur kaat lo.",
+    "hi": "आंवला धोकर बीज निकालो और काट लो।",
+    "pa": "ਔਲੇ ਧੋ ਕੇ ਬੀਜ ਕੱਢੋ ਅਤੇ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Grind them with the coriander leaves, green chilli, salt and black pepper powder and a little water into a smooth chutney.",
+    "hi-en": "Hara dhaniya, hari mirch, namak, kali mirch aur thode paani ke saath smooth chutney pees lo.",
+    "hi": "हरा धनिया, हरी मिर्च, नमक, काली मिर्च और थोड़े पानी के साथ चिकनी चटनी पीस लो।",
+    "pa": "ਹਰਾ ਧਨੀਆ, ਹਰੀ ਮਿਰਚ, ਲੂਣ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਥੋੜ੍ਹੇ ਪਾਣੀ ਨਾਲ ਮੁਲਾਇਮ ਚਟਣੀ ਪੀਸ ਲਓ।"
+   },
+   {
+    "en": "Keep it in a clean jar in the fridge and use within 3 days.",
+    "hi-en": "Saaf dibbe mein fridge mein rakho aur 3 din mein khatam kar lo.",
+    "hi": "साफ़ डिब्बे में फ्रिज में रखो और 3 दिन में खत्म कर लो।",
+    "pa": "ਸਾਫ਼ ਡੱਬੇ ਵਿੱਚ ਫਰਿੱਜ ਵਿੱਚ ਰੱਖੋ ਅਤੇ 3 ਦਿਨਾਂ ਵਿੱਚ ਖ਼ਤਮ ਕਰ ਲਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too sour",
+    "en": "Add a pinch of sugar or jaggery and grind again.",
+    "hi": "चुटकी भर चीनी या गुड़ डालकर फिर पीसो।"
+   },
+   {
+    "mistake": "too bitter",
+    "en": "Amla can be bitter. Add more coriander and a pinch of sugar.",
+    "hi": "आंवला कड़वा हो सकता है। थोड़ा और हरा धनिया और चुटकी भर चीनी डालो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "BFP447": {
+  "names": {
+   "hi-en": "Amchur ki saunth",
+   "hi": "अमचूर की सोंठ",
+   "pa": "ਅੰਬਚੂਰ ਦੀ ਸੁੰਢ"
+  },
+  "steps": [
+   {
+    "en": "Soak the dried mango slices in the 150 ml water for 30 minutes.",
+    "hi-en": "Sookhe aam ki faankein 150 ml paani mein 30 minute bhigo do.",
+    "hi": "सूखे आम की फाँकें 150 ml पानी में 30 मिनट भिगो दो।",
+    "pa": "ਸੁੱਕੇ ਅੰਬ ਦੀਆਂ ਫਾੜੀਆਂ 150 ml ਪਾਣੀ ਵਿੱਚ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Cook them in the same water with the jaggery and sugar until soft and thick, about 10 minutes. Mash well or blend and strain.",
+    "hi-en": "Usi paani mein gud aur cheeni ke saath naram aur gaadha hone tak pakao, lagbhag 10 minute. Achhe se masal lo ya pees ke chhaan lo.",
+    "hi": "उसी पानी में गुड़ और चीनी के साथ नरम और गाढ़ा होने तक पकाओ, लगभग 10 मिनट। अच्छे से मसल लो या पीसकर छान लो।",
+    "pa": "ਉਸੇ ਪਾਣੀ ਵਿੱਚ ਗੁੜ ਅਤੇ ਖੰਡ ਨਾਲ ਨਰਮ ਅਤੇ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 10 ਮਿੰਟ। ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਸਲ ਲਓ ਜਾਂ ਪੀਸ ਕੇ ਛਾਣ ਲਓ।",
+    "timer": 10,
+    "safety": "splutter"
+   },
+   {
+    "en": "Dry roast the cumin seeds and crush them. Stir them in with the dried ginger, garam masala, red chilli powder and salt. Let it cool.",
+    "hi-en": "Jeera sookha bhun ke kuchal lo. Saunth, garam masala, laal mirch aur namak ke saath milao. Thanda hone do.",
+    "hi": "जीरा सूखा भूनकर कुचल लो। सोंठ, गरम मसाला, लाल मिर्च और नमक के साथ मिलाओ। ठंडा होने दो।",
+    "pa": "ਜੀਰਾ ਸੁੱਕਾ ਭੁੰਨ ਕੇ ਕੁਚਲ ਲਓ। ਸੁੰਢ, ਗਰਮ ਮਸਾਲਾ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਨਾਲ ਮਿਲਾਓ। ਠੰਡਾ ਹੋਣ ਦਿਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too thick after cooling",
+    "en": "Stir in a little warm water.",
+    "hi": "थोड़ा गुनगुना पानी मिला दो।"
+   },
+   {
+    "mistake": "too sour",
+    "en": "Add a little more jaggery and warm it until it melts.",
+    "hi": "थोड़ा और गुड़ डालकर पिघलने तक गरम करो।"
+   }
+  ],
+  "swaps": {
+   "sugar": [
+    "jaggery"
+   ]
+  }
+ },
+ "BFP599": {
+  "names": {
+   "hi-en": "Jhatpat gajar ka achaar",
+   "hi": "झटपट गाजर का अचार",
+   "pa": "ਝਟਪਟ ਗਾਜਰ ਦਾ ਅਚਾਰ"
+  },
+  "steps": [
+   {
+    "en": "Wash the carrots and dry them completely with a cloth. Peel and cut them into thin sticks. They must have no water on them.",
+    "hi-en": "Gajar dho ke kapde se poori tarah sukha lo. Chheel ke patli lambi tukdiyan kaato. Un pe bilkul paani nahi hona chahiye.",
+    "hi": "गाजर धोकर कपड़े से पूरी तरह सुखा लो। छीलकर पतली लंबी टुकड़ियाँ काटो। उन पर बिल्कुल पानी नहीं होना चाहिए।",
+    "pa": "ਗਾਜਰ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੁਕਾ ਲਓ। ਛਿੱਲ ਕੇ ਪਤਲੀਆਂ ਲੰਮੀਆਂ ਟੁਕੜੀਆਂ ਕੱਟੋ। ਉਨ੍ਹਾਂ ਤੇ ਬਿਲਕੁਲ ਪਾਣੀ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ।"
+   },
+   {
+    "en": "Heat the mustard oil until it smokes lightly, then let it cool completely.",
+    "hi-en": "Sarson ka tel halka dhuaan aane tak garam karo, phir poora thanda hone do.",
+    "hi": "सरसों का तेल हल्का धुआँ आने तक गरम करो, फिर पूरा ठंडा होने दो।",
+    "pa": "ਸਰ੍ਹੋਂ ਦਾ ਤੇਲ ਹਲਕਾ ਧੂੰਆਂ ਆਉਣ ਤੱਕ ਗਰਮ ਕਰੋ, ਫਿਰ ਪੂਰਾ ਠੰਡਾ ਹੋਣ ਦਿਓ।",
+    "safety": "splutter"
+   },
+   {
+    "en": "Mix the carrots with the turmeric, mustard seeds powder, red chilli powder and salt. Pour the cooled oil over and mix well.",
+    "hi-en": "Gajar mein haldi, rai powder, laal mirch aur namak milao. Upar thanda tel daal ke achhe se milao.",
+    "hi": "गाजर में हल्दी, राई पाउडर, लाल मिर्च और नमक मिलाओ। ऊपर ठंडा तेल डालकर अच्छे से मिलाओ।",
+    "pa": "ਗਾਜਰ ਵਿੱਚ ਹਲਦੀ, ਰਾਈ ਪਾਊਡਰ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਮਿਲਾਓ। ਉੱਤੇ ਠੰਡਾ ਤੇਲ ਪਾ ਕੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Fill a dry glass jar, cover it and keep it in the sun for 2 to 3 days, shaking it once a day. Then it is ready.",
+    "hi-en": "Sookhe kaanch ke martbaan mein bhar ke dhak do aur 2-3 din dhoop mein rakho, din mein ek baar hila do. Phir taiyaar hai.",
+    "hi": "सूखे काँच के मर्तबान में भरकर ढक दो और 2-3 दिन धूप में रखो, दिन में एक बार हिला दो। फिर तैयार है।",
+    "pa": "ਸੁੱਕੇ ਕੱਚ ਦੇ ਮਰਤਬਾਨ ਵਿੱਚ ਭਰ ਕੇ ਢੱਕ ਦਿਓ ਅਤੇ 2-3 ਦਿਨ ਧੁੱਪ ਵਿੱਚ ਰੱਖੋ, ਦਿਨ ਵਿੱਚ ਇੱਕ ਵਾਰ ਹਿਲਾ ਦਿਓ। ਫਿਰ ਤਿਆਰ ਹੈ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mould on top",
+    "en": "Water got in. Use a fully dry jar and a dry spoon every time. Throw away any pickle with mould.",
+    "hi": "पानी चला गया। हर बार पूरा सूखा डिब्बा और सूखा चम्मच लो। फफूंद लगा अचार फेंक दो।"
+   },
+   {
+    "mistake": "pickle tastes raw",
+    "en": "Leave it in the sun for another day or two.",
+    "hi": "एक-दो दिन और धूप में रखो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "OSR051": {
+  "names": {
+   "hi-en": "Khajoor ka achaar",
+   "hi": "खजूर का अचार",
+   "pa": "ਖਜੂਰ ਦਾ ਅਚਾਰ"
+  },
+  "steps": [
+   {
+    "en": "Take the seeds out of the black dates and chop them.",
+    "hi-en": "Kaale khajoor ke beej nikaal ke kaat lo.",
+    "hi": "काले खजूर के बीज निकालकर काट लो।",
+    "pa": "ਕਾਲੇ ਖਜੂਰ ਦੇ ਬੀਜ ਕੱਢ ਕੇ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Heat the oil and cook the ginger paste and garlic paste for 3 minutes. Add the red chili powder and salt.",
+    "hi-en": "Tel garam karke adrak ka paste aur lehsun ka paste 3 minute bhuno. Laal mirch aur namak daalo.",
+    "hi": "तेल गरम करके अदरक का पेस्ट और लहसुन का पेस्ट 3 मिनट भूनो। लाल मिर्च और नमक डालो।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਅਦਰਕ ਦਾ ਪੇਸਟ ਅਤੇ ਲਸਣ ਦਾ ਪੇਸਟ 3 ਮਿੰਟ ਭੁੰਨੋ। ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾਓ।",
+    "timer": 3,
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the dates and the water and simmer, stirring, until thick and jammy, about 15 minutes.",
+    "hi-en": "Khajoor aur paani daal ke chalaate hue dheeme pakao jab tak gaadha aur jam jaisa ho jaaye, lagbhag 15 minute.",
+    "hi": "खजूर और पानी डालकर चलाते हुए धीमी आँच पर पकाओ जब तक गाढ़ा और जैम जैसा हो जाए, लगभग 15 मिनट।",
+    "pa": "ਖਜੂਰ ਅਤੇ ਪਾਣੀ ਪਾ ਕੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ ਜਦੋਂ ਤੱਕ ਗਾੜ੍ਹਾ ਅਤੇ ਜੈਮ ਵਰਗਾ ਹੋ ਜਾਵੇ, ਲਗਭਗ 15 ਮਿੰਟ।",
+    "timer": 15
+   },
+   {
+    "en": "Let it cool, fill a dry jar and keep it in the fridge.",
+    "hi-en": "Thanda karke sookhe dibbe mein bhar ke fridge mein rakho.",
+    "hi": "ठंडा करके सूखे डिब्बे में भरकर फ्रिज में रखो।",
+    "pa": "ਠੰਡਾ ਕਰਕੇ ਸੁੱਕੇ ਡੱਬੇ ਵਿੱਚ ਭਰ ਕੇ ਫਰਿੱਜ ਵਿੱਚ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mould on top",
+    "en": "Water got in. Use a fully dry jar and a dry spoon every time. Throw away any pickle with mould.",
+    "hi": "पानी चला गया। हर बार पूरा सूखा डिब्बा और सूखा चम्मच लो। फफूंद लगा अचार फेंक दो।"
+   },
+   {
+    "mistake": "sticking to the pan",
+    "en": "Lower the heat and keep stirring; dates burn easily.",
+    "hi": "आँच कम करो और चलाते रहो; खजूर जल्दी जलते हैं।"
+   }
+  ],
+  "swaps": {}
+ },
+ "OSR052": {
+  "names": {
+   "hi-en": "Lehsun ka achaar",
+   "hi": "लहसुन का अचार",
+   "pa": "ਲਸਣ ਦਾ ਅਚਾਰ"
+  },
+  "steps": [
+   {
+    "en": "Peel the garlic. Dry roast the coriander seeds, cumin seeds and fenugreek seeds until fragrant, about 2 minutes, and grind them.",
+    "hi-en": "Lehsun chheel lo. Sabut dhaniya, jeera aur methi dana khushboo aane tak sookha bhuno, lagbhag 2 minute, aur pees lo.",
+    "hi": "लहसुन छील लो। साबुत धनिया, जीरा और मेथी दाना खुशबू आने तक सूखा भूनो, लगभग 2 मिनट, और पीस लो।",
+    "pa": "ਲਸਣ ਛਿੱਲ ਲਓ। ਸਾਬਤ ਧਨੀਆ, ਜੀਰਾ ਅਤੇ ਮੇਥੀ ਦਾਣਾ ਖੁਸ਼ਬੂ ਆਉਣ ਤੱਕ ਸੁੱਕਾ ਭੁੰਨੋ, ਲਗਭਗ 2 ਮਿੰਟ, ਅਤੇ ਪੀਸ ਲਓ।",
+    "timer": 2
+   },
+   {
+    "en": "Heat the gingelly oil and cook the garlic on low heat until slightly soft, about 5 minutes.",
+    "hi-en": "Til ka tel garam karke lehsun dheemi aanch pe halka naram hone tak pakao, lagbhag 5 minute.",
+    "hi": "तिल का तेल गरम करके लहसुन धीमी आँच पर हल्का नरम होने तक पकाओ, लगभग 5 मिनट।",
+    "pa": "ਤਿਲਾਂ ਦਾ ਤੇਲ ਗਰਮ ਕਰਕੇ ਲਸਣ ਹੌਲੀ ਅੱਗ ਤੇ ਹਲਕਾ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 5 ਮਿੰਟ।",
+    "timer": 5,
+    "safety": "splutter"
+   },
+   {
+    "en": "Turn off the heat. Stir in the turmeric, chili powder, ground spices and salt, then the lemon juice.",
+    "hi-en": "Gas band karo. Haldi, laal mirch, pise masale aur namak milao, phir nimbu ka ras.",
+    "hi": "गैस बंद करो। हल्दी, लाल मिर्च, पिसे मसाले और नमक मिलाओ, फिर नींबू का रस।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰੋ। ਹਲਦੀ, ਲਾਲ ਮਿਰਚ, ਪੀਸੇ ਮਸਾਲੇ ਅਤੇ ਲੂਣ ਮਿਲਾਓ, ਫਿਰ ਨਿੰਬੂ ਦਾ ਰਸ।"
+   },
+   {
+    "en": "Cool fully, fill a dry jar and leave it for a day before eating.",
+    "hi-en": "Poora thanda karke sookhe dibbe mein bharo aur khaane se pehle ek din rakho.",
+    "hi": "पूरा ठंडा करके सूखे डिब्बे में भरो और खाने से पहले एक दिन रखो।",
+    "pa": "ਪੂਰਾ ਠੰਡਾ ਕਰਕੇ ਸੁੱਕੇ ਡੱਬੇ ਵਿੱਚ ਭਰੋ ਅਤੇ ਖਾਣ ਤੋਂ ਪਹਿਲਾਂ ਇੱਕ ਦਿਨ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mould on top",
+    "en": "Water got in. Use a fully dry jar and a dry spoon every time. Throw away any pickle with mould.",
+    "hi": "पानी चला गया। हर बार पूरा सूखा डिब्बा और सूखा चम्मच लो। फफूंद लगा अचार फेंक दो।"
+   },
+   {
+    "mistake": "fenugreek tastes bitter",
+    "en": "It was roasted too dark. Roast only until it smells nutty.",
+    "hi": "मेथी ज़्यादा भुन गई। बस खुशबू आने तक भूनो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "OSR085": {
+  "names": {
+   "hi-en": "Khajoor ki chutney",
+   "hi": "खजूर की चटनी",
+   "pa": "ਖਜੂਰ ਦੀ ਚਟਣੀ"
+  },
+  "steps": [
+   {
+    "en": "Take the seeds out of the dates and soak them with the whole red chillies in the hot water for 30 minutes.",
+    "hi-en": "Khajoor ke beej nikaal ke sabut laal mirch ke saath garam paani mein 30 minute bhigo do.",
+    "hi": "खजूर के बीज निकालकर साबुत लाल मिर्च के साथ गरम पानी में 30 मिनट भिगो दो।",
+    "pa": "ਖਜੂਰ ਦੇ ਬੀਜ ਕੱਢ ਕੇ ਸਾਬਤ ਲਾਲ ਮਿਰਚ ਨਾਲ ਗਰਮ ਪਾਣੀ ਵਿੱਚ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Grind them with the soaking water into a smooth paste.",
+    "hi-en": "Bhigone wale paani ke saath smooth paste pees lo.",
+    "hi": "भिगोने वाले पानी के साथ चिकना पेस्ट पीस लो।",
+    "pa": "ਭਿਓਣ ਵਾਲੇ ਪਾਣੀ ਨਾਲ ਮੁਲਾਇਮ ਪੇਸਟ ਪੀਸ ਲਓ।"
+   },
+   {
+    "en": "Heat the oil, add the paste and cook, stirring, for 5 minutes. Stir in the cumin powder and salt and let it cool.",
+    "hi-en": "Tel garam karke paste daalo aur chalaate hue 5 minute pakao. Jeera powder aur namak mila ke thanda hone do.",
+    "hi": "तेल गरम करके पेस्ट डालो और चलाते हुए 5 मिनट पकाओ। जीरा पाउडर और नमक मिलाकर ठंडा होने दो।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਪੇਸਟ ਪਾਓ ਅਤੇ ਹਿਲਾਉਂਦੇ ਹੋਏ 5 ਮਿੰਟ ਪਕਾਓ। ਜੀਰਾ ਪਾਊਡਰ ਅਤੇ ਲੂਣ ਮਿਲਾ ਕੇ ਠੰਡਾ ਹੋਣ ਦਿਓ।",
+    "timer": 5,
+    "safety": "splutter"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too thick",
+    "en": "Stir in a little warm water.",
+    "hi": "थोड़ा गुनगुना पानी मिला दो।"
+   },
+   {
+    "mistake": "too spicy",
+    "en": "Use fewer chillies, or add a few more dates.",
+    "hi": "कम मिर्च लो, या कुछ और खजूर डालो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "OSR086": {
+  "names": {
+   "hi-en": "Chicken salad",
+   "hi": "चिकन सलाद",
+   "pa": "ਚਿਕਨ ਸਲਾਦ"
+  },
+  "steps": [
+   {
+    "en": "Dry roast the almonds until light golden. Chop the celery fine.",
+    "hi-en": "Badaam halke sunehre hone tak sookhe bhuno. Celery barik kaato.",
+    "hi": "बादाम हल्के सुनहरे होने तक सूखे भूनो। सेलेरी बारीक काटो।",
+    "pa": "ਬਦਾਮ ਹਲਕੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਸੁੱਕੇ ਭੁੰਨੋ। ਸੈਲਰੀ ਬਾਰੀਕ ਕੱਟੋ।"
+   },
+   {
+    "en": "Mix the chopped, cooked chicken with the celery, almonds, mayonnaise, lemon juice and pepper. Add salt to taste.",
+    "hi-en": "Kate pake chicken mein celery, badaam, mayonnaise, nimbu ras aur kali mirch milao. Swaad anusaar namak daalo.",
+    "hi": "कटे पके चिकन में सेलेरी, बादाम, मेयोनीज़, नींबू रस और काली मिर्च मिलाओ। स्वाद अनुसार नमक डालो।",
+    "pa": "ਕੱਟੇ ਪੱਕੇ ਚਿਕਨ ਵਿੱਚ ਸੈਲਰੀ, ਬਦਾਮ, ਮੇਯੋਨੀਜ਼, ਨਿੰਬੂ ਰਸ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਮਿਲਾਓ। ਸੁਆਦ ਅਨੁਸਾਰ ਲੂਣ ਪਾਓ।"
+   },
+   {
+    "en": "Chill for 30 minutes and serve on bread or lettuce.",
+    "hi-en": "30 minute fridge mein thanda karke bread ya salad patte pe khao.",
+    "hi": "30 मिनट फ्रिज में ठंडा करके ब्रेड या सलाद पत्ते पर खाओ।",
+    "pa": "30 ਮਿੰਟ ਫਰਿੱਜ ਵਿੱਚ ਠੰਡਾ ਕਰਕੇ ਬ੍ਰੈੱਡ ਜਾਂ ਸਲਾਦ ਪੱਤੇ ਤੇ ਖਾਓ।",
+    "timer": 30
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "salad is watery",
+    "en": "Dry the chicken and celery well before mixing.",
+    "hi": "मिलाने से पहले चिकन और सेलेरी अच्छे से सुखा लो।"
+   },
+   {
+    "mistake": "bland taste",
+    "en": "Add more lemon juice, pepper and a pinch of salt.",
+    "hi": "थोड़ा और नींबू रस, काली मिर्च और चुटकी भर नमक डालो।"
+   }
+  ],
+  "swaps": {
+   "celery": [
+    "cucumber"
+   ],
+   "almonds": [
+    "walnuts",
+    "skip"
+   ]
+  }
+ },
+ "OSR090": {
+  "names": {
+   "hi-en": "Pyaaz ka raita",
+   "hi": "प्याज़ का रायता",
+   "pa": "ਪਿਆਜ਼ ਦਾ ਰਾਇਤਾ"
+  },
+  "steps": [
+   {
+    "en": "Chop the onions, green chilies and coriander leaves fine.",
+    "hi-en": "Pyaaz, hari mirch aur hara dhaniya barik kaato.",
+    "hi": "प्याज़, हरी मिर्च और हरा धनिया बारीक काटो।",
+    "pa": "ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ ਅਤੇ ਹਰਾ ਧਨੀਆ ਬਾਰੀਕ ਕੱਟੋ।"
+   },
+   {
+    "en": "Whisk the curd with the salt until smooth.",
+    "hi-en": "Dahi namak ke saath smooth hone tak phent lo.",
+    "hi": "दही नमक के साथ चिकना होने तक फेंट लो।",
+    "pa": "ਦਹੀਂ ਲੂਣ ਨਾਲ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Stir in the onions, green chilies and coriander and serve soon.",
+    "hi-en": "Pyaaz, hari mirch aur hara dhaniya milao aur jaldi parosna.",
+    "hi": "प्याज़, हरी मिर्च और हरा धनिया मिलाओ और जल्दी परोसना।",
+    "pa": "ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ ਅਤੇ ਹਰਾ ਧਨੀਆ ਮਿਲਾਓ ਅਤੇ ਜਲਦੀ ਪਰੋਸਣਾ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "raita is too sour",
+    "en": "The curd was old. Stir in a spoon of milk or a pinch of sugar.",
+    "hi": "दही पुराना था। एक चम्मच दूध या चुटकी भर चीनी मिला दो।"
+   },
+   {
+    "mistake": "raita turned watery",
+    "en": "Add the vegetables just before serving, and squeeze out their water first.",
+    "hi": "सब्ज़ी परोसने से ठीक पहले डालो, और पहले उसका पानी निचोड़ लो।"
+   }
+  ],
+  "swaps": {}
+ },
+ "OSR092": {
+  "names": {
+   "hi-en": "Kale salad",
+   "hi": "केल सलाद",
+   "pa": "ਕੇਲ ਸਲਾਦ"
+  },
+  "steps": [
+   {
+    "en": "Wash and dry the kale, pull off the hard stems and chop the leaves.",
+    "hi-en": "Kale dho ke sukha lo, sakht danthal nikaalo aur patte kaat lo.",
+    "hi": "केल धोकर सुखा लो, सख्त डंठल निकालो और पत्ते काट लो।",
+    "pa": "ਕੇਲ ਧੋ ਕੇ ਸੁਕਾ ਲਓ, ਸਖ਼ਤ ਡੰਡੀਆਂ ਕੱਢੋ ਅਤੇ ਪੱਤੇ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Rub the kale with the olive oil, lemon juice and salt with your hands for 2 minutes until it softens.",
+    "hi-en": "Kale ko olive oil, nimbu ras aur namak ke saath haathon se 2 minute masal lo jab tak naram ho jaaye.",
+    "hi": "केल को ऑलिव ऑयल, नींबू रस और नमक के साथ हाथों से 2 मिनट मसल लो जब तक नरम हो जाए।",
+    "pa": "ਕੇਲ ਨੂੰ ਔਲਿਵ ਆਇਲ, ਨਿੰਬੂ ਰਸ ਅਤੇ ਲੂਣ ਨਾਲ ਹੱਥਾਂ ਨਾਲ 2 ਮਿੰਟ ਮਸਲ ਲਓ ਜਦੋਂ ਤੱਕ ਨਰਮ ਹੋ ਜਾਵੇ।",
+    "timer": 2
+   },
+   {
+    "en": "Toast the pumpkin seeds in a dry pan for 2 minutes. Add them to the kale with the sliced apple, crumbled feta cheese and pepper.",
+    "hi-en": "Kaddu ke beej sookhe pan mein 2 minute bhuno. Kale mein kate seb, masle feta cheese aur kali mirch ke saath milao.",
+    "hi": "कद्दू के बीज सूखे पैन में 2 मिनट भूनो। केल में कटे सेब, मसले फ़ेटा चीज़ और काली मिर्च के साथ मिलाओ।",
+    "pa": "ਕੱਦੂ ਦੇ ਬੀਜ ਸੁੱਕੇ ਪੈਨ ਵਿੱਚ 2 ਮਿੰਟ ਭੁੰਨੋ। ਕੇਲ ਵਿੱਚ ਕੱਟੇ ਸੇਬ, ਮਸਲੇ ਫ਼ੇਟਾ ਚੀਜ਼ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਨਾਲ ਮਿਲਾਓ।",
+    "timer": 2
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "kale is tough",
+    "en": "Rub it longer with the oil and lemon until it turns darker and soft.",
+    "hi": "तेल और नींबू के साथ और देर मसलो जब तक गहरा और नरम न हो जाए।"
+   },
+   {
+    "mistake": "apple turned brown",
+    "en": "Toss the apple in lemon juice right after cutting.",
+    "hi": "काटते ही सेब पर नींबू रस लगा दो।"
+   }
+  ],
+  "swaps": {
+   "cheese": [
+    "paneer",
+    "skip"
+   ],
+   "seeds": [
+    "peanuts",
+    "skip"
+   ],
+   "salad_greens": [
+    "spinach"
+   ]
+  }
+ },
+ "OSR096": {
+  "names": {
+   "hi-en": "Imli khajoor chutney",
+   "hi": "इमली खजूर चटनी",
+   "pa": "ਇਮਲੀ ਖਜੂਰ ਚਟਣੀ"
+  },
+  "steps": [
+   {
+    "en": "Take the seeds out of the dates. Soak the dates and tamarind in the 2 cups of hot water for 30 minutes.",
+    "hi-en": "Khajoor ke beej nikaal lo. Khajoor aur imli 2 cup garam paani mein 30 minute bhigo do.",
+    "hi": "खजूर के बीज निकाल लो। खजूर और इमली 2 कप गरम पानी में 30 मिनट भिगो दो।",
+    "pa": "ਖਜੂਰ ਦੇ ਬੀਜ ਕੱਢ ਲਓ। ਖਜੂਰ ਅਤੇ ਇਮਲੀ 2 ਕੱਪ ਗਰਮ ਪਾਣੀ ਵਿੱਚ 30 ਮਿੰਟ ਭਿਓਂ ਦਿਓ।",
+    "timer": 30
+   },
+   {
+    "en": "Simmer them in the same water for 10 minutes, then cool a little, grind and strain.",
+    "hi-en": "Usi paani mein 10 minute dheeme pakao, phir thoda thanda karke pees lo aur chhaan lo.",
+    "hi": "उसी पानी में 10 मिनट धीमी आँच पर पकाओ, फिर थोड़ा ठंडा करके पीस लो और छान लो।",
+    "pa": "ਉਸੇ ਪਾਣੀ ਵਿੱਚ 10 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ, ਫਿਰ ਥੋੜ੍ਹਾ ਠੰਡਾ ਕਰਕੇ ਪੀਸ ਲਓ ਅਤੇ ਛਾਣ ਲਓ।",
+    "timer": 10,
+    "safety": "hot_grind"
+   },
+   {
+    "en": "Heat the ghee with the hing, add the pulp and the jaggery and cook, stirring, until thick, about 10 minutes.",
+    "hi-en": "Ghee mein hing daal ke garam karo, gooda aur gud daal ke chalaate hue gaadha hone tak pakao, lagbhag 10 minute.",
+    "hi": "घी में हींग डालकर गरम करो, गूदा और गुड़ डालकर चलाते हुए गाढ़ा होने तक पकाओ, लगभग 10 मिनट।",
+    "pa": "ਘਿਓ ਵਿੱਚ ਹਿੰਗ ਪਾ ਕੇ ਗਰਮ ਕਰੋ, ਗੁੱਦਾ ਅਤੇ ਗੁੜ ਪਾ ਕੇ ਹਿਲਾਉਂਦੇ ਹੋਏ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 10 ਮਿੰਟ।",
+    "timer": 10,
+    "safety": "splutter"
+   },
+   {
+    "en": "Stir in the roasted coriander powder, roasted jeera powder, roasted saunf powder, ginger powder, red chilli powder and kala namak. Let it cool.",
+    "hi-en": "Bhuna dhaniya powder, bhuna jeera powder, bhuni saunf powder, saunth, laal mirch aur kala namak milao. Thanda hone do.",
+    "hi": "भुना धनिया पाउडर, भुना जीरा पाउडर, भुनी सौंफ पाउडर, सोंठ, लाल मिर्च और काला नमक मिलाओ। ठंडा होने दो।",
+    "pa": "ਭੁੰਨਿਆ ਧਨੀਆ ਪਾਊਡਰ, ਭੁੰਨਿਆ ਜੀਰਾ ਪਾਊਡਰ, ਭੁੰਨੀ ਸੌਂਫ ਪਾਊਡਰ, ਸੁੰਢ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਕਾਲਾ ਲੂਣ ਮਿਲਾਓ। ਠੰਡਾ ਹੋਣ ਦਿਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "too thick after cooling",
+    "en": "Stir in a little warm water.",
+    "hi": "थोड़ा गुनगुना पानी मिला दो।"
+   },
+   {
+    "mistake": "too sour",
+    "en": "Add a little more jaggery and warm it until it melts.",
+    "hi": "थोड़ा और गुड़ डालकर पिघलने तक गरम करो।"
+   }
+  ],
+  "swaps": {
+   "jaggery": [
+    "sugar"
+   ]
+  }
+ },
+ "OSR098": {
+  "names": {
+   "hi-en": "Hari chutney",
+   "hi": "हरी चटनी",
+   "pa": "ਹਰੀ ਚਟਣੀ"
+  },
+  "steps": [
+   {
+    "en": "Wash the coriander leaves and mint and use only the tender parts.",
+    "hi-en": "Hara dhaniya aur pudina dho lo aur bas naram hisse lo.",
+    "hi": "हरा धनिया और पुदीना धो लो और बस नरम हिस्से लो।",
+    "pa": "ਹਰਾ ਧਨੀਆ ਅਤੇ ਪੁਦੀਨਾ ਧੋ ਲਓ ਅਤੇ ਬੱਸ ਨਰਮ ਹਿੱਸੇ ਲਓ।"
+   },
+   {
+    "en": "Grind them with the green chilies, ginger, garlic cloves, roasted chana dal, roasted cumin seeds, salt and lemon juice, adding a few spoons of ice-cold water, until smooth.",
+    "hi-en": "Inhe hari mirch, adrak, lehsun, bhuni chana dal, bhuna jeera, namak aur nimbu ras ke saath, kuch chammach barf jaisa thanda paani daal ke, smooth pees lo.",
+    "hi": "इन्हें हरी मिर्च, अदरक, लहसुन, भुनी चना दाल, भुना जीरा, नमक और नींबू रस के साथ, कुछ चम्मच बर्फ़ जैसा ठंडा पानी डालकर, चिकना पीस लो।",
+    "pa": "ਇਨ੍ਹਾਂ ਨੂੰ ਹਰੀ ਮਿਰਚ, ਅਦਰਕ, ਲਸਣ, ਭੁੰਨੀ ਛੋਲਿਆਂ ਦੀ ਦਾਲ, ਭੁੰਨੇ ਜੀਰੇ, ਲੂਣ ਅਤੇ ਨਿੰਬੂ ਰਸ ਨਾਲ, ਕੁਝ ਚਮਚ ਬਰਫ਼ ਵਰਗਾ ਠੰਡਾ ਪਾਣੀ ਪਾ ਕੇ, ਮੁਲਾਇਮ ਪੀਸ ਲਓ।"
+   },
+   {
+    "en": "Keep it in a glass jar in the fridge and use within 4 days.",
+    "hi-en": "Kaanch ke dibbe mein fridge mein rakho aur 4 din mein khatam kar lo.",
+    "hi": "काँच के डिब्बे में फ्रिज में रखो और 4 दिन में खत्म कर लो।",
+    "pa": "ਕੱਚ ਦੇ ਡੱਬੇ ਵਿੱਚ ਫਰਿੱਜ ਵਿੱਚ ਰੱਖੋ ਅਤੇ 4 ਦਿਨਾਂ ਵਿੱਚ ਖ਼ਤਮ ਕਰ ਲਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "chutney turned dark",
+    "en": "The mixer got warm. Use ice-cold water and grind in short bursts.",
+    "hi": "मिक्सी गरम हो गई। बर्फ़ जैसा ठंडा पानी लो और रुक-रुककर पीसो।"
+   },
+   {
+    "mistake": "chutney tastes bitter",
+    "en": "Too much mint or the stems went in. Add more coriander and a squeeze of lemon.",
+    "hi": "पुदीना ज़्यादा या डंठल चले गए। थोड़ा और हरा धनिया और नींबू डालो।"
+   }
+  ],
+  "swaps": {
+   "chana_dal": [
+    "peanuts",
+    "skip"
+   ],
+   "garlic": [
+    "skip"
+   ]
+  }
+ },
+ "ASC087": {
+  "names": {
+   "hi-en": "Chicken sweet corn soup",
+   "hi": "चिकन स्वीट कॉर्न सूप",
+   "pa": "ਚਿਕਨ ਸਵੀਟ ਕੌਰਨ ਸੂਪ"
+  },
+  "steps": [
+   {
+    "en": "Wash the chicken. Simmer it in the chicken stock until white all through, about 15 minutes. Take it out, shred it and put it back.",
+    "hi-en": "Chicken dho lo. Chicken stock mein andar tak safed hone tak dheeme ubaalo, lagbhag 15 minute. Nikaal ke reshe karo aur wapas daal do.",
+    "hi": "चिकन धो लो। चिकन स्टॉक में अंदर तक सफ़ेद होने तक धीमी आँच पर उबालो, लगभग 15 मिनट। निकालकर रेशे करो और वापस डाल दो।",
+    "pa": "ਚਿਕਨ ਧੋ ਲਓ। ਚਿਕਨ ਸਟਾਕ ਵਿੱਚ ਅੰਦਰ ਤੱਕ ਚਿੱਟਾ ਹੋਣ ਤੱਕ ਹੌਲੀ ਅੱਗ ਤੇ ਉਬਾਲੋ, ਲਗਭਗ 15 ਮਿੰਟ। ਕੱਢ ਕੇ ਰੇਸ਼ੇ ਕਰੋ ਅਤੇ ਵਾਪਸ ਪਾ ਦਿਓ।",
+    "timer": 15,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "Crush half the sweet corn. Add all the corn and simmer for 5 minutes. Add the soya sauce, chilli sauce, salt and pepper powder.",
+    "hi-en": "Aadhi sweet corn kuchal lo. Saari corn daal ke 5 minute dheeme pakao. Soya sauce, chilli sauce, namak aur kali mirch daalo.",
+    "hi": "आधी स्वीट कॉर्न कुचल लो। सारी कॉर्न डालकर 5 मिनट धीमी आँच पर पकाओ। सोया सॉस, चिली सॉस, नमक और काली मिर्च डालो।",
+    "pa": "ਅੱਧੀ ਸਵੀਟ ਕੌਰਨ ਕੁਚਲ ਲਓ। ਸਾਰੀ ਕੌਰਨ ਪਾ ਕੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਸੋਇਆ ਸੌਸ, ਚਿੱਲੀ ਸੌਸ, ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਪਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Mix the cornflour with 2 tablespoons of cold water and stir it in. Cook until the soup thickens, about 1 minute.",
+    "hi-en": "Cornflour 2 chammach thande paani mein ghol ke milao. Soup gaadha hone tak pakao, lagbhag 1 minute.",
+    "hi": "कॉर्नफ्लोर 2 चम्मच ठंडे पानी में घोलकर मिलाओ। सूप गाढ़ा होने तक पकाओ, लगभग 1 मिनट।",
+    "pa": "ਕੌਰਨਫਲੋਰ 2 ਚਮਚ ਠੰਡੇ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਮਿਲਾਓ। ਸੂਪ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1
+   },
+   {
+    "en": "Beat the egg white lightly. Pour it in a thin stream while stirring the soup in one direction, so it forms soft ribbons. Simmer for 1 minute and serve hot.",
+    "hi-en": "Ande ki safedi halki phent lo. Soup ko ek hi disha mein chalaate hue patli dhaar mein daalo taaki naram lachchhe ban jaayein. 1 minute pakao aur garam garam piyo.",
+    "hi": "अंडे की सफ़ेदी हल्की फेंट लो। सूप को एक ही दिशा में चलाते हुए पतली धार में डालो ताकि नरम लच्छे बन जाएँ। 1 मिनट पकाओ और गरमागरम पियो।",
+    "pa": "ਆਂਡੇ ਦੀ ਸਫ਼ੈਦੀ ਹਲਕੀ ਫੈਂਟ ਲਓ। ਸੂਪ ਨੂੰ ਇੱਕੋ ਦਿਸ਼ਾ ਵਿੱਚ ਹਿਲਾਉਂਦੇ ਹੋਏ ਪਤਲੀ ਧਾਰ ਵਿੱਚ ਪਾਓ ਤਾਂ ਜੋ ਨਰਮ ਲੱਛੇ ਬਣ ਜਾਣ। 1 ਮਿੰਟ ਪਕਾਓ ਅਤੇ ਗਰਮਾ-ਗਰਮ ਪੀਓ।",
+    "timer": 1,
+    "safety": "egg"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "egg formed big lumps",
+    "en": "Pour it slowly in a thin stream while stirring.",
+    "hi": "पतली धार में धीरे-धीरे चलाते हुए डालो।"
+   },
+   {
+    "mistake": "soup has lumps",
+    "en": "Mix the cornflour in cold water first, then stir it in.",
+    "hi": "कॉर्नफ्लोर पहले ठंडे पानी में घोलो, फिर मिलाओ।"
+   },
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Simmer for 5 more minutes before shredding.",
+    "hi": "रेशे करने से पहले 5 मिनट और पकाओ।"
+   }
+  ],
+  "swaps": {
+   "egg": [
+    "skip"
+   ]
+  }
+ },
+ "BFP073": {
+  "names": {
+   "hi-en": "Palak soup",
+   "hi": "पालक सूप",
+   "pa": "ਪਾਲਕ ਸੂਪ"
+  },
+  "steps": [
+   {
+    "en": "Melt 5 grams of butter and cook the chopped onion and garlic for 2 minutes. Add the chopped spinach and cook for 2 minutes.",
+    "hi-en": "5 gram makhan pighla ke kata pyaaz aur lehsun 2 minute pakao. Kata palak daal ke 2 minute pakao.",
+    "hi": "5 ग्राम मक्खन पिघलाकर कटा प्याज़ और लहसुन 2 मिनट पकाओ। कटा पालक डालकर 2 मिनट पकाओ।",
+    "pa": "5 ਗ੍ਰਾਮ ਮੱਖਣ ਪਿਘਲਾ ਕੇ ਕੱਟਿਆ ਪਿਆਜ਼ ਅਤੇ ਲਸਣ 2 ਮਿੰਟ ਪਕਾਓ। ਕੱਟੀ ਪਾਲਕ ਪਾ ਕੇ 2 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 2
+   },
+   {
+    "en": "Pour in the stock, bring it to a boil and simmer for 5 minutes. Let it cool a little and blend smooth.",
+    "hi-en": "Stock daal ke ubaal aane do aur 5 minute dheeme pakao. Thoda thanda karke smooth pees lo.",
+    "hi": "स्टॉक डालकर उबाल आने दो और 5 मिनट धीमी आँच पर पकाओ। थोड़ा ठंडा करके चिकना पीस लो।",
+    "pa": "ਸਟਾਕ ਪਾ ਕੇ ਉਬਾਲ ਆਉਣ ਦਿਓ ਅਤੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਥੋੜ੍ਹਾ ਠੰਡਾ ਕਰਕੇ ਮੁਲਾਇਮ ਪੀਸ ਲਓ।",
+    "timer": 5,
+    "safety": "hot_grind"
+   },
+   {
+    "en": "Melt the rest of the butter, stir in the flour for 1 minute, then whisk in the soup. Simmer for 3 minutes. Add salt, pepper and nutmeg.",
+    "hi-en": "Baaki makhan pighla ke maida 1 minute bhuno, phir soup phentte hue daalo. 3 minute dheeme pakao. Namak, kali mirch aur jaiphal daalo.",
+    "hi": "बाकी मक्खन पिघलाकर मैदा 1 मिनट भूनो, फिर सूप फेंटते हुए डालो। 3 मिनट धीमी आँच पर पकाओ। नमक, काली मिर्च और जायफल डालो।",
+    "pa": "ਬਾਕੀ ਮੱਖਣ ਪਿਘਲਾ ਕੇ ਮੈਦਾ 1 ਮਿੰਟ ਭੁੰਨੋ, ਫਿਰ ਸੂਪ ਫੈਂਟਦੇ ਹੋਏ ਪਾਓ। 3 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ। ਲੂਣ, ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਜਾਇਫਲ ਪਾਓ।",
+    "timer": 3
+   },
+   {
+    "en": "Toast small bread cubes on a dry tawa until crisp and float them on top.",
+    "hi-en": "Bread ke chhote tukde sookhe tawe pe crispy hone tak seko aur soup ke upar daalo.",
+    "hi": "ब्रेड के छोटे टुकड़े सूखे तवे पर कुरकुरे होने तक सेको और सूप के ऊपर डालो।",
+    "pa": "ਬ੍ਰੈੱਡ ਦੇ ਛੋਟੇ ਟੁਕੜੇ ਸੁੱਕੇ ਤਵੇ ਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਸੇਕੋ ਅਤੇ ਸੂਪ ਉੱਤੇ ਪਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "soup turned dull green",
+    "en": "Do not cook the spinach long. Blend soon after it wilts.",
+    "hi": "पालक ज़्यादा देर मत पकाओ। मुरझाते ही पीस लो।"
+   },
+   {
+    "mistake": "soup is lumpy",
+    "en": "Whisk the soup slowly into the flour, or blend it again.",
+    "hi": "सूप धीरे-धीरे फेंटते हुए मैदे में डालो, या फिर से पीस लो।"
+   }
+  ],
+  "swaps": {
+   "maida": [
+    "corn_flour"
+   ],
+   "bread": [
+    "skip"
+   ]
+  }
+ },
+ "OSR137": {
+  "names": {
+   "hi-en": "Lemon dhaniya soup",
+   "hi": "लेमन धनिया सूप",
+   "pa": "ਲੈਮਨ ਧਨੀਆ ਸੂਪ"
+  },
+  "steps": [
+   {
+    "en": "Chop the onion, carrot and cabbage very fine. Chop the coriander stems and leaves separately.",
+    "hi-en": "Pyaaz, gajar aur patta gobhi bahut barik kaato. Dhaniye ke danthal aur patte alag alag kaato.",
+    "hi": "प्याज़, गाजर और पत्ता गोभी बहुत बारीक काटो। धनिये के डंठल और पत्ते अलग-अलग काटो।",
+    "pa": "ਪਿਆਜ਼, ਗਾਜਰ ਅਤੇ ਬੰਦ ਗੋਭੀ ਬਹੁਤ ਬਾਰੀਕ ਕੱਟੋ। ਧਨੀਏ ਦੀਆਂ ਡੰਡੀਆਂ ਅਤੇ ਪੱਤੇ ਵੱਖ-ਵੱਖ ਕੱਟੋ।"
+   },
+   {
+    "en": "Heat the oil and cook the garlic, ginger, green chilli, coriander stems and lemon grass for 1 minute. Add the onion, carrot and cabbage and cook for 2 minutes.",
+    "hi-en": "Tel garam karke lehsun, adrak, hari mirch, dhaniye ke danthal aur lemon grass 1 minute bhuno. Pyaaz, gajar aur patta gobhi daal ke 2 minute pakao.",
+    "hi": "तेल गरम करके लहसुन, अदरक, हरी मिर्च, धनिये के डंठल और लेमन ग्रास 1 मिनट भूनो। प्याज़, गाजर और पत्ता गोभी डालकर 2 मिनट पकाओ।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਲਸਣ, ਅਦਰਕ, ਹਰੀ ਮਿਰਚ, ਧਨੀਏ ਦੀਆਂ ਡੰਡੀਆਂ ਅਤੇ ਲੈਮਨ ਗ੍ਰਾਸ 1 ਮਿੰਟ ਭੁੰਨੋ। ਪਿਆਜ਼, ਗਾਜਰ ਅਤੇ ਬੰਦ ਗੋਭੀ ਪਾ ਕੇ 2 ਮਿੰਟ ਪਕਾਓ।",
+    "timer": 2
+   },
+   {
+    "en": "Add 4 cups of water, the turmeric, salt and pepper. Bring to a boil and simmer for 5 minutes.",
+    "hi-en": "4 cup paani, haldi, namak aur kali mirch daalo. Ubaal aane pe 5 minute dheeme pakao.",
+    "hi": "4 कप पानी, हल्दी, नमक और काली मिर्च डालो। उबाल आने पर 5 मिनट धीमी आँच पर पकाओ।",
+    "pa": "4 ਕੱਪ ਪਾਣੀ, ਹਲਦੀ, ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਪਾਓ। ਉਬਾਲ ਆਉਣ ਤੇ 5 ਮਿੰਟ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Mix the cornflour with the 2 tablespoons of water and stir it in. Cook until it thickens slightly, about 1 minute.",
+    "hi-en": "Cornflour 2 chammach paani mein ghol ke milao. Halka gaadha hone tak pakao, lagbhag 1 minute.",
+    "hi": "कॉर्नफ्लोर 2 चम्मच पानी में घोलकर मिलाओ। हल्का गाढ़ा होने तक पकाओ, लगभग 1 मिनट।",
+    "pa": "ਕੌਰਨਫਲੋਰ 2 ਚਮਚ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਮਿਲਾਓ। ਹਲਕਾ ਗਾੜ੍ਹਾ ਹੋਣ ਤੱਕ ਪਕਾਓ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1
+   },
+   {
+    "en": "Turn off the heat, then stir in the lemon juice and coriander leaves. Serve hot.",
+    "hi-en": "Gas band karke nimbu ras aur hara dhaniya milao. Garam garam piyo.",
+    "hi": "गैस बंद करके नींबू रस और हरा धनिया मिलाओ। गरमागरम पियो।",
+    "pa": "ਗੈਸ ਬੰਦ ਕਰਕੇ ਨਿੰਬੂ ਰਸ ਅਤੇ ਹਰਾ ਧਨੀਆ ਮਿਲਾਓ। ਗਰਮਾ-ਗਰਮ ਪੀਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "soup tastes bitter",
+    "en": "The lemon was boiled. Always add lemon after turning off the heat.",
+    "hi": "नींबू उबल गया। नींबू हमेशा गैस बंद करके डालो।"
+   },
+   {
+    "mistake": "soup is too thick",
+    "en": "Add a little hot water.",
+    "hi": "थोड़ा गरम पानी डालो।"
+   }
+  ],
+  "swaps": {
+   "herbs_dried": [
+    "skip"
+   ],
+   "cabbage": [
+    "skip"
+   ]
+  }
+ },
+ "OSR138": {
+  "names": {
+   "hi-en": "Lehsun ka soup",
+   "hi": "लहसुन का सूप",
+   "pa": "ਲਸਣ ਦਾ ਸੂਪ"
+  },
+  "steps": [
+   {
+    "en": "Heat the olive oil and add the cumin seeds. Add the chopped garlic and cook until light golden, about 1 minute, then the chopped onion until soft, about 4 minutes.",
+    "hi-en": "Olive oil garam karke jeera daalo. Kata lehsun daal ke halka sunehra hone tak bhuno, lagbhag 1 minute, phir kata pyaaz naram hone tak, lagbhag 4 minute.",
+    "hi": "ऑलिव ऑयल गरम करके जीरा डालो। कटा लहसुन डालकर हल्का सुनहरा होने तक भूनो, लगभग 1 मिनट, फिर कटा प्याज़ नरम होने तक, लगभग 4 मिनट।",
+    "pa": "ਔਲਿਵ ਆਇਲ ਗਰਮ ਕਰਕੇ ਜੀਰਾ ਪਾਓ। ਕੱਟਿਆ ਲਸਣ ਪਾ ਕੇ ਹਲਕਾ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਭੁੰਨੋ, ਲਗਭਗ 1 ਮਿੰਟ, ਫਿਰ ਕੱਟਿਆ ਪਿਆਜ਼ ਨਰਮ ਹੋਣ ਤੱਕ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Add the cubed potato, 2 cups of water and the salt. Simmer until the potato is soft, about 15 minutes.",
+    "hi-en": "Aloo ke tukde, 2 cup paani aur namak daalo. Aloo naram hone tak dheeme pakao, lagbhag 15 minute.",
+    "hi": "आलू के टुकड़े, 2 कप पानी और नमक डालो। आलू नरम होने तक धीमी आँच पर पकाओ, लगभग 15 मिनट।",
+    "pa": "ਆਲੂ ਦੇ ਟੁਕੜੇ, 2 ਕੱਪ ਪਾਣੀ ਅਤੇ ਲੂਣ ਪਾਓ। ਆਲੂ ਨਰਮ ਹੋਣ ਤੱਕ ਹੌਲੀ ਅੱਗ ਤੇ ਪਕਾਓ, ਲਗਭਗ 15 ਮਿੰਟ।",
+    "timer": 15
+   },
+   {
+    "en": "Let it cool a little and blend smooth.",
+    "hi-en": "Thoda thanda karke smooth pees lo.",
+    "hi": "थोड़ा ठंडा करके चिकना पीस लो।",
+    "pa": "ਥੋੜ੍ਹਾ ਠੰਡਾ ਕਰਕੇ ਮੁਲਾਇਮ ਪੀਸ ਲਓ।",
+    "safety": "hot_grind"
+   },
+   {
+    "en": "Pour it back, stir in the fresh cream and warm it for 2 minutes without boiling. Top with chili flakes and oregano.",
+    "hi-en": "Wapas daal ke fresh cream milao aur bina ubaale 2 minute garam karo. Upar chilli flakes aur oregano daalo.",
+    "hi": "वापस डालकर फ्रेश क्रीम मिलाओ और बिना उबाले 2 मिनट गरम करो। ऊपर चिली फ्लेक्स और ओरेगानो डालो।",
+    "pa": "ਵਾਪਸ ਪਾ ਕੇ ਫਰੈਸ਼ ਕਰੀਮ ਮਿਲਾਓ ਅਤੇ ਬਿਨਾਂ ਉਬਾਲੇ 2 ਮਿੰਟ ਗਰਮ ਕਰੋ। ਉੱਤੇ ਚਿੱਲੀ ਫਲੇਕਸ ਅਤੇ ਓਰੀਗੈਨੋ ਪਾਓ।",
+    "timer": 2
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "garlic tastes bitter",
+    "en": "It browned too much. Cook garlic only until light golden.",
+    "hi": "लहसुन ज़्यादा भुन गया। बस हल्का सुनहरा होने तक भूनो।"
+   },
+   {
+    "mistake": "soup is too thick",
+    "en": "Add a little hot water or milk.",
+    "hi": "थोड़ा गरम पानी या दूध डालो।"
+   }
+  ],
+  "swaps": {
+   "cream": [
+    "milk"
+   ],
+   "herbs_dried": [
+    "skip"
+   ]
+  }
+ }
+}
