@@ -22,7 +22,7 @@ function clock(seconds) {
 }
 
 // Flow E: cooking mode. Tap the kadhai, speak, and Amma ji answers out loud.
-export default function Cooking({ session, onExit, onEnded }) {
+export default function Cooking({ session, onExit, onEnded, onFinish }) {
   const [state, setState] = useState(session);
   const [syncedAt, setSyncedAt] = useState(() => Date.now());
   const [now, setNow] = useState(() => Date.now());
@@ -94,6 +94,8 @@ export default function Cooking({ session, onExit, onEnded }) {
         setTiming({ ...timings, warnings: result.warnings });
       },
     });
+    // "Ho gaya" on the last step: once she has answered, show what was made
+    if (result.effect?.finished && id === turn.current) onFinish();
   }
 
   // The kadhai: start listening, finish early, or stop her talking
@@ -324,9 +326,21 @@ export default function Cooking({ session, onExit, onEnded }) {
             <Kadhai mood={shown} size={116} />
           </button>
 
-          <button className="cook__nav" onClick={() => move("next")} disabled={step.n === state.total_steps}>
-            Next
-          </button>
+          {step.n === state.total_steps ? (
+            <button
+              className="cook__nav cook__nav--done"
+              onClick={() => {
+                stopAll();
+                onFinish();
+              }}
+            >
+              Done
+            </button>
+          ) : (
+            <button className="cook__nav" onClick={() => move("next")}>
+              Next
+            </button>
+          )}
         </div>
 
         <div className="cook__row cook__row--small">

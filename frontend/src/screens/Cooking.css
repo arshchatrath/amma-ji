@@ -219,6 +219,13 @@
   padding: 0 18px;
 }
 
+/* The last step's Next becomes Done: coriander green, the colour for finished things */
+.cook__nav--done {
+  border-color: var(--dhaniya);
+  background: var(--dhaniya);
+  color: var(--steel-shine);
+}
+
 .cook__nav:disabled {
   border-color: var(--steel-mid);
   color: var(--jamun-soft);

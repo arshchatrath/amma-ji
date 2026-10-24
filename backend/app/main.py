@@ -4,6 +4,7 @@ Run from the backend folder:  .venv/bin/uvicorn app.main:app --reload
 Then open http://localhost:8000/docs to try every endpoint in the browser.
 """
 import itertools
+import logging
 import os
 import threading
 import time
@@ -14,7 +15,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 
-from . import brain, pantry, voice
+from . import brain, finish, pantry, voice
 from .session import RECIPES, SESSIONS, apply_tool, go_to_step, new_session, public, remember_turn
 
 app = FastAPI(title="Amma ji")
@@ -28,6 +29,8 @@ app.add_middleware(
 
 Language = Literal["hi-en", "hi", "pa", "en"]
 MAX_AUDIO_BYTES = 16000 * 2 * 30 + 44  # 30 seconds of 16 kHz mono WAV
+# Our own lines (like "how was it?" answers) go to the server log next to uvicorn's
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(name)s %(message)s")
 
 
 class NewSession(BaseModel):
@@ -64,6 +67,10 @@ class Suggest(BaseModel):
     kinds: list[str] | None = None
     language: Language = "hi-en"
     limit: int = Field(default=3, ge=1, le=10)
+
+
+class Feedback(BaseModel):
+    rating: Literal["loved", "okay", "bad"]
 
 
 class Speak(BaseModel):
@@ -193,6 +200,17 @@ def timer(session_id: str, body: Timer):
     state = get_session(session_id)
     apply_tool(state, "start_timer", {"minutes": body.minutes, "label": body.label})
     return public(state)
+
+
+@app.post("/api/sessions/{session_id}/finish")
+def done(session_id: str):
+    """Flow F: the dish is ready. The summary and Amma ji's last line are built in code."""
+    return finish.summary(get_session(session_id))
+
+
+@app.post("/api/sessions/{session_id}/feedback")
+def how_was_it(session_id: str, body: Feedback):
+    return finish.feedback(get_session(session_id), body.rating)
 
 
 @app.post("/api/sessions/{session_id}/say")

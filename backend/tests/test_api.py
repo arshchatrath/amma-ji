@@ -85,3 +85,18 @@ def test_recipe_card_and_cooking_a_sheet_dish():
     assert card["name"] == "पोहा" and card["steps"][0].startswith("पोहे") and card["nutrition"]["kcal"] > 0
     state = client.post("/api/sessions", json={"recipe_id": "BFP044", "language": "pa"}).json()
     assert state["recipe_name"] == "ਪੋਹਾ" and state["total_steps"] == 5
+
+
+def test_finish_sums_up_the_dish_and_how_was_it_gives_tips():
+    sid = client.post("/api/sessions", json={"recipe_id": "ASC097", "language": "hi-en"}).json()["session_id"]
+    main.SESSIONS[sid]["substitutions"].append({"from": "oil", "to": "ghee"})
+    main.SESSIONS[sid]["quantity_changes"].append({"spice": "less", "at_step": 1})
+    done = client.post(f"/api/sessions/{sid}/finish").json()
+    assert done["recipe_name"] == "Sada paratha" and done["minutes"] >= 1
+    assert done["changes"] == ["ghee use kiya, oil ki jagah", "Mirch kam ki"]
+    assert done["closing"]["text"].startswith("Shabaash beta!") and "शाबाश" in done["closing"]["speak"]
+    assert done["nutrition"]["kcal"] > 0
+    assert main.SESSIONS[sid]["completed_steps"] == [1, 2, 3, 4]
+    bad = client.post(f"/api/sessions/{sid}/feedback", json={"rating": "bad"}).json()
+    assert bad["tips"] and bad["tips"][0]["problem"] and bad["reply"]["text"].startswith("Koi baat nahi")
+    assert client.post(f"/api/sessions/{sid}/feedback", json={"rating": "great"}).status_code == 422

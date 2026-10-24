@@ -36,6 +36,8 @@ export const api = {
   get: (id) => call(`/api/sessions/${id}`).then((r) => r.json()),
   step: (id, action) => call(`/api/sessions/${id}/step`, post({ action })).then((r) => r.json()),
   timer: (id, minutes, label) => call(`/api/sessions/${id}/timer`, post({ minutes, label })).then((r) => r.json()),
+  finish: (id) => call(`/api/sessions/${id}/finish`, post({})).then((r) => r.json()),
+  feedback: (id, rating) => call(`/api/sessions/${id}/feedback`, post({ rating })).then((r) => r.json()),
   say: (id, text) => call(`/api/sessions/${id}/say`, post({ text })).then((r) => r.json()),
   listen: (id, wav) =>
     call(`/api/sessions/${id}/listen`, { method: "POST", headers: { "Content-Type": "audio/wav" }, body: wav }).then(

@@ -1,0 +1,74 @@
+.finish__top {
+  display: grid;
+  gap: 4px;
+  padding-top: var(--space-l);
+}
+
+.finish__ready {
+  justify-self: start;
+  padding: 3px 14px;
+  border-radius: var(--r-pill);
+  background: var(--dhaniya);
+  color: var(--steel-shine);
+  font-weight: 700;
+}
+
+.finish__name {
+  font-size: var(--text-step);
+  font-weight: 800;
+  font-stretch: 112.5%;
+  line-height: 1;
+}
+
+.finish__time {
+  color: var(--jamun-soft);
+  font-size: var(--text-m);
+}
+
+/* Amma ji's words, in the same bubble as cooking mode */
+.finish__amma {
+  max-width: 92%;
+  padding: 14px 18px;
+  border-radius: 20px 20px 20px 4px;
+  background: var(--haldi-soft);
+  font-size: var(--text-l);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.finish__amma--reply {
+  margin-top: var(--space-m);
+  font-size: var(--text-m);
+}
+
+.finish__changes,
+.finish__tips {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--space-s);
+}
+
+.finish__changes li,
+.finish__tips li {
+  padding: 12px 16px;
+  border-radius: var(--r-small);
+  background: var(--steel-shine);
+  border: 2px solid var(--steel-mid);
+  font-size: var(--text-m);
+}
+
+.finish__tips {
+  margin-top: var(--space-m);
+}
+
+.finish__tips strong {
+  display: block;
+}
+
+.finish__actions {
+  display: grid;
+  gap: var(--space-m);
+  margin-top: auto;
+}

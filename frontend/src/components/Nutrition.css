@@ -1,0 +1,23 @@
+.nutrition dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  gap: var(--space-s);
+}
+
+.nutrition dl div {
+  padding: 10px 12px;
+  border-radius: var(--r-small);
+  background: var(--haldi-soft);
+}
+
+.nutrition dt {
+  font-size: var(--text-s);
+  color: var(--jamun-soft);
+}
+
+.nutrition dd {
+  margin: 0;
+  font-weight: 800;
+  font-size: var(--text-m);
+}

@@ -148,3 +148,10 @@ def test_pantry_reads_all_three_scripts():
     assert hear("ਆਂਡੇ, ਪਿਆਜ਼ ਤੇ ਟਮਾਟਰ ਨੇ")["have"] == ["egg", "onion", "tomato"]
     assert hear("I have eggs, onions and bread, no butter")["have"] == ["egg", "onion", "bread"]
     assert hear("aadha ghanta hai")["minutes"] == 30
+
+
+def test_next_on_the_last_step_says_the_dish_is_finished():
+    s = fresh()
+    s["current_step"] = 6
+    assert apply_tool(s, "next_step", {}) == {}
+    assert apply_tool(s, "next_step", {}) == {"finished": True} and s["current_step"] == 7

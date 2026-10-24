@@ -1,6 +1,7 @@
 .pantry,
 .dishes,
-.dish {
+.dish,
+.finish {
   min-height: 100dvh;
   background: var(--steel);
   padding: var(--space-m) var(--gutter) var(--space-xl);
@@ -20,7 +21,8 @@
 }
 
 .pantry h2,
-.dish h2 {
+.dish h2,
+.finish h2 {
   font-size: var(--text-m);
   font-weight: 700;
   margin-bottom: var(--space-s);

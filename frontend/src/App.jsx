@@ -4,6 +4,7 @@ import { unlockAudio } from "./audio/context.js";
 import Cooking from "./screens/Cooking.jsx";
 import Dish from "./screens/Dish.jsx";
 import Dishes from "./screens/Dishes.jsx";
+import Finish from "./screens/Finish.jsx";
 import Pantry from "./screens/Pantry.jsx";
 import Start from "./screens/Start.jsx";
 
@@ -28,7 +29,7 @@ function write(store, key, value) {
 
 const EMPTY_PANTRY = { have: [], notHave: [], minutes: null, veg: false, allergies: [] };
 
-// Which screen to show comes from the address: #pantry, #dishes, #dish/ID, #cooking, or the start screen
+// Which screen to show comes from the address: #pantry, #dishes, #dish/ID, #cooking, #done, or the start screen
 function route() {
   const [screen, id] = window.location.hash.replace(/^#/, "").split("/");
   return { screen: screen || "start", id };
@@ -44,12 +45,14 @@ export default function App() {
   const [lessTeasing, setLessTeasing] = useState(() => read(localStorage, "lessTeasing", false));
   const [pantry, setPantry] = useState(() => read(sessionStorage, "pantry", EMPTY_PANTRY));
   const [session, setSession] = useState(null);
+  const [summary, setSummary] = useState(() => read(sessionStorage, "summary", null));
   const [starting, setStarting] = useState(false);
   const [notice, setNotice] = useState("");
 
   useEffect(() => write(localStorage, "language", language), [language]);
   useEffect(() => write(localStorage, "lessTeasing", lessTeasing), [lessTeasing]);
   useEffect(() => write(sessionStorage, "pantry", pantry), [pantry]);
+  useEffect(() => write(sessionStorage, "summary", summary), [summary]);
   useEffect(() => {
     document.documentElement.lang = language === "hi-en" ? "hi-Latn" : language;
   }, [language]);
@@ -78,6 +81,16 @@ export default function App() {
     go("dishes");
   }
 
+  // The dish is ready: get the summary, then the cooking session is over
+  async function finished() {
+    try {
+      setSummary(await api.finish(session.session_id));
+      go("done");
+    } catch (e) {
+      ended(e.message);
+    }
+  }
+
   async function cook(recipeId) {
     unlockAudio(); // this tap is what lets the browser play Amma ji's voice
     setStarting(true);
@@ -99,7 +112,26 @@ export default function App() {
   }
 
   if (where.screen === "cooking" && session) {
-    return <Cooking key={session.session_id} session={session} onExit={() => ended()} onEnded={ended} />;
+    return (
+      <Cooking
+        key={session.session_id}
+        session={session}
+        onExit={() => ended()}
+        onEnded={ended}
+        onFinish={finished}
+      />
+    );
+  }
+  if (where.screen === "done" && summary) {
+    return (
+      <Finish
+        key={summary.dish_id}
+        summary={summary}
+        sessionId={session?.session_id ?? read(sessionStorage, "session", null)}
+        onAgain={() => go("pantry")}
+        onHome={() => go("")}
+      />
+    );
   }
   if (where.screen === "pantry") {
     return (

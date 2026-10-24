@@ -57,6 +57,7 @@ def new_session(recipe_id, language="hi-en", teasing=True, allergies=()):
         "timers": [],
         "open_questions": [],
         "history": [],  # last 3 exchanges only, never the full transcript
+        "started_at": now().isoformat(),
     }
     SESSIONS[state["session_id"]] = state
     return state
@@ -149,6 +150,8 @@ def apply_tool(state, tool, args):
     ingredient_ids = {i["id"] for i in recipe["ingredients"]}
     effect = {}
     if tool == "next_step":
+        if state["current_step"] == len(recipe["steps"]):
+            effect["finished"] = True  # "ho gaya" on the last step: the app opens the finish screen
         go_to_step(state, state["current_step"] + 1)
     elif tool == "previous_step":
         go_to_step(state, state["current_step"] - 1)
