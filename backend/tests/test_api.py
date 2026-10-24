@@ -60,3 +60,28 @@ def test_speak_streams_pcm(monkeypatch):
 def test_missing_session_says_so():
     r = client.post("/api/sessions/nope/say", json={"text": "hi"})
     assert r.status_code == 404 and "ended" in r.json()["detail"]
+
+
+def test_pantry_hears_ingredients_time_and_no():
+    r = client.post("/api/pantry", json={"text": "do aloo, paneer, pyaaz hai, ghee nahi hai. 20 minute", "language": "hi-en"}).json()
+    assert [i["id"] for i in r["have"]] == ["potato", "paneer", "onion"]
+    assert [i["id"] for i in r["not_have"]] == ["ghee"]
+    assert r["minutes"] == 20
+
+
+def test_suggest_labels_are_honest_and_respect_diet_and_allergies():
+    dishes = client.post("/api/suggest", json={"have": ["egg", "onion", "tomato"], "limit": 10}).json()
+    assert dishes and all(d["label"] in {"can_make_now", "needs_one_optional", "needs_optional", "missing_essential"}
+                          for d in dishes)
+    assert all(not d["missing_essential"] for d in dishes if d["label"] != "missing_essential")
+    veg = client.post("/api/suggest", json={"have": ["egg", "onion", "tomato", "chicken"], "diet": "veg", "limit": 10}).json()
+    assert all(d["diet"] == "veg" for d in veg)
+    safe = client.post("/api/suggest", json={"have": ["poha", "potato"], "allergies": ["peanut"], "limit": 10}).json()
+    assert all(d["id"] != "BFP044" for d in safe)  # poha has peanuts
+
+
+def test_recipe_card_and_cooking_a_sheet_dish():
+    card = client.get("/api/recipes/BFP044?language=hi").json()
+    assert card["name"] == "पोहा" and card["steps"][0].startswith("पोहे") and card["nutrition"]["kcal"] > 0
+    state = client.post("/api/sessions", json={"recipe_id": "BFP044", "language": "pa"}).json()
+    assert state["recipe_name"] == "ਪੋਹਾ" and state["total_steps"] == 5

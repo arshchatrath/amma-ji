@@ -1,0 +1,28 @@
+{
+ "about": "Decisions from reading every match by eye. drop: not a real match, or not a dish to cook as a meal. use: the right Mendeley recipe (by URL) when the automatic match picked a wrong one.",
+ "drop": {
+  "BFP003": "Kashmiri masala is a spice mix, matched a paneer curry",
+  "BFP004": "Rasam powder is a spice mix",
+  "OSR097": "Pav bhaji masala is a spice mix, matched masala pav",
+  "ASC197": "Gravy for kofta is only a base",
+  "BFP353": "Chocolate sauce is only a topping",
+  "ASC230": "Keema kofta curry matched a plain mutton gravy",
+  "OSR143": "Horsegram dal matched moth bean dal, a different bean",
+  "ASC440": "Chocolate chip cookies matched a scone",
+  "OSR031": "Ragi biscuit matched a brownie",
+  "OSR124": "Ragi cake matched a brownie",
+  "BFP216": "Tomato chicken matched chicken macaroni",
+  "OSR067": "Lemon chicken matched Mexican lime chicken",
+  "BFP212": "Roast chicken matched Kerala chicken roast, a different dish",
+  "ASC294": "Shahi suji halwa duplicates suji halwa",
+  "ASC233": "Chicken yakhni matched a yakhni pulao",
+  "ASC241": "Tandoori chicken: Mendeley only has tandoori chicken momos, crostini and curry",
+  "OSR005": "Thandai: Mendeley only has thandai desserts, not the drink"
+ },
+ "use": {
+  "ASC242": "https://www.archanaskitchen.com/butter-chicken-recipe-classic-indian-chicken-gravy",
+  "ASC240": "http://www.archanaskitchen.com/one-pot-pressure-cooker-chicken-curry-recipe-in-hindi",
+  "ASC224": "https://www.archanaskitchen.com/crispy-paneer-schezwan-recipe",
+  "ASC015": "http://www.archanaskitchen.com/cold-coffee-recipe"
+ }
+}

@@ -194,6 +194,20 @@ def main():
                 "ingredient_score": round(ing_score, 2),
             }
 
+    # Apply the by-eye review: drop wrong matches, point some dishes at the right recipe
+    review = json.loads((BACKEND / "scripts" / "match_review.json").read_text(encoding="utf-8"))
+    by_url = {row["URL"].strip(): row for row in mendeley}
+    for code in review["drop"]:
+        matches.pop(code, None)
+    for code, url in review["use"].items():
+        row = by_url[url]
+        matches[code] = {
+            "mendeley_name": (row["TranslatedRecipeName"] or row["RecipeName"]).strip(),
+            "prep_min": number(row["PrepTimeInMins"]), "cook_min": number(row["CookTimeInMins"]),
+            "total_min": number(row["TotalTimeInMins"]), "course": row["Course"], "cuisine": row["Cuisine"],
+            "diet": row["Diet"], "url": url, "match": "checked", "name_score": None, "ingredient_score": None,
+        }
+
     (DATA / "mendeley_matches.json").write_text(json.dumps({
         "credit": "Cooking times, course and cuisine: 6000+ Indian Food Recipes Dataset, Kanishka Jain (2020), "
                   "Mendeley Data, doi:10.17632/xsphgmmh7b.1, CC BY 4.0, built from archanaskitchen.com. "
@@ -205,7 +219,8 @@ def main():
     print(f"{len(matches)} of {len(indb)} INDB dishes found in Mendeley ({len(mendeley)} recipes)")
     print("by kind:", dict(kinds))
     print("same name:", sum(m["match"] == "same" for m in matches.values()), "| close variant:",
-          sum(m["match"] == "close" for m in matches.values()))
+          sum(m["match"] == "close" for m in matches.values()), "| set by hand:",
+          sum(m["match"] == "checked" for m in matches.values()))
     random.seed(1)
     names = {d["id"]: f"{d['name']}" + (f" ({d['local_name']})" if d["local_name"] else "") for d in indb}
     print("\nrandom sample to check by eye:")

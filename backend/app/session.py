@@ -9,13 +9,15 @@ import uuid
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-RECIPES = {
-    p.stem: json.loads(p.read_text(encoding="utf-8"))
-    for p in sorted((Path(__file__).parent / "recipes").glob("*.json"))
-}
+HERE = Path(__file__).parent
+# Hand-written recipes (dal tadka, the demo dish) plus every dish in the recipe sheet that has steps.
+# The sheet is built by scripts/build_catalogue.py from INDB, Mendeley and steps written for the app.
+RECIPES = {p.stem: json.loads(p.read_text(encoding="utf-8")) for p in sorted((HERE / "recipes").glob("*.json"))}
+CATALOGUE = json.loads((HERE / "data" / "catalogue.json").read_text(encoding="utf-8"))
+RECIPES.update({r["id"]: r for r in CATALOGUE["recipes"] if r["has_steps"]})
 # Ingredient names in each language (and common spellings, for matching what people say later)
 INGREDIENTS = {
-    i["id"]: i for i in json.loads((Path(__file__).parent / "data" / "ingredients.json").read_text(encoding="utf-8"))
+    i["id"]: i for i in json.loads((HERE / "data" / "ingredients.json").read_text(encoding="utf-8"))
 }
 # Kept in memory for the MVP: restarting the server forgets every session.
 SESSIONS = {}
@@ -77,6 +79,13 @@ def normalise(text, language):
     return text
 
 
+def in_language(text, language):
+    """Pick the right language from {"en": ..., "hi": ...}; plain strings are returned as they are."""
+    if isinstance(text, dict):
+        return text.get(language) or text.get("en")
+    return text
+
+
 def step_text(recipe, n, language):
     text = recipe["steps"][n - 1]["text"]
     return text.get(language) or text["en"]
@@ -105,7 +114,7 @@ def public(state):
         "step": {"n": n, "text": step_text(recipe, n, state["language"]),
                  # what Timbre reads aloud: Devanagari for Hinglish, since romanized Hindi is misread
                  "speak": step_text(recipe, n, "hi" if state["language"] == "hi-en" else state["language"]),
-                 "safety": step.get("safety"), "timer_min": step.get("timer_min")},
+                 "safety": in_language(step.get("safety"), state["language"]), "timer_min": step.get("timer_min")},
     }
 
 

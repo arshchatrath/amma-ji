@@ -37,14 +37,15 @@ UNIT_NAMES = {"C": "cup", "nos": "piece"}
 ALLERGENS = {"dairy", "gluten", "nuts", "peanut", "egg", "fish", "shellfish", "soy", "sesame", "mustard"}
 # What kind of dish, guessed from its name. The first match wins, so the order matters.
 KINDS = [
-    ("drink", r"\b(tea|chai|coffee|juice|sharbat|sherbet|shake|lassi|smoothie|squash|punch|cooler|drink|soda|"
-              r"lemonade|thandai|kanji|mocktail|cocktail|panna|jaljeera|chaas|buttermilk|cocoa)\b"),
+    ("drink", r"\b(tea|chai|coffee|juice|sharbat|sherbet|shake|milkshake|lassi|smoothie|squash|punch|cooler|drink|"
+              r"soda|lemonade|thandai|kanji|mocktail|cocktail|panna|jaljeera|jal jeera|chaas|buttermilk|cocoa|"
+              r"hot chocolate)\b"),
+    ("soup", r"(soup|shorba|rasam)"),
     ("dessert", r"(halwa|kheer|cake|pudding|ice ?cream|kulfi|lad+o+|laddu|barfi|burfi|jamun|rasgul+a|rasmalai|jalebi|"
                 r"cookie|biscuit|\btart|\bpie\b|custard|mousse|souffle|trifle|payasam|sheera|murabba|\bjam\b|jelly|"
                 r"marmalade|candy|toffee|fudge|brownie|muffin|doughnut|meringue|sundae|phirni|firni|shrikhand|malpua|"
-                r"gujiya|peda|sandesh|chikki|kalakand|petha|dessert|icing|sweet\b|mithai)"),
+                r"gujiya|peda|sandesh|chikki|kalakand|petha|dessert|icing|mithai)"),
     ("side", r"(chutney|raita|pickle|achar|sauce|\bdip\b|dressing|stock|salad|relish|ketchup|papad)"),
-    ("soup", r"(soup|shorba|rasam)"),
     ("bread", r"(roti|paratha|parantha|naan|\bpuri|poori|kulcha|bhatura|chapat+i|thepla|phulka|bread|\bbuns?\b)"),
     ("snack", r"(pakora|pakoda|samosa|tikki|cutlet|chaat|sandwich|toast|\bvada|wada|bhaji|chil+a\b|cheela|dhokla|"
               r"kachori|bhel|\bpuff|\broll|frankie|fritter|finger|nugget|popcorn|namkeen|mathri|chips|pizza|burger|"

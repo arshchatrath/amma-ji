@@ -14,7 +14,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 
-from . import brain, voice
+from . import brain, pantry, voice
 from .session import RECIPES, SESSIONS, apply_tool, go_to_step, new_session, public, remember_turn
 
 app = FastAPI(title="Amma ji")
@@ -48,6 +48,22 @@ class Step(BaseModel):
 class Timer(BaseModel):
     minutes: float = Field(gt=0, le=180)
     label: str = Field(default="timer", max_length=40)
+
+
+class Pantry(BaseModel):
+    text: str = Field(min_length=1, max_length=1000)
+    language: Language = "hi-en"
+
+
+class Suggest(BaseModel):
+    have: list[str] = []
+    not_have: list[str] = []
+    minutes: int | None = Field(default=None, gt=0, le=600)
+    diet: Literal["veg"] | None = None
+    allergies: list[str] = []
+    kinds: list[str] | None = None
+    language: Language = "hi-en"
+    limit: int = Field(default=3, ge=1, le=10)
 
 
 class Speak(BaseModel):
@@ -95,9 +111,56 @@ def health():
 
 
 @app.get("/api/recipes")
-def recipes():
-    return [{"id": r["id"], "name": r["name"], "servings": r["servings"],
-             "minutes": r["prep_min"] + r["cook_min"]} for r in RECIPES.values()]
+def recipes(language: Language = "hi-en"):
+    """Every dish that can be cooked with Amma ji (it has steps)."""
+    out = []
+    for r in RECIPES.values():
+        c = pantry.card(r, language)
+        out.append({k: c[k] for k in ("id", "name", "kind", "diet", "minutes")})
+    return sorted(out, key=lambda x: x["name"])
+
+
+@app.get("/api/recipes/{recipe_id}")
+def recipe(recipe_id: str, language: Language = "hi-en"):
+    """Flow D: the recipe card."""
+    if recipe_id not in RECIPES:
+        raise HTTPException(404, "Amma ji does not know that dish yet.")
+    return pantry.card(RECIPES[recipe_id], language)
+
+
+@app.get("/api/ingredients")
+def ingredients(language: Language = "hi-en"):
+    return pantry.ingredient_list(language)
+
+
+@app.post("/api/hear")
+async def hear(request: Request, language: Language = "hi-en"):
+    """Speech to text only, for telling Amma ji what is in the kitchen. The body is a WAV. Nothing is saved."""
+    audio = await request.body()
+    if len(audio) < 16000 or len(audio) > MAX_AUDIO_BYTES:
+        raise HTTPException(422, "That recording was too short or too long. Hold the mic and try again.")
+    try:
+        text, ms = voice.stt(audio, language)
+    except voice.VoiceError as e:
+        raise HTTPException(502, str(e))
+    if not text:
+        raise HTTPException(422, "Amma ji did not catch that. Come a little closer and try again.")
+    return {"text": text, "stt_ms": ms}
+
+
+@app.post("/api/pantry")
+def understand_pantry(body: Pantry):
+    """Flow B: what the cook has, from what they said or typed. Plain code, no AI."""
+    heard = pantry.hear(body.text)
+    named = lambda ids: [{"id": i, "name": pantry.display_name(i, body.language)} for i in ids]
+    return {**heard, "have": named(heard["have"]), "not_have": named(heard["not_have"])}
+
+
+@app.post("/api/suggest")
+def suggest(body: Suggest):
+    """Flow C: the best dishes for what the cook has, ranked in code with honest labels."""
+    return pantry.suggest(body.have, body.not_have, body.minutes, body.diet, body.allergies, body.kinds,
+                          body.language, body.limit)
 
 
 @app.post("/api/sessions")

@@ -197,7 +197,7 @@ TABLE = [
     ("other_fruit", "fruit", "फल", "ਫਲ", "plum|aloo bukhara|pear|nashpati|peach|apricot|kiwi|litchi|lychee|bel|star fruit",
      r"^plum|^pears?\b|^peach|^apricot|^kiwi|^litchi|wood apple|star fruit|fruit cocktail", "group"),
     # meat, fish, eggs
-    ("egg", "egg", "अंडा", "ਆਂਡਾ", "anda|ande|egg|eggs", r"^egg", "egg"),
+    ("egg", "egg", "अंडा", "ਆਂਡਾ", "anda|ande|egg|eggs|अंडे|ਆਂਡੇ|ਅੰਡਾ|ਅੰਡੇ", r"^egg", "egg"),
     ("chicken", "chicken", "चिकन", "ਚਿਕਨ", "chicken|murga|murgh", r"^chicken|stock cubes, chicken", "meat"),
     ("mutton", "mutton", "मटन", "ਮਟਨ", "mutton|gosht|lamb|keema", r"^mutton|^lamb", "meat"),
     ("pork", "ham or bacon", "हैम", "ਹੈਮ", "ham|bacon|salami|sausage", r"^ham$|^bacon|^salami|^sausages", "meat group"),

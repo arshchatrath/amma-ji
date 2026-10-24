@@ -1,0 +1,37 @@
+dish_id,mistake,fix_en,fix_hi
+ASC001,tea is bitter,The leaves boiled too long. Add a little more milk. Next time boil the leaves for only 2 minutes.,पत्ती ज़्यादा उबल गई। थोड़ा और दूध डाल दो। अगली बार पत्ती सिर्फ़ 2 मिनट उबालना।
+ASC001,tea is weak,"Simmer it for 2 more minutes, or add a pinch more tea leaves.","2 मिनट और हल्की आँच पर पकाओ, या चुटकी भर और पत्ती डाल दो।"
+ASC001,milk boiled over,Lower the heat straight away and wipe the stove once it cools. Stay close when the milk is about to boil.,तुरंत आँच धीमी करो और ठंडा होने पर चूल्हा पोंछ लो। दूध उबलने वाला हो तो पास ही रहना।
+ASC059,egg is rubbery or dry,It cooked too long or too hot. Next time cook on low heat and take it off while still soft.,ज़्यादा देर या तेज़ आँच पर पका। अगली बार धीमी आँच पर पकाना और थोड़ा नरम रहते ही उतार लेना।
+ASC059,egg is watery,"Cook it 30 seconds more on low heat, stirring.",धीमी आँच पर 30 सेकंड और चलाते हुए पकाओ।
+ASC059,too salty,Beat one more egg without salt and mix it in.,एक और अंडा बिना नमक के फेंटकर मिला दो।
+ASC098,stuffing comes out or paratha tears,"Use a little less stuffing, seal the edges well and roll with light hands. Cover a torn patch with a pinch of dry atta.","मसाला थोड़ा कम भरो, किनारे अच्छे से बंद करो और हल्के हाथ से बेलो। फटी जगह पर थोड़ा सूखा आटा लगा दो।"
+ASC098,paratha is hard,The dough was stiff or the heat too low. Knead a softer dough and cook on medium heat with a little more ghee.,आटा सख़्त था या आँच धीमी थी। नरम आटा गूँधो और मध्यम आँच पर थोड़ा ज़्यादा घी लगाकर सेको।
+ASC098,stuffing is wet and sticky,"The potatoes were too wet. Let them cool fully before mashing, and mix a spoon of dry atta into the stuffing.",आलू गीले थे। मैश करने से पहले पूरा ठंडा होने दो और मसाले में एक चम्मच सूखा आटा मिला दो।
+ASC190,too watery,"Cook uncovered on high heat for 5 minutes, and mash a few potato pieces into the gravy.",बिना ढके तेज़ आँच पर 5 मिनट पकाओ और आलू के कुछ टुकड़े ग्रेवी में मैश कर दो।
+ASC190,too salty,"Add half a cup of water and a boiled potato, and cook for 5 minutes.",आधा कप पानी और एक उबला आलू डालकर 5 मिनट पकाओ।
+ASC190,masala stuck and burnt,"Move it to a clean pan without scraping the bottom, and add a little water.",नीचे से खुरचे बिना इसे साफ़ पैन में डाल दो और थोड़ा पानी मिला दो।
+ASC191,paneer is hard or rubbery,"It cooked too long. Soak the pieces in warm water for 10 minutes, and add them only at the end next time.","पनीर ज़्यादा पक गया। टुकड़ों को 10 मिनट गुनगुने पानी में रखो, और अगली बार आखिर में डालना।"
+ASC191,too spicy,Turn off the heat and stir in a spoon of cream or beaten curd.,गैस बंद करके एक चम्मच मलाई या फेंटा हुआ दही मिला दो।
+ASC191,too watery,"Cook uncovered on high heat for 4 to 5 minutes, stirring.",बिना ढके तेज़ आँच पर 4-5 मिनट चलाते हुए पकाओ।
+ASC215,palak turned dark or brown,The spinach cooked too long. It is still fine to eat. Next time boil it for only 2 minutes and cook the puree briefly.,पालक ज़्यादा पक गया। खाने में ठीक है। अगली बार सिर्फ़ 2 मिनट उबालना और प्यूरी कम पकाना।
+ASC215,tastes bitter,Stir in a spoon of cream or a pinch of sugar.,एक चम्मच मलाई या चुटकी भर चीनी मिला दो।
+ASC215,too thick,Add 2 to 3 tablespoons of hot water and stir.,2-3 चम्मच गरम पानी डालकर मिलाओ।
+ASC240,chicken is hard or chewy,"Add half a cup of water, cover and simmer on low heat for 10 more minutes.","आधा कप पानी डालो, ढककर धीमी आँच पर 10 मिनट और पकाओ।"
+ASC240,too spicy,Turn off the heat and stir in 2 spoons of beaten curd or cream.,गैस बंद करके 2 चम्मच फेंटा हुआ दही या मलाई मिला दो।
+ASC240,gravy too thin,"Cook uncovered on high heat for 5 minutes, stirring.",बिना ढके तेज़ आँच पर 5 मिनट चलाते हुए पकाओ।
+BFP039,lumps in upma,Break them with the back of the spoon while stirring. Next time add the suji slowly into the boiling water.,चलाते हुए चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो। अगली बार सूजी धीरे-धीरे डालना।
+BFP039,upma too thick or dry,"Add 2 to 3 tablespoons of hot water, stir and cover for a minute.","2-3 चम्मच गरम पानी डालो, मिलाओ और एक मिनट ढक दो।"
+BFP039,upma is sticky,The suji was not roasted enough. Next time roast it until it smells nutty.,सूजी कम भुनी थी। अगली बार खुशबू आने तक अच्छे से भूनना।
+BFP044,poha is mushy,It soaked too long. Spread it in the pan on high heat for a minute to dry a little. Next time just rinse and drain.,पोहा ज़्यादा देर भीगा। तेज़ आँच पर एक मिनट फैलाकर थोड़ा सुखा लो। अगली बार बस धोकर पानी निकाल देना।
+BFP044,poha is dry and hard,"Sprinkle 2 tablespoons of water, cover and steam on low heat for 2 minutes.","2 चम्मच पानी छिड़को, ढककर धीमी आँच पर 2 मिनट भाप में पकाओ।"
+BFP044,too salty,"Mix in a little more rinsed poha, or squeeze in more lemon.","थोड़ा और धुला पोहा मिला दो, या थोड़ा और नींबू निचोड़ दो।"
+BFP136,rice is mushy,There was too much water. Open the lid and let the steam escape on low heat for 2 minutes. Use a little less water next time.,पानी ज़्यादा हो गया। ढक्कन हटाकर धीमी आँच पर 2 मिनट भाप निकलने दो। अगली बार पानी थोड़ा कम डालना।
+BFP136,rice is still hard,"Sprinkle 2 to 3 tablespoons of hot water, cover and cook on low heat for 5 more minutes.","2-3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट और पकाओ।"
+BFP136,bottom got burnt,Do not stir. Spoon the top rice into another pan and leave the burnt layer behind.,"चलाओ मत। ऊपर के चावल चम्मच से दूसरे बर्तन में निकाल लो, जली परत वहीं छोड़ दो।"
+BFP240,yolk turned green,The egg boiled too long. It is safe to eat. Next time boil it for 10 minutes and cool it in cold water straight away.,अंडा ज़्यादा उबल गया। खाने में ठीक है। अगली बार 10 मिनट उबालकर तुरंत ठंडे पानी में डालना।
+BFP240,gravy too thin,Cook uncovered on high heat for 4 to 5 minutes until it thickens.,बिना ढके तेज़ आँच पर 4-5 मिनट पकाओ जब तक गाढ़ी न हो जाए।
+BFP240,egg tastes plain,Make the cuts a little deeper and simmer it in the gravy for 3 more minutes.,चीरे थोड़े गहरे करो और ग्रेवी में 3 मिनट और पकाओ।
+OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
+OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
+OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।

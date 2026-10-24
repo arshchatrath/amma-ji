@@ -13,7 +13,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-from .session import RECIPES, ingredient_name, live_timers, normalise, step_text
+from .session import RECIPES, in_language, ingredient_name, live_timers, normalise, step_text
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 URL = "https://api.groq.com/openai/v1/chat/completions"
@@ -66,12 +66,15 @@ def note(state):
         if safe:
             part += f" (or {', '.join(name(s) for s in safe)})"
         ingredients.append(part)
-    lines = [f"Recipe: {recipe['name']['en']} for {state['servings']}. Now on step {n} of {total}.",
+    servings = state["servings"]
+    if isinstance(servings, dict):  # from the recipe sheet: {"count": 2, "size": 1, "unit": "bowl"}
+        servings = f"{servings.get('count') or 1:g} x {servings.get('size') or 1:g} {servings.get('unit') or 'serving'}"
+    lines = [f"Recipe: {recipe['name']['en']} for {servings}. Now on step {n} of {total}.",
              "Ingredients: " + "; ".join(ingredients)]
     for k, label in ((n - 1, "Previous"), (n, "Current"), (n + 1, "Next")):
         if 1 <= k <= total:
             step = recipe["steps"][k - 1]
-            safety = f" Safety: {step['safety']}" if step.get("safety") else ""
+            safety = f" Safety: {in_language(step['safety'], 'en')}" if step.get("safety") else ""
             lines.append(f"{label} step {k}: {step_text(recipe, k, read)}{safety}")
     fixes = [f"{m['mistake']}: {m['fix'].get(read) or m['fix']['en']}" for m in recipe["common_mistakes"]]
     lines.append("Mistake fixes: " + " | ".join(fixes))

@@ -54,17 +54,17 @@
    "ingredient_score": 1.0
   },
   "ASC015": {
-   "mendeley_name": "Coffee Ice Cream Recipe",
-   "prep_min": 20,
-   "cook_min": 480,
-   "total_min": 500,
-   "course": "Dessert",
+   "mendeley_name": "Cold Coffee Recipe",
+   "prep_min": 5,
+   "cook_min": 10,
+   "total_min": 15,
+   "course": "Snack",
    "cuisine": "Continental",
    "diet": "Vegetarian",
-   "url": "http://www.archanaskitchen.com/coffee-ice-cream-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.67
+   "url": "http://www.archanaskitchen.com/cold-coffee-recipe",
+   "match": "checked",
+   "name_score": null,
+   "ingredient_score": null
   },
   "ASC017": {
    "mendeley_name": "Mango Milkshake Recipe - Mango Smoothie",
@@ -651,19 +651,6 @@
    "name_score": 0.8,
    "ingredient_score": 0.83
   },
-  "ASC197": {
-   "mendeley_name": "Malai Kofta Curry Recipe - Creamy and Healthy Paneer Aloo Kofta Curry",
-   "prep_min": 20,
-   "cook_min": 40,
-   "total_min": 60,
-   "course": "Main Course",
-   "cuisine": "North Indian Recipes",
-   "diet": "Vegetarian",
-   "url": "http://www.archanaskitchen.com/malai-kofta-recipe-cottage-cheese-potato-balls-in-creamy-red-gravy",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.8
-  },
   "ASC199": {
    "mendeley_name": "Spinach Paneer Kofta Curry Recipe",
    "prep_min": 30,
@@ -782,30 +769,17 @@
    "ingredient_score": 0.67
   },
   "ASC224": {
-   "mendeley_name": "Chilli Paneer Quesadilla Recipe",
-   "prep_min": 20,
-   "cook_min": 20,
+   "mendeley_name": "Chilli Paneer Recipe -Indo Chinese",
+   "prep_min": 10,
+   "cook_min": 30,
    "total_min": 40,
    "course": "Appetizer",
-   "cuisine": "Fusion",
-   "diet": "Vegetarian",
-   "url": "https://www.archanaskitchen.com/chilli-paneer-quesadilla-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.7
-  },
-  "ASC230": {
-   "mendeley_name": "Dhaba Mutton Recipe-Spicy Mutton Gravy",
-   "prep_min": 10,
-   "cook_min": 180,
-   "total_min": 190,
-   "course": "Dinner",
    "cuisine": "North Indian Recipes",
-   "diet": "Non Vegeterian",
-   "url": "https://www.archanaskitchen.com/dhaba-mutton-recipe-spicy-mutton-gravy",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.56
+   "diet": "High Protein Vegetarian",
+   "url": "https://www.archanaskitchen.com/crispy-paneer-schezwan-recipe",
+   "match": "checked",
+   "name_score": null,
+   "ingredient_score": null
   },
   "ASC231": {
    "mendeley_name": "Kashmiri Style Gushtaba Recipe - Mutton Kofta in Curd",
@@ -833,19 +807,6 @@
    "name_score": 0.8,
    "ingredient_score": 1.0
   },
-  "ASC233": {
-   "mendeley_name": "Kashmiri Style Yakhni Pulao With Chicken Recipe",
-   "prep_min": 60,
-   "cook_min": 10,
-   "total_min": 70,
-   "course": "Lunch",
-   "cuisine": "Kashmiri",
-   "diet": "Non Vegeterian",
-   "url": "http://www.archanaskitchen.com/yakhni-pulao-with-chicken-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
-  },
   "ASC234": {
    "mendeley_name": "Mutton Do Pyaza Recipe",
    "prep_min": 10,
@@ -860,43 +821,30 @@
    "ingredient_score": 0.83
   },
   "ASC240": {
-   "mendeley_name": "Murgh Palak Recipe - Chicken In A Palak Gravy",
-   "prep_min": 30,
-   "cook_min": 45,
-   "total_min": 75,
-   "course": "Side Dish",
-   "cuisine": "North Indian Recipes",
+   "mendeley_name": "One Pot Pressure Cooker Chicken Curry Recipe - One Pot Pressure Cooker Chicken Curry Recipe",
+   "prep_min": 15,
+   "cook_min": 25,
+   "total_min": 40,
+   "course": "Lunch",
+   "cuisine": "South Indian Recipes",
    "diet": "Non Vegeterian",
-   "url": "http://www.archanaskitchen.com/murgh-palak-recipe-chicken-in-a-palak-gravy",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.86
-  },
-  "ASC241": {
-   "mendeley_name": "Tandoori Chicken Crostini Recipe",
-   "prep_min": 60,
-   "cook_min": 40,
-   "total_min": 100,
-   "course": "Appetizer",
-   "cuisine": "Italian Recipes",
-   "diet": "Non Vegeterian",
-   "url": "https://www.archanaskitchen.com/tandoori-chicken-crostini-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 1.0
+   "url": "http://www.archanaskitchen.com/one-pot-pressure-cooker-chicken-curry-recipe-in-hindi",
+   "match": "checked",
+   "name_score": null,
+   "ingredient_score": null
   },
   "ASC242": {
-   "mendeley_name": "Peanut Butter Chicken Recipe",
+   "mendeley_name": "Butter Chicken Recipe - The Classic Indian Chicken Gravy",
    "prep_min": 10,
-   "cook_min": 15,
-   "total_min": 25,
+   "cook_min": 35,
+   "total_min": 45,
    "course": "Dinner",
-   "cuisine": "Asian",
+   "cuisine": "North Indian Recipes",
    "diet": "High Protein Non Vegetarian",
-   "url": "http://www.archanaskitchen.com/peanut-butter-chicken-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.5
+   "url": "https://www.archanaskitchen.com/butter-chicken-recipe-classic-indian-chicken-gravy",
+   "match": "checked",
+   "name_score": null,
+   "ingredient_score": null
   },
   "ASC243": {
    "mendeley_name": "Chicken Sholay Kebab Recipe",
@@ -1066,19 +1014,6 @@
    "match": "close",
    "name_score": 0.8,
    "ingredient_score": 0.67
-  },
-  "ASC294": {
-   "mendeley_name": "Chocolate And Semolina Halwa Recipe",
-   "prep_min": 5,
-   "cook_min": 25,
-   "total_min": 30,
-   "course": "Dessert",
-   "cuisine": "South Indian Recipes",
-   "diet": "Vegetarian",
-   "url": "https://www.archanaskitchen.com/chocolate-and-semolina-halwa-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
   },
   "ASC295": {
    "mendeley_name": "Papaya and Carrot Halwa Recipe",
@@ -1431,19 +1366,6 @@
    "name_score": 0.67,
    "ingredient_score": 1.0
   },
-  "ASC440": {
-   "mendeley_name": "Chocolate Chip Scone Recipe",
-   "prep_min": 15,
-   "cook_min": 30,
-   "total_min": 45,
-   "course": "Snack",
-   "cuisine": "Continental",
-   "diet": "Eggetarian",
-   "url": "http://www.archanaskitchen.com/chocolate-chip-scone-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
-  },
   "ASC448": {
    "mendeley_name": "Indian Spicy Masala Cookie Recipe (Khara Biscuit)",
    "prep_min": 30,
@@ -1495,32 +1417,6 @@
    "match": "close",
    "name_score": 0.8,
    "ingredient_score": 0.5
-  },
-  "BFP003": {
-   "mendeley_name": "Kashmiri Style Paneer Masala Recipe",
-   "prep_min": 5,
-   "cook_min": 30,
-   "total_min": 35,
-   "course": "Lunch",
-   "cuisine": "Kashmiri",
-   "diet": "Vegetarian",
-   "url": "http://www.archanaskitchen.com/kashmiri-style-paneer-masala-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 0.5
-  },
-  "BFP004": {
-   "mendeley_name": "Chettinad Rasam Powder Recipe",
-   "prep_min": 5,
-   "cook_min": 30,
-   "total_min": 35,
-   "course": "South Indian Breakfast",
-   "cuisine": "Chettinad",
-   "diet": "High Protein Vegetarian",
-   "url": "https://www.archanaskitchen.com/chettinad-rasam-powder-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
   },
   "BFP011": {
    "mendeley_name": "Spicy Hot Chocolate Recipe - Perfect Drink For A Rainy Day or Winters",
@@ -1795,19 +1691,6 @@
    "name_score": 0.8,
    "ingredient_score": 0.5
   },
-  "BFP212": {
-   "mendeley_name": "Kerala Chicken Roast Recipe",
-   "prep_min": 10,
-   "cook_min": 80,
-   "total_min": 90,
-   "course": "Lunch",
-   "cuisine": "Kerala Recipes",
-   "diet": "High Protein Non Vegetarian",
-   "url": "http://www.archanaskitchen.com/kerala-style-chicken-tomato-roast-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 1.0
-  },
   "BFP214": {
    "mendeley_name": "Murgh Masala Recipe - Chicken Tangdi Masala",
    "prep_min": 30,
@@ -1820,19 +1703,6 @@
    "match": "close",
    "name_score": 0.8,
    "ingredient_score": 0.62
-  },
-  "BFP216": {
-   "mendeley_name": "Chicken Tomato Macaroni Recipe- Pasta with Indian Masalas",
-   "prep_min": 10,
-   "cook_min": 90,
-   "total_min": 100,
-   "course": "Dinner",
-   "cuisine": "Fusion",
-   "diet": "Non Vegeterian",
-   "url": "http://www.archanaskitchen.com/chicken-tomato-macaroni-recipe-pasta-with-indian-masalas",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 0.83
   },
   "BFP220": {
    "mendeley_name": "Ginger Garlic Chicken Recipe",
@@ -2029,19 +1899,6 @@
    "name_score": 0.8,
    "ingredient_score": 1.0
   },
-  "BFP353": {
-   "mendeley_name": "Homemade Chocolate Sauce Recipe",
-   "prep_min": 5,
-   "cook_min": 10,
-   "total_min": 15,
-   "course": "Dessert",
-   "cuisine": "Continental",
-   "diet": "Vegetarian",
-   "url": "https://www.archanaskitchen.com/homemade-chocolate-sauce-recipe",
-   "match": "same",
-   "name_score": 1.0,
-   "ingredient_score": 1.0
-  },
   "BFP401": {
    "mendeley_name": "Sooji Manpasand Burfi Recipe - Semolina Coconut Fudge",
    "prep_min": 10,
@@ -2224,32 +2081,6 @@
    "name_score": 0.75,
    "ingredient_score": 1.0
   },
-  "OSR005": {
-   "mendeley_name": "Thandai Phirni Recipe - A Delicious Indian Rice Dessert",
-   "prep_min": 10,
-   "cook_min": 30,
-   "total_min": 40,
-   "course": "Dessert",
-   "cuisine": "Indian",
-   "diet": "Vegetarian",
-   "url": "https://www.archanaskitchen.com/thandai-phirni-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 0.88
-  },
-  "OSR031": {
-   "mendeley_name": "Ragi (Finger Millet) Chocolate Brownie Recipe",
-   "prep_min": 15,
-   "cook_min": 40,
-   "total_min": 55,
-   "course": "Dessert",
-   "cuisine": "Continental",
-   "diet": "Vegetarian",
-   "url": "https://www.archanaskitchen.com/ragi-finger-millet-chocolate-brownies-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
-  },
   "OSR051": {
    "mendeley_name": "Malabar Style Dates Pickle Recipe",
    "prep_min": 10,
@@ -2288,19 +2119,6 @@
    "match": "same",
    "name_score": 1.0,
    "ingredient_score": 0.91
-  },
-  "OSR067": {
-   "mendeley_name": "Mexican Lime Chicken Recipe",
-   "prep_min": 70,
-   "cook_min": 30,
-   "total_min": 100,
-   "course": "Appetizer",
-   "cuisine": "Mexican",
-   "diet": "Non Vegeterian",
-   "url": "http://www.archanaskitchen.com/mexican-lime-chicken-recipe",
-   "match": "close",
-   "name_score": 0.8,
-   "ingredient_score": 1.0
   },
   "OSR071": {
    "mendeley_name": "Spinach Mushroom Scrambled Eggs Recipe",
@@ -2406,19 +2224,6 @@
    "name_score": 0.6,
    "ingredient_score": 0.75
   },
-  "OSR097": {
-   "mendeley_name": "Masala Pav Recipe With Cheese",
-   "prep_min": 10,
-   "cook_min": 15,
-   "total_min": 25,
-   "course": "Snack",
-   "cuisine": "Maharashtrian Recipes",
-   "diet": "Vegetarian",
-   "url": "http://www.archanaskitchen.com/masala-pav-recipe-with-cheese",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
-  },
   "OSR098": {
    "mendeley_name": "Green Chutney Recipe - Coriander Mint Chutney Recipe",
    "prep_min": 10,
@@ -2510,19 +2315,6 @@
    "name_score": 0.67,
    "ingredient_score": 0.75
   },
-  "OSR124": {
-   "mendeley_name": "Ragi (Finger Millet) Chocolate Brownie Recipe",
-   "prep_min": 15,
-   "cook_min": 40,
-   "total_min": 55,
-   "course": "Dessert",
-   "cuisine": "Continental",
-   "diet": "Vegetarian",
-   "url": "https://www.archanaskitchen.com/ragi-finger-millet-chocolate-brownies-recipe",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 0.8
-  },
   "OSR127": {
    "mendeley_name": "Eggless Tutti Frutti Cake Recipe",
    "prep_min": 15,
@@ -2587,19 +2379,6 @@
    "match": "close",
    "name_score": 0.67,
    "ingredient_score": 0.75
-  },
-  "OSR143": {
-   "mendeley_name": "Punjabi Style Moth Beans Dal Recipe (Matki)",
-   "prep_min": 10,
-   "cook_min": 45,
-   "total_min": 55,
-   "course": "Lunch",
-   "cuisine": "Punjabi",
-   "diet": "High Protein Vegetarian",
-   "url": "http://www.archanaskitchen.com/punjabi-style-moth-beans-dal-recipe-matki",
-   "match": "close",
-   "name_score": 0.67,
-   "ingredient_score": 1.0
   },
   "OSR144": {
    "mendeley_name": "Panchmel Dal Recipe | Rajasthani Dal | Panchkuti Dal",

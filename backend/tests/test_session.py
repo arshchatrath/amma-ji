@@ -130,3 +130,11 @@ def test_timer_labels_read_like_words():
     s = fresh()
     apply_tool(s, "start_timer", {"minutes": 5, "label": "dal_tadka_step3"})
     assert live_timers(s)[0]["label"] == "dal tadka step3"
+
+
+def test_pantry_reads_all_three_scripts():
+    from app.pantry import hear
+    assert hear("मेरे पास आलू, प्याज़ और टमाटर हैं, पनीर नहीं है")["not_have"] == ["paneer"]
+    assert hear("ਆਂਡੇ, ਪਿਆਜ਼ ਤੇ ਟਮਾਟਰ ਨੇ")["have"] == ["egg", "onion", "tomato"]
+    assert hear("I have eggs, onions and bread, no butter")["have"] == ["egg", "onion", "bread"]
+    assert hear("aadha ghanta hai")["minutes"] == 30
