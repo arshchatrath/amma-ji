@@ -93,6 +93,20 @@ def number(value):
         return None
 
 
+FRYING_GRAMS = 200  # a fat row this big is the frying pan, not what goes into the food
+SOAKS_UP = 0.2  # fried food keeps roughly a fifth of its weight in oil
+
+
+def frying_oil_left_in_pan(items, labels_of):
+    """Grams of deep-frying oil that stay in the pan instead of in the food."""
+    fat = [i for i in items if "fat" in labels_of.get(i["id"], set())]
+    pan = sum(i["grams"] for i in fat if i["grams"] >= FRYING_GRAMS)
+    if not pan:
+        return 0
+    food = sum(i["grams"] for i in items if i not in fat and i["id"] != "water")
+    return max(0, pan - SOAKS_UP * food)
+
+
 def split_name(name):
     """'Okra fry (Bhindi sabzi)' -> ('Okra fry', 'Bhindi sabzi'). The local name is the last bracket,
     so 'Prawn curry (with coconut) (Jhinga curry)' keeps '(with coconut)' in the English name."""
@@ -165,6 +179,16 @@ def main():
         n = nutrition.get(code, {})
         per_serving = number(n.get("unit_serving_energy_kcal")) is not None
         prefix = "unit_serving_" if per_serving else ""
+        values = {key: number(n.get(prefix + col)) or 0 for key, col in
+                  (("kcal", "energy_kcal"), ("protein_g", "protein_g"), ("carbs_g", "carb_g"),
+                   ("fat_g", "fat_g"), ("fibre_g", "fibre_g"))}
+        left_in_pan = frying_oil_left_in_pan(items, labels_of)
+        if per_serving and left_in_pan:
+            # INDB counts the whole frying pan of oil as eaten (921 kcal for one poori). Take out what
+            # stays in the pan, split across the pieces the recipe makes, as INDB's servings are.
+            pieces = (number(size.get("no_of_servings")) or 1) * (number(size.get("size_of_servings")) or 1)
+            values["fat_g"] = max(0, values["fat_g"] - left_in_pan / pieces)
+            values["kcal"] = max(0, values["kcal"] - 9 * left_in_pan / pieces)
         recipes.append({
             "id": code,
             "name": name,
@@ -178,11 +202,10 @@ def main():
             "ingredients": items,
             "nutrition": {
                 "per": (f"1 {n.get('servings_unit') or size.get('servings_unit') or 'serving'}" if per_serving else "100 g"),
-                **{key: round(number(n.get(prefix + col)) or 0, 1) for key, col in
-                   (("kcal", "energy_kcal"), ("protein_g", "protein_g"), ("carbs_g", "carb_g"),
-                    ("fat_g", "fat_g"), ("fibre_g", "fibre_g"))},
+                **{key: round(v, 1) for key, v in values.items()},
                 "source": "INDB",
                 "is_estimate": True,
+                **({"frying_oil": "only what the food soaks up"} if per_serving and left_in_pan else {}),
             },
             "source": SOURCES.get(info.get("primarysource"), "INDB"),
             "source_link": links.get(code),
