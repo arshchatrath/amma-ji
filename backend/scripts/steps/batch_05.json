@@ -1,0 +1,956 @@
+{
+ "ASC096": {
+  "names": {
+   "hi-en": "Roti",
+   "hi": "रोटी",
+   "pa": "ਰੋਟੀ"
+  },
+  "steps": [
+   {
+    "en": "Add water to the atta a little at a time and knead into a soft dough. Cover and rest it for 20 minutes.",
+    "hi-en": "Atte mein thoda thoda paani daal ke naram aata goondh lo. Dhak ke 20 minute rakh do.",
+    "hi": "आटे में थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 20 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 20 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 20
+   },
+   {
+    "en": "Make 4 balls. Dust one with flour and roll it into a thin, even circle.",
+    "hi-en": "4 loiyan bana lo. Ek pe sookha aata laga ke patli, ek jaisi gol bel lo.",
+    "hi": "4 लोइयाँ बना लो। एक पर सूखा आटा लगाकर पतली, एक जैसी गोल बेल लो।",
+    "pa": "4 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਤੇ ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਪਤਲੀ, ਇੱਕੋ ਜਿਹੀ ਗੋਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Put it on a hot tawa. When small bubbles show, flip it. When the second side has brown spots, flip again and press the edges with a cloth so it puffs.",
+    "hi-en": "Garam tawe pe daalo. Chhote bulbule dikhein to palat do. Doosri taraf bhoore daag aayein to phir palto aur kapde se kinaare dabao taaki phool jaaye.",
+    "hi": "गरम तवे पर डालो। छोटे बुलबुले दिखें तो पलट दो। दूसरी तरफ़ भूरे दाग आएँ तो फिर पलटो और कपड़े से किनारे दबाओ ताकि फूल जाए।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਪਾਓ। ਛੋਟੇ ਬੁਲਬੁਲੇ ਦਿਸਣ ਤਾਂ ਪਲਟ ਦਿਓ। ਦੂਜੇ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤਾਂ ਫਿਰ ਪਲਟੋ ਅਤੇ ਕੱਪੜੇ ਨਾਲ ਕਿਨਾਰੇ ਦਬਾਓ ਤਾਂ ਜੋ ਫੁੱਲ ਜਾਵੇ।"
+   },
+   {
+    "en": "Take it off, spread a little ghee or butter on top and keep it covered in a cloth while you make the rest.",
+    "hi-en": "Utaar ke upar thoda ghee ya makhan lagao aur baaki banaate waqt kapde mein dhak ke rakho.",
+    "hi": "उतारकर ऊपर थोड़ा घी या मक्खन लगाओ और बाकी बनाते समय कपड़े में ढककर रखो।",
+    "pa": "ਉਤਾਰ ਕੇ ਉੱਤੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਮੱਖਣ ਲਗਾਓ ਅਤੇ ਬਾਕੀ ਬਣਾਉਂਦੇ ਸਮੇਂ ਕੱਪੜੇ ਵਿੱਚ ਢੱਕ ਕੇ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "roti is hard and chewy",
+    "en": "The dough was stiff or not rested. Knead it softer, rest it 20 minutes, and do not cook on low heat.",
+    "hi": "आटा सख्त था या रखा नहीं गया। नरम गूँधो, 20 मिनट रखो, और धीमी आँच पर मत सेको।"
+   },
+   {
+    "mistake": "roti does not puff",
+    "en": "It is rolled unevenly. Roll from the middle out with even pressure, and make sure the tawa is hot.",
+    "hi": "रोटी बराबर नहीं बेली। बीच से बाहर एक जैसे दबाव से बेलो, और तवा गरम रखो।"
+   },
+   {
+    "mistake": "dough is sticky",
+    "en": "Add a spoon of atta and knead again. Use dry flour when rolling.",
+    "hi": "एक चम्मच आटा मिलाकर फिर गूँधो। बेलते समय सूखा आटा लगाओ।"
+   }
+  ],
+  "swaps": {
+   "ghee": [
+    "butter",
+    "skip"
+   ]
+  }
+ },
+ "ASC097": {
+  "names": {
+   "hi-en": "Sada paratha",
+   "hi": "सादा पराठा",
+   "pa": "ਸਾਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Make 3 balls. Roll one into a circle, spread a little oil on it, fold it in half, oil again and fold into a triangle.",
+    "hi-en": "3 loiyan bana lo. Ek ko gol bel ke thoda tel lagao, aadha modo, phir tel laga ke tikona mod lo.",
+    "hi": "3 लोइयाँ बना लो। एक को गोल बेलकर थोड़ा तेल लगाओ, आधा मोड़ो, फिर तेल लगाकर तिकोना मोड़ लो।",
+    "pa": "3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਗੋਲ ਵੇਲ ਕੇ ਥੋੜ੍ਹਾ ਤੇਲ ਲਗਾਓ, ਅੱਧਾ ਮੋੜੋ, ਫਿਰ ਤੇਲ ਲਗਾ ਕੇ ਤਿਕੋਣਾ ਮੋੜ ਲਓ।"
+   },
+   {
+    "en": "Dust with flour and roll the triangle out gently.",
+    "hi-en": "Sookha aata laga ke tikone ko halke haath se bel lo.",
+    "hi": "सूखा आटा लगाकर तिकोने को हल्के हाथ से बेल लो।",
+    "pa": "ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਤਿਕੋਣੇ ਨੂੰ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff. Knead it softer and cook on medium-high heat, not low.",
+    "hi": "आटा सख्त था। नरम गूँधो और मध्यम-तेज़ आँच पर सेको, धीमी पर नहीं।"
+   },
+   {
+    "mistake": "no layers",
+    "en": "Spread the oil all over before each fold, and dust a little flour on the oil.",
+    "hi": "हर बार मोड़ने से पहले पूरे पर तेल लगाओ, और तेल पर थोड़ा सूखा आटा छिड़को।"
+   },
+   {
+    "mistake": "burnt outside, raw inside",
+    "en": "The tawa is too hot. Turn it to medium and press while cooking.",
+    "hi": "तवा बहुत गरम है। आँच मध्यम करो और सेकते समय दबाओ।"
+   }
+  ],
+  "swaps": {
+   "oil": [
+    "ghee",
+    "butter"
+   ]
+  }
+ },
+ "ASC099": {
+  "names": {
+   "hi-en": "Mooli paratha",
+   "hi": "मूली पराठा",
+   "pa": "ਮੂਲੀ ਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Grate the radish, sprinkle a pinch of salt and leave it for 10 minutes. Squeeze out all the water with your hands.",
+    "hi-en": "Mooli kaddukas karke chutki namak chhidko aur 10 minute chhod do. Haathon se saara paani nichod lo.",
+    "hi": "मूली कद्दूकस करके चुटकी भर नमक छिड़को और 10 मिनट छोड़ दो। हाथों से सारा पानी निचोड़ लो।",
+    "pa": "ਮੂਲੀ ਕੱਦੂਕਸ ਕਰਕੇ ਚੁਟਕੀ ਲੂਣ ਛਿੜਕੋ ਅਤੇ 10 ਮਿੰਟ ਛੱਡ ਦਿਓ। ਹੱਥਾਂ ਨਾਲ ਸਾਰਾ ਪਾਣੀ ਨਿਚੋੜ ਲਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Mix the squeezed radish with the onion, green chilli, coriander, red chilli powder, garam masala, amchur and salt.",
+    "hi-en": "Nichodi mooli mein pyaaz, hari mirch, hara dhaniya, laal mirch, garam masala, amchur aur namak milao.",
+    "hi": "निचोड़ी मूली में प्याज़, हरी मिर्च, हरा धनिया, लाल मिर्च, गरम मसाला, अमचूर और नमक मिलाओ।",
+    "pa": "ਨਿਚੋੜੀ ਮੂਲੀ ਵਿੱਚ ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਹਰਾ ਧਨੀਆ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਅੰਬਚੂਰ ਅਤੇ ਲੂਣ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Make 3 balls of dough. Roll one into a small circle, put a big spoonful of filling in the middle, bring the edges up and pinch them shut. Dust with flour and roll it out gently.",
+    "hi-en": "Aate ki 3 loiyan bana lo. Ek ko chhota gol bel ke beech mein ek bada chammach bharaai rakho, kinaare upar la ke band kar do. Sookha aata laga ke halke haath se bel lo.",
+    "hi": "आटे की 3 लोइयाँ बना लो। एक को छोटा गोल बेलकर बीच में एक बड़ा चम्मच भराई रखो, किनारे ऊपर लाकर बंद कर दो। सूखा आटा लगाकर हल्के हाथ से बेल लो।",
+    "pa": "ਆਟੇ ਦੇ 3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਛੋਟਾ ਗੋਲ ਵੇਲ ਕੇ ਵਿੱਚਕਾਰ ਇੱਕ ਵੱਡਾ ਚਮਚ ਭਰਾਈ ਰੱਖੋ, ਕਿਨਾਰੇ ਉੱਤੇ ਲਿਆ ਕੇ ਬੰਦ ਕਰ ਦਿਓ। ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "radish keeps leaking water",
+    "en": "Squeeze it again just before stuffing. You can knead the radish water into the dough.",
+    "hi": "भरने से ठीक पहले फिर निचोड़ो। मूली का पानी आटा गूँधने में डाल सकते हो।"
+   },
+   {
+    "mistake": "filling comes out while rolling",
+    "en": "The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.",
+    "hi": "भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+   },
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.",
+    "hi": "आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।"
+   }
+  ],
+  "swaps": {
+   "onion": [
+    "skip"
+   ]
+  }
+ },
+ "ASC100": {
+  "names": {
+   "hi-en": "Gobhi paratha",
+   "hi": "गोभी पराठा",
+   "pa": "ਗੋਭੀ ਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Grate the cauliflower finely. Just before stuffing, mix in the ginger and the onion, green chilli, coriander, red chilli powder, garam masala, amchur and salt.",
+    "hi-en": "Gobhi barik kaddukas karo. Bharne se theek pehle adrak aur pyaaz, hari mirch, hara dhaniya, laal mirch, garam masala, amchur aur namak milao.",
+    "hi": "गोभी बारीक कद्दूकस करो। भरने से ठीक पहले अदरक और प्याज़, हरी मिर्च, हरा धनिया, लाल मिर्च, गरम मसाला, अमचूर और नमक मिलाओ।",
+    "pa": "ਗੋਭੀ ਬਾਰੀਕ ਕੱਦੂਕਸ ਕਰੋ। ਭਰਨ ਤੋਂ ਠੀਕ ਪਹਿਲਾਂ ਅਦਰਕ ਅਤੇ ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਹਰਾ ਧਨੀਆ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਅੰਬਚੂਰ ਅਤੇ ਲੂਣ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Make 3 balls of dough. Roll one into a small circle, put a big spoonful of filling in the middle, bring the edges up and pinch them shut. Dust with flour and roll it out gently.",
+    "hi-en": "Aate ki 3 loiyan bana lo. Ek ko chhota gol bel ke beech mein ek bada chammach bharaai rakho, kinaare upar la ke band kar do. Sookha aata laga ke halke haath se bel lo.",
+    "hi": "आटे की 3 लोइयाँ बना लो। एक को छोटा गोल बेलकर बीच में एक बड़ा चम्मच भराई रखो, किनारे ऊपर लाकर बंद कर दो। सूखा आटा लगाकर हल्के हाथ से बेल लो।",
+    "pa": "ਆਟੇ ਦੇ 3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਛੋਟਾ ਗੋਲ ਵੇਲ ਕੇ ਵਿੱਚਕਾਰ ਇੱਕ ਵੱਡਾ ਚਮਚ ਭਰਾਈ ਰੱਖੋ, ਕਿਨਾਰੇ ਉੱਤੇ ਲਿਆ ਕੇ ਬੰਦ ਕਰ ਦਿਓ। ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "filling turned watery",
+    "en": "Salt pulls water out of gobhi. Add the salt only just before stuffing, and squeeze if it is wet.",
+    "hi": "नमक से गोभी पानी छोड़ती है। नमक भरने से ठीक पहले डालो, और गीली हो तो निचोड़ लो।"
+   },
+   {
+    "mistake": "filling comes out while rolling",
+    "en": "The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.",
+    "hi": "भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+   },
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.",
+    "hi": "आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।"
+   }
+  ],
+  "swaps": {
+   "onion": [
+    "skip"
+   ]
+  }
+ },
+ "ASC101": {
+  "names": {
+   "hi-en": "Dal paratha",
+   "hi": "दाल पराठा",
+   "pa": "ਦਾਲ ਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Wash the chana dal and soak it for 2 hours. Boil it with a pinch of salt until soft but not mushy, about 15 minutes, or 2 whistles in a cooker.",
+    "hi-en": "Chana dal dho ke 2 ghante bhigo do. Chutki namak ke saath naram hone tak ubaalo par ghulni nahi chahiye, lagbhag 15 minute, ya cooker mein 2 seeti.",
+    "hi": "चना दाल धोकर 2 घंटे भिगो दो। चुटकी भर नमक के साथ नरम होने तक उबालो पर घुलनी नहीं चाहिए, लगभग 15 मिनट, या कुकर में 2 सीटी।",
+    "pa": "ਛੋਲਿਆਂ ਦੀ ਦਾਲ ਧੋ ਕੇ 2 ਘੰਟੇ ਭਿਓਂ ਦਿਓ। ਚੁਟਕੀ ਲੂਣ ਨਾਲ ਨਰਮ ਹੋਣ ਤੱਕ ਉਬਾਲੋ ਪਰ ਘੁਲਣੀ ਨਹੀਂ ਚਾਹੀਦੀ, ਲਗਭਗ 15 ਮਿੰਟ, ਜਾਂ ਕੁੱਕਰ ਵਿੱਚ 2 ਸੀਟੀਆਂ।",
+    "timer": 15,
+    "safety": "cooker"
+   },
+   {
+    "en": "Drain the dal well and mash it. Mix in the onion, green chilli, coriander, red chilli powder, garam masala, amchur and salt.",
+    "hi-en": "Dal ka paani achhe se nikaal ke mash karo. pyaaz, hari mirch, hara dhaniya, laal mirch, garam masala, amchur aur namak milao.",
+    "hi": "दाल का पानी अच्छे से निकालकर मैश करो। प्याज़, हरी मिर्च, हरा धनिया, लाल मिर्च, गरम मसाला, अमचूर और नमक मिलाओ।",
+    "pa": "ਦਾਲ ਦਾ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੱਢ ਕੇ ਮੈਸ਼ ਕਰੋ। ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਹਰਾ ਧਨੀਆ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਅੰਬਚੂਰ ਅਤੇ ਲੂਣ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Make 3 balls of dough. Roll one into a small circle, put a big spoonful of filling in the middle, bring the edges up and pinch them shut. Dust with flour and roll it out gently.",
+    "hi-en": "Aate ki 3 loiyan bana lo. Ek ko chhota gol bel ke beech mein ek bada chammach bharaai rakho, kinaare upar la ke band kar do. Sookha aata laga ke halke haath se bel lo.",
+    "hi": "आटे की 3 लोइयाँ बना लो। एक को छोटा गोल बेलकर बीच में एक बड़ा चम्मच भराई रखो, किनारे ऊपर लाकर बंद कर दो। सूखा आटा लगाकर हल्के हाथ से बेल लो।",
+    "pa": "ਆਟੇ ਦੇ 3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਛੋਟਾ ਗੋਲ ਵੇਲ ਕੇ ਵਿੱਚਕਾਰ ਇੱਕ ਵੱਡਾ ਚਮਚ ਭਰਾਈ ਰੱਖੋ, ਕਿਨਾਰੇ ਉੱਤੇ ਲਿਆ ਕੇ ਬੰਦ ਕਰ ਦਿਓ। ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "filling comes out while rolling",
+    "en": "The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.",
+    "hi": "भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+   },
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.",
+    "hi": "आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।"
+   },
+   {
+    "mistake": "raw inside",
+    "en": "Lower the heat a little and press the paratha with the spatula so the middle cooks too.",
+    "hi": "आँच थोड़ी कम करो और पलटे से दबाओ ताकि बीच का हिस्सा भी पके।"
+   }
+  ],
+  "swaps": {
+   "onion": [
+    "skip"
+   ]
+  }
+ },
+ "ASC103": {
+  "names": {
+   "hi-en": "Matar paratha",
+   "hi": "मटर पराठा",
+   "pa": "ਮਟਰ ਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Boil the peas for 5 minutes, drain and mash them coarsely.",
+    "hi-en": "Matar 5 minute ubaal ke paani nikaalo aur mote mote mash kar lo.",
+    "hi": "मटर 5 मिनट उबालकर पानी निकालो और मोटा-मोटा मैश कर लो।",
+    "pa": "ਮਟਰ 5 ਮਿੰਟ ਉਬਾਲ ਕੇ ਪਾਣੀ ਕੱਢੋ ਅਤੇ ਮੋਟੇ-ਮੋਟੇ ਮੈਸ਼ ਕਰ ਲਓ।",
+    "timer": 5,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Mix the mashed peas with the onion, green chilli, coriander, red chilli powder, garam masala, amchur and salt.",
+    "hi-en": "Mash kiye matar mein pyaaz, hari mirch, hara dhaniya, laal mirch, garam masala, amchur aur namak milao.",
+    "hi": "मैश किए मटर में प्याज़, हरी मिर्च, हरा धनिया, लाल मिर्च, गरम मसाला, अमचूर और नमक मिलाओ।",
+    "pa": "ਮੈਸ਼ ਕੀਤੇ ਮਟਰਾਂ ਵਿੱਚ ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਹਰਾ ਧਨੀਆ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਅੰਬਚੂਰ ਅਤੇ ਲੂਣ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Make 3 balls of dough. Roll one into a small circle, put a big spoonful of filling in the middle, bring the edges up and pinch them shut. Dust with flour and roll it out gently.",
+    "hi-en": "Aate ki 3 loiyan bana lo. Ek ko chhota gol bel ke beech mein ek bada chammach bharaai rakho, kinaare upar la ke band kar do. Sookha aata laga ke halke haath se bel lo.",
+    "hi": "आटे की 3 लोइयाँ बना लो। एक को छोटा गोल बेलकर बीच में एक बड़ा चम्मच भराई रखो, किनारे ऊपर लाकर बंद कर दो। सूखा आटा लगाकर हल्के हाथ से बेल लो।",
+    "pa": "ਆਟੇ ਦੇ 3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਛੋਟਾ ਗੋਲ ਵੇਲ ਕੇ ਵਿੱਚਕਾਰ ਇੱਕ ਵੱਡਾ ਚਮਚ ਭਰਾਈ ਰੱਖੋ, ਕਿਨਾਰੇ ਉੱਤੇ ਲਿਆ ਕੇ ਬੰਦ ਕਰ ਦਿਓ। ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "filling comes out while rolling",
+    "en": "The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.",
+    "hi": "भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+   },
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.",
+    "hi": "आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।"
+   },
+   {
+    "mistake": "raw inside",
+    "en": "Lower the heat a little and press the paratha with the spatula so the middle cooks too.",
+    "hi": "आँच थोड़ी कम करो और पलटे से दबाओ ताकि बीच का हिस्सा भी पके।"
+   }
+  ],
+  "swaps": {
+   "onion": [
+    "skip"
+   ]
+  }
+ },
+ "ASC104": {
+  "names": {
+   "hi-en": "Keema paratha",
+   "hi": "कीमा पराठा",
+   "pa": "ਕੀਮਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Heat a spoon of oil. Cook the keema with the onion, green chilli, red chilli powder and salt, breaking it up, until dry and no pink is left, about 12 minutes.",
+    "hi-en": "Ek chammach tel garam karo. Keema pyaaz, hari mirch, laal mirch aur namak ke saath todte hue pakao, jab tak sookha ho jaaye aur koi gulaabi hissa na bache, lagbhag 12 minute.",
+    "hi": "एक चम्मच तेल गरम करो। कीमा प्याज़, हरी मिर्च, लाल मिर्च और नमक के साथ तोड़ते हुए पकाओ, जब तक सूखा हो जाए और कोई गुलाबी हिस्सा न बचे, लगभग 12 मिनट।",
+    "pa": "ਇੱਕ ਚਮਚ ਤੇਲ ਗਰਮ ਕਰੋ। ਕੀਮਾ ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਨਾਲ ਤੋੜਦੇ ਹੋਏ ਪਕਾਓ, ਜਦੋਂ ਤੱਕ ਸੁੱਕਾ ਹੋ ਜਾਵੇ ਅਤੇ ਕੋਈ ਗੁਲਾਬੀ ਹਿੱਸਾ ਨਾ ਬਚੇ, ਲਗਭਗ 12 ਮਿੰਟ।",
+    "timer": 12,
+    "safety": "meat_done"
+   },
+   {
+    "en": "Stir in the garam masala, amchur and coriander and let the keema cool fully.",
+    "hi-en": "Garam masala, amchur aur hara dhaniya milao aur keema poora thanda hone do.",
+    "hi": "गरम मसाला, अमचूर और हरा धनिया मिलाओ और कीमा पूरा ठंडा होने दो।",
+    "pa": "ਗਰਮ ਮਸਾਲਾ, ਅੰਬਚੂਰ ਅਤੇ ਹਰਾ ਧਨੀਆ ਮਿਲਾਓ ਅਤੇ ਕੀਮਾ ਪੂਰਾ ਠੰਡਾ ਹੋਣ ਦਿਓ।"
+   },
+   {
+    "en": "Make 3 balls of dough. Roll one into a small circle, put a big spoonful of filling in the middle, bring the edges up and pinch them shut. Dust with flour and roll it out gently.",
+    "hi-en": "Aate ki 3 loiyan bana lo. Ek ko chhota gol bel ke beech mein ek bada chammach bharaai rakho, kinaare upar la ke band kar do. Sookha aata laga ke halke haath se bel lo.",
+    "hi": "आटे की 3 लोइयाँ बना लो। एक को छोटा गोल बेलकर बीच में एक बड़ा चम्मच भराई रखो, किनारे ऊपर लाकर बंद कर दो। सूखा आटा लगाकर हल्के हाथ से बेल लो।",
+    "pa": "ਆਟੇ ਦੇ 3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਛੋਟਾ ਗੋਲ ਵੇਲ ਕੇ ਵਿੱਚਕਾਰ ਇੱਕ ਵੱਡਾ ਚਮਚ ਭਰਾਈ ਰੱਖੋ, ਕਿਨਾਰੇ ਉੱਤੇ ਲਿਆ ਕੇ ਬੰਦ ਕਰ ਦਿਓ। ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "keema is wet and tears the dough",
+    "en": "Cook it longer until completely dry, and let it cool before stuffing.",
+    "hi": "कीमा पूरा सूखने तक और पकाओ, और भरने से पहले ठंडा होने दो।"
+   },
+   {
+    "mistake": "filling comes out while rolling",
+    "en": "The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.",
+    "hi": "भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+   },
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.",
+    "hi": "आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।"
+   }
+  ],
+  "swaps": {}
+ },
+ "ASC105": {
+  "names": {
+   "hi-en": "Paneer paratha",
+   "hi": "पनीर पराठा",
+   "pa": "ਪਨੀਰ ਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with a pinch of salt. Add water a little at a time and knead into a soft dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Atte mein chutki namak milao. Thoda thoda paani daal ke naram aata goondh lo. Dhak ke 15 minute rakh do.",
+    "hi": "आटे में चुटकी भर नमक मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँध लो। ढककर 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਚੁਟਕੀ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹ ਲਓ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Grate the paneer and mix it with the onion, green chilli, coriander, red chilli powder, garam masala, amchur and salt.",
+    "hi-en": "Paneer kaddukas karke pyaaz, hari mirch, hara dhaniya, laal mirch, garam masala, amchur aur namak milao.",
+    "hi": "पनीर कद्दूकस करके प्याज़, हरी मिर्च, हरा धनिया, लाल मिर्च, गरम मसाला, अमचूर और नमक मिलाओ।",
+    "pa": "ਪਨੀਰ ਕੱਦੂਕਸ ਕਰਕੇ ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਹਰਾ ਧਨੀਆ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਅੰਬਚੂਰ ਅਤੇ ਲੂਣ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Make 3 balls of dough. Roll one into a small circle, put a big spoonful of filling in the middle, bring the edges up and pinch them shut. Dust with flour and roll it out gently.",
+    "hi-en": "Aate ki 3 loiyan bana lo. Ek ko chhota gol bel ke beech mein ek bada chammach bharaai rakho, kinaare upar la ke band kar do. Sookha aata laga ke halke haath se bel lo.",
+    "hi": "आटे की 3 लोइयाँ बना लो। एक को छोटा गोल बेलकर बीच में एक बड़ा चम्मच भराई रखो, किनारे ऊपर लाकर बंद कर दो। सूखा आटा लगाकर हल्के हाथ से बेल लो।",
+    "pa": "ਆਟੇ ਦੇ 3 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਛੋਟਾ ਗੋਲ ਵੇਲ ਕੇ ਵਿੱਚਕਾਰ ਇੱਕ ਵੱਡਾ ਚਮਚ ਭਰਾਈ ਰੱਖੋ, ਕਿਨਾਰੇ ਉੱਤੇ ਲਿਆ ਕੇ ਬੰਦ ਕਰ ਦਿਓ। ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਹੌਲੀ ਹੱਥ ਨਾਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "filling comes out while rolling",
+    "en": "The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.",
+    "hi": "भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+   },
+   {
+    "mistake": "paratha is hard",
+    "en": "The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.",
+    "hi": "आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।"
+   },
+   {
+    "mistake": "raw inside",
+    "en": "Lower the heat a little and press the paratha with the spatula so the middle cooks too.",
+    "hi": "आँच थोड़ी कम करो और पलटे से दबाओ ताकि बीच का हिस्सा भी पके।"
+   }
+  ],
+  "swaps": {
+   "onion": [
+    "skip"
+   ]
+  }
+ },
+ "BFP110": {
+  "names": {
+   "hi-en": "Methi paratha",
+   "hi": "मेथी पराठा",
+   "pa": "ਮੇਥੀ ਦਾ ਪਰੌਂਠਾ"
+  },
+  "steps": [
+   {
+    "en": "Pick the methi leaves, wash them well and chop them fine. Chop the onion, green chilli and ginger fine too.",
+    "hi-en": "Methi ke patte tod ke achhe se dho lo aur barik kaato. Pyaaz, hari mirch aur adrak bhi barik kaato.",
+    "hi": "मेथी के पत्ते तोड़कर अच्छे से धो लो और बारीक काटो। प्याज़, हरी मिर्च और अदरक भी बारीक काटो।",
+    "pa": "ਮੇਥੀ ਦੇ ਪੱਤੇ ਤੋੜ ਕੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਧੋ ਲਓ ਅਤੇ ਬਾਰੀਕ ਕੱਟੋ। ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ ਅਤੇ ਅਦਰਕ ਵੀ ਬਾਰੀਕ ਕੱਟੋ।"
+   },
+   {
+    "en": "Mix the atta with the methi, onion, green chilli, ginger, salt and a spoon of oil. Add water a little at a time and knead a soft dough. Rest it for 15 minutes.",
+    "hi-en": "Atte mein methi, pyaaz, hari mirch, adrak, namak aur ek chammach tel milao. Thoda thoda paani daal ke naram aata goondho. 15 minute rakh do.",
+    "hi": "आटे में मेथी, प्याज़, हरी मिर्च, अदरक, नमक और एक चम्मच तेल मिलाओ। थोड़ा-थोड़ा पानी डालकर नरम आटा गूँधो। 15 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਮੇਥੀ, ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ, ਅਦਰਕ, ਲੂਣ ਅਤੇ ਇੱਕ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਨਰਮ ਆਟਾ ਗੁੰਨ੍ਹੋ। 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Make 3 balls and roll each into a circle, dusting with flour.",
+    "hi-en": "3 loiyan bana ke sookha aata laga ke gol bel lo.",
+    "hi": "3 लोइयाँ बनाकर सूखा आटा लगाकर गोल बेल लो।",
+    "pa": "3 ਪੇੜੇ ਬਣਾ ਕੇ ਸੁੱਕਾ ਆਟਾ ਲਗਾ ਕੇ ਗੋਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Cook it on a hot tawa until brown spots show on both sides. Spread a little ghee or oil on each side and press with a spatula until golden, about 3 minutes in all. Serve with curd or white butter.",
+    "hi-en": "Garam tawe pe dono taraf bhoore daag aane tak sekho. Dono taraf thoda ghee ya tel laga ke palte se dabaate hue sunehra karo, kul lagbhag 3 minute. Dahi ya safed makhan ke saath khao.",
+    "hi": "गरम तवे पर दोनों तरफ़ भूरे दाग आने तक सेको। दोनों तरफ़ थोड़ा घी या तेल लगाकर पलटे से दबाते हुए सुनहरा करो, कुल लगभग 3 मिनट। दही या सफ़ेद मक्खन के साथ खाओ।",
+    "pa": "ਗਰਮ ਤਵੇ ਤੇ ਦੋਵੇਂ ਪਾਸੇ ਭੂਰੇ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ। ਦੋਵੇਂ ਪਾਸੇ ਥੋੜ੍ਹਾ ਘਿਓ ਜਾਂ ਤੇਲ ਲਗਾ ਕੇ ਪਲਟੇ ਨਾਲ ਦਬਾਉਂਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਕਰੋ, ਕੁੱਲ ਲਗਭਗ 3 ਮਿੰਟ। ਦਹੀਂ ਜਾਂ ਚਿੱਟੇ ਮੱਖਣ ਨਾਲ ਖਾਓ।",
+    "timer": 3
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "dough got sticky",
+    "en": "The onion and methi let out water. Add a little more atta and knead again.",
+    "hi": "प्याज़ और मेथी ने पानी छोड़ा। थोड़ा और आटा मिलाकर फिर गूँधो।"
+   },
+   {
+    "mistake": "too bitter",
+    "en": "Use a little less methi next time, or add a pinch of sugar to the dough.",
+    "hi": "अगली बार मेथी थोड़ी कम लो, या आटे में चुटकी भर चीनी मिलाओ।"
+   },
+   {
+    "mistake": "gritty to eat",
+    "en": "Wash the methi in 2 or 3 changes of water to get the soil out.",
+    "hi": "मेथी 2-3 बार पानी बदलकर धोओ ताकि मिट्टी निकल जाए।"
+   }
+  ],
+  "swaps": {
+   "onion": [
+    "skip"
+   ]
+  }
+ },
+ "ASC107": {
+  "names": {
+   "hi-en": "Poori",
+   "hi": "पूरी",
+   "pa": "ਪੂਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Mix the atta with the salt and a spoon of melted ghee. Add water a little at a time and knead a stiff dough. Rest it for 10 minutes.",
+    "hi-en": "Atte mein namak aur ek chammach pighla ghee milao. Thoda thoda paani daal ke sakht aata goondho. 10 minute rakh do.",
+    "hi": "आटे में नमक और एक चम्मच पिघला घी मिलाओ। थोड़ा-थोड़ा पानी डालकर सख्त आटा गूँधो। 10 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਲੂਣ ਅਤੇ ਇੱਕ ਚਮਚ ਪਿਘਲਿਆ ਘਿਓ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਸਖ਼ਤ ਆਟਾ ਗੁੰਨ੍ਹੋ। 10 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Make 5 small balls and roll each into a small circle. Use a drop of oil instead of dry flour.",
+    "hi-en": "5 chhoti loiyan bana ke chhoti gol bel lo. Sookhe aate ki jagah tel ki ek boond lagao.",
+    "hi": "5 छोटी लोइयाँ बनाकर छोटी गोल बेल लो। सूखे आटे की जगह तेल की एक बूँद लगाओ।",
+    "pa": "5 ਛੋਟੇ ਪੇੜੇ ਬਣਾ ਕੇ ਛੋਟੀ ਗੋਲ ਵੇਲ ਲਓ। ਸੁੱਕੇ ਆਟੇ ਦੀ ਥਾਂ ਤੇਲ ਦੀ ਇੱਕ ਬੂੰਦ ਲਗਾਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Roll small, slightly thick circles. Slide one in, press it gently with the slotted spoon until it puffs, flip and fry until golden, about 1 minute.",
+    "hi-en": "Talne ke liye tel garam karo. Chhoti, thodi moti gol poori bel lo. Ek daalo, jhaare se halke dabao jab tak phool jaaye, palat ke sunehri hone tak talo, lagbhag 1 minute.",
+    "hi": "तलने के लिए तेल गरम करो। छोटी, थोड़ी मोटी गोल पूरी बेल लो। एक डालो, झारे से हल्का दबाओ जब तक फूल जाए, पलटकर सुनहरी होने तक तलो, लगभग 1 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਛੋਟੀ, ਥੋੜ੍ਹੀ ਮੋਟੀ ਗੋਲ ਪੂਰੀ ਵੇਲ ਲਓ। ਇੱਕ ਪਾਓ, ਝਾਰਨੀ ਨਾਲ ਹੌਲੀ ਦਬਾਓ ਜਦੋਂ ਤੱਕ ਫੁੱਲ ਜਾਵੇ, ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with aloo sabzi or chole.",
+    "hi-en": "Kaagaz pe nikaal ke aloo ki sabzi ya chhole ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर आलू की सब्ज़ी या छोले के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਆਲੂ ਦੀ ਸਬਜ਼ੀ ਜਾਂ ਛੋਲਿਆਂ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pooris do not puff",
+    "en": "The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.",
+    "hi": "तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+   },
+   {
+    "mistake": "pooris are oily",
+    "en": "The oil was too cool, or the dough too soft. Make a stiffer dough and fry in hotter oil.",
+    "hi": "तेल ठंडा था या आटा बहुत नरम। आटा सख्त गूँधो और गरम तेल में तलो।"
+   },
+   {
+    "mistake": "pooris turn hard after cooling",
+    "en": "Add the spoon of melted ghee to the dough, and do not fry too long.",
+    "hi": "आटे में एक चम्मच पिघला घी डालो, और ज़्यादा देर मत तलो।"
+   }
+  ],
+  "swaps": {
+   "ghee": [
+    "oil"
+   ]
+  }
+ },
+ "ASC108": {
+  "names": {
+   "hi-en": "Palak poori",
+   "hi": "पालक पूरी",
+   "pa": "ਪਾਲਕ ਪੂਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Put the spinach in boiling water for 1 minute, then into cold water. Grind it to a smooth puree.",
+    "hi-en": "Palak ubalte paani mein 1 minute daal ke thande paani mein daalo. Pees ke smooth puree bana lo.",
+    "hi": "पालक उबलते पानी में 1 मिनट डालकर ठंडे पानी में डालो। पीसकर चिकनी प्यूरी बना लो।",
+    "pa": "ਪਾਲਕ ਉਬਲਦੇ ਪਾਣੀ ਵਿੱਚ 1 ਮਿੰਟ ਪਾ ਕੇ ਠੰਡੇ ਪਾਣੀ ਵਿੱਚ ਪਾਓ। ਪੀਸ ਕੇ ਮੁਲਾਇਮ ਪਿਊਰੀ ਬਣਾ ਲਓ।",
+    "timer": 1,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Mix the atta with the salt, red chilli powder and a spoon of melted ghee. Knead it with the spinach puree into a stiff dough, adding water only if needed. Rest it for 10 minutes.",
+    "hi-en": "Atte mein namak, laal mirch aur ek chammach pighla ghee milao. Palak puree se sakht aata goondho, zaroorat ho tabhi paani daalo. 10 minute rakh do.",
+    "hi": "आटे में नमक, लाल मिर्च और एक चम्मच पिघला घी मिलाओ। पालक प्यूरी से सख्त आटा गूँधो, ज़रूरत हो तभी पानी डालो। 10 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਲੂਣ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਇੱਕ ਚਮਚ ਪਿਘਲਿਆ ਘਿਓ ਮਿਲਾਓ। ਪਾਲਕ ਪਿਊਰੀ ਨਾਲ ਸਖ਼ਤ ਆਟਾ ਗੁੰਨ੍ਹੋ, ਲੋੜ ਹੋਵੇ ਤਾਂ ਹੀ ਪਾਣੀ ਪਾਓ। 10 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Make 5 small balls and roll each into a small circle with a drop of oil.",
+    "hi-en": "5 chhoti loiyan bana ke tel ki boond laga ke chhoti gol bel lo.",
+    "hi": "5 छोटी लोइयाँ बनाकर तेल की बूँद लगाकर छोटी गोल बेल लो।",
+    "pa": "5 ਛੋਟੇ ਪੇੜੇ ਬਣਾ ਕੇ ਤੇਲ ਦੀ ਬੂੰਦ ਲਗਾ ਕੇ ਛੋਟੀ ਗੋਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Roll small, slightly thick circles. Slide one in, press it gently with the slotted spoon until it puffs, flip and fry until golden, about 1 minute.",
+    "hi-en": "Talne ke liye tel garam karo. Chhoti, thodi moti gol poori bel lo. Ek daalo, jhaare se halke dabao jab tak phool jaaye, palat ke sunehri hone tak talo, lagbhag 1 minute.",
+    "hi": "तलने के लिए तेल गरम करो। छोटी, थोड़ी मोटी गोल पूरी बेल लो। एक डालो, झारे से हल्का दबाओ जब तक फूल जाए, पलटकर सुनहरी होने तक तलो, लगभग 1 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਛੋਟੀ, ਥੋੜ੍ਹੀ ਮੋਟੀ ਗੋਲ ਪੂਰੀ ਵੇਲ ਲਓ। ਇੱਕ ਪਾਓ, ਝਾਰਨੀ ਨਾਲ ਹੌਲੀ ਦਬਾਓ ਜਦੋਂ ਤੱਕ ਫੁੱਲ ਜਾਵੇ, ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1,
+    "safety": "deep_fry"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pooris do not puff",
+    "en": "The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.",
+    "hi": "तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+   },
+   {
+    "mistake": "pooris are oily",
+    "en": "The oil was too cool, or the dough too soft. Make a stiffer dough and fry in hotter oil.",
+    "hi": "तेल ठंडा था या आटा बहुत नरम। आटा सख्त गूँधो और गरम तेल में तलो।"
+   },
+   {
+    "mistake": "pooris turned dark",
+    "en": "The oil is too hot. Lower the heat a little so they stay green.",
+    "hi": "तेल बहुत गरम है। आँच थोड़ी कम करो ताकि पूरियाँ हरी रहें।"
+   }
+  ],
+  "swaps": {
+   "ghee": [
+    "oil"
+   ]
+  }
+ },
+ "ASC109": {
+  "names": {
+   "hi-en": "Methi poori",
+   "hi": "मेथी पूरी",
+   "pa": "ਮੇਥੀ ਪੂਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Pick the methi leaves, wash them well and chop them very fine.",
+    "hi-en": "Methi ke patte tod ke achhe se dho lo aur bahut barik kaato.",
+    "hi": "मेथी के पत्ते तोड़कर अच्छे से धो लो और बहुत बारीक काटो।",
+    "pa": "ਮੇਥੀ ਦੇ ਪੱਤੇ ਤੋੜ ਕੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਧੋ ਲਓ ਅਤੇ ਬਹੁਤ ਬਾਰੀਕ ਕੱਟੋ।"
+   },
+   {
+    "en": "Mix the atta with the methi, salt, red chilli powder and a spoon of melted ghee. Add water a little at a time and knead a stiff dough. Rest it for 10 minutes.",
+    "hi-en": "Atte mein methi, namak, laal mirch aur ek chammach pighla ghee milao. Thoda thoda paani daal ke sakht aata goondho. 10 minute rakh do.",
+    "hi": "आटे में मेथी, नमक, लाल मिर्च और एक चम्मच पिघला घी मिलाओ। थोड़ा-थोड़ा पानी डालकर सख्त आटा गूँधो। 10 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਮੇਥੀ, ਲੂਣ, ਲਾਲ ਮਿਰਚ ਅਤੇ ਇੱਕ ਚਮਚ ਪਿਘਲਿਆ ਘਿਓ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਪਾਣੀ ਪਾ ਕੇ ਸਖ਼ਤ ਆਟਾ ਗੁੰਨ੍ਹੋ। 10 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Make 5 small balls and roll each into a small circle with a drop of oil.",
+    "hi-en": "5 chhoti loiyan bana ke tel ki boond laga ke chhoti gol bel lo.",
+    "hi": "5 छोटी लोइयाँ बनाकर तेल की बूँद लगाकर छोटी गोल बेल लो।",
+    "pa": "5 ਛੋਟੇ ਪੇੜੇ ਬਣਾ ਕੇ ਤੇਲ ਦੀ ਬੂੰਦ ਲਗਾ ਕੇ ਛੋਟੀ ਗੋਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Roll small, slightly thick circles. Slide one in, press it gently with the slotted spoon until it puffs, flip and fry until golden, about 1 minute.",
+    "hi-en": "Talne ke liye tel garam karo. Chhoti, thodi moti gol poori bel lo. Ek daalo, jhaare se halke dabao jab tak phool jaaye, palat ke sunehri hone tak talo, lagbhag 1 minute.",
+    "hi": "तलने के लिए तेल गरम करो। छोटी, थोड़ी मोटी गोल पूरी बेल लो। एक डालो, झारे से हल्का दबाओ जब तक फूल जाए, पलटकर सुनहरी होने तक तलो, लगभग 1 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਛੋਟੀ, ਥੋੜ੍ਹੀ ਮੋਟੀ ਗੋਲ ਪੂਰੀ ਵੇਲ ਲਓ। ਇੱਕ ਪਾਓ, ਝਾਰਨੀ ਨਾਲ ਹੌਲੀ ਦਬਾਓ ਜਦੋਂ ਤੱਕ ਫੁੱਲ ਜਾਵੇ, ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1,
+    "safety": "deep_fry"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pooris do not puff",
+    "en": "The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.",
+    "hi": "तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+   },
+   {
+    "mistake": "pooris are oily",
+    "en": "The oil was too cool, or the dough too soft. Make a stiffer dough and fry in hotter oil.",
+    "hi": "तेल ठंडा था या आटा बहुत नरम। आटा सख्त गूँधो और गरम तेल में तलो।"
+   },
+   {
+    "mistake": "too bitter",
+    "en": "Use a little less methi, or add a pinch of sugar to the dough.",
+    "hi": "मेथी थोड़ी कम लो, या आटे में चुटकी भर चीनी मिलाओ।"
+   }
+  ],
+  "swaps": {
+   "ghee": [
+    "oil"
+   ]
+  }
+ },
+ "ASC111": {
+  "names": {
+   "hi-en": "Aloo poori",
+   "hi": "आलू पूरी",
+   "pa": "ਆਲੂ ਪੂਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Boil the potatoes until soft, about 15 minutes, or 2 whistles in a cooker. Peel and mash them with no lumps.",
+    "hi-en": "Aloo naram hone tak ubaalo, lagbhag 15 minute, ya cooker mein 2 seeti. Chheel ke bina gaanth ke mash kar lo.",
+    "hi": "आलू नरम होने तक उबालो, लगभग 15 मिनट, या कुकर में 2 सीटी। छीलकर बिना गाँठ के मैश कर लो।",
+    "pa": "ਆਲੂ ਨਰਮ ਹੋਣ ਤੱਕ ਉਬਾਲੋ, ਲਗਭਗ 15 ਮਿੰਟ, ਜਾਂ ਕੁੱਕਰ ਵਿੱਚ 2 ਸੀਟੀਆਂ। ਛਿੱਲ ਕੇ ਬਿਨਾਂ ਗੰਢ ਦੇ ਮੈਸ਼ ਕਰ ਲਓ।",
+    "timer": 15,
+    "safety": "cooker"
+   },
+   {
+    "en": "Mix the atta with the mashed potato, salt, red chilli powder, garam masala and a spoon of melted ghee. Knead into a stiff dough without water, or just a few drops. Rest it for 10 minutes.",
+    "hi-en": "Atte mein mash aloo, namak, laal mirch, garam masala aur ek chammach pighla ghee milao. Bina paani ke, ya bas kuch boondon se, sakht aata goondho. 10 minute rakh do.",
+    "hi": "आटे में मैश आलू, नमक, लाल मिर्च, गरम मसाला और एक चम्मच पिघला घी मिलाओ। बिना पानी के, या बस कुछ बूँदों से, सख्त आटा गूँधो। 10 मिनट रख दो।",
+    "pa": "ਆਟੇ ਵਿੱਚ ਮੈਸ਼ ਆਲੂ, ਲੂਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ ਅਤੇ ਇੱਕ ਚਮਚ ਪਿਘਲਿਆ ਘਿਓ ਮਿਲਾਓ। ਬਿਨਾਂ ਪਾਣੀ ਦੇ, ਜਾਂ ਬੱਸ ਕੁਝ ਬੂੰਦਾਂ ਨਾਲ, ਸਖ਼ਤ ਆਟਾ ਗੁੰਨ੍ਹੋ। 10 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 10
+   },
+   {
+    "en": "Make 5 small balls and roll each into a small circle with a drop of oil.",
+    "hi-en": "5 chhoti loiyan bana ke tel ki boond laga ke chhoti gol bel lo.",
+    "hi": "5 छोटी लोइयाँ बनाकर तेल की बूँद लगाकर छोटी गोल बेल लो।",
+    "pa": "5 ਛੋਟੇ ਪੇੜੇ ਬਣਾ ਕੇ ਤੇਲ ਦੀ ਬੂੰਦ ਲਗਾ ਕੇ ਛੋਟੀ ਗੋਲ ਵੇਲ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Roll small, slightly thick circles. Slide one in, press it gently with the slotted spoon until it puffs, flip and fry until golden, about 1 minute.",
+    "hi-en": "Talne ke liye tel garam karo. Chhoti, thodi moti gol poori bel lo. Ek daalo, jhaare se halke dabao jab tak phool jaaye, palat ke sunehri hone tak talo, lagbhag 1 minute.",
+    "hi": "तलने के लिए तेल गरम करो। छोटी, थोड़ी मोटी गोल पूरी बेल लो। एक डालो, झारे से हल्का दबाओ जब तक फूल जाए, पलटकर सुनहरी होने तक तलो, लगभग 1 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਛੋਟੀ, ਥੋੜ੍ਹੀ ਮੋਟੀ ਗੋਲ ਪੂਰੀ ਵੇਲ ਲਓ। ਇੱਕ ਪਾਓ, ਝਾਰਨੀ ਨਾਲ ਹੌਲੀ ਦਬਾਓ ਜਦੋਂ ਤੱਕ ਫੁੱਲ ਜਾਵੇ, ਪਲਟ ਕੇ ਸੁਨਹਿਰੀ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 1 ਮਿੰਟ।",
+    "timer": 1,
+    "safety": "deep_fry"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "dough is sticky",
+    "en": "The potatoes were too wet. Add a spoon of atta at a time and knead again.",
+    "hi": "आलू बहुत गीले थे। एक-एक चम्मच आटा मिलाकर फिर गूँधो।"
+   },
+   {
+    "mistake": "pooris do not puff",
+    "en": "The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.",
+    "hi": "तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+   },
+   {
+    "mistake": "pooris tear while rolling",
+    "en": "There are potato lumps. Mash the potato fully smooth and knead well.",
+    "hi": "आलू में गाँठें हैं। आलू पूरा चिकना मैश करो और अच्छे से गूँधो।"
+   }
+  ],
+  "swaps": {
+   "ghee": [
+    "oil"
+   ]
+  }
+ },
+ "ASC150": {
+  "names": {
+   "hi-en": "Makki ki roti",
+   "hi": "मक्की की रोटी",
+   "pa": "ਮੱਕੀ ਦੀ ਰੋਟੀ"
+  },
+  "steps": [
+   {
+    "en": "Mix the maize flour with the grated radish, ajwain and salt. Add warm water a little at a time and knead with the heel of your palm for 5 minutes until smooth.",
+    "hi-en": "Makki ke aate mein kaddukas mooli, ajwain aur namak milao. Thoda thoda gungunaa paani daal ke hatheli se 5 minute smooth hone tak goondho.",
+    "hi": "मक्की के आटे में कद्दूकस मूली, अजवाइन और नमक मिलाओ। थोड़ा-थोड़ा गुनगुना पानी डालकर हथेली से 5 मिनट चिकना होने तक गूँधो।",
+    "pa": "ਮੱਕੀ ਦੇ ਆਟੇ ਵਿੱਚ ਕੱਦੂਕਸ ਮੂਲੀ, ਅਜਵਾਇਣ ਅਤੇ ਲੂਣ ਮਿਲਾਓ। ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਕੋਸਾ ਪਾਣੀ ਪਾ ਕੇ ਹਥੇਲੀ ਨਾਲ 5 ਮਿੰਟ ਮੁਲਾਇਮ ਹੋਣ ਤੱਕ ਗੁੰਨ੍ਹੋ।",
+    "timer": 5
+   },
+   {
+    "en": "Make 2 balls. Pat one between two pieces of plastic sheet, or between wet palms, into a thick circle.",
+    "hi-en": "2 pede bana lo. Ek ko plastic sheet ke do tukdon ke beech, ya geeli hatheliyon se, thapthapa ke moti gol bana lo.",
+    "hi": "2 पेड़े बना लो। एक को प्लास्टिक शीट के दो टुकड़ों के बीच, या गीली हथेलियों से, थपथपाकर मोटी गोल बना लो।",
+    "pa": "2 ਪੇੜੇ ਬਣਾ ਲਓ। ਇੱਕ ਨੂੰ ਪਲਾਸਟਿਕ ਸ਼ੀਟ ਦੇ ਦੋ ਟੁਕੜਿਆਂ ਵਿੱਚਕਾਰ, ਜਾਂ ਗਿੱਲੀਆਂ ਹਥੇਲੀਆਂ ਨਾਲ, ਥਪਥਪਾ ਕੇ ਮੋਟੀ ਗੋਲ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Peel off the sheet and lay the roti on a hot tawa. Cook on medium heat until firm, then flip. Spread ghee on both sides and cook until golden spots show, about 4 minutes in all.",
+    "hi-en": "Sheet hata ke roti garam tawe pe daalo. Medium aanch pe sakht hone tak sekho, phir palto. Dono taraf ghee laga ke sunehre daag aane tak sekho, kul lagbhag 4 minute.",
+    "hi": "शीट हटाकर रोटी गरम तवे पर डालो। मध्यम आँच पर सख्त होने तक सेको, फिर पलटो। दोनों तरफ़ घी लगाकर सुनहरे दाग आने तक सेको, कुल लगभग 4 मिनट।",
+    "pa": "ਸ਼ੀਟ ਹਟਾ ਕੇ ਰੋਟੀ ਗਰਮ ਤਵੇ ਤੇ ਪਾਓ। ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਸਖ਼ਤ ਹੋਣ ਤੱਕ ਸੇਕੋ, ਫਿਰ ਪਲਟੋ। ਦੋਵੇਂ ਪਾਸੇ ਘਿਓ ਲਗਾ ਕੇ ਸੁਨਹਿਰੀ ਦਾਗ ਆਉਣ ਤੱਕ ਸੇਕੋ, ਕੁੱਲ ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Serve hot with sarson ka saag, white butter and jaggery.",
+    "hi-en": "Sarson ke saag, safed makhan aur gud ke saath garam garam khao.",
+    "hi": "सरसों के साग, सफ़ेद मक्खन और गुड़ के साथ गरमागरम खाओ।",
+    "pa": "ਸਰ੍ਹੋਂ ਦੇ ਸਾਗ, ਚਿੱਟੇ ਮੱਖਣ ਅਤੇ ਗੁੜ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "roti cracks at the edges",
+    "en": "Maize flour has no stretch. Knead longer with warm water and press the cracks closed with wet fingers.",
+    "hi": "मक्की के आटे में खिंचाव नहीं होता। गुनगुने पानी से और देर गूँधो और गीली उँगलियों से दरारें बंद करो।"
+   },
+   {
+    "mistake": "roti breaks while lifting",
+    "en": "Pat it on a plastic sheet and flip the sheet onto the tawa, then peel it off.",
+    "hi": "प्लास्टिक शीट पर थपथपाओ और शीट समेत तवे पर उलटकर शीट हटा लो।"
+   },
+   {
+    "mistake": "roti is dry and hard",
+    "en": "Use more ghee while cooking and do not make it too thin.",
+    "hi": "सेकते समय घी ज़्यादा लगाओ और बहुत पतली मत बनाओ।"
+   }
+  ],
+  "swaps": {
+   "radish": [
+    "skip"
+   ]
+  }
+ },
+ "ASC358": {
+  "names": {
+   "hi-en": "Bread pakoda",
+   "hi": "ब्रेड पकोड़ा",
+   "pa": "ਬ੍ਰੈੱਡ ਪਕੌੜਾ"
+  },
+  "steps": [
+   {
+    "en": "Mix the besan with the ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Add water slowly and whisk into a smooth, thick batter.",
+    "hi-en": "Besan mein ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. Dheere dheere paani daal ke smooth gaadha ghol phent lo.",
+    "hi": "बेसन में अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। धीरे-धीरे पानी डालकर चिकना गाढ़ा घोल फेंट लो।",
+    "pa": "ਵੇਸਣ ਵਿੱਚ ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਹੌਲੀ-ਹੌਲੀ ਪਾਣੀ ਪਾ ਕੇ ਮੁਲਾਇਮ ਗਾੜ੍ਹਾ ਘੋਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Cut each bread slice into two triangles.",
+    "hi-en": "Har bread slice ke do tikone tukde kaato.",
+    "hi": "हर ब्रेड स्लाइस के दो तिकोने टुकड़े काटो।",
+    "pa": "ਹਰ ਬ੍ਰੈੱਡ ਸਲਾਈਸ ਦੇ ਦੋ ਤਿਕੋਣੇ ਟੁਕੜੇ ਕੱਟੋ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Dip each piece in the batter to coat both sides and fry on medium heat until golden and crisp, about 3 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Har tukda ghol mein dono taraf lapet ke medium aanch pe sunehra aur crispy hone tak talo, lagbhag 3 minute.",
+    "hi": "तलने के लिए तेल गरम करो। हर टुकड़ा घोल में दोनों तरफ़ लपेटकर मध्यम आँच पर सुनहरा और कुरकुरा होने तक तलो, लगभग 3 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਹਰ ਟੁਕੜਾ ਘੋਲ ਵਿੱਚ ਦੋਵੇਂ ਪਾਸੇ ਲਪੇਟ ਕੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰਾ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 3 ਮਿੰਟ।",
+    "timer": 3,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney or ketchup.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney ya ketchup ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी या केचप के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਜਾਂ ਕੈਚਪ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "batter slides off the bread",
+    "en": "The batter is too thin. Add a spoon of besan and whisk again.",
+    "hi": "घोल पतला है। एक चम्मच बेसन मिलाकर फिर फेंटो।"
+   },
+   {
+    "mistake": "outside brown, bread soggy inside",
+    "en": "Fry on medium, not high, so the inside crisps too.",
+    "hi": "तेज़ नहीं, मध्यम आँच पर तलो ताकि अंदर भी कुरकुरा हो।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "BFP042": {
+  "names": {
+   "hi-en": "Bread upma",
+   "hi": "ब्रेड उपमा",
+   "pa": "ਬ੍ਰੈੱਡ ਉਪਮਾ"
+  },
+  "steps": [
+   {
+    "en": "Tear or cut the bread into small pieces. Chop the onion, green chilli and ginger.",
+    "hi-en": "Bread ke chhote tukde kar lo. Pyaaz, hari mirch aur adrak kaat lo.",
+    "hi": "ब्रेड के छोटे टुकड़े कर लो। प्याज़, हरी मिर्च और अदरक काट लो।",
+    "pa": "ਬ੍ਰੈੱਡ ਦੇ ਛੋਟੇ ਟੁਕੜੇ ਕਰ ਲਓ। ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ ਅਤੇ ਅਦਰਕ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Heat the oil and add the mustard seeds and urad dal. When the dal turns golden, add the whole red chilli, hing and curry leaves.",
+    "hi-en": "Tel garam karke rai aur urad dal daalo. Dal sunehri ho to sabut laal mirch, hing aur kadi patta daalo.",
+    "hi": "तेल गरम करके राई और उड़द दाल डालो। दाल सुनहरी हो तो साबुत लाल मिर्च, हींग और कड़ी पत्ता डालो।",
+    "pa": "ਤੇਲ ਗਰਮ ਕਰਕੇ ਰਾਈ ਅਤੇ ਮਾਂਹ ਦੀ ਦਾਲ ਪਾਓ। ਦਾਲ ਸੁਨਹਿਰੀ ਹੋਵੇ ਤਾਂ ਸਾਬਤ ਲਾਲ ਮਿਰਚ, ਹਿੰਗ ਅਤੇ ਕੜੀ ਪੱਤਾ ਪਾਓ।",
+    "safety": "splutter"
+   },
+   {
+    "en": "Add the onion, green chilli and ginger and cook until the onion is soft. Add the red chilli powder and salt.",
+    "hi-en": "Pyaaz, hari mirch aur adrak daal ke pyaaz naram hone tak pakao. Laal mirch aur namak daalo.",
+    "hi": "प्याज़, हरी मिर्च और अदरक डालकर प्याज़ नरम होने तक पकाओ। लाल मिर्च और नमक डालो।",
+    "pa": "ਪਿਆਜ਼, ਹਰੀ ਮਿਰਚ ਅਤੇ ਅਦਰਕ ਪਾ ਕੇ ਪਿਆਜ਼ ਨਰਮ ਹੋਣ ਤੱਕ ਪਕਾਓ। ਲਾਲ ਮਿਰਚ ਅਤੇ ਲੂਣ ਪਾਓ।"
+   },
+   {
+    "en": "Sprinkle in a few spoons of water, add the bread and toss gently for 2 minutes until it is coated and warm.",
+    "hi-en": "Kuch chammach paani chhidko, bread daal ke 2 minute halke haath se milao jab tak masala lag jaaye aur garam ho jaaye.",
+    "hi": "कुछ चम्मच पानी छिड़को, ब्रेड डालकर 2 मिनट हल्के हाथ से मिलाओ जब तक मसाला लग जाए और गरम हो जाए।",
+    "pa": "ਕੁਝ ਚਮਚ ਪਾਣੀ ਛਿੜਕੋ, ਬ੍ਰੈੱਡ ਪਾ ਕੇ 2 ਮਿੰਟ ਹੌਲੀ ਹੱਥ ਨਾਲ ਮਿਲਾਓ ਜਦੋਂ ਤੱਕ ਮਸਾਲਾ ਲੱਗ ਜਾਵੇ ਅਤੇ ਗਰਮ ਹੋ ਜਾਵੇ।",
+    "timer": 2
+   },
+   {
+    "en": "Squeeze in the lemon, add coriander and serve straight away.",
+    "hi-en": "Nimbu nichodo, hara dhaniya daalo aur turant khao.",
+    "hi": "नींबू निचोड़ो, हरा धनिया डालो और तुरंत खाओ।",
+    "pa": "ਨਿੰਬੂ ਨਿਚੋੜੋ, ਹਰਾ ਧਨੀਆ ਪਾਓ ਅਤੇ ਤੁਰੰਤ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "bread turned mushy",
+    "en": "Too much water. Use only a sprinkle, and toss the bread quickly.",
+    "hi": "पानी ज़्यादा हो गया। बस छींटे दो, और ब्रेड जल्दी मिलाओ।"
+   },
+   {
+    "mistake": "bread is dry",
+    "en": "Sprinkle a spoon of water or a little more oil and toss for a minute.",
+    "hi": "एक चम्मच पानी या थोड़ा तेल और छिड़को और एक मिनट मिलाओ।"
+   },
+   {
+    "mistake": "tastes bland",
+    "en": "Add more lemon and a pinch of salt. A spoon of tomato ketchup also helps.",
+    "hi": "थोड़ा और नींबू और चुटकी भर नमक डालो। एक चम्मच टोमैटो केचप भी अच्छा लगता है।"
+   }
+  ],
+  "swaps": {
+   "urad_dal": [
+    "skip"
+   ]
+  }
+ }
+}

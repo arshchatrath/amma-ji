@@ -26,7 +26,7 @@ DATA = BACKEND / "app" / "data"
 STEPS = BACKEND / "scripts" / "steps"
 SHEET = BACKEND.parent / "data"
 LANGS = ("en", "hi-en", "hi", "pa")
-PREP_ONLY = re.compile(r"(wash|rinse|cut|chop|slice|dice|soak|grate|peel|pick|rub|pat|pull|shell|crush|grind)\b(?!.*\b(knead|mix))")
+PREP_ONLY = re.compile(r"(wash|rinse|cut|chop|slice|dice|soak|grate|peel|pick|rub|pat|pull|shell|crush|grind|tear)\b(?!.*\b(knead|mix))")
 CREDIT = ("Ingredients and nutrition: Indian Nutrient Databank (INDB), Vijayakumar A, Dubasi HB, Awasthi A, "
           "Jaacks LM, Curr Dev Nutr 2024;8(7):103790. Nutrition values are estimates. Method adapted from "
           "Archana's Kitchen (archanaskitchen.com) via the 6000+ Indian Food Recipes Dataset, Kanishka Jain, "

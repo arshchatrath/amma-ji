@@ -11,9 +11,45 @@ ASC050,milk boiled over,Lower the heat and keep stirring. Use a bigger pan next 
 ASC059,egg is rubbery or dry,It cooked too long or too hot. Next time cook on low heat and take it off while still soft.,ज़्यादा देर या तेज़ आँच पर पका। अगली बार धीमी आँच पर पकाना और थोड़ा नरम रहते ही उतार लेना।
 ASC059,egg is watery,"Cook it 30 seconds more on low heat, stirring.",धीमी आँच पर 30 सेकंड और चलाते हुए पकाओ।
 ASC059,too salty,Beat one more egg without salt and mix it in.,एक और अंडा बिना नमक के फेंटकर मिला दो।
+ASC096,roti is hard and chewy,"The dough was stiff or not rested. Knead it softer, rest it 20 minutes, and do not cook on low heat.","आटा सख्त था या रखा नहीं गया। नरम गूँधो, 20 मिनट रखो, और धीमी आँच पर मत सेको।"
+ASC096,roti does not puff,"It is rolled unevenly. Roll from the middle out with even pressure, and make sure the tawa is hot.","रोटी बराबर नहीं बेली। बीच से बाहर एक जैसे दबाव से बेलो, और तवा गरम रखो।"
+ASC096,dough is sticky,Add a spoon of atta and knead again. Use dry flour when rolling.,एक चम्मच आटा मिलाकर फिर गूँधो। बेलते समय सूखा आटा लगाओ।
+ASC097,paratha is hard,"The dough was stiff. Knead it softer and cook on medium-high heat, not low.","आटा सख्त था। नरम गूँधो और मध्यम-तेज़ आँच पर सेको, धीमी पर नहीं।"
+ASC097,no layers,"Spread the oil all over before each fold, and dust a little flour on the oil.","हर बार मोड़ने से पहले पूरे पर तेल लगाओ, और तेल पर थोड़ा सूखा आटा छिड़को।"
+ASC097,"burnt outside, raw inside",The tawa is too hot. Turn it to medium and press while cooking.,तवा बहुत गरम है। आँच मध्यम करो और सेकते समय दबाओ।
 ASC098,stuffing comes out or paratha tears,"Use a little less stuffing, seal the edges well and roll with light hands. Cover a torn patch with a pinch of dry atta.","मसाला थोड़ा कम भरो, किनारे अच्छे से बंद करो और हल्के हाथ से बेलो। फटी जगह पर थोड़ा सूखा आटा लगा दो।"
 ASC098,paratha is hard,The dough was stiff or the heat too low. Knead a softer dough and cook on medium heat with a little more ghee.,आटा सख़्त था या आँच धीमी थी। नरम आटा गूँधो और मध्यम आँच पर थोड़ा ज़्यादा घी लगाकर सेको।
 ASC098,stuffing is wet and sticky,"The potatoes were too wet. Let them cool fully before mashing, and mix a spoon of dry atta into the stuffing.",आलू गीले थे। मैश करने से पहले पूरा ठंडा होने दो और मसाले में एक चम्मच सूखा आटा मिला दो।
+ASC099,radish keeps leaking water,Squeeze it again just before stuffing. You can knead the radish water into the dough.,भरने से ठीक पहले फिर निचोड़ो। मूली का पानी आटा गूँधने में डाल सकते हो।
+ASC099,filling comes out while rolling,"The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.","भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+ASC099,paratha is hard,The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.,आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।
+ASC100,filling turned watery,"Salt pulls water out of gobhi. Add the salt only just before stuffing, and squeeze if it is wet.","नमक से गोभी पानी छोड़ती है। नमक भरने से ठीक पहले डालो, और गीली हो तो निचोड़ लो।"
+ASC100,filling comes out while rolling,"The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.","भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+ASC100,paratha is hard,The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.,आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।
+ASC101,filling comes out while rolling,"The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.","भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+ASC101,paratha is hard,The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.,आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।
+ASC101,raw inside,Lower the heat a little and press the paratha with the spatula so the middle cooks too.,आँच थोड़ी कम करो और पलटे से दबाओ ताकि बीच का हिस्सा भी पके।
+ASC103,filling comes out while rolling,"The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.","भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+ASC103,paratha is hard,The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.,आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।
+ASC103,raw inside,Lower the heat a little and press the paratha with the spatula so the middle cooks too.,आँच थोड़ी कम करो और पलटे से दबाओ ताकि बीच का हिस्सा भी पके।
+ASC104,keema is wet and tears the dough,"Cook it longer until completely dry, and let it cool before stuffing.","कीमा पूरा सूखने तक और पकाओ, और भरने से पहले ठंडा होने दो।"
+ASC104,filling comes out while rolling,"The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.","भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+ASC104,paratha is hard,The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.,आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।
+ASC105,filling comes out while rolling,"The filling is too wet or too much. Squeeze it dry, use a little less, and roll gently from the middle out.","भराई गीली है या ज़्यादा है। निचोड़कर सुखाओ, थोड़ी कम भरो, और बीच से बाहर की तरफ़ हल्के हाथ से बेलो।"
+ASC105,paratha is hard,The dough was stiff or the tawa was not hot. Make the dough softer and cook on medium-high heat.,आटा सख्त था या तवा कम गरम था। आटा नरम गूँधो और मध्यम-तेज़ आँच पर सेको।
+ASC105,raw inside,Lower the heat a little and press the paratha with the spatula so the middle cooks too.,आँच थोड़ी कम करो और पलटे से दबाओ ताकि बीच का हिस्सा भी पके।
+ASC107,pooris do not puff,"The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.","तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+ASC107,pooris are oily,"The oil was too cool, or the dough too soft. Make a stiffer dough and fry in hotter oil.",तेल ठंडा था या आटा बहुत नरम। आटा सख्त गूँधो और गरम तेल में तलो।
+ASC107,pooris turn hard after cooling,"Add the spoon of melted ghee to the dough, and do not fry too long.","आटे में एक चम्मच पिघला घी डालो, और ज़्यादा देर मत तलो।"
+ASC108,pooris do not puff,"The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.","तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+ASC108,pooris are oily,"The oil was too cool, or the dough too soft. Make a stiffer dough and fry in hotter oil.",तेल ठंडा था या आटा बहुत नरम। आटा सख्त गूँधो और गरम तेल में तलो।
+ASC108,pooris turned dark,The oil is too hot. Lower the heat a little so they stay green.,तेल बहुत गरम है। आँच थोड़ी कम करो ताकि पूरियाँ हरी रहें।
+ASC109,pooris do not puff,"The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.","तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+ASC109,pooris are oily,"The oil was too cool, or the dough too soft. Make a stiffer dough and fry in hotter oil.",तेल ठंडा था या आटा बहुत नरम। आटा सख्त गूँधो और गरम तेल में तलो।
+ASC109,too bitter,"Use a little less methi, or add a pinch of sugar to the dough.","मेथी थोड़ी कम लो, या आटे में चुटकी भर चीनी मिलाओ।"
+ASC111,dough is sticky,The potatoes were too wet. Add a spoon of atta at a time and knead again.,आलू बहुत गीले थे। एक-एक चम्मच आटा मिलाकर फिर गूँधो।
+ASC111,pooris do not puff,"The oil is not hot enough or the poori is rolled unevenly. Heat the oil until a bit of dough rises at once, and roll evenly.","तेल कम गरम है या पूरी एक जैसी नहीं बेली। तेल इतना गरम करो कि आटे का टुकड़ा तुरंत ऊपर आए, और बराबर बेलो।"
+ASC111,pooris tear while rolling,There are potato lumps. Mash the potato fully smooth and knead well.,आलू में गाँठें हैं। आलू पूरा चिकना मैश करो और अच्छे से गूँधो।
 ASC115,rice is mushy,Too much water. Open the lid on low heat for 2 minutes to let steam out. Use a little less water next time.,पानी ज़्यादा था। धीमी आँच पर ढक्कन खोलकर 2 मिनट भाप निकलने दो। अगली बार पानी थोड़ा कम।
 ASC115,rice is still hard,"Sprinkle 3 tablespoons of hot water, cover and cook on low heat for 5 minutes.","3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट पकाओ।"
 ASC115,bottom got burnt,Do not stir. Spoon the top rice into another pan and leave the burnt layer.,"चलाओ मत। ऊपर के चावल दूसरे बर्तन में निकाल लो, जली परत छोड़ दो।"
@@ -35,6 +71,9 @@ ASC146,batter did not ferment,"Keep it in a warm place, like inside the oven wit
 ASC147,dosa breaks when lifting,"Cook it a minute longer until fully crisp, and lift from the edges with a thin spatula.","एक मिनट और पूरा कुरकुरा होने तक सेको, और पतली पलटनी से किनारों से उठाओ।"
 ASC147,"dosa is thick, not lacy",The batter is too thick. Add water until it is like buttermilk and pour from higher up.,घोल गाढ़ा है। छाछ जैसा पतला होने तक पानी मिलाओ और ऊपर से डालो।
 ASC147,sticks to the tawa,The tawa was not hot enough. Heat it well and grease it before each dosa.,तवा कम गरम था। अच्छे से गरम करो और हर डोसे से पहले चिकना करो।
+ASC150,roti cracks at the edges,Maize flour has no stretch. Knead longer with warm water and press the cracks closed with wet fingers.,मक्की के आटे में खिंचाव नहीं होता। गुनगुने पानी से और देर गूँधो और गीली उँगलियों से दरारें बंद करो।
+ASC150,roti breaks while lifting,"Pat it on a plastic sheet and flip the sheet onto the tawa, then peel it off.",प्लास्टिक शीट पर थपथपाओ और शीट समेत तवे पर उलटकर शीट हटा लो।
+ASC150,roti is dry and hard,Use more ghee while cooking and do not make it too thin.,सेकते समय घी ज़्यादा लगाओ और बहुत पतली मत बनाओ।
 ASC155,chana dal still hard,Chana dal takes longest. Add half a cup of water and give it 2 more whistles.,चना दाल सबसे देर में पकती है। आधा कप पानी डालकर 2 सीटी और लगाओ।
 ASC155,too much water,Boil it uncovered on high heat for 5 minutes.,बिना ढके तेज़ आँच पर 5 मिनट उबालो।
 ASC155,too salty,"Add hot water and a squeeze of lemon, and boil for 2 minutes.",गरम पानी और थोड़ा नींबू डालकर 2 मिनट उबालो।
@@ -92,6 +131,9 @@ ASC224,coating fell off,The batter was too thin. Add a spoon more cornflour and 
 ASC240,chicken is hard or chewy,"Add half a cup of water, cover and simmer on low heat for 10 more minutes.","आधा कप पानी डालो, ढककर धीमी आँच पर 10 मिनट और पकाओ।"
 ASC240,too spicy,Turn off the heat and stir in 2 spoons of beaten curd or cream.,गैस बंद करके 2 चम्मच फेंटा हुआ दही या मलाई मिला दो।
 ASC240,gravy too thin,"Cook uncovered on high heat for 5 minutes, stirring.",बिना ढके तेज़ आँच पर 5 मिनट चलाते हुए पकाओ।
+ASC358,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC358,batter slides off the bread,The batter is too thin. Add a spoon of besan and whisk again.,घोल पतला है। एक चम्मच बेसन मिलाकर फिर फेंटो।
+ASC358,"outside brown, bread soggy inside","Fry on medium, not high, so the inside crisps too.","तेज़ नहीं, मध्यम आँच पर तलो ताकि अंदर भी कुरकुरा हो।"
 ASC485,curd is too sour,Mix in a spoon of milk or a pinch of sugar.,एक चम्मच दूध या चुटकी भर चीनी मिला दो।
 ASC485,too thick,Beat in 2 tablespoons of cold water.,2 चम्मच ठंडा पानी मिलाकर फेंटो।
 ASC485,potato breaks into mush,It was overboiled. It still tastes good; next time stop at 2 whistles.,आलू ज़्यादा उबल गया। स्वाद फिर भी अच्छा है; अगली बार 2 सीटी पर रुकना।
@@ -104,12 +146,18 @@ BFP040,too salty,Squeeze in more lemon and mix in a handful of roasted peanuts o
 BFP041,still grainy and hard,"Add 3 tablespoons of hot water, cover and cook for 4 more minutes.","3 चम्मच गरम पानी डालो, ढककर 4 मिनट और पकाओ।"
 BFP041,lumps formed,Break them with the back of the spoon while stirring.,चलाते हुए चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो।
 BFP041,stuck to the pan,Add a teaspoon of oil around the edges and scrape gently.,किनारों पर एक चम्मच तेल डालो और हल्का खुरचो।
+BFP042,bread turned mushy,"Too much water. Use only a sprinkle, and toss the bread quickly.","पानी ज़्यादा हो गया। बस छींटे दो, और ब्रेड जल्दी मिलाओ।"
+BFP042,bread is dry,Sprinkle a spoon of water or a little more oil and toss for a minute.,एक चम्मच पानी या थोड़ा तेल और छिड़को और एक मिनट मिलाओ।
+BFP042,tastes bland,Add more lemon and a pinch of salt. A spoon of tomato ketchup also helps.,थोड़ा और नींबू और चुटकी भर नमक डालो। एक चम्मच टोमैटो केचप भी अच्छा लगता है।
 BFP043,lumps in upma,Break them with the back of the spoon. Next time add the suji slowly into the boiling water.,चम्मच के पिछले हिस्से से गुठलियाँ तोड़ दो। अगली बार सूजी धीरे-धीरे डालना।
 BFP043,too dry,"Add 2 to 3 tablespoons of hot water, stir and cover for a minute.","2-3 चम्मच गरम पानी डालो, मिलाओ और एक मिनट ढक दो।"
 BFP043,vegetables still hard,"Cut them smaller next time. For now, cover and cook on low heat for 3 more minutes.",अगली बार सब्ज़ियाँ छोटी काटना। अभी ढककर धीमी आँच पर 3 मिनट और पकाओ।
 BFP044,poha is mushy,It soaked too long. Spread it in the pan on high heat for a minute to dry a little. Next time just rinse and drain.,पोहा ज़्यादा देर भीगा। तेज़ आँच पर एक मिनट फैलाकर थोड़ा सुखा लो। अगली बार बस धोकर पानी निकाल देना।
 BFP044,poha is dry and hard,"Sprinkle 2 tablespoons of water, cover and steam on low heat for 2 minutes.","2 चम्मच पानी छिड़को, ढककर धीमी आँच पर 2 मिनट भाप में पकाओ।"
 BFP044,too salty,"Mix in a little more rinsed poha, or squeeze in more lemon.","थोड़ा और धुला पोहा मिला दो, या थोड़ा और नींबू निचोड़ दो।"
+BFP110,dough got sticky,The onion and methi let out water. Add a little more atta and knead again.,प्याज़ और मेथी ने पानी छोड़ा। थोड़ा और आटा मिलाकर फिर गूँधो।
+BFP110,too bitter,"Use a little less methi next time, or add a pinch of sugar to the dough.","अगली बार मेथी थोड़ी कम लो, या आटे में चुटकी भर चीनी मिलाओ।"
+BFP110,gritty to eat,Wash the methi in 2 or 3 changes of water to get the soil out.,मेथी 2-3 बार पानी बदलकर धोओ ताकि मिट्टी निकल जाए।
 BFP136,rice is mushy,There was too much water. Open the lid and let the steam escape on low heat for 2 minutes. Use a little less water next time.,पानी ज़्यादा हो गया। ढक्कन हटाकर धीमी आँच पर 2 मिनट भाप निकलने दो। अगली बार पानी थोड़ा कम डालना।
 BFP136,rice is still hard,"Sprinkle 2 to 3 tablespoons of hot water, cover and cook on low heat for 5 more minutes.","2-3 चम्मच गरम पानी छिड़को, ढककर धीमी आँच पर 5 मिनट और पकाओ।"
 BFP136,bottom got burnt,Do not stir. Spoon the top rice into another pan and leave the burnt layer behind.,"चलाओ मत। ऊपर के चावल चम्मच से दूसरे बर्तन में निकाल लो, जली परत वहीं छोड़ दो।"
