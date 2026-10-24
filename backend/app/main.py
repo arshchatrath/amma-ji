@@ -8,11 +8,13 @@ import logging
 import os
 import threading
 import time
+from pathlib import Path
 from typing import Literal
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from . import brain, finish, pantry, quick, voice
@@ -277,3 +279,11 @@ def speak(body: Speak):
         media_type="application/octet-stream",
         headers={"X-Sample-Rate": str(voice.SAMPLE_RATE), "X-First-Audio-Ms": str(first_ms)},
     )
+
+
+# On the web, this server also hands out the built app (frontend/dist), so the app and its API
+# share one address: no cross-site setup, and the browser allows the mic over that one HTTPS link.
+# Mounted last, so every /api route above still wins.
+APP = Path(os.getenv("APP_DIST", Path(__file__).resolve().parents[2] / "frontend" / "dist"))
+if APP.is_dir():
+    app.mount("/", StaticFiles(directory=APP, html=True), name="app")

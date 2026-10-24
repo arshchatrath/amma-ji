@@ -29,6 +29,19 @@ Open http://localhost:5173, pick a language and tap "Start cooking". Tell Amma j
 pick a dish, then tap the kadhai and talk. Add `?dev` to the address to see how long each part of a
 turn takes.
 
+## Put it on the web
+
+One service serves both the app and its API from one HTTPS address, which phones need before
+they allow the mic. The `Dockerfile` builds it; `render.yaml` sets it up on Render's free plan:
+
+1. On render.com: New > Blueprint, and pick this repository.
+2. Render reads `render.yaml` and asks for `GNANI_API_KEY` and `GROQ_API_KEY`. Paste them there
+   (they stay in Render's settings, never in the repo), then create the service.
+3. The first build takes a few minutes. The app opens at the `onrender.com` address Render shows.
+
+On the free plan the service sleeps after 15 minutes without visits, so the first visit after
+that takes about a minute. Cooking sessions live in memory, so a restart ends any that are open.
+
 ## The recipe sheet
 
 185 dishes that are in both the Indian Nutrient Databank and the Mendeley "6000+ Indian Food
