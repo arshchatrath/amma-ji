@@ -102,6 +102,12 @@ ASC174,carrot still hard,Cover and cook on low heat for 3 more minutes with a sp
 ASC175,tastes bitter,Methi is a little bitter by nature. Add a pinch of sugar or a squeeze of lemon and mix.,मेथी थोड़ी कड़वी होती है। चुटकी भर चीनी या नींबू निचोड़कर मिला दो।
 ASC175,potato sticking to the pan,"Sprinkle 2 tablespoons of water, scrape gently and cover for 2 minutes.","2 चम्मच पानी छिड़को, हल्का खुरचो और 2 मिनट ढक दो।"
 ASC175,methi is gritty,It was not washed well. Wash methi in a big bowl of water 2 or 3 times next time.,मेथी अच्छे से नहीं धुली। अगली बार बड़े बर्तन में 2-3 बार पानी बदलकर धोना।
+ASC184,bhindi turned slimy,It was wet or covered. Dry it fully before cutting and cook without a lid.,भिंडी गीली थी या ढकी थी। काटने से पहले पूरी सुखाओ और बिना ढक्कन पकाओ।
+ASC184,masala fell out,Slit only one side and press the bhindi closed after filling.,बस एक तरफ़ चीरा लगाओ और भरने के बाद भिंडी दबाकर बंद करो।
+ASC184,still hard inside,"Lower the heat and cook a few minutes more, turning gently.",आँच कम करो और हल्के से पलटते हुए कुछ मिनट और पकाओ।
+ASC185,tindas are still hard,"Sprinkle 2 spoons of water, cover and cook for 5 more minutes.","2 चम्मच पानी छिड़को, ढककर 5 मिनट और पकाओ।"
+ASC185,bottom is sticking,Lower the heat and add a spoon of water.,आँच कम करो और एक चम्मच पानी डालो।
+ASC185,tindas fell apart,The cross was cut too deep. Leave the bottom part whole next time.,क्रॉस बहुत गहरा कटा। अगली बार नीचे का हिस्सा जुड़ा रहने देना।
 ASC190,too watery,"Cook uncovered on high heat for 5 minutes, and mash a few potato pieces into the gravy.",बिना ढके तेज़ आँच पर 5 मिनट पकाओ और आलू के कुछ टुकड़े ग्रेवी में मैश कर दो।
 ASC190,too salty,"Add half a cup of water and a boiled potato, and cook for 5 minutes.",आधा कप पानी और एक उबला आलू डालकर 5 मिनट पकाओ।
 ASC190,masala stuck and burnt,"Move it to a clean pan without scraping the bottom, and add a little water.",नीचे से खुरचे बिना इसे साफ़ पैन में डाल दो और थोड़ा पानी मिला दो।
@@ -335,6 +341,9 @@ BFP277,too sour,Too much vinegar. Add a pinch of sugar and toss.,सिरका
 BFP287,potatoes are not crisp,"Spread them out with space between, and roast 10 minutes longer.","आलू दूर-दूर फैलाओ, और 10 मिनट और रोस्ट करो।"
 BFP287,potatoes broke while boiling,"Boil only until the edges soften, not all the way.","बस किनारे नरम होने तक उबालो, पूरा नहीं।"
 BFP287,no oven at home,"Cook the boiled potatoes in a heavy pan with the butter on medium heat, turning, for about 15 minutes.",उबले आलू भारी पैन में मक्खन के साथ मध्यम आँच पर पलटते हुए लगभग 15 मिनट सेको।
+BFP293,sauce has lumps,Pour the milk slowly while whisking. Whisk hard now or pass it through a sieve.,दूध फेंटते हुए धीरे-धीरे डालो। अभी ज़ोर से फेंटो या छलनी से छान लो।
+BFP293,dish is watery,Drain the cauliflower well after boiling.,उबालने के बाद गोभी का पानी अच्छे से निकालो।
+BFP293,no oven at home,"Cover the pan and cook on low heat for 10 minutes, then brown the top with a hot spoon of ghee.","पैन ढककर धीमी आँच पर 10 मिनट पकाओ, फिर ऊपर गरम घी डालकर सुनहरा करो।"
 BFP334,lauki tastes bitter,"Taste a small raw piece before cooking. A bitter lauki is not safe to eat, so throw it away.","पकाने से पहले कच्ची लौकी का छोटा टुकड़ा चखो। कड़वी लौकी खाना सुरक्षित नहीं, उसे फेंक दो।"
 BFP334,milk stuck and burnt at the bottom,Move it to a clean pan without scraping the bottom. Use a heavy pan and stir often.,नीचे से खुरचे बिना साफ़ बर्तन में डालो। भारी तले का बर्तन लो और बार-बार चलाओ।
 BFP334,milk split,"Add the sugar only at the end, after the lauki is cooked.","चीनी लौकी पकने के बाद, आखिर में ही डालो।"
@@ -356,9 +365,20 @@ BFP556,tastes plain,"Make a quick tadka of ghee, cumin and a pinch of hing and p
 BFP579,idlis are dense,"Add the soda only right before steaming, and do not overmix after adding it.","सोडा भाप से ठीक पहले डालो, और उसके बाद ज़्यादा मत चलाओ।"
 BFP579,idlis are dry,Add 2 tablespoons more curd to the batter.,घोल में 2 चम्मच और दही मिला दो।
 BFP579,sticky inside,"Steam for 3 more minutes, until a knife comes out clean.","3 मिनट और भाप में पकाओ, जब तक चाकू साफ़ न निकले।"
+BFP604,too bitter,Leave them in salt longer and squeeze well. A pinch of sugar or jaggery in the filling helps.,नमक में और देर रखो और अच्छे से निचोड़ो। भराई में चुटकी भर चीनी या गुड़ भी मदद करता है।
+BFP604,"karelas burnt outside, hard inside","Cook covered on low heat first, then crisp them up.","पहले ढककर धीमी आँच पर पकाओ, फिर कुरकुरा करो।"
+BFP604,filling falls out,Tie each karela with a cotton thread. Take the thread off before eating.,हर करेले पर सूती धागा बाँध दो। खाने से पहले धागा हटा देना।
+OSR065,balls are pink inside,Fry them a little longer on medium heat until cooked through.,मध्यम आँच पर थोड़ा और तलो जब तक अंदर तक पक न जाएँ।
+OSR065,sauce has lumps,"Always mix the corn flour in cold water first, then stir it in.","कॉर्नफ्लोर हमेशा पहले ठंडे पानी में घोलो, फिर मिलाओ।"
+OSR065,too salty,The sauces are salty. Add a little more stock or water and skip extra salt.,सॉस नमकीन हैं। थोड़ा और स्टॉक या पानी डालो और ऊपर से नमक मत डालो।
+OSR071,eggs are dry and rubbery,The heat was too high or they cooked too long. Take them off as soon as they set.,आँच तेज़ थी या ज़्यादा पके। जमते ही उतार लो।
+OSR071,bhurji is watery,Cook the mushrooms and spinach until their water dries before adding the eggs.,अंडे डालने से पहले मशरूम और पालक का पानी सूखने तक पकाओ।
 OSR077,gravy is too sour,Add a pinch of sugar or a spoon of cream and simmer for a minute.,चुटकी भर चीनी या एक चम्मच मलाई डालो और एक मिनट पकाओ।
 OSR077,gravy is grainy,"The cashews were not ground fine. Blend the gravy smooth, or strain the cashew paste next time.","काजू बारीक नहीं पिसे। ग्रेवी को मिक्सी में चिकना कर लो, या अगली बार काजू पेस्ट छान लेना।"
 OSR077,paneer is hard,Soak the cubes in warm water for 10 minutes before adding them.,डालने से पहले पनीर के टुकड़े 10 मिनट गुनगुने पानी में रखो।
+OSR078,slices fell apart,Cut through the middle where the stem holds it together. Use the loose bits as florets.,बीच से काटो जहाँ डंठल जोड़कर रखता है। टूटे टुकड़े फूलों की तरह इस्तेमाल करो।
+OSR078,still hard in the middle,"Roast 5 to 10 minutes more, or cover with foil for the first 10 minutes next time.","5-10 मिनट और रोस्ट करो, या अगली बार पहले 10 मिनट फ़ॉइल से ढक देना।"
+OSR078,no oven at home,"Cook the slices in a covered pan on medium heat, 6 to 7 minutes each side.",स्लाइस ढके पैन में मध्यम आँच पर हर तरफ़ 6-7 मिनट पकाओ।
 OSR100,chilla sticks to the tawa,The tawa was not hot or greased enough. Heat it well and wipe it with a little oil before each chilla.,तवा कम गरम था या चिकना नहीं था। अच्छे से गरम करो और हर चीले से पहले थोड़ा तेल पोंछ दो।
 OSR100,chilla breaks when flipping,"The batter is too thin. Mix in a tablespoon of besan, and wait until the edges lift before flipping.","घोल पतला है। एक चम्मच बेसन मिलाओ, और किनारे उठने के बाद ही पलटो।"
 OSR100,raw inside,"Spread it thinner and cook on lower heat, covered, for a minute.",पतला फैलाओ और धीमी आँच पर ढककर एक मिनट पकाओ।
@@ -371,6 +391,12 @@ OSR127,no oven at home,"Use a heavy kadhai or a cooker without the whistle and r
 OSR139,dal still hard,Add a cup of hot water and pressure cook for 3 to 4 more whistles. Soak overnight next time.,एक कप गरम पानी डालकर कुकर में 3-4 सीटी और लगाओ। अगली बार रात भर भिगोना।
 OSR139,too thick,"Add hot water, half a cup at a time, and simmer for 2 minutes.",आधा-आधा कप गरम पानी डालो और 2 मिनट पकाओ।
 OSR139,sticking at the bottom,"Move it to a clean pot without scraping, add water and keep stirring.","नीचे से खुरचे बिना साफ़ बर्तन में डालो, पानी मिलाओ और चलाते रहो।"
+OSR141,vegetables turned to mush,"Add them after the first whistle, not at the start.","सब्ज़ियाँ पहली सीटी के बाद डालो, शुरू में नहीं।"
+OSR141,dal is too thick,Add hot water and simmer for 2 minutes.,गरम पानी डालकर 2 मिनट पकाओ।
+OSR141,dal is still hard,Pressure cook for 1 or 2 more whistles with a little water.,थोड़ा पानी डालकर 1-2 सीटी और लगाओ।
 OSR144,some dal still hard,Chana and urad cook slowest. Add half a cup of water and 2 more whistles.,चना और उड़द सबसे देर में पकते हैं। आधा कप पानी डालकर 2 सीटी और लगाओ।
 OSR144,too thick,Add hot water a little at a time and simmer for 2 minutes.,थोड़ा-थोड़ा गरम पानी डालो और 2 मिनट पकाओ।
 OSR144,too spicy,"Add a spoon of ghee and some more hot water, and serve with curd.","एक चम्मच घी और थोड़ा गरम पानी मिलाओ, और दही के साथ खाओ।"
+OSR145,dhokli stuck together,"Drop them into fast boiling dal a few at a time, and stir gently after each lot.","तेज़ उबलती दाल में थोड़े-थोड़े डालो, और हर बार हल्के से चलाओ।"
+OSR145,dhokli is raw inside,"Roll thinner, and simmer for 5 more minutes.","पतला बेलो, और 5 मिनट और पकाओ।"
+OSR145,dal turned too thick,Dhokli soak up water. Add hot water to loosen it.,ढोकली पानी सोखती है। गरम पानी डालकर पतला करो।

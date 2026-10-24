@@ -34,8 +34,12 @@ SOURCES = {
 GRAMS = {"g": 1, "ml": 1, "tsp": 5, "tbsp": 15, "C": 240, "sprig": 2, "pinch": 0.5, "nos": 50,
          "drops": 0.05, "sheet": 1}
 UNIT_NAMES = {"C": "cup", "nos": "piece"}
-# INDB filed this one under cream cheese, but the recipe says cream
-SAME_FOOD_OTHER_WORD = {("cheese, cream, low fat", "low fat cream"): "cream, fluid"}
+# INDB filed these under a nearby food, but the recipe means something else
+SAME_FOOD_OTHER_WORD = {
+    ("cheese, cream, low fat", "low fat cream"): "cream, fluid",
+    ("beans, chick peas, kabuli, whole, dried, raw", "split chick peas"): "bengal gram, dal",
+    ("lime, sweet,pulp (citrus limetta)", "lime"): "lemons,",
+}
 ALLERGENS = {"dairy", "gluten", "nuts", "peanut", "egg", "fish", "shellfish", "soy", "sesame", "mustard"}
 # What kind of dish, guessed from its name. The first match wins, so the order matters.
 KINDS = [
