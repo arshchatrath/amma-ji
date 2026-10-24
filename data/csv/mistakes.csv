@@ -12,6 +12,16 @@ ASC015,watery taste,"Too much ice. Use fewer cubes, or freeze some milk as ice n
 ASC015,coffee lumps,Dissolve the coffee fully in warm water before blending.,मिक्सी से पहले कॉफ़ी गुनगुने पानी में पूरी घोल लो।
 ASC017,shake is too thick,Add a little more cold milk and blend again.,थोड़ा और ठंडा दूध डालकर फिर चलाओ।
 ASC017,not sweet,The mango was not ripe. Add a spoon of sugar or honey.,आम पूरा पका नहीं था। एक चम्मच चीनी या शहद डालो।
+ASC024,yolk has a grey ring,It boiled too long. 10 minutes is enough; cool it straight away in cold water.,अंडा ज़्यादा उबला। 10 मिनट काफ़ी है; तुरंत ठंडे पानी में डालो।
+ASC024,egg is hard to peel,"Peel it under running water, starting from the wide end.",बहते पानी के नीचे चौड़ी तरफ़ से छीलना शुरू करो।
+ASC024,sandwich went soggy,"Butter the bread all the way to the edges and eat it soon, or pat the filling dry.","ब्रेड पर किनारों तक मक्खन लगाओ और जल्दी खा लो, या भराई का पानी सुखा लो।"
+ASC027,sandwich went soggy,"Butter the bread all the way to the edges and eat it soon, or pat the filling dry.","ब्रेड पर किनारों तक मक्खन लगाओ और जल्दी खा लो, या भराई का पानी सुखा लो।"
+ASC027,bland taste,"Add a little more pepper, or a smear of green chutney.","थोड़ी और काली मिर्च डालो, या थोड़ी हरी चटनी लगाओ।"
+ASC028,chicken is dry,"Simmer it gently, not at a hard boil, and mix in a spoon of the cooking water.","चिकन धीमी आँच पर पकाओ, तेज़ उबाल पर नहीं, और पकाने वाले पानी का एक चम्मच मिलाओ।"
+ASC028,chicken is pink inside,Simmer for 5 more minutes and check the thickest part again.,5 मिनट और पकाओ और सबसे मोटा हिस्सा फिर से देखो।
+ASC028,sandwich went soggy,"Butter the bread all the way to the edges and eat it soon, or pat the filling dry.","ब्रेड पर किनारों तक मक्खन लगाओ और जल्दी खा लो, या भराई का पानी सुखा लो।"
+ASC040,bread burnt before cheese melted,Lower the heat and press with a lid or spatula.,आँच कम करो और ढक्कन या पलटे से दबाओ।
+ASC040,tomato made it soggy,Pat the tomato slices dry with a cloth first.,पहले टमाटर के टुकड़े कपड़े से सुखा लो।
 ASC047,too thick,Stir in a little warm milk until it is how you like it.,थोड़ा गरम दूध मिलाओ जब तक मनपसंद न हो जाए।
 ASC047,daliya still hard,"Add a few spoons of water, cover and cook for 5 more minutes before adding more milk.","कुछ चम्मच पानी डालो, ढककर 5 मिनट और पकाओ, फिर दूध डालो।"
 ASC047,milk stuck at the bottom,Move it to a clean pan without scraping and keep stirring on low heat.,नीचे से खुरचे बिना साफ़ बर्तन में डालो और धीमी आँच पर चलाते रहो।
@@ -168,12 +178,18 @@ ASC240,gravy too thin,"Cook uncovered on high heat for 5 minutes, stirring.",ब
 ASC242,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
 ASC242,gravy is too sour,"Add a pinch more sugar and a spoon of cream, and simmer for a minute.","चुटकी भर चीनी और एक चम्मच क्रीम और डालो, एक मिनट पकाओ।"
 ASC242,cream split,"Turn the heat low before adding cream, and do not let it boil after.","क्रीम डालने से पहले आँच धीमी करो, और उसके बाद उबलने मत दो।"
+ASC243,kebabs broke in the oil,"Add a little more maida to bind, and chill the kebabs for 15 minutes before frying.","बाँधने के लिए थोड़ा और मैदा मिलाओ, और तलने से पहले कबाब 15 मिनट फ्रिज में रखो।"
+ASC243,pink inside,"Fry on lower heat for a few more minutes, then cut one to check.","धीमी आँच पर कुछ मिनट और तलो, फिर एक काटकर देखो।"
+ASC243,kebabs are dry,Do not overcook. Take them out as soon as they are cooked through.,ज़्यादा मत पकाओ। अंदर तक पकते ही निकाल लो।
 ASC244,chicken is pink inside,"Cover and cook for 5 more minutes, then cut the thickest piece to check again.","ढककर 5 मिनट और पकाओ, फिर सबसे मोटा टुकड़ा काटकर फिर से देखो।"
 ASC244,coating went soggy,Toss the chicken in only at the end and serve straight away.,चिकन आखिर में ही डालो और तुरंत परोसो।
 ASC244,too salty,Soya sauce is salty. Add a squeeze of lemon and a pinch of sugar.,सोया सॉस नमकीन होता है। थोड़ा नींबू और चुटकी भर चीनी डालो।
 ASC246,fish broke into pieces,"It was stirred. Shake the pan instead, and use firm fish like rohu or surmai.","मछली चलाने से टूटी। चलाने की जगह बर्तन हिलाओ, और रोहू या सुरमई जैसी सख्त मछली लो।"
 ASC246,fishy smell,"Rub the fish with salt, turmeric and lemon and rinse before cooking.","पकाने से पहले मछली पर नमक, हल्दी और नींबू लगाकर धो लो।"
 ASC246,curd split in the gravy,"The heat was too high. Whisk the curd well and add it on low heat, stirring all the time.",आँच तेज़ थी। दही अच्छे से फेंटो और धीमी आँच पर लगातार चलाते हुए डालो।
+ASC251,fish broke on the tawa,"Use firm fish, cut big pieces, and turn them only once each side.","सख्त मछली लो, बड़े टुकड़े काटो, और हर तरफ़ बस एक बार पलटो।"
+ASC251,fish stuck to the tawa,Heat the tawa well and grease it before the fish goes on.,मछली रखने से पहले तवा अच्छे से गरम करके चिकना करो।
+ASC251,fishy smell,Rub the fish with salt and lemon and rinse before marinating.,मसाला लगाने से पहले मछली पर नमक और नींबू लगाकर धो लो।
 ASC252,marinade slid off,The curd was too watery. Hang it in a cloth for 30 minutes to make it thick.,दही पतला था। 30 मिनट कपड़े में लटकाकर गाढ़ा कर लो।
 ASC252,fish is dry,It baked too long. Check after 12 minutes next time.,ज़्यादा देर बेक हुई। अगली बार 12 मिनट पर जाँचना।
 ASC252,no oven at home,"Cook it on a hot greased tawa, covered, for 5 to 6 minutes on each side.",गरम घी लगे तवे पर ढककर दोनों तरफ़ 5-6 मिनट पकाओ।
@@ -225,9 +241,30 @@ ASC344,til tastes bitter,They were roasted too dark. Roast only until light gold
 ASC348,jamuns break in the oil,The dough has cracks or is too soft. Knead in a pinch more maida and roll smooth balls.,गोलियों में दरार है या आटा बहुत नरम है। चुटकी भर मैदा और मिलाकर चिकनी गोलियाँ बनाओ।
 ASC348,"brown outside, raw inside",The oil was too hot. Fry on low heat so they cook through slowly.,तेल बहुत गरम था। धीमी आँच पर तलो ताकि अंदर तक धीरे-धीरे पकें।
 ASC348,jamuns are hard,"Too much maida or kneaded too hard. Knead gently, and soak them longer in warm syrup.","मैदा ज़्यादा या ज़ोर से गूँधा। हल्के हाथ से गूँधो, और गरम चाशनी में ज़्यादा देर भिगोओ।"
+ASC351,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC351,"pakodas are soft, not crisp","The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.","घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+ASC351,potato is raw inside,"Slice it thinner, and fry on medium heat, not high.","आलू और पतला काटो, और तेज़ नहीं, मध्यम आँच पर तलो।"
+ASC352,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC352,batter is runny,The onion let out water. Add a spoon of besan instead of more water.,प्याज़ ने पानी छोड़ा। और पानी की जगह एक चम्मच बेसन मिलाओ।
+ASC352,pakodas are hard,Keep the bunches loose and small; do not press them.,गुच्छे ढीले और छोटे रखो; दबाओ मत।
+ASC355,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC355,"pakodas are soft, not crisp","The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.","घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+ASC355,oil spluttered a lot,The leaves were wet. Dry them fully before dipping.,पत्ते गीले थे। घोल में डालने से पहले पूरे सुखाओ।
+ASC356,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC356,"pakodas are soft, not crisp","The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.","घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+ASC356,too bitter,"Use a little less methi, or add a pinch of sugar to the batter.","मेथी थोड़ी कम लो, या घोल में चुटकी भर चीनी मिलाओ।"
+ASC357,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC357,"pakodas are soft, not crisp","The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.","घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+ASC357,batter slides off the egg,Dust the egg halves with a little dry besan before dipping.,घोल में डालने से पहले अंडे के टुकड़ों पर थोड़ा सूखा बेसन लगाओ।
 ASC358,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
 ASC358,batter slides off the bread,The batter is too thin. Add a spoon of besan and whisk again.,घोल पतला है। एक चम्मच बेसन मिलाकर फिर फेंटो।
 ASC358,"outside brown, bread soggy inside","Fry on medium, not high, so the inside crisps too.","तेज़ नहीं, मध्यम आँच पर तलो ताकि अंदर भी कुरकुरा हो।"
+ASC359,pakodas soaked up oil,The oil was not hot enough. Drop in a little batter: it should rise at once.,तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।
+ASC359,"pakodas are soft, not crisp","The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.","घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+ASC359,paneer turned hard,Fry only until the batter is golden; paneer does not need long.,बस घोल सुनहरा होने तक तलो; पनीर को ज़्यादा देर नहीं चाहिए।
+ASC364,mathri is hard,Not enough oil was rubbed in. Rub in more until it holds when pressed.,आटे में तेल कम था। इतना रगड़ो कि दबाने पर आकार बने।
+ASC364,mathri puffed up,Prick each one well with a fork before frying.,तलने से पहले हर एक में काँटे से अच्छे छेद करो।
+ASC364,"brown outside, soft inside",Fry slowly on low heat. Mathri needs time.,धीमी आँच पर धीरे-धीरे तलो। मठरी को समय चाहिए।
 ASC419,cake sank in the middle,The oven was opened too early or it was underbaked. Keep the door shut for the first 20 minutes and check with a toothpick.,ओवन जल्दी खोल दिया या केक कच्चा रह गया। पहले 20 मिनट दरवाज़ा बंद रखो और सींक से जाँचो।
 ASC419,cake is dry,It baked too long. Check 5 minutes early next time. Brush the slices with a little milk and sugar syrup.,ज़्यादा देर बेक हुआ। अगली बार 5 मिनट पहले जाँचना। अभी टुकड़ों पर थोड़ा दूध या चाशनी लगा दो।
 ASC419,no oven at home,"Use a heavy kadhai or a cooker without the whistle and rubber ring. Put a stand inside, preheat covered for 10 minutes, set the tin on the stand and bake covered on low heat. It takes about 10 minutes longer.","भारी कड़ाही या बिना सीटी और रबर वाला कुकर लो। अंदर स्टैंड रखो, ढककर 10 मिनट गरम करो, टिन स्टैंड पर रखो और ढककर धीमी आँच पर बेक करो। लगभग 10 मिनट ज़्यादा लगते हैं।"

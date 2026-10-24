@@ -1,0 +1,770 @@
+{
+ "ASC024": {
+  "names": {
+   "hi-en": "Ande ka sandwich",
+   "hi": "अंडे का सैंडविच",
+   "pa": "ਆਂਡੇ ਦਾ ਸੈਂਡਵਿਚ"
+  },
+  "steps": [
+   {
+    "en": "Lower the egg into boiling water and boil for 10 minutes. Cool it in cold water and peel.",
+    "hi-en": "Anda ubalte paani mein dheere se daal ke 10 minute ubaalo. Thande paani mein thanda karke chheel lo.",
+    "hi": "अंडा उबलते पानी में धीरे से डालकर 10 मिनट उबालो। ठंडे पानी में ठंडा करके छील लो।",
+    "pa": "ਆਂਡਾ ਉਬਲਦੇ ਪਾਣੀ ਵਿੱਚ ਹੌਲੀ ਜਿਹੇ ਪਾ ਕੇ 10 ਮਿੰਟ ਉਬਾਲੋ। ਠੰਡੇ ਪਾਣੀ ਵਿੱਚ ਠੰਡਾ ਕਰਕੇ ਛਿੱਲ ਲਓ।",
+    "timer": 10,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Mash the egg with the salt, pepper, mustard powder and a little of the butter.",
+    "hi-en": "Ande ko namak, kali mirch, rai powder aur thode makhan ke saath mash kar lo.",
+    "hi": "अंडे को नमक, काली मिर्च, राई पाउडर और थोड़े मक्खन के साथ मैश कर लो।",
+    "pa": "ਆਂਡੇ ਨੂੰ ਲੂਣ, ਕਾਲੀ ਮਿਰਚ, ਰਾਈ ਪਾਊਡਰ ਅਤੇ ਥੋੜ੍ਹੇ ਮੱਖਣ ਨਾਲ ਮੈਸ਼ ਕਰ ਲਓ।",
+    "safety": "egg"
+   },
+   {
+    "en": "Butter the bread slices and spread the egg on one.",
+    "hi-en": "Bread slices pe makhan lagao aur ek pe anda faila do.",
+    "hi": "ब्रेड स्लाइस पर मक्खन लगाओ और एक पर अंडा फैला दो।",
+    "pa": "ਬ੍ਰੈੱਡ ਸਲਾਈਸਾਂ ਤੇ ਮੱਖਣ ਲਗਾਓ ਅਤੇ ਇੱਕ ਤੇ ਆਂਡਾ ਫੈਲਾ ਦਿਓ।"
+   },
+   {
+    "en": "Close with the other slice, press gently and cut into two triangles.",
+    "hi-en": "Doosri slice se band karke halka dabao aur do tikone tukde kaato.",
+    "hi": "दूसरी स्लाइस से बंद करके हल्का दबाओ और दो तिकोने टुकड़े काटो।",
+    "pa": "ਦੂਜੀ ਸਲਾਈਸ ਨਾਲ ਬੰਦ ਕਰਕੇ ਹਲਕਾ ਦਬਾਓ ਅਤੇ ਦੋ ਤਿਕੋਣੇ ਟੁਕੜੇ ਕੱਟੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "yolk has a grey ring",
+    "en": "It boiled too long. 10 minutes is enough; cool it straight away in cold water.",
+    "hi": "अंडा ज़्यादा उबला। 10 मिनट काफ़ी है; तुरंत ठंडे पानी में डालो।"
+   },
+   {
+    "mistake": "egg is hard to peel",
+    "en": "Peel it under running water, starting from the wide end.",
+    "hi": "बहते पानी के नीचे चौड़ी तरफ़ से छीलना शुरू करो।"
+   },
+   {
+    "mistake": "sandwich went soggy",
+    "en": "Butter the bread all the way to the edges and eat it soon, or pat the filling dry.",
+    "hi": "ब्रेड पर किनारों तक मक्खन लगाओ और जल्दी खा लो, या भराई का पानी सुखा लो।"
+   }
+  ],
+  "swaps": {
+   "mustard_seeds": [
+    "skip"
+   ]
+  }
+ },
+ "ASC027": {
+  "names": {
+   "hi-en": "Cheese tamatar sandwich",
+   "hi": "चीज़ टमाटर सैंडविच",
+   "pa": "ਚੀਜ਼ ਟਮਾਟਰ ਸੈਂਡਵਿਚ"
+  },
+  "steps": [
+   {
+    "en": "Mix the soft butter with the mustard powder and spread it on one side of each bread slice.",
+    "hi-en": "Naram makhan mein rai powder mila ke har bread slice ki ek taraf laga do.",
+    "hi": "नरम मक्खन में राई पाउडर मिलाकर हर ब्रेड स्लाइस की एक तरफ़ लगा दो।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਵਿੱਚ ਰਾਈ ਪਾਊਡਰ ਮਿਲਾ ਕੇ ਹਰ ਬ੍ਰੈੱਡ ਸਲਾਈਸ ਦੇ ਇੱਕ ਪਾਸੇ ਲਗਾ ਦਿਓ।"
+   },
+   {
+    "en": "Lay thin tomato slices on one slice and sprinkle with salt and pepper. Add the cheese on top.",
+    "hi-en": "Ek slice pe tamatar ke patle tukde bichha ke namak aur kali mirch chhidko. Upar cheese rakho.",
+    "hi": "एक स्लाइस पर टमाटर के पतले टुकड़े बिछाकर नमक और काली मिर्च छिड़को। ऊपर चीज़ रखो।",
+    "pa": "ਇੱਕ ਸਲਾਈਸ ਤੇ ਟਮਾਟਰ ਦੇ ਪਤਲੇ ਟੁਕੜੇ ਵਿਛਾ ਕੇ ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਛਿੜਕੋ। ਉੱਤੇ ਚੀਜ਼ ਰੱਖੋ।"
+   },
+   {
+    "en": "Close with the other slice, press gently and cut into two triangles.",
+    "hi-en": "Doosri slice se band karke halka dabao aur do tikone tukde kaato.",
+    "hi": "दूसरी स्लाइस से बंद करके हल्का दबाओ और दो तिकोने टुकड़े काटो।",
+    "pa": "ਦੂਜੀ ਸਲਾਈਸ ਨਾਲ ਬੰਦ ਕਰਕੇ ਹਲਕਾ ਦਬਾਓ ਅਤੇ ਦੋ ਤਿਕੋਣੇ ਟੁਕੜੇ ਕੱਟੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "sandwich went soggy",
+    "en": "Butter the bread all the way to the edges and eat it soon, or pat the filling dry.",
+    "hi": "ब्रेड पर किनारों तक मक्खन लगाओ और जल्दी खा लो, या भराई का पानी सुखा लो।"
+   },
+   {
+    "mistake": "bland taste",
+    "en": "Add a little more pepper, or a smear of green chutney.",
+    "hi": "थोड़ी और काली मिर्च डालो, या थोड़ी हरी चटनी लगाओ।"
+   }
+  ],
+  "swaps": {
+   "cheese": [
+    "paneer"
+   ],
+   "mustard_seeds": [
+    "skip"
+   ]
+  }
+ },
+ "ASC040": {
+  "names": {
+   "hi-en": "Toasted cheese tamatar sandwich",
+   "hi": "टोस्टेड चीज़ टमाटर सैंडविच",
+   "pa": "ਟੋਸਟਡ ਚੀਜ਼ ਟਮਾਟਰ ਸੈਂਡਵਿਚ"
+  },
+  "steps": [
+   {
+    "en": "Mix the soft butter with the mustard powder and spread it on one side of each bread slice.",
+    "hi-en": "Naram makhan mein rai powder mila ke har bread slice ki ek taraf laga do.",
+    "hi": "नरम मक्खन में राई पाउडर मिलाकर हर ब्रेड स्लाइस की एक तरफ़ लगा दो।",
+    "pa": "ਨਰਮ ਮੱਖਣ ਵਿੱਚ ਰਾਈ ਪਾਊਡਰ ਮਿਲਾ ਕੇ ਹਰ ਬ੍ਰੈੱਡ ਸਲਾਈਸ ਦੇ ਇੱਕ ਪਾਸੇ ਲਗਾ ਦਿਓ।"
+   },
+   {
+    "en": "Lay tomato slices on one slice, sprinkle salt and pepper, add the processed cheese and close with the other slice, buttered side in.",
+    "hi-en": "Ek slice pe tamatar ke tukde bichha ke namak aur kali mirch chhidko, processed cheese rakho aur doosri slice se band karo, makhan wali taraf andar.",
+    "hi": "एक स्लाइस पर टमाटर के टुकड़े बिछाकर नमक और काली मिर्च छिड़को, प्रोसेस्ड चीज़ रखो और दूसरी स्लाइस से बंद करो, मक्खन वाली तरफ़ अंदर।",
+    "pa": "ਇੱਕ ਸਲਾਈਸ ਤੇ ਟਮਾਟਰ ਦੇ ਟੁਕੜੇ ਵਿਛਾ ਕੇ ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਛਿੜਕੋ, ਪ੍ਰੋਸੈਸਡ ਚੀਜ਼ ਰੱਖੋ ਅਤੇ ਦੂਜੀ ਸਲਾਈਸ ਨਾਲ ਬੰਦ ਕਰੋ, ਮੱਖਣ ਵਾਲਾ ਪਾਸਾ ਅੰਦਰ।"
+   },
+   {
+    "en": "Spread a little butter on the outside and toast on a tawa or in a toaster until golden and the cheese melts, about 2 minutes each side.",
+    "hi-en": "Bahar ki taraf thoda makhan laga ke tawe ya toaster mein sunehra hone aur cheese pighalne tak seko, har taraf lagbhag 2 minute.",
+    "hi": "बाहर की तरफ़ थोड़ा मक्खन लगाकर तवे या टोस्टर में सुनहरा होने और चीज़ पिघलने तक सेको, हर तरफ़ लगभग 2 मिनट।",
+    "pa": "ਬਾਹਰਲੇ ਪਾਸੇ ਥੋੜ੍ਹਾ ਮੱਖਣ ਲਗਾ ਕੇ ਤਵੇ ਜਾਂ ਟੋਸਟਰ ਵਿੱਚ ਸੁਨਹਿਰੀ ਹੋਣ ਅਤੇ ਚੀਜ਼ ਪਿਘਲਣ ਤੱਕ ਸੇਕੋ, ਹਰ ਪਾਸੇ ਲਗਭਗ 2 ਮਿੰਟ।",
+    "timer": 4
+   },
+   {
+    "en": "Cut into two triangles and eat hot.",
+    "hi-en": "Do tikone tukde kaat ke garam garam khao.",
+    "hi": "दो तिकोने टुकड़े काटकर गरमागरम खाओ।",
+    "pa": "ਦੋ ਤਿਕੋਣੇ ਟੁਕੜੇ ਕੱਟ ਕੇ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "bread burnt before cheese melted",
+    "en": "Lower the heat and press with a lid or spatula.",
+    "hi": "आँच कम करो और ढक्कन या पलटे से दबाओ।"
+   },
+   {
+    "mistake": "tomato made it soggy",
+    "en": "Pat the tomato slices dry with a cloth first.",
+    "hi": "पहले टमाटर के टुकड़े कपड़े से सुखा लो।"
+   }
+  ],
+  "swaps": {
+   "cheese": [
+    "paneer"
+   ],
+   "mustard_seeds": [
+    "skip"
+   ]
+  }
+ },
+ "ASC028": {
+  "names": {
+   "hi-en": "Chicken sandwich",
+   "hi": "चिकन सैंडविच",
+   "pa": "ਚਿਕਨ ਸੈਂਡਵਿਚ"
+  },
+  "steps": [
+   {
+    "en": "Wash the chicken breast. Simmer it in salted water until white all through, about 15 minutes.",
+    "hi-en": "Chicken breast dho lo. Namak wale paani mein andar tak safed hone tak dheeme ubaalo, lagbhag 15 minute.",
+    "hi": "चिकन ब्रेस्ट धो लो। नमक वाले पानी में अंदर तक सफ़ेद होने तक धीमी आँच पर उबालो, लगभग 15 मिनट।",
+    "pa": "ਚਿਕਨ ਬ੍ਰੈਸਟ ਧੋ ਲਓ। ਲੂਣ ਵਾਲੇ ਪਾਣੀ ਵਿੱਚ ਅੰਦਰ ਤੱਕ ਚਿੱਟਾ ਹੋਣ ਤੱਕ ਹੌਲੀ ਅੱਗ ਤੇ ਉਬਾਲੋ, ਲਗਭਗ 15 ਮਿੰਟ।",
+    "timer": 15,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "Let it cool and shred it fine. Mix it with a little of the butter, the mustard powder, salt and pepper.",
+    "hi-en": "Thanda karke barik reshe kar lo. Thode makhan, rai powder, namak aur kali mirch ke saath milao.",
+    "hi": "ठंडा करके बारीक रेशे कर लो। थोड़े मक्खन, राई पाउडर, नमक और काली मिर्च के साथ मिलाओ।",
+    "pa": "ਠੰਡਾ ਕਰਕੇ ਬਾਰੀਕ ਰੇਸ਼ੇ ਕਰ ਲਓ। ਥੋੜ੍ਹੇ ਮੱਖਣ, ਰਾਈ ਪਾਊਡਰ, ਲੂਣ ਅਤੇ ਕਾਲੀ ਮਿਰਚ ਨਾਲ ਮਿਲਾਓ।"
+   },
+   {
+    "en": "Butter the bread slices and spread the chicken on one.",
+    "hi-en": "Bread slices pe makhan lagao aur ek pe chicken faila do.",
+    "hi": "ब्रेड स्लाइस पर मक्खन लगाओ और एक पर चिकन फैला दो।",
+    "pa": "ਬ੍ਰੈੱਡ ਸਲਾਈਸਾਂ ਤੇ ਮੱਖਣ ਲਗਾਓ ਅਤੇ ਇੱਕ ਤੇ ਚਿਕਨ ਫੈਲਾ ਦਿਓ।"
+   },
+   {
+    "en": "Close with the other slice, press gently and cut into two triangles.",
+    "hi-en": "Doosri slice se band karke halka dabao aur do tikone tukde kaato.",
+    "hi": "दूसरी स्लाइस से बंद करके हल्का दबाओ और दो तिकोने टुकड़े काटो।",
+    "pa": "ਦੂਜੀ ਸਲਾਈਸ ਨਾਲ ਬੰਦ ਕਰਕੇ ਹਲਕਾ ਦਬਾਓ ਅਤੇ ਦੋ ਤਿਕੋਣੇ ਟੁਕੜੇ ਕੱਟੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "chicken is dry",
+    "en": "Simmer it gently, not at a hard boil, and mix in a spoon of the cooking water.",
+    "hi": "चिकन धीमी आँच पर पकाओ, तेज़ उबाल पर नहीं, और पकाने वाले पानी का एक चम्मच मिलाओ।"
+   },
+   {
+    "mistake": "chicken is pink inside",
+    "en": "Simmer for 5 more minutes and check the thickest part again.",
+    "hi": "5 मिनट और पकाओ और सबसे मोटा हिस्सा फिर से देखो।"
+   },
+   {
+    "mistake": "sandwich went soggy",
+    "en": "Butter the bread all the way to the edges and eat it soon, or pat the filling dry.",
+    "hi": "ब्रेड पर किनारों तक मक्खन लगाओ और जल्दी खा लो, या भराई का पानी सुखा लो।"
+   }
+  ],
+  "swaps": {
+   "mustard_seeds": [
+    "skip"
+   ]
+  }
+ },
+ "ASC243": {
+  "names": {
+   "hi-en": "Chicken kebab",
+   "hi": "चिकन कबाब",
+   "pa": "ਚਿਕਨ ਕਬਾਬ"
+  },
+  "steps": [
+   {
+    "en": "Mince the chicken fine. Mix it with the grated ginger and garlic, black pepper, salt, vinegar and maida, and knead well.",
+    "hi-en": "Chicken barik keema kar lo. Kaddukas adrak lehsun, kali mirch, namak, sirka aur maida ke saath mila ke achhe se goondho.",
+    "hi": "चिकन बारीक कीमा कर लो। कद्दूकस अदरक-लहसुन, काली मिर्च, नमक, सिरका और मैदा के साथ मिलाकर अच्छे से गूँधो।",
+    "pa": "ਚਿਕਨ ਬਾਰੀਕ ਕੀਮਾ ਕਰ ਲਓ। ਕੱਦੂਕਸ ਅਦਰਕ-ਲਸਣ, ਕਾਲੀ ਮਿਰਚ, ਲੂਣ, ਸਿਰਕਾ ਅਤੇ ਮੈਦੇ ਨਾਲ ਮਿਲਾ ਕੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਗੁੰਨ੍ਹੋ।",
+    "safety": "raw_chicken"
+   },
+   {
+    "en": "With wet hands, shape 5 flat kebabs.",
+    "hi-en": "Geele haathon se 5 chapte kabab bana lo.",
+    "hi": "गीले हाथों से 5 चपटे कबाब बना लो।",
+    "pa": "ਗਿੱਲੇ ਹੱਥਾਂ ਨਾਲ 5 ਚਪਟੇ ਕਬਾਬ ਬਣਾ ਲਓ।"
+   },
+   {
+    "en": "Fry them in hot oil on medium heat until golden and cooked through, about 6 minutes.",
+    "hi-en": "Garam tel mein medium aanch pe sunehre aur andar tak pakne tak talo, lagbhag 6 minute.",
+    "hi": "गरम तेल में मध्यम आँच पर सुनहरे और अंदर तक पकने तक तलो, लगभग 6 मिनट।",
+    "pa": "ਗਰਮ ਤੇਲ ਵਿੱਚ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਸੁਨਹਿਰੀ ਅਤੇ ਅੰਦਰ ਤੱਕ ਪੱਕਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 6 ਮਿੰਟ।",
+    "timer": 6,
+    "safety": "chicken_done"
+   },
+   {
+    "en": "Drain on paper and serve with onion rings and green chutney.",
+    "hi-en": "Kaagaz pe nikaal ke pyaaz ke chhalle aur hari chutney ke saath khao.",
+    "hi": "कागज़ पर निकालकर प्याज़ के छल्ले और हरी चटनी के साथ खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਪਿਆਜ਼ ਦੇ ਛੱਲਿਆਂ ਅਤੇ ਹਰੀ ਚਟਣੀ ਨਾਲ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "kebabs broke in the oil",
+    "en": "Add a little more maida to bind, and chill the kebabs for 15 minutes before frying.",
+    "hi": "बाँधने के लिए थोड़ा और मैदा मिलाओ, और तलने से पहले कबाब 15 मिनट फ्रिज में रखो।"
+   },
+   {
+    "mistake": "pink inside",
+    "en": "Fry on lower heat for a few more minutes, then cut one to check.",
+    "hi": "धीमी आँच पर कुछ मिनट और तलो, फिर एक काटकर देखो।"
+   },
+   {
+    "mistake": "kebabs are dry",
+    "en": "Do not overcook. Take them out as soon as they are cooked through.",
+    "hi": "ज़्यादा मत पकाओ। अंदर तक पकते ही निकाल लो।"
+   }
+  ],
+  "swaps": {
+   "vinegar": [
+    "lemon"
+   ]
+  }
+ },
+ "ASC251": {
+  "names": {
+   "hi-en": "Fish tikka",
+   "hi": "फ़िश टिक्का",
+   "pa": "ਫ਼ਿਸ਼ ਟਿੱਕਾ"
+  },
+  "steps": [
+   {
+    "en": "Cut the fish into large cubes. Mix with the ginger and garlic paste, lemon juice, red chilli powder, coriander powder, salt, the colour if using, the maida and the oil. Leave for 30 minutes.",
+    "hi-en": "Machli ke bade tukde kaato. Adrak lehsun paste, nimbu ras, laal mirch, dhaniya powder, namak, rang agar daalna ho, maida aur tel ke saath milao. 30 minute rakho.",
+    "hi": "मछली के बड़े टुकड़े काटो। अदरक-लहसुन पेस्ट, नींबू रस, लाल मिर्च, धनिया पाउडर, नमक, रंग अगर डालना हो, मैदा और तेल के साथ मिलाओ। 30 मिनट रखो।",
+    "pa": "ਮੱਛੀ ਦੇ ਵੱਡੇ ਟੁਕੜੇ ਕੱਟੋ। ਅਦਰਕ-ਲਸਣ ਪੇਸਟ, ਨਿੰਬੂ ਰਸ, ਲਾਲ ਮਿਰਚ, ਧਨੀਆ ਪਾਊਡਰ, ਲੂਣ, ਰੰਗ ਜੇ ਪਾਉਣਾ ਹੋਵੇ, ਮੈਦਾ ਅਤੇ ਤੇਲ ਨਾਲ ਮਿਲਾਓ। 30 ਮਿੰਟ ਰੱਖੋ।",
+    "timer": 30
+   },
+   {
+    "en": "Cook on a hot greased tawa, turning carefully, until golden on all sides and cooked through, about 8 minutes.",
+    "hi-en": "Garam ghee lage tawe pe dhyaan se palatte hue chaaron taraf sunehra aur andar tak pakne tak seko, lagbhag 8 minute.",
+    "hi": "गरम घी लगे तवे पर ध्यान से पलटते हुए चारों तरफ़ सुनहरा और अंदर तक पकने तक सेको, लगभग 8 मिनट।",
+    "pa": "ਗਰਮ ਘਿਓ ਲੱਗੇ ਤਵੇ ਤੇ ਧਿਆਨ ਨਾਲ ਪਲਟਦੇ ਹੋਏ ਚਾਰੇ ਪਾਸੇ ਸੁਨਹਿਰੀ ਅਤੇ ਅੰਦਰ ਤੱਕ ਪੱਕਣ ਤੱਕ ਸੇਕੋ, ਲਗਭਗ 8 ਮਿੰਟ।",
+    "timer": 8,
+    "safety": "fish_done"
+   },
+   {
+    "en": "Serve hot with onion rings and lemon.",
+    "hi-en": "Pyaaz ke chhalle aur nimbu ke saath garam garam khao.",
+    "hi": "प्याज़ के छल्ले और नींबू के साथ गरमागरम खाओ।",
+    "pa": "ਪਿਆਜ਼ ਦੇ ਛੱਲਿਆਂ ਅਤੇ ਨਿੰਬੂ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "fish broke on the tawa",
+    "en": "Use firm fish, cut big pieces, and turn them only once each side.",
+    "hi": "सख्त मछली लो, बड़े टुकड़े काटो, और हर तरफ़ बस एक बार पलटो।"
+   },
+   {
+    "mistake": "fish stuck to the tawa",
+    "en": "Heat the tawa well and grease it before the fish goes on.",
+    "hi": "मछली रखने से पहले तवा अच्छे से गरम करके चिकना करो।"
+   },
+   {
+    "mistake": "fishy smell",
+    "en": "Rub the fish with salt and lemon and rinse before marinating.",
+    "hi": "मसाला लगाने से पहले मछली पर नमक और नींबू लगाकर धो लो।"
+   }
+  ],
+  "swaps": {
+   "food_colour": [
+    "skip"
+   ],
+   "fish": [
+    "paneer"
+   ]
+  }
+ },
+ "ASC351": {
+  "names": {
+   "hi-en": "Aloo pakoda",
+   "hi": "आलू पकोड़ा",
+   "pa": "ਆਲੂ ਪਕੌੜਾ"
+  },
+  "steps": [
+   {
+    "en": "Peel the potato and cut it into thin round slices. Keep them in water so they do not darken, then pat dry.",
+    "hi-en": "Aloo chheel ke patle gol tukde kaato. Kaale na padein isliye paani mein rakho, phir kapde se sukha lo.",
+    "hi": "आलू छीलकर पतले गोल टुकड़े काटो। काले न पड़ें इसलिए पानी में रखो, फिर कपड़े से सुखा लो।",
+    "pa": "ਆਲੂ ਛਿੱਲ ਕੇ ਪਤਲੇ ਗੋਲ ਟੁਕੜੇ ਕੱਟੋ। ਕਾਲੇ ਨਾ ਪੈਣ ਇਸ ਲਈ ਪਾਣੀ ਵਿੱਚ ਰੱਖੋ, ਫਿਰ ਕੱਪੜੇ ਨਾਲ ਸੁਕਾ ਲਓ।"
+   },
+   {
+    "en": "Mix the besan with the ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Add water slowly and whisk into a smooth, thick batter.",
+    "hi-en": "Besan mein ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. Dheere dheere paani daal ke smooth gaadha ghol phent lo.",
+    "hi": "बेसन में अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। धीरे-धीरे पानी डालकर चिकना गाढ़ा घोल फेंट लो।",
+    "pa": "ਵੇਸਣ ਵਿੱਚ ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਹੌਲੀ-ਹੌਲੀ ਪਾਣੀ ਪਾ ਕੇ ਮੁਲਾਇਮ ਗਾੜ੍ਹਾ ਘੋਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Dip the potato slices in the batter to coat them well.",
+    "hi-en": "Aloo ke tukde ghol mein achhe se lapet lo.",
+    "hi": "आलू के टुकड़े घोल में अच्छे से लपेट लो।",
+    "pa": "ਆਲੂ ਦੇ ਟੁਕੜੇ ਘੋਲ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਪੇਟ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Drop in the pakodas a few at a time and fry on medium heat, turning, until golden and crisp, about 4 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Thode thode pakode daal ke medium aanch pe palatte hue sunehre aur crispy hone tak talo, lagbhag 4 minute.",
+    "hi": "तलने के लिए तेल गरम करो। थोड़े-थोड़े पकोड़े डालकर मध्यम आँच पर पलटते हुए सुनहरे और कुरकुरे होने तक तलो, लगभग 4 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਪਕੌੜੇ ਪਾ ਕੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਪਲਟਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney and tea.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney aur chai ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी और चाय के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਅਤੇ ਚਾਹ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "pakodas are soft, not crisp",
+    "en": "The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.",
+    "hi": "घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+   },
+   {
+    "mistake": "potato is raw inside",
+    "en": "Slice it thinner, and fry on medium heat, not high.",
+    "hi": "आलू और पतला काटो, और तेज़ नहीं, मध्यम आँच पर तलो।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "ASC352": {
+  "names": {
+   "hi-en": "Pyaaz ke pakode",
+   "hi": "प्याज़ के पकोड़े",
+   "pa": "ਪਿਆਜ਼ ਦੇ ਪਕੌੜੇ"
+  },
+  "steps": [
+   {
+    "en": "Slice the onion thin and separate the rings.",
+    "hi-en": "Pyaaz patla lamba kaat ke alag alag kar lo.",
+    "hi": "प्याज़ पतला लंबा काटकर अलग-अलग कर लो।",
+    "pa": "ਪਿਆਜ਼ ਪਤਲਾ ਲੰਮਾ ਕੱਟ ਕੇ ਵੱਖ-ਵੱਖ ਕਰ ਲਓ।"
+   },
+   {
+    "en": "Mix the onion with the besan, ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Leave it for 5 minutes so the onion lets out water, then add only a few spoons of water to bind.",
+    "hi-en": "Pyaaz mein besan, ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. 5 minute chhod do taaki pyaaz paani chhode, phir bandhne ke liye bas kuch chammach paani daalo.",
+    "hi": "प्याज़ में बेसन, अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। 5 मिनट छोड़ दो ताकि प्याज़ पानी छोड़े, फिर बाँधने के लिए बस कुछ चम्मच पानी डालो।",
+    "pa": "ਪਿਆਜ਼ ਵਿੱਚ ਵੇਸਣ, ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। 5 ਮਿੰਟ ਛੱਡ ਦਿਓ ਤਾਂ ਜੋ ਪਿਆਜ਼ ਪਾਣੀ ਛੱਡੇ, ਫਿਰ ਬੰਨ੍ਹਣ ਲਈ ਬੱਸ ਕੁਝ ਚਮਚ ਪਾਣੀ ਪਾਓ।",
+    "timer": 5
+   },
+   {
+    "en": "Heat oil for deep frying. Drop in small loose bunches and fry on medium heat until golden and crisp, about 4 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Chhote dheele guchhe daal ke medium aanch pe sunehre aur crispy hone tak talo, lagbhag 4 minute.",
+    "hi": "तलने के लिए तेल गरम करो। छोटे ढीले गुच्छे डालकर मध्यम आँच पर सुनहरे और कुरकुरे होने तक तलो, लगभग 4 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਛੋਟੇ ਢਿੱਲੇ ਗੁੱਛੇ ਪਾ ਕੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney and tea.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney aur chai ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी और चाय के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਅਤੇ ਚਾਹ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "batter is runny",
+    "en": "The onion let out water. Add a spoon of besan instead of more water.",
+    "hi": "प्याज़ ने पानी छोड़ा। और पानी की जगह एक चम्मच बेसन मिलाओ।"
+   },
+   {
+    "mistake": "pakodas are hard",
+    "en": "Keep the bunches loose and small; do not press them.",
+    "hi": "गुच्छे ढीले और छोटे रखो; दबाओ मत।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "ASC355": {
+  "names": {
+   "hi-en": "Palak pakoda",
+   "hi": "पालक पकोड़ा",
+   "pa": "ਪਾਲਕ ਪਕੌੜਾ"
+  },
+  "steps": [
+   {
+    "en": "Wash the spinach leaves and dry them fully with a cloth.",
+    "hi-en": "Palak ke patte dho ke kapde se poori tarah sukha lo.",
+    "hi": "पालक के पत्ते धोकर कपड़े से पूरी तरह सुखा लो।",
+    "pa": "ਪਾਲਕ ਦੇ ਪੱਤੇ ਧੋ ਕੇ ਕੱਪੜੇ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੁਕਾ ਲਓ।"
+   },
+   {
+    "en": "Mix the besan with the ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Add water slowly and whisk into a smooth, thick batter.",
+    "hi-en": "Besan mein ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. Dheere dheere paani daal ke smooth gaadha ghol phent lo.",
+    "hi": "बेसन में अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। धीरे-धीरे पानी डालकर चिकना गाढ़ा घोल फेंट लो।",
+    "pa": "ਵੇਸਣ ਵਿੱਚ ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਹੌਲੀ-ਹੌਲੀ ਪਾਣੀ ਪਾ ਕੇ ਮੁਲਾਇਮ ਗਾੜ੍ਹਾ ਘੋਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Dip the spinach leaves one at a time in the batter to coat them well.",
+    "hi-en": "Palak ke patte ek ek karke ghol mein achhe se lapet lo.",
+    "hi": "पालक के पत्ते एक-एक करके घोल में अच्छे से लपेट लो।",
+    "pa": "ਪਾਲਕ ਦੇ ਪੱਤੇ ਇੱਕ-ਇੱਕ ਕਰਕੇ ਘੋਲ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਪੇਟ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Drop in the pakodas a few at a time and fry on medium heat, turning, until golden and crisp, about 4 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Thode thode pakode daal ke medium aanch pe palatte hue sunehre aur crispy hone tak talo, lagbhag 4 minute.",
+    "hi": "तलने के लिए तेल गरम करो। थोड़े-थोड़े पकोड़े डालकर मध्यम आँच पर पलटते हुए सुनहरे और कुरकुरे होने तक तलो, लगभग 4 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਪਕੌੜੇ ਪਾ ਕੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਪਲਟਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney and tea.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney aur chai ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी और चाय के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਅਤੇ ਚਾਹ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "pakodas are soft, not crisp",
+    "en": "The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.",
+    "hi": "घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+   },
+   {
+    "mistake": "oil spluttered a lot",
+    "en": "The leaves were wet. Dry them fully before dipping.",
+    "hi": "पत्ते गीले थे। घोल में डालने से पहले पूरे सुखाओ।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "ASC356": {
+  "names": {
+   "hi-en": "Methi pakode",
+   "hi": "मेथी पकोड़े",
+   "pa": "ਮੇਥੀ ਦੇ ਪਕੌੜੇ"
+  },
+  "steps": [
+   {
+    "en": "Pick the fenugreek leaves, wash and dry them, and chop roughly.",
+    "hi-en": "Methi ke patte tod ke dho lo, sukha lo aur mote kaat lo.",
+    "hi": "मेथी के पत्ते तोड़कर धो लो, सुखा लो और मोटे काट लो।",
+    "pa": "ਮੇਥੀ ਦੇ ਪੱਤੇ ਤੋੜ ਕੇ ਧੋ ਲਓ, ਸੁਕਾ ਲਓ ਅਤੇ ਮੋਟੇ ਕੱਟ ਲਓ।"
+   },
+   {
+    "en": "Mix the besan with the ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Add water slowly and whisk into a smooth, thick batter.",
+    "hi-en": "Besan mein ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. Dheere dheere paani daal ke smooth gaadha ghol phent lo.",
+    "hi": "बेसन में अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। धीरे-धीरे पानी डालकर चिकना गाढ़ा घोल फेंट लो।",
+    "pa": "ਵੇਸਣ ਵਿੱਚ ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਹੌਲੀ-ਹੌਲੀ ਪਾਣੀ ਪਾ ਕੇ ਮੁਲਾਇਮ ਗਾੜ੍ਹਾ ਘੋਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Stir the methi into the batter.",
+    "hi-en": "Methi ghol mein mila do.",
+    "hi": "मेथी घोल में मिला दो।",
+    "pa": "ਮੇਥੀ ਘੋਲ ਵਿੱਚ ਮਿਲਾ ਦਿਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Drop in small spoonfuls and fry on medium heat until golden and crisp, about 4 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Chhote chammach bhar ke daalo aur medium aanch pe sunehre aur crispy hone tak talo, lagbhag 4 minute.",
+    "hi": "तलने के लिए तेल गरम करो। छोटे चम्मच भरकर डालो और मध्यम आँच पर सुनहरे और कुरकुरे होने तक तलो, लगभग 4 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਛੋਟੇ ਚਮਚ ਭਰ ਕੇ ਪਾਓ ਅਤੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney and tea.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney aur chai ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी और चाय के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਅਤੇ ਚਾਹ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "pakodas are soft, not crisp",
+    "en": "The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.",
+    "hi": "घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+   },
+   {
+    "mistake": "too bitter",
+    "en": "Use a little less methi, or add a pinch of sugar to the batter.",
+    "hi": "मेथी थोड़ी कम लो, या घोल में चुटकी भर चीनी मिलाओ।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "ASC357": {
+  "names": {
+   "hi-en": "Ande ke pakode",
+   "hi": "अंडे के पकोड़े",
+   "pa": "ਆਂਡੇ ਦੇ ਪਕੌੜੇ"
+  },
+  "steps": [
+   {
+    "en": "Lower the egg into boiling water and boil for 10 minutes. Cool, peel and cut it in half.",
+    "hi-en": "Anda ubalte paani mein dheere se daal ke 10 minute ubaalo. Thanda karke chheelo aur aadha kaat lo.",
+    "hi": "अंडा उबलते पानी में धीरे से डालकर 10 मिनट उबालो। ठंडा करके छीलो और आधा काट लो।",
+    "pa": "ਆਂਡਾ ਉਬਲਦੇ ਪਾਣੀ ਵਿੱਚ ਹੌਲੀ ਜਿਹੇ ਪਾ ਕੇ 10 ਮਿੰਟ ਉਬਾਲੋ। ਠੰਡਾ ਕਰਕੇ ਛਿੱਲੋ ਅਤੇ ਅੱਧਾ ਕੱਟ ਲਓ।",
+    "timer": 10,
+    "safety": "hot_water"
+   },
+   {
+    "en": "Mix the besan with the ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Add water slowly and whisk into a smooth, thick batter.",
+    "hi-en": "Besan mein ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. Dheere dheere paani daal ke smooth gaadha ghol phent lo.",
+    "hi": "बेसन में अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। धीरे-धीरे पानी डालकर चिकना गाढ़ा घोल फेंट लो।",
+    "pa": "ਵੇਸਣ ਵਿੱਚ ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਹੌਲੀ-ਹੌਲੀ ਪਾਣੀ ਪਾ ਕੇ ਮੁਲਾਇਮ ਗਾੜ੍ਹਾ ਘੋਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Dip the egg halves in the batter to coat them well.",
+    "hi-en": "Ande ke tukde ghol mein achhe se lapet lo.",
+    "hi": "अंडे के टुकड़े घोल में अच्छे से लपेट लो।",
+    "pa": "ਆਂਡੇ ਦੇ ਟੁਕੜੇ ਘੋਲ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਪੇਟ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Drop in the pakodas a few at a time and fry on medium heat, turning, until golden and crisp, about 4 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Thode thode pakode daal ke medium aanch pe palatte hue sunehre aur crispy hone tak talo, lagbhag 4 minute.",
+    "hi": "तलने के लिए तेल गरम करो। थोड़े-थोड़े पकोड़े डालकर मध्यम आँच पर पलटते हुए सुनहरे और कुरकुरे होने तक तलो, लगभग 4 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਪਕੌੜੇ ਪਾ ਕੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਪਲਟਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney and tea.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney aur chai ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी और चाय के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਅਤੇ ਚਾਹ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "pakodas are soft, not crisp",
+    "en": "The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.",
+    "hi": "घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+   },
+   {
+    "mistake": "batter slides off the egg",
+    "en": "Dust the egg halves with a little dry besan before dipping.",
+    "hi": "घोल में डालने से पहले अंडे के टुकड़ों पर थोड़ा सूखा बेसन लगाओ।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "ASC359": {
+  "names": {
+   "hi-en": "Paneer pakoda",
+   "hi": "पनीर पकोड़ा",
+   "pa": "ਪਨੀਰ ਪਕੌੜਾ"
+  },
+  "steps": [
+   {
+    "en": "Cut the paneer into thick slices and sprinkle with a little salt, chilli powder, garam masala and amchur powder.",
+    "hi-en": "Paneer ke mote tukde kaat ke thoda namak, laal mirch, garam masala aur amchur chhidko.",
+    "hi": "पनीर के मोटे टुकड़े काटकर थोड़ा नमक, लाल मिर्च, गरम मसाला और अमचूर छिड़को।",
+    "pa": "ਪਨੀਰ ਦੇ ਮੋਟੇ ਟੁਕੜੇ ਕੱਟ ਕੇ ਥੋੜ੍ਹਾ ਲੂਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ ਅਤੇ ਅੰਬਚੂਰ ਛਿੜਕੋ।"
+   },
+   {
+    "en": "Mix the besan with the ajwain, red chilli powder, garam masala, salt and half a teaspoon of oil. Add water slowly and whisk into a smooth, thick batter.",
+    "hi-en": "Besan mein ajwain, laal mirch, garam masala, namak aur aadha chhota chammach tel milao. Dheere dheere paani daal ke smooth gaadha ghol phent lo.",
+    "hi": "बेसन में अजवाइन, लाल मिर्च, गरम मसाला, नमक और आधा छोटा चम्मच तेल मिलाओ। धीरे-धीरे पानी डालकर चिकना गाढ़ा घोल फेंट लो।",
+    "pa": "ਵੇਸਣ ਵਿੱਚ ਅਜਵਾਇਣ, ਲਾਲ ਮਿਰਚ, ਗਰਮ ਮਸਾਲਾ, ਲੂਣ ਅਤੇ ਅੱਧਾ ਛੋਟਾ ਚਮਚ ਤੇਲ ਮਿਲਾਓ। ਹੌਲੀ-ਹੌਲੀ ਪਾਣੀ ਪਾ ਕੇ ਮੁਲਾਇਮ ਗਾੜ੍ਹਾ ਘੋਲ ਫੈਂਟ ਲਓ।"
+   },
+   {
+    "en": "Dip the paneer slices in the batter to coat them well.",
+    "hi-en": "Paneer ke tukde ghol mein achhe se lapet lo.",
+    "hi": "पनीर के टुकड़े घोल में अच्छे से लपेट लो।",
+    "pa": "ਪਨੀਰ ਦੇ ਟੁਕੜੇ ਘੋਲ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਪੇਟ ਲਓ।"
+   },
+   {
+    "en": "Heat oil for deep frying. Drop in the pakodas a few at a time and fry on medium heat, turning, until golden and crisp, about 4 minutes.",
+    "hi-en": "Talne ke liye tel garam karo. Thode thode pakode daal ke medium aanch pe palatte hue sunehre aur crispy hone tak talo, lagbhag 4 minute.",
+    "hi": "तलने के लिए तेल गरम करो। थोड़े-थोड़े पकोड़े डालकर मध्यम आँच पर पलटते हुए सुनहरे और कुरकुरे होने तक तलो, लगभग 4 मिनट।",
+    "pa": "ਤਲਣ ਲਈ ਤੇਲ ਗਰਮ ਕਰੋ। ਥੋੜ੍ਹੇ-ਥੋੜ੍ਹੇ ਪਕੌੜੇ ਪਾ ਕੇ ਦਰਮਿਆਨੀ ਅੱਗ ਤੇ ਪਲਟਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੇ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 4 ਮਿੰਟ।",
+    "timer": 4,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Drain on paper and serve hot with green chutney and tea.",
+    "hi-en": "Kaagaz pe nikaal ke hari chutney aur chai ke saath garam garam khao.",
+    "hi": "कागज़ पर निकालकर हरी चटनी और चाय के साथ गरमागरम खाओ।",
+    "pa": "ਕਾਗਜ਼ ਤੇ ਕੱਢ ਕੇ ਹਰੀ ਚਟਣੀ ਅਤੇ ਚਾਹ ਨਾਲ ਗਰਮਾ-ਗਰਮ ਖਾਓ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "pakodas soaked up oil",
+    "en": "The oil was not hot enough. Drop in a little batter: it should rise at once.",
+    "hi": "तेल कम गरम था। थोड़ा घोल डालकर देखो: तुरंत ऊपर आना चाहिए।"
+   },
+   {
+    "mistake": "pakodas are soft, not crisp",
+    "en": "The batter is too thin. Add a spoon of besan, or a spoon of rice flour for extra crunch.",
+    "hi": "घोल पतला है। एक चम्मच बेसन मिलाओ, या ज़्यादा कुरकुरेपन के लिए एक चम्मच चावल का आटा।"
+   },
+   {
+    "mistake": "paneer turned hard",
+    "en": "Fry only until the batter is golden; paneer does not need long.",
+    "hi": "बस घोल सुनहरा होने तक तलो; पनीर को ज़्यादा देर नहीं चाहिए।"
+   }
+  ],
+  "swaps": {
+   "ajwain": [
+    "skip"
+   ]
+  }
+ },
+ "ASC364": {
+  "names": {
+   "hi-en": "Mathri",
+   "hi": "मठरी",
+   "pa": "ਮਠਰੀ"
+  },
+  "steps": [
+   {
+    "en": "Mix the maida with the salt, ajwain and the crushed black pepper. Rub in the 2 tablespoons of oil with your fingers until a fistful holds its shape when pressed.",
+    "hi-en": "Maide mein namak, ajwain aur kuti kali mirch milao. 2 bade chammach tel ungliyon se ragad ke milao jab tak mutthi mein dabaane pe aakaar ban jaaye.",
+    "hi": "मैदे में नमक, अजवाइन और कुटी काली मिर्च मिलाओ। 2 बड़े चम्मच तेल उँगलियों से रगड़कर मिलाओ जब तक मुट्ठी में दबाने पर आकार बन जाए।",
+    "pa": "ਮੈਦੇ ਵਿੱਚ ਲੂਣ, ਅਜਵਾਇਣ ਅਤੇ ਕੁੱਟੀ ਕਾਲੀ ਮਿਰਚ ਮਿਲਾਓ। 2 ਵੱਡੇ ਚਮਚ ਤੇਲ ਉਂਗਲਾਂ ਨਾਲ ਰਗੜ ਕੇ ਮਿਲਾਓ ਜਦੋਂ ਤੱਕ ਮੁੱਠੀ ਵਿੱਚ ਦਬਾਉਣ ਤੇ ਸ਼ਕਲ ਬਣ ਜਾਵੇ।"
+   },
+   {
+    "en": "Add cold water a little at a time and make a stiff dough. Cover and rest it for 15 minutes.",
+    "hi-en": "Thoda thoda thanda paani daal ke sakht aata goondho. Dhak ke 15 minute rakh do.",
+    "hi": "थोड़ा-थोड़ा ठंडा पानी डालकर सख्त आटा गूँधो। ढककर 15 मिनट रख दो।",
+    "pa": "ਥੋੜ੍ਹਾ-ਥੋੜ੍ਹਾ ਠੰਡਾ ਪਾਣੀ ਪਾ ਕੇ ਸਖ਼ਤ ਆਟਾ ਗੁੰਨ੍ਹੋ। ਢੱਕ ਕੇ 15 ਮਿੰਟ ਰੱਖ ਦਿਓ।",
+    "timer": 15
+   },
+   {
+    "en": "Make small balls, flatten them into thick discs and prick each with a fork.",
+    "hi-en": "Chhote gole bana ke mote chapte kar lo aur har ek mein kaante se chhed karo.",
+    "hi": "छोटे गोले बनाकर मोटे चपटे कर लो और हर एक में काँटे से छेद करो।",
+    "pa": "ਛੋਟੇ ਗੋਲੇ ਬਣਾ ਕੇ ਮੋਟੇ ਚਪਟੇ ਕਰ ਲਓ ਅਤੇ ਹਰ ਇੱਕ ਵਿੱਚ ਕਾਂਟੇ ਨਾਲ ਛੇਕ ਕਰੋ।"
+   },
+   {
+    "en": "Put them in warm oil and fry on low heat, turning, until golden and crisp, about 15 minutes.",
+    "hi-en": "Halke garam tel mein daal ke dheemi aanch pe palatte hue sunehri aur crispy hone tak talo, lagbhag 15 minute.",
+    "hi": "हल्के गरम तेल में डालकर धीमी आँच पर पलटते हुए सुनहरी और कुरकुरी होने तक तलो, लगभग 15 मिनट।",
+    "pa": "ਹਲਕੇ ਗਰਮ ਤੇਲ ਵਿੱਚ ਪਾ ਕੇ ਹੌਲੀ ਅੱਗ ਤੇ ਪਲਟਦੇ ਹੋਏ ਸੁਨਹਿਰੀ ਅਤੇ ਕਰਾਰੀ ਹੋਣ ਤੱਕ ਤਲੋ, ਲਗਭਗ 15 ਮਿੰਟ।",
+    "timer": 15,
+    "safety": "deep_fry"
+   },
+   {
+    "en": "Let them cool fully and keep them in an airtight box.",
+    "hi-en": "Poori thandi hone do aur hawa band dibbe mein rakho.",
+    "hi": "पूरी ठंडी होने दो और हवा बंद डिब्बे में रखो।",
+    "pa": "ਪੂਰੀ ਠੰਡੀ ਹੋਣ ਦਿਓ ਅਤੇ ਹਵਾ ਬੰਦ ਡੱਬੇ ਵਿੱਚ ਰੱਖੋ।"
+   }
+  ],
+  "mistakes": [
+   {
+    "mistake": "mathri is hard",
+    "en": "Not enough oil was rubbed in. Rub in more until it holds when pressed.",
+    "hi": "आटे में तेल कम था। इतना रगड़ो कि दबाने पर आकार बने।"
+   },
+   {
+    "mistake": "mathri puffed up",
+    "en": "Prick each one well with a fork before frying.",
+    "hi": "तलने से पहले हर एक में काँटे से अच्छे छेद करो।"
+   },
+   {
+    "mistake": "brown outside, soft inside",
+    "en": "Fry slowly on low heat. Mathri needs time.",
+    "hi": "धीमी आँच पर धीरे-धीरे तलो। मठरी को समय चाहिए।"
+   }
+  ],
+  "swaps": {
+   "maida": [
+    "atta"
+   ]
+  }
+ }
+}
